@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+.cmd-input {
+  background: transparent;
+  border: none;
+  outline: none;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  color: #a5f3fc;
+  min-width: 20px;
+}
+
+.cmd-input:focus {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+}
+
+.cmd-input::placeholder {
+  color: #666;
+}
+
+.cmd-select {
+  background: transparent;
+  border: none;
+  outline: none;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  color: #86efac;
+  cursor: pointer;
+  appearance: none;
+  padding-right: 0;
+}
+
+.cmd-select:focus {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+}
+
+.cmd-select option {
+  background: #18181b;
+  color: #86efac;
+}

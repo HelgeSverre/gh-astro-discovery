@@ -1,0 +1,73 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PackageFilter from '../components/PackageFilter.svelte';
+import packagesData from '../../../data/packages.json';
+import statsData from '../../../data/stats.json';
+
+const packages = Object.values(packagesData);
+const stats = statsData as { last_run?: string };
+
+function timeAgo(dateString: string | undefined): string {
+    if (!dateString) return 'recently';
+    const now = new Date();
+    const date = new Date(dateString);
+    const seconds = Math.floor((now.getTime() - date.getTime()) / 1000);
+    if (seconds < 60) return 'just now';
+    if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
+    if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
+    if (seconds < 604800) return Math.floor(seconds / 86400) + 'd ago';
+    return date.toLocaleDateString();
+}
+---
+
+<Layout
+        title="Astro Package Safari - Discover hidden integrations & themes"
+        description="Discover fresh Astro integrations, themes and components that are actively maintained but haven't gone viral yet. Updated every 6 hours."
+>
+    <header class="bg-gradient-to-br from-orange-400 via-pink-500 to-purple-600 text-white">
+        <div class="max-w-5xl mx-auto px-4 py-12 pb-20 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between gap-8">
+                <div class="max-w-2xl">
+                    <h1
+                            class="text-3xl font-bold tracking-tight sm:text-4xl text-pretty leading-tight"
+                    >
+                        Astro Package Safari
+                    </h1>
+                    <p class="mt-4 text-lg text-white/90 text-pretty">
+                        Wander through new trails: {packages.length.toLocaleString()} small,
+                        active Astro integrations, themes and components hiding in plain sight. <br /> Updated automatically every 6
+                        hours.
+                    </p>
+                </div>
+                <a
+                        href="https://helgesver.re"
+                        target="_blank"
+                        class="hidden sm:block shrink-0 group"
+                >
+                    <img
+                            src={`${import.meta.env.BASE_URL}/avatar.png`}
+                            alt="Helge Sverre"
+                            class="size-32 rounded-full border border-white/20 object-contain shadow-lg group-hover:scale-105 transition-transform"
+                    />
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <PackageFilter packages={packages} client:load />
+
+    <footer class="bg-white border-t border-zinc-200 mt-auto">
+        <div
+                class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-zinc-500"
+        >
+            <p>Updated {timeAgo(stats.last_run)} · Pulls from GitHub every 6 hours</p>
+            <p>
+                Made by <a
+                    href="https://helgesver.re"
+                    class="text-zinc-900 hover:text-purple-600 transition font-medium"
+            >Helge Sverre</a
+            >
+            </p>
+        </div>
+    </footer>
+</Layout>

@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.astro/
+website/node_modules/
+website/.astro/
+
+.idea/
+test-results/
