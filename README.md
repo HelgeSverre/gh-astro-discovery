@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 473
-**Last updated:** 2026-05-18T13:31:42.526Z
+**Last updated:** 2026-05-18T18:47:53.230Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-05-18 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 2 | 2026-05-18 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-05-18 | Documentation for Azion's services and features. |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-18 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-18 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
-| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-18 | Build fast, responsive websites using Astro with a clean, cu... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-05-18 | An Astro Prometheus nodejs middleware integration for Astro |
-| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-18 | 🚀 Automate IndexNow submissions for new or changed pages in... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-05-18 | Universal Analytics Engines Integration |
+| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-05-18 | A simple, minimal style, framework free Astro blog starter t... |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 151 | 2026-05-18 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-18 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-18 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [CuB3y0nd/assembly.rip](https://github.com/CuB3y0nd/assembly.rip) | 5 | 2026-05-18 | My personal portfolio. |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-18 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-05-18 | The Astro Quick Start package covers the basics of connectin... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-05-18 | Loads fonts from custom font packages |
+| [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-05-18 | Documentation for Azion's services and features. |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-05-18 | Matomo integration for Astro |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-05-18 | The global variable integration for Astro 🌐 |
-| [HuanNan520/astro-sakura-blog](https://github.com/HuanNan520/astro-sakura-blog) | 1 | 2026-05-18 | A beautiful Astro 6 blog template with cherry blossom aesthe... |
-| [gd4Ark/gd4Ark.github.io](https://github.com/gd4Ark/gd4Ark.github.io) | 46 | 2026-05-18 | 🙈 My Blog |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 151 | 2026-05-18 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-05-18 | ✨A static blog template built with Astro. |
-| [lirantal/triggerdev-astro-integration](https://github.com/lirantal/triggerdev-astro-integration) | 0 | 2026-05-18 | An Astro-native integration for Trigger.dev background jobs ... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-05-18 | Loaders for Astro's Content Layer |
+| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 17 | 2026-05-18 | Integration of Astro with Strapi CMS that enables easy data ... |
+| [cyrillbolliger/astro-typewriter](https://github.com/cyrillbolliger/astro-typewriter) | 14 | 2026-05-18 | Typewriter component for Astro. Lightweight, easy to use, an... |
+| [martinsilha/astro-html-validate](https://github.com/martinsilha/astro-html-validate) | 1 | 2026-05-18 | Astro integration that validates generated HTML with html-va... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-05-18 | Astro Integration to generate a customizable table of conten... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-18 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-18 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 200 | 2026-05-18 | The i18n integration for Astro 🧑‍🚀 |
+| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-18 | Build fast, responsive websites using Astro with a clean, cu... |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-05-18 | This package provides a YouTube video loader for the Astro L... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-18T18:47 | 0 | 473 | 473 |
 | 2026-05-18T13:31 | 2 | 471 | 473 |
 | 2026-05-18T10:54 | 268 | 203 | 471 |
 | 2026-05-18T09:58 | 203 | 0 | 203 |
