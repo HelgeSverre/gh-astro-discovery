@@ -19,8 +19,28 @@
         "astro-integration+in:name": 0,
         "astro+theme+language:Astro": 0
       }
+    },
+    {
+      "timestamp": "2026-05-18T10:54:54.929Z",
+      "fetched": 655,
+      "unique": 513,
+      "new": 268,
+      "updated": 203,
+      "archived": 0,
+      "total": 471,
+      "queries": {
+        "topic:withastro": 128,
+        "topic:astro-integration": 156,
+        "topic:astro-component": 93,
+        "topic:astro-components": 8,
+        "topic:astro-theme": 131,
+        "topic:astro-starter": 35,
+        "topic:starlight-plugin": 8,
+        "astro-integration+in:name": 96,
+        "astro+theme+language:Astro": 0
+      }
     }
   ],
-  "total_discovered": 203,
-  "last_run": "2026-05-18T09:58:51.163Z"
+  "total_discovered": 471,
+  "last_run": "2026-05-18T10:54:54.929Z"
 }
