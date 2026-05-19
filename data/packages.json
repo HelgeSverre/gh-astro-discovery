@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-18T21:48:08Z",
-    "pushed_at": "2026-05-18T21:47:52Z",
+    "updated_at": "2026-05-19T04:15:49Z",
+    "pushed_at": "2026-05-19T04:15:46Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-05-18T04:10:43Z",
-    "pushed_at": "2026-05-18T04:10:40Z",
+    "updated_at": "2026-05-19T04:04:19Z",
+    "pushed_at": "2026-05-19T04:04:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-05-18T03:41:03Z",
-    "pushed_at": "2026-05-18T03:41:00Z",
+    "updated_at": "2026-05-19T03:34:31Z",
+    "pushed_at": "2026-05-19T03:34:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-05-18T04:53:25Z",
-    "pushed_at": "2026-05-18T02:58:03Z",
+    "updated_at": "2026-05-19T02:54:27Z",
+    "pushed_at": "2026-05-19T02:54:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-05-18T02:56:00Z",
-    "pushed_at": "2026-05-18T02:55:56Z",
+    "updated_at": "2026-05-19T02:52:18Z",
+    "pushed_at": "2026-05-19T02:52:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -243,7 +243,7 @@
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 208,
+    "stars": 209,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,7 +263,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-05-15T09:14:04Z",
+    "updated_at": "2026-05-19T05:12:45Z",
     "pushed_at": "2026-05-18T19:09:46Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -753,7 +753,7 @@
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
     "updated_at": "2026-05-19T01:04:57Z",
-    "pushed_at": "2026-05-19T01:04:54Z",
+    "pushed_at": "2026-05-19T02:46:59Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -1029,7 +1029,7 @@
     "name": "mattbrailsford/github-discussions-blog-loader",
     "url": "https://github.com/mattbrailsford/github-discussions-blog-loader",
     "description": "GitHub Discussions Blog Loader for Astro",
-    "stars": 13,
+    "stars": 12,
     "forks": 0,
     "topics": [
       "astro-component",
@@ -1039,7 +1039,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-02T18:11:14Z",
-    "updated_at": "2026-03-29T10:42:18Z",
+    "updated_at": "2026-05-19T02:04:17Z",
     "pushed_at": "2026-03-29T10:42:15Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2572,8 +2572,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-05-17T16:55:41Z",
-    "pushed_at": "2026-05-17T16:55:37Z",
+    "updated_at": "2026-05-19T06:46:18Z",
+    "pushed_at": "2026-05-19T06:46:15Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-html-kit": {
@@ -2789,7 +2789,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 44,
+    "stars": 45,
     "forks": 15,
     "topics": [
       "aeo",
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-05-15T14:10:00Z",
-    "pushed_at": "2026-05-13T11:15:25Z",
+    "updated_at": "2026-05-19T06:45:41Z",
+    "pushed_at": "2026-05-19T06:35:57Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -4433,7 +4433,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-05-18T22:37:55Z",
-    "pushed_at": "2026-05-18T22:37:53Z",
+    "pushed_at": "2026-05-19T04:04:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -4532,7 +4532,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-05-12T16:32:28Z",
-    "pushed_at": "2026-05-12T15:21:28Z",
+    "pushed_at": "2026-05-19T01:24:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-18T22:52:15Z",
-    "pushed_at": "2026-05-18T22:52:11Z",
+    "updated_at": "2026-05-19T05:24:14Z",
+    "pushed_at": "2026-05-19T05:24:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-18T22:49:56Z",
-    "pushed_at": "2026-05-18T22:49:52Z",
+    "updated_at": "2026-05-19T05:21:56Z",
+    "pushed_at": "2026-05-19T05:21:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-18T22:36:29Z",
-    "pushed_at": "2026-05-18T22:36:25Z",
+    "updated_at": "2026-05-19T05:06:16Z",
+    "pushed_at": "2026-05-19T05:06:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-18T21:31:12Z",
-    "pushed_at": "2026-05-18T21:31:06Z",
+    "updated_at": "2026-05-19T03:59:21Z",
+    "pushed_at": "2026-05-19T03:59:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-19T01:10:07Z",
-    "pushed_at": "2026-05-19T01:10:03Z",
+    "updated_at": "2026-05-19T03:54:17Z",
+    "pushed_at": "2026-05-19T03:54:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-19T00:55:17Z",
-    "pushed_at": "2026-05-19T00:55:13Z",
+    "updated_at": "2026-05-19T03:39:26Z",
+    "pushed_at": "2026-05-19T03:39:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5500,8 +5500,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-05-18T23:49:11Z",
-    "pushed_at": "2026-05-18T23:49:28Z",
+    "updated_at": "2026-05-19T02:30:01Z",
+    "pushed_at": "2026-05-19T02:29:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5559,7 +5559,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 24,
-    "forks": 18,
+    "forks": 17,
     "topics": [
       "astro-theme",
       "contribute",
@@ -5669,7 +5669,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-05-18T08:04:36Z",
+    "updated_at": "2026-05-19T02:46:54Z",
     "pushed_at": "2026-05-15T18:19:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5760,8 +5760,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-05-18T18:58:10Z",
-    "pushed_at": "2026-05-18T23:37:10Z",
+    "updated_at": "2026-05-19T07:22:21Z",
+    "pushed_at": "2026-05-19T07:27:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
@@ -6510,7 +6510,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with lightbox, custom typography, cursor glow effects, and a glassmorphism UI",
-    "stars": 149,
+    "stars": 150,
     "forks": 26,
     "topics": [
       "astro",
@@ -6528,8 +6528,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-05-18T05:16:42Z",
-    "pushed_at": "2026-03-31T23:54:17Z",
+    "updated_at": "2026-05-19T04:24:45Z",
+    "pushed_at": "2026-05-19T04:24:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theserverlessdev/astro-monograph": {
@@ -6643,7 +6643,7 @@
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
     "stars": 1,
-    "forks": 1,
+    "forks": 0,
     "topics": [
       "astro",
       "astro-theme",
