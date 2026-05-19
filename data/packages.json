@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-19T12:16:42Z",
-    "pushed_at": "2026-05-19T12:16:35Z",
+    "updated_at": "2026-05-19T15:35:06Z",
+    "pushed_at": "2026-05-19T15:20:34Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -141,7 +141,7 @@
     "name": "PlayForm/Inline",
     "url": "https://github.com/PlayForm/Inline",
     "description": "Inline 🦔",
-    "stars": 277,
+    "stars": 278,
     "forks": 11,
     "topics": [
       "astro",
@@ -161,7 +161,7 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-05-19T02:54:27Z",
+    "updated_at": "2026-05-19T16:08:41Z",
     "pushed_at": "2026-05-19T02:54:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-05-18T17:45:16Z",
+    "pushed_at": "2026-05-19T18:49:03Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2771,7 +2771,7 @@
     "name": "feedbackone/elmstronaut",
     "url": "https://github.com/feedbackone/elmstronaut",
     "description": "Render Elm modules as Astro components",
-    "stars": 53,
+    "stars": 54,
     "forks": 1,
     "topics": [
       "astro",
@@ -2781,7 +2781,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
-    "updated_at": "2026-05-03T10:46:25Z",
+    "updated_at": "2026-05-19T15:21:18Z",
     "pushed_at": "2026-05-13T12:41:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-19T09:22:22Z",
-    "pushed_at": "2026-05-19T09:22:12Z",
+    "updated_at": "2026-05-19T16:36:57Z",
+    "pushed_at": "2026-05-19T16:36:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-19T09:19:49Z",
-    "pushed_at": "2026-05-19T09:19:45Z",
+    "updated_at": "2026-05-19T16:34:32Z",
+    "pushed_at": "2026-05-19T16:34:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5359,8 +5359,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-05-19T10:10:55Z",
-    "pushed_at": "2026-05-19T10:10:51Z",
+    "updated_at": "2026-05-19T15:41:37Z",
+    "pushed_at": "2026-05-19T15:30:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-19T13:11:00Z",
-    "pushed_at": "2026-05-19T13:10:16Z",
+    "updated_at": "2026-05-19T16:19:14Z",
+    "pushed_at": "2026-05-19T16:17:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-19T11:59:43Z",
-    "pushed_at": "2026-05-19T11:59:39Z",
+    "updated_at": "2026-05-19T15:20:04Z",
+    "pushed_at": "2026-05-19T15:01:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-19T11:54:43Z",
-    "pushed_at": "2026-05-19T11:54:39Z",
+    "updated_at": "2026-05-19T15:20:40Z",
+    "pushed_at": "2026-05-19T14:56:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-19T11:39:22Z",
-    "pushed_at": "2026-05-19T11:39:17Z",
+    "updated_at": "2026-05-19T14:51:34Z",
+    "pushed_at": "2026-05-19T14:39:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5719,7 +5719,7 @@
     "license": "MIT",
     "created_at": "2026-02-27T03:37:06Z",
     "updated_at": "2026-02-27T03:51:47Z",
-    "pushed_at": "2026-05-15T03:14:25Z",
+    "pushed_at": "2026-05-19T14:17:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "souloss/astro-minimax": {
@@ -5760,8 +5760,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-05-19T08:08:29Z",
-    "pushed_at": "2026-05-19T08:08:25Z",
+    "updated_at": "2026-05-19T14:49:00Z",
+    "pushed_at": "2026-05-19T14:37:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
