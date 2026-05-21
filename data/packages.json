@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-20T22:38:37Z",
-    "pushed_at": "2026-05-20T22:38:33Z",
+    "updated_at": "2026-05-21T04:51:07Z",
+    "pushed_at": "2026-05-21T04:51:03Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-05-20T04:05:03Z",
-    "pushed_at": "2026-05-20T04:05:00Z",
+    "updated_at": "2026-05-21T04:14:03Z",
+    "pushed_at": "2026-05-21T04:13:59Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-05-20T03:35:23Z",
-    "pushed_at": "2026-05-20T03:35:20Z",
+    "updated_at": "2026-05-21T03:41:51Z",
+    "pushed_at": "2026-05-21T03:41:48Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-05-20T02:54:45Z",
-    "pushed_at": "2026-05-20T02:54:41Z",
+    "updated_at": "2026-05-21T03:23:31Z",
+    "pushed_at": "2026-05-21T03:23:26Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-05-20T02:52:44Z",
-    "pushed_at": "2026-05-20T02:52:41Z",
+    "updated_at": "2026-05-21T02:56:34Z",
+    "pushed_at": "2026-05-21T02:56:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -2244,7 +2244,7 @@
     "name": "andreas-brunner/astro-mail-obfuscation",
     "url": "https://github.com/andreas-brunner/astro-mail-obfuscation",
     "description": "Protect email addresses, phone numbers and other sensitive data from bots scraping the source code of your Astro app.",
-    "stars": 15,
+    "stars": 16,
     "forks": 1,
     "topics": [
       "astro",
@@ -2265,7 +2265,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-22T22:07:22Z",
-    "updated_at": "2026-02-05T19:54:33Z",
+    "updated_at": "2026-05-21T05:48:48Z",
     "pushed_at": "2024-11-01T00:48:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3007,7 +3007,7 @@
     "name": "casoon/astro-site-files",
     "url": "https://github.com/casoon/astro-site-files",
     "description": "Astro integration that generates robots.txt, llms.txt, sitemap.xml, security.txt, and humans.txt at build time from typed configuration.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -3023,7 +3023,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-05-06T15:26:36Z",
+    "updated_at": "2026-05-21T03:04:21Z",
     "pushed_at": "2026-05-06T15:22:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3973,7 +3973,7 @@
     "name": "giuseppelt/astro-lottie",
     "url": "https://github.com/giuseppelt/astro-lottie",
     "description": "Use Lottie animations within your Astro website",
-    "stars": 53,
+    "stars": 54,
     "forks": 8,
     "topics": [
       "astro",
@@ -3985,7 +3985,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-11-28T15:40:08Z",
-    "updated_at": "2026-05-03T20:31:48Z",
+    "updated_at": "2026-05-21T05:51:24Z",
     "pushed_at": "2024-12-18T00:27:38Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-20T23:41:59Z",
-    "pushed_at": "2026-05-20T23:41:54Z",
+    "updated_at": "2026-05-21T05:58:37Z",
+    "pushed_at": "2026-05-21T05:58:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-20T23:39:45Z",
-    "pushed_at": "2026-05-20T23:39:42Z",
+    "updated_at": "2026-05-21T05:56:27Z",
+    "pushed_at": "2026-05-21T05:56:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-20T23:26:19Z",
-    "pushed_at": "2026-05-20T23:26:14Z",
+    "updated_at": "2026-05-21T05:41:31Z",
+    "pushed_at": "2026-05-21T05:41:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-21T01:02:23Z",
-    "pushed_at": "2026-05-21T01:02:19Z",
+    "updated_at": "2026-05-21T07:22:26Z",
+    "pushed_at": "2026-05-21T07:22:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-21T00:57:38Z",
-    "pushed_at": "2026-05-21T00:57:35Z",
+    "updated_at": "2026-05-21T07:17:30Z",
+    "pushed_at": "2026-05-21T07:17:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-21T00:43:30Z",
-    "pushed_at": "2026-05-21T00:43:26Z",
+    "updated_at": "2026-05-21T07:02:50Z",
+    "pushed_at": "2026-05-21T07:02:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5645,8 +5645,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-12-29T17:12:32Z",
-    "updated_at": "2026-05-20T13:12:34Z",
-    "pushed_at": "2026-05-15T20:14:45Z",
+    "updated_at": "2026-05-21T05:45:45Z",
+    "pushed_at": "2026-05-21T05:46:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cxro/astro-whono": {
@@ -5677,7 +5677,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 144,
+    "stars": 145,
     "forks": 25,
     "topics": [
       "astro",
@@ -5696,7 +5696,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-05-20T09:28:45Z",
+    "updated_at": "2026-05-21T03:58:08Z",
     "pushed_at": "2026-05-20T09:28:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7054,7 +7054,7 @@
     "name": "erlandv/virex",
     "url": "https://github.com/erlandv/virex",
     "description": "A production-ready SaaS UI theme for Astro. Designed to help you move from idea to launch quickly.",
-    "stars": 39,
+    "stars": 40,
     "forks": 13,
     "topics": [
       "astro",
@@ -7068,7 +7068,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-17T04:25:58Z",
-    "updated_at": "2026-05-20T09:22:21Z",
+    "updated_at": "2026-05-21T03:58:28Z",
     "pushed_at": "2025-12-28T05:27:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7519,7 +7519,7 @@
     "url": "https://github.com/L-J-Yinph/fuwari",
     "description": "✨A static blog template built with Astro.   This is also one of the themes of my blog. I prefer to update my blog here first.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro-theme",
       "blog",
