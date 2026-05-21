@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 475
-**Last updated:** 2026-05-21T13:24:03.431Z
+**Last updated:** 2026-05-21T18:49:06.037Z
 
 ## 📦 Recently Discovered
 
@@ -36,7 +36,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 |---------|-----|-------------|
 | [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 491 | Dante, a single-author blog and portfolio theme for Astro.js.  |
 | [matt765/Tailcast](https://github.com/matt765/Tailcast) | 395 | Dark-themed website template built on Astro and Tailwind CSS |
-| [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 374 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
+| [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 375 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 307 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 304 | Zero-config PWA Integration for Astro |
 | [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 298 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-05-21 | Notro is Notion, Astro, Tailwind CSS based CMS. |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-05-21 | Astro Integration to generate a customizable table of conten... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 209 | 2026-05-21 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-05-21 | Matomo integration for Astro |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-05-21 | The i18n integration for Astro 🧑‍🚀 |
+| [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-05-21 | Documentation for Azion's services and features. |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-21 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-21 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-21 | Build fast, responsive websites using Astro with a clean, cu... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-05-21 | Documentation for Azion's services and features. |
-| [louisescher/.dev](https://github.com/louisescher/.dev) | 3 | 2026-05-21 | My personal website |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-05-21 | This Astro component simplifies the process of adding moneti... |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-05-21 | This package provides a YouTube video loader for the Astro L... |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-05-21 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 151 | 2026-05-21 | Astro V6 theme built on AstroPaper. Global ⌘K search, image ... |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-21 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-21 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-21 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-21 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-05-21 | ✨A static blog template built with Astro. |
-| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 54 | 2026-05-21 | Render Elm modules as Astro components |
-| [louisescher/spectre](https://github.com/louisescher/spectre) | 156 | 2026-05-21 | Spectre is a terminal-inspired theme for Astro, built using ... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-05-21 | Convert 🫶🏻 |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-05-21 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 278 | 2026-05-21 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-05-21 | Format 🗻 |
-| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-05-21 | Astro Integration to automatically generate Subresource Inte... |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-05-20 | This package provides a YouTube video loader for the Astro L... |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 197 | 2026-05-20 | A flexible Astro blog theme designed for Obsidian users. |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-05-21 | The global variable integration for Astro 🌐 |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-05-21 | Loads fonts from custom font packages |
+| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-05-21 | Notro is Notion, Astro, Tailwind CSS based CMS. |
+| [louisescher/.dev](https://github.com/louisescher/.dev) | 3 | 2026-05-21 | My personal website |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-21T18:49 | 0 | 475 | 475 |
 | 2026-05-21T13:24 | 1 | 474 | 475 |
 | 2026-05-21T07:33 | 0 | 474 | 474 |
 | 2026-05-21T01:14 | 0 | 474 | 474 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-05-20T01:13 | 0 | 473 | 473 |
 | 2026-05-19T18:49 | 0 | 473 | 473 |
 | 2026-05-19T13:24 | 0 | 473 | 473 |
-| 2026-05-19T07:29 | 0 | 473 | 473 |
 
 ---
 
