@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-22T05:57:21Z",
-    "pushed_at": "2026-05-22T05:57:17Z",
+    "updated_at": "2026-05-22T10:03:03Z",
+    "pushed_at": "2026-05-22T10:02:58Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-05-22T06:09:00Z",
-    "pushed_at": "2026-05-22T06:10:49Z",
+    "updated_at": "2026-05-22T10:41:24Z",
+    "pushed_at": "2026-05-22T10:42:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -513,8 +513,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-05-07T19:49:33Z",
-    "updated_at": "2026-05-09T09:28:34Z",
-    "pushed_at": "2026-05-09T09:28:31Z",
+    "updated_at": "2026-05-22T12:03:07Z",
+    "pushed_at": "2026-05-22T12:03:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "pawcoding/astro-loader-pocketbase": {
@@ -1590,7 +1590,7 @@
     "url": "https://github.com/tsriram/astro-tweet",
     "description": "Astro component to embed tweets as static HTML without any client side JS.",
     "stars": 24,
-    "forks": 8,
+    "forks": 9,
     "topics": [
       "astro",
       "tweet",
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-22T07:05:41Z",
-    "pushed_at": "2026-05-22T07:05:34Z",
+    "updated_at": "2026-05-22T11:13:41Z",
+    "pushed_at": "2026-05-22T11:13:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-22T07:03:13Z",
-    "pushed_at": "2026-05-22T07:03:09Z",
+    "updated_at": "2026-05-22T11:11:30Z",
+    "pushed_at": "2026-05-22T11:11:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-22T06:48:35Z",
-    "pushed_at": "2026-05-22T06:48:30Z",
+    "updated_at": "2026-05-22T10:55:49Z",
+    "pushed_at": "2026-05-22T10:55:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-22T05:40:29Z",
-    "pushed_at": "2026-05-22T05:40:25Z",
+    "updated_at": "2026-05-22T12:57:26Z",
+    "pushed_at": "2026-05-22T12:57:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-22T05:35:33Z",
-    "pushed_at": "2026-05-22T05:35:29Z",
+    "updated_at": "2026-05-22T12:51:44Z",
+    "pushed_at": "2026-05-22T12:51:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-22T05:20:25Z",
-    "pushed_at": "2026-05-22T05:20:22Z",
+    "updated_at": "2026-05-22T12:33:18Z",
+    "pushed_at": "2026-05-22T12:33:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5501,7 +5501,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-05-19T02:30:01Z",
-    "pushed_at": "2026-05-19T02:29:58Z",
+    "pushed_at": "2026-05-22T10:07:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5632,7 +5632,7 @@
     "name": "louisescher/spectre",
     "url": "https://github.com/louisescher/spectre",
     "description": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript. ",
-    "stars": 156,
+    "stars": 155,
     "forks": 34,
     "topics": [
       "astro",
@@ -5645,7 +5645,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-12-29T17:12:32Z",
-    "updated_at": "2026-05-22T06:07:05Z",
+    "updated_at": "2026-05-22T08:51:46Z",
     "pushed_at": "2026-05-22T06:07:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5653,7 +5653,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 116,
+    "stars": 117,
     "forks": 40,
     "topics": [
       "astro",
@@ -5669,7 +5669,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-05-21T09:28:52Z",
+    "updated_at": "2026-05-22T08:26:33Z",
     "pushed_at": "2026-05-22T01:14:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5746,7 +5746,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Effortlessly share your thoughts in a calm & dustless space.",
     "stars": 277,
-    "forks": 94,
+    "forks": 93,
     "topics": [
       "astro",
       "astro-theme",
@@ -6251,7 +6251,7 @@
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
     "stars": 375,
-    "forks": 127,
+    "forks": 128,
     "topics": [
       "astro-build",
       "astro-template",
@@ -7195,7 +7195,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 76,
+    "stars": 77,
     "forks": 21,
     "topics": [
       "astro",
@@ -7213,7 +7213,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-05-20T12:53:36Z",
+    "updated_at": "2026-05-22T12:46:57Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7252,7 +7252,7 @@
     "name": "BryanHogan/astro-starter-template",
     "url": "https://github.com/BryanHogan/astro-starter-template",
     "description": "A modern, clean and bloat-free Astro starter template. Accessible, SEO optimised and fast.",
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
     "topics": [
       "astro",
@@ -7267,7 +7267,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-02-13T09:53:16Z",
+    "updated_at": "2026-05-22T07:37:30Z",
     "pushed_at": "2025-08-20T04:55:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8698,8 +8698,8 @@
     "language": "Python",
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
-    "updated_at": "2026-05-15T13:36:05Z",
-    "pushed_at": "2026-05-17T07:53:14Z",
+    "updated_at": "2026-05-22T12:25:52Z",
+    "pushed_at": "2026-05-22T12:25:55Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
