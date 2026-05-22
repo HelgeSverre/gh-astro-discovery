@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-22T10:03:03Z",
-    "pushed_at": "2026-05-22T10:02:58Z",
+    "updated_at": "2026-05-22T17:48:41Z",
+    "pushed_at": "2026-05-22T17:48:36Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-05-21T17:38:07Z",
-    "pushed_at": "2026-05-21T20:08:12Z",
+    "pushed_at": "2026-05-22T18:29:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-05-22T10:41:24Z",
-    "pushed_at": "2026-05-22T10:42:03Z",
+    "updated_at": "2026-05-22T13:46:18Z",
+    "pushed_at": "2026-05-22T13:46:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-05-14T02:03:26Z",
-    "pushed_at": "2026-05-22T01:04:16Z",
+    "pushed_at": "2026-05-22T13:16:55Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -312,7 +312,7 @@
     "url": "https://github.com/twocaretcat/Tally",
     "description": "Your favorite dark mode word counter, now with grammar checking! Count the number of characters, words, sentences, paragraphs, and lines in your text instantly with Tally.",
     "stars": 6,
-    "forks": 2,
+    "forks": 3,
     "topics": [
       "character-counter",
       "css",
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-05-18T15:19:30Z",
-    "pushed_at": "2026-05-21T18:36:06Z",
+    "pushed_at": "2026-05-22T13:46:19Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -2692,8 +2692,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2024-07-16T00:23:38Z",
-    "updated_at": "2026-05-21T22:05:26Z",
-    "pushed_at": "2026-05-21T22:05:40Z",
+    "updated_at": "2026-05-22T13:07:36Z",
+    "pushed_at": "2026-05-22T13:56:06Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dirsigler/astro-securitytxt": {
@@ -2789,7 +2789,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 64,
+    "stars": 66,
     "forks": 17,
     "topics": [
       "aeo",
@@ -2811,7 +2811,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-05-22T04:15:55Z",
+    "updated_at": "2026-05-22T17:08:56Z",
     "pushed_at": "2026-05-20T19:05:21Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2900,7 +2900,7 @@
     "url": "https://github.com/jlarmstrongiv/astro-i18n-aut",
     "description": "The i18n integration for Astro 🧑‍🚀",
     "stars": 201,
-    "forks": 13,
+    "forks": 12,
     "topics": [
       "astro",
       "astro-component",
@@ -2945,7 +2945,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 29,
+    "stars": 30,
     "forks": 7,
     "topics": [
       "agent-ready",
@@ -2963,7 +2963,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-05-22T03:03:21Z",
+    "updated_at": "2026-05-22T14:00:38Z",
     "pushed_at": "2026-05-18T20:26:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-22T11:13:41Z",
-    "pushed_at": "2026-05-22T11:13:36Z",
+    "updated_at": "2026-05-22T14:59:40Z",
+    "pushed_at": "2026-05-22T14:59:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-22T11:11:30Z",
-    "pushed_at": "2026-05-22T11:11:26Z",
+    "updated_at": "2026-05-22T14:56:40Z",
+    "pushed_at": "2026-05-22T14:56:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-22T10:55:49Z",
-    "pushed_at": "2026-05-22T10:55:45Z",
+    "updated_at": "2026-05-22T18:42:56Z",
+    "pushed_at": "2026-05-22T18:42:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-22T12:57:26Z",
-    "pushed_at": "2026-05-22T12:57:22Z",
+    "updated_at": "2026-05-22T17:30:21Z",
+    "pushed_at": "2026-05-22T17:30:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-22T12:51:44Z",
-    "pushed_at": "2026-05-22T12:51:24Z",
+    "updated_at": "2026-05-22T17:24:43Z",
+    "pushed_at": "2026-05-22T17:24:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,15 +5479,15 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-22T12:33:18Z",
-    "pushed_at": "2026-05-22T12:33:13Z",
+    "updated_at": "2026-05-22T17:07:53Z",
+    "pushed_at": "2026-05-22T17:07:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
     "name": "netlify-templates/astro-platform-starter",
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
-    "stars": 151,
+    "stars": 152,
     "forks": 531,
     "topics": [
       "astro-template",
@@ -5500,7 +5500,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-05-19T02:30:01Z",
+    "updated_at": "2026-05-22T15:47:30Z",
     "pushed_at": "2026-05-22T10:07:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5653,8 +5653,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 117,
-    "forks": 40,
+    "stars": 118,
+    "forks": 42,
     "topics": [
       "astro",
       "astro-theme",
@@ -5669,7 +5669,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-05-22T08:26:33Z",
+    "updated_at": "2026-05-22T14:46:16Z",
     "pushed_at": "2026-05-22T01:14:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6499,11 +6499,11 @@
       "i18n",
       "multilingual"
     ],
-    "language": "JavaScript",
+    "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-04-04T14:21:43Z",
-    "pushed_at": "2026-04-04T14:21:24Z",
+    "updated_at": "2026-05-22T15:28:33Z",
+    "pushed_at": "2026-05-22T15:28:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "0xdres/astro-devosfera": {
@@ -6802,7 +6802,7 @@
     "url": "https://github.com/CloudCannon/sendit-astro-template",
     "description": "Sendit is a polished, marketing website template for Astro.",
     "stars": 131,
-    "forks": 77,
+    "forks": 78,
     "topics": [
       "astro",
       "astro-template",
