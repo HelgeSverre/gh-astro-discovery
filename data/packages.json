@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-23T11:01:25Z",
-    "pushed_at": "2026-05-23T11:01:21Z",
+    "updated_at": "2026-05-23T16:04:36Z",
+    "pushed_at": "2026-05-23T16:04:32Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -685,7 +685,7 @@
     "license": "MIT",
     "created_at": "2026-05-02T09:18:16Z",
     "updated_at": "2026-05-03T20:23:20Z",
-    "pushed_at": "2026-05-16T15:03:22Z",
+    "pushed_at": "2026-05-23T15:03:25Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "freshjuice-dev/astro-search-plugin": {
@@ -2764,7 +2764,7 @@
     "license": "MIT",
     "created_at": "2025-05-30T10:47:59Z",
     "updated_at": "2026-04-26T12:12:06Z",
-    "pushed_at": "2026-05-18T17:12:24Z",
+    "pushed_at": "2026-05-23T12:42:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "feedbackone/elmstronaut": {
@@ -2790,7 +2790,7 @@
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
     "stars": 66,
-    "forks": 17,
+    "forks": 18,
     "topics": [
       "aeo",
       "ai-bots",
@@ -4372,7 +4372,7 @@
   "felixicaza/astro-capo": {
     "name": "felixicaza/astro-capo",
     "url": "https://github.com/felixicaza/astro-capo",
-    "description": "🚀 Automatically sort your head with capo.js in Astro.",
+    "description": "🔷🚀 The most accurate <head> sorting in Astro!",
     "stars": 12,
     "forks": 0,
     "topics": [
@@ -4386,8 +4386,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-11-24T03:40:24Z",
-    "updated_at": "2026-05-17T18:42:07Z",
-    "pushed_at": "2026-05-23T02:33:37Z",
+    "updated_at": "2026-05-23T17:16:23Z",
+    "pushed_at": "2026-05-23T16:49:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-meta-engine": {
@@ -5143,7 +5143,7 @@
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
     "updated_at": "2026-05-18T16:23:31Z",
-    "pushed_at": "2026-05-18T13:56:08Z",
+    "pushed_at": "2026-05-23T14:48:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "adaptive-shield-matrix/astro-ui": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-23T12:13:50Z",
-    "pushed_at": "2026-05-23T12:13:47Z",
+    "updated_at": "2026-05-23T17:15:15Z",
+    "pushed_at": "2026-05-23T17:15:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-23T12:11:13Z",
-    "pushed_at": "2026-05-23T12:11:10Z",
+    "updated_at": "2026-05-23T17:12:55Z",
+    "pushed_at": "2026-05-23T17:12:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-23T11:55:05Z",
-    "pushed_at": "2026-05-23T11:55:02Z",
+    "updated_at": "2026-05-23T16:57:13Z",
+    "pushed_at": "2026-05-23T16:57:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-23T10:43:54Z",
-    "pushed_at": "2026-05-23T10:43:51Z",
+    "updated_at": "2026-05-23T15:46:38Z",
+    "pushed_at": "2026-05-23T15:46:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-23T10:38:35Z",
-    "pushed_at": "2026-05-23T10:38:32Z",
+    "updated_at": "2026-05-23T15:41:24Z",
+    "pushed_at": "2026-05-23T15:41:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -6017,7 +6017,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 197,
+    "stars": 198,
     "forks": 43,
     "topics": [
       "astro",
@@ -6031,7 +6031,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-05-22T04:56:43Z",
+    "updated_at": "2026-05-23T16:45:06Z",
     "pushed_at": "2026-05-22T04:56:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6511,7 +6511,7 @@
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with lightbox, custom typography, cursor glow effects, and a glassmorphism UI",
     "stars": 151,
-    "forks": 26,
+    "forks": 27,
     "topics": [
       "astro",
       "astro-template",
@@ -7728,7 +7728,7 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 298,
+    "stars": 299,
     "forks": 128,
     "topics": [
       "astro",
@@ -7738,7 +7738,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-05-20T23:24:45Z",
+    "updated_at": "2026-05-23T13:42:36Z",
     "pushed_at": "2024-08-25T01:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9966,5 +9966,58 @@
     "updated_at": "2026-05-22T02:58:31Z",
     "pushed_at": "2026-05-22T02:58:28Z",
     "discovered_at": "2026-05-22T01:12:33.147Z"
+  },
+  "smart-developer1791/astro-quantum-hologram": {
+    "name": "smart-developer1791/astro-quantum-hologram",
+    "url": "https://github.com/smart-developer1791/astro-quantum-hologram",
+    "description": "🌌 A visually stunning, deploy-ready Astro static site demonstrating next-generation web interfaces. It features zero layout shift, fluid hardware-accelerated Framer Motion animations, complex CSS geometries, and advanced React state management within Astro islands.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "animations",
+      "astro",
+      "astro-theme",
+      "astrojs",
+      "bento-grid",
+      "framer-motion",
+      "landing-page",
+      "netlify",
+      "netlify-deployment",
+      "react",
+      "reactjs",
+      "tailwindcss",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T18:18:33Z",
+    "updated_at": "2026-05-23T18:20:43Z",
+    "pushed_at": "2026-05-23T18:18:37Z",
+    "discovered_at": "2026-05-23T18:30:51.236Z"
+  },
+  "lifeodyssey/retypeset-odyssey": {
+    "name": "lifeodyssey/retypeset-odyssey",
+    "url": "https://github.com/lifeodyssey/retypeset-odyssey",
+    "description": "Trilingual Astro theme: typography-first, MDX, Cloudflare Pages, YAML config, one-line install.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "cloudflare-pages",
+      "hexo-migration",
+      "i18n",
+      "mdx",
+      "multilingual",
+      "retypeset",
+      "typography"
+    ],
+    "language": "HTML",
+    "license": "MIT",
+    "created_at": "2026-02-01T12:27:25Z",
+    "updated_at": "2026-05-23T18:11:35Z",
+    "pushed_at": "2026-05-23T18:12:28Z",
+    "discovered_at": "2026-05-23T18:30:51.236Z"
   }
 }
