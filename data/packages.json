@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-23T16:04:36Z",
-    "pushed_at": "2026-05-23T16:04:32Z",
+    "updated_at": "2026-05-23T22:55:20Z",
+    "pushed_at": "2026-05-23T22:55:16Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -796,8 +796,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-05-22T01:49:09Z",
-    "pushed_at": "2026-04-22T16:35:23Z",
+    "updated_at": "2026-05-24T01:10:01Z",
+    "pushed_at": "2026-05-24T01:09:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "jonasgeiler/astro-show-tailwindcss-breakpoint": {
@@ -2945,7 +2945,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 30,
+    "stars": 31,
     "forks": 7,
     "topics": [
       "agent-ready",
@@ -2963,7 +2963,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-05-22T14:00:38Z",
+    "updated_at": "2026-05-23T18:45:05Z",
     "pushed_at": "2026-05-18T20:26:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4455,7 +4455,7 @@
     "license": "MIT",
     "created_at": "2026-03-14T11:41:43Z",
     "updated_at": "2026-03-22T04:59:39Z",
-    "pushed_at": "2026-05-16T21:23:15Z",
+    "pushed_at": "2026-05-23T21:23:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "hideoo/starlight-showcases": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-23T17:15:15Z",
-    "pushed_at": "2026-05-23T17:15:11Z",
+    "updated_at": "2026-05-23T23:56:36Z",
+    "pushed_at": "2026-05-23T23:56:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-23T17:12:55Z",
-    "pushed_at": "2026-05-23T17:12:52Z",
+    "updated_at": "2026-05-23T23:54:45Z",
+    "pushed_at": "2026-05-23T23:54:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-23T16:57:13Z",
-    "pushed_at": "2026-05-23T16:57:09Z",
+    "updated_at": "2026-05-23T23:40:43Z",
+    "pushed_at": "2026-05-23T23:40:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-23T15:46:38Z",
-    "pushed_at": "2026-05-23T15:46:35Z",
+    "updated_at": "2026-05-23T22:39:55Z",
+    "pushed_at": "2026-05-23T22:39:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-23T15:41:24Z",
-    "pushed_at": "2026-05-23T15:41:21Z",
+    "updated_at": "2026-05-23T22:35:12Z",
+    "pushed_at": "2026-05-23T22:35:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-23T10:22:18Z",
-    "pushed_at": "2026-05-23T10:22:14Z",
+    "updated_at": "2026-05-23T22:20:53Z",
+    "pushed_at": "2026-05-23T22:20:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6017,7 +6017,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 198,
+    "stars": 199,
     "forks": 43,
     "topics": [
       "astro",
@@ -6031,7 +6031,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-05-23T16:45:06Z",
+    "updated_at": "2026-05-23T18:46:27Z",
     "pushed_at": "2026-05-22T04:56:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6115,7 +6115,7 @@
     "name": "GladTek/Cooper",
     "url": "https://github.com/GladTek/Cooper",
     "description": "production-ready Astro 6 boilerplate for blogging, documentation, changelog and portfolio cases, featuring Tailwind CSS 4, React 19, i18n",
-    "stars": 26,
+    "stars": 27,
     "forks": 9,
     "topics": [
       "astro-starter",
@@ -6136,7 +6136,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-28T22:58:57Z",
-    "updated_at": "2026-05-18T04:48:03Z",
+    "updated_at": "2026-05-24T01:10:03Z",
     "pushed_at": "2026-05-02T14:42:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6462,7 +6462,7 @@
     "name": "JustGoodUI/dante-astro-theme",
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
-    "stars": 492,
+    "stars": 493,
     "forks": 323,
     "topics": [
       "astro",
@@ -6479,7 +6479,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-01-11T15:23:14Z",
-    "updated_at": "2026-05-22T05:12:16Z",
+    "updated_at": "2026-05-23T19:53:10Z",
     "pushed_at": "2026-04-08T07:14:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10016,8 +10016,8 @@
     "language": "HTML",
     "license": "MIT",
     "created_at": "2026-02-01T12:27:25Z",
-    "updated_at": "2026-05-23T18:11:35Z",
-    "pushed_at": "2026-05-23T18:12:28Z",
+    "updated_at": "2026-05-23T19:30:15Z",
+    "pushed_at": "2026-05-23T19:30:15Z",
     "discovered_at": "2026-05-23T18:30:51.236Z"
   }
 }
