@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-25T06:41:18Z",
-    "pushed_at": "2026-05-25T06:41:14Z",
+    "updated_at": "2026-05-25T10:55:00Z",
+    "pushed_at": "2026-05-25T10:54:56Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-05-25T04:19:24Z",
-    "pushed_at": "2026-05-25T04:19:21Z",
+    "updated_at": "2026-05-25T09:15:35Z",
+    "pushed_at": "2026-05-25T09:15:33Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-05-25T03:51:30Z",
-    "pushed_at": "2026-05-25T03:51:26Z",
+    "updated_at": "2026-05-25T13:07:59Z",
+    "pushed_at": "2026-05-25T13:07:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -1165,7 +1165,7 @@
     "url": "https://github.com/blackspike/blackspike-astro-landing-page",
     "description": "A free, modern, Astro landing page theme made with Tailwind to help kick start your next Astro project",
     "stars": 73,
-    "forks": 50,
+    "forks": 49,
     "topics": [
       "astro",
       "astrojs",
@@ -2782,7 +2782,7 @@
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
     "updated_at": "2026-05-19T15:21:18Z",
-    "pushed_at": "2026-05-21T09:32:48Z",
+    "pushed_at": "2026-05-25T08:36:05Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dodopayments/dualmark": {
@@ -3112,7 +3112,7 @@
     "url": "https://github.com/dorukgezici/astro-decap-cms-oauth",
     "description": "Add Decap CMS’s admin dashboard and custom OAuth backend routes for GitHub to your Astro project",
     "stars": 79,
-    "forks": 17,
+    "forks": 18,
     "topics": [
       "astro-integration",
       "decap-cms"
@@ -3955,7 +3955,7 @@
     "url": "https://github.com/adrian-ub/astro-vitesse",
     "description": "Build beautiful, accessible, high-performance blog websites with Astro",
     "stars": 58,
-    "forks": 6,
+    "forks": 5,
     "topics": [
       "antfu",
       "astro",
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-25T04:58:01Z",
-    "pushed_at": "2026-05-25T04:57:57Z",
+    "updated_at": "2026-05-25T12:06:17Z",
+    "pushed_at": "2026-05-25T12:06:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-25T07:50:43Z",
-    "pushed_at": "2026-05-25T07:50:39Z",
+    "updated_at": "2026-05-25T12:03:59Z",
+    "pushed_at": "2026-05-25T12:03:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-25T07:34:13Z",
-    "pushed_at": "2026-05-25T07:34:09Z",
+    "updated_at": "2026-05-25T11:48:20Z",
+    "pushed_at": "2026-05-25T11:48:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-25T06:24:41Z",
-    "pushed_at": "2026-05-25T06:24:37Z",
+    "updated_at": "2026-05-25T10:38:09Z",
+    "pushed_at": "2026-05-25T10:38:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-25T06:19:52Z",
-    "pushed_at": "2026-05-25T06:19:48Z",
+    "updated_at": "2026-05-25T10:33:00Z",
+    "pushed_at": "2026-05-25T10:32:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-25T06:05:01Z",
-    "pushed_at": "2026-05-25T06:04:57Z",
+    "updated_at": "2026-05-25T10:17:56Z",
+    "pushed_at": "2026-05-25T10:17:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5501,7 +5501,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-05-25T05:15:20Z",
-    "pushed_at": "2026-05-25T05:15:17Z",
+    "pushed_at": "2026-05-25T10:10:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5584,7 +5584,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
     "topics": [
       "astro",
@@ -5600,7 +5600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-05-25T06:29:07Z",
+    "updated_at": "2026-05-25T11:10:11Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5608,7 +5608,7 @@
     "name": "CloudCannon/jetstream-astro-template",
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "astro",
@@ -5624,7 +5624,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
-    "updated_at": "2026-05-18T21:35:44Z",
+    "updated_at": "2026-05-25T13:11:10Z",
     "pushed_at": "2026-05-18T21:35:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6157,8 +6157,8 @@
     "language": "CSS",
     "license": "MIT",
     "created_at": "2025-11-26T05:06:52Z",
-    "updated_at": "2026-05-02T12:49:00Z",
-    "pushed_at": "2026-05-02T12:48:57Z",
+    "updated_at": "2026-05-25T12:39:22Z",
+    "pushed_at": "2026-05-25T12:39:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "getastrothemes/folex-lite-astro": {
@@ -6463,7 +6463,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 494,
-    "forks": 324,
+    "forks": 323,
     "topics": [
       "astro",
       "astro-template",
@@ -6802,7 +6802,7 @@
     "url": "https://github.com/CloudCannon/sendit-astro-template",
     "description": "Sendit is a polished, marketing website template for Astro.",
     "stars": 131,
-    "forks": 78,
+    "forks": 77,
     "topics": [
       "astro",
       "astro-template",
@@ -7572,7 +7572,7 @@
     "url": "https://github.com/thevrus/vrus.vercel.app",
     "description": "Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
     "stars": 66,
-    "forks": 16,
+    "forks": 15,
     "topics": [
       "astro",
       "astro-build",
@@ -10049,8 +10049,8 @@
     "language": "CSS",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-05-25T06:47:57Z",
-    "pushed_at": "2026-05-25T06:02:16Z",
+    "updated_at": "2026-05-25T10:40:53Z",
+    "pushed_at": "2026-05-25T10:40:50Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
   "unirate-api/astro-unirate": {

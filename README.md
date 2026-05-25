@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 480
-**Last updated:** 2026-05-25T07:52:51.041Z
+**Last updated:** 2026-05-25T13:24:46.581Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-05-25 | Network 🚠 |
+| [zionfuo/astro-webstack](https://github.com/zionfuo/astro-webstack) | 1 | 2026-05-25 | A astro theme based on webstack. | 一个基于webstack的astro主题。 |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-25 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-25 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-25 | Build fast, responsive websites using Astro with a clean, cu... |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-25 | 🚀 Automate IndexNow submissions for new or changed pages in... |
+| [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 0 | 2026-05-25 | A minimal Astro theme for blogs, notes, and quiet publishing... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-25 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-25 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-25 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 0 | 2026-05-25 | A minimal Astro theme for blogs, notes, and quiet publishing... |
-| [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | 2026-05-25 | Astro integration for UniRate — build-time currency exchange... |
 | [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-05-25 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-25 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-05-25 | Convert 🫶🏻 |
+| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 54 | 2026-05-25 | Render Elm modules as Astro components |
+| [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | 2026-05-25 | Astro integration for UniRate — build-time currency exchange... |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 376 | 2026-05-25 | Bookworm Light is a feature-rich, minimal, highly customizab... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-05-25 | Network 🚠 |
 | [zsancc/astro-argon](https://github.com/zsancc/astro-argon) | 1 | 2026-05-25 | 基于 Fuwari 魔改的 Astro 博客模板，视觉风格参考 Argon 主题。(A modified Astro b... |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 278 | 2026-05-25 | Inline 🦔 |
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-05-25 | Format 🗻 |
 | [adydetra/astro-starter](https://github.com/adydetra/astro-starter) | 0 | 2026-05-25 | 🔴 Astro starter template built with Vite and Tailwind CSS  |
 | [florian-lefebvre/astro-typed-links](https://github.com/florian-lefebvre/astro-typed-links) | 56 | 2026-05-25 | Astro integration that automatically get typed links to your... |
-| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 69 | 2026-05-25 | Publish integrations within minutes. |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-05-25 | Loaders for Astro's Content Layer |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-25T13:24 | 0 | 480 | 480 |
 | 2026-05-25T07:52 | 1 | 479 | 480 |
 | 2026-05-25T01:15 | 1 | 478 | 479 |
 | 2026-05-24T18:32 | 0 | 478 | 478 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-05-23T18:30 | 2 | 476 | 478 |
 | 2026-05-23T12:33 | 0 | 476 | 476 |
 | 2026-05-23T07:08 | 0 | 476 | 476 |
-| 2026-05-23T01:08 | 0 | 476 | 476 |
 
 ---
 
