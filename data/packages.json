@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-25T10:55:00Z",
-    "pushed_at": "2026-05-25T10:54:56Z",
+    "updated_at": "2026-05-25T14:17:05Z",
+    "pushed_at": "2026-05-25T14:17:01Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -3189,8 +3189,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-22T16:04:26Z",
-    "updated_at": "2026-05-22T21:53:28Z",
-    "pushed_at": "2026-04-29T06:48:54Z",
+    "updated_at": "2026-05-25T16:09:30Z",
+    "pushed_at": "2026-05-25T16:09:26Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "proxima812/astro-versions-proxima": {
@@ -4433,7 +4433,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-05-22T01:02:03Z",
-    "pushed_at": "2026-05-22T01:02:00Z",
+    "pushed_at": "2026-05-25T17:39:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-25T12:06:17Z",
-    "pushed_at": "2026-05-25T12:06:12Z",
+    "updated_at": "2026-05-25T15:30:48Z",
+    "pushed_at": "2026-05-25T15:30:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-25T12:03:59Z",
-    "pushed_at": "2026-05-25T12:03:55Z",
+    "updated_at": "2026-05-25T15:28:16Z",
+    "pushed_at": "2026-05-25T15:28:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-25T11:48:20Z",
-    "pushed_at": "2026-05-25T11:48:16Z",
+    "updated_at": "2026-05-25T15:12:06Z",
+    "pushed_at": "2026-05-25T15:12:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-25T10:38:09Z",
-    "pushed_at": "2026-05-25T10:38:05Z",
+    "updated_at": "2026-05-25T18:44:08Z",
+    "pushed_at": "2026-05-25T18:44:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-25T10:33:00Z",
-    "pushed_at": "2026-05-25T10:32:56Z",
+    "updated_at": "2026-05-25T18:39:00Z",
+    "pushed_at": "2026-05-25T18:38:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-25T10:17:56Z",
-    "pushed_at": "2026-05-25T10:17:52Z",
+    "updated_at": "2026-05-25T18:23:30Z",
+    "pushed_at": "2026-05-25T18:23:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5584,7 +5584,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "topics": [
       "astro",
@@ -5600,7 +5600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-05-25T11:10:11Z",
+    "updated_at": "2026-05-25T15:01:30Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5823,7 +5823,7 @@
     "name": "D-Sketon/astro-theme-reimu",
     "url": "https://github.com/D-Sketon/astro-theme-reimu",
     "description": "一款博丽灵梦风格的Astro主题 | A Hakurei Reimu style Astro theme. 💘Touhou💘",
-    "stars": 63,
+    "stars": 64,
     "forks": 10,
     "topics": [
       "astro",
@@ -5844,7 +5844,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-10T13:01:41Z",
-    "updated_at": "2026-05-24T20:36:24Z",
+    "updated_at": "2026-05-25T15:44:23Z",
     "pushed_at": "2026-05-13T15:14:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5877,7 +5877,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 273,
+    "stars": 274,
     "forks": 79,
     "topics": [
       "astro",
@@ -5896,7 +5896,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-05-21T18:49:04Z",
+    "updated_at": "2026-05-25T14:23:44Z",
     "pushed_at": "2026-05-12T09:25:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5942,7 +5942,7 @@
     "license": null,
     "created_at": "2025-01-02T19:03:05Z",
     "updated_at": "2026-04-08T14:22:34Z",
-    "pushed_at": "2026-05-18T20:16:58Z",
+    "pushed_at": "2026-05-25T16:48:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astro-vanilla": {
@@ -5967,7 +5967,7 @@
     "license": "MIT",
     "created_at": "2024-10-12T20:53:01Z",
     "updated_at": "2026-05-04T12:50:37Z",
-    "pushed_at": "2026-05-18T18:44:43Z",
+    "pushed_at": "2026-05-25T15:36:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "ziteh/astro-theme-jing": {
@@ -6510,7 +6510,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with lightbox, custom typography, cursor glow effects, and a glassmorphism UI",
-    "stars": 151,
+    "stars": 152,
     "forks": 27,
     "topics": [
       "astro",
@@ -6528,7 +6528,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-05-22T04:11:09Z",
+    "updated_at": "2026-05-25T16:54:10Z",
     "pushed_at": "2026-05-21T16:10:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8177,7 +8177,7 @@
     "license": "MIT",
     "created_at": "2024-07-15T00:42:36Z",
     "updated_at": "2026-05-04T14:36:45Z",
-    "pushed_at": "2026-05-18T20:15:10Z",
+    "pushed_at": "2026-05-25T16:46:47Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astrostarters/astro-blank": {
@@ -8785,8 +8785,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2025-07-05T20:42:11Z",
-    "updated_at": "2026-05-24T23:21:51Z",
-    "pushed_at": "2026-05-24T23:22:08Z",
+    "updated_at": "2026-05-25T14:50:21Z",
+    "pushed_at": "2026-05-25T14:50:52Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "camomillacms/astro-camomilla-integration": {
@@ -10049,8 +10049,8 @@
     "language": "CSS",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-05-25T10:40:53Z",
-    "pushed_at": "2026-05-25T10:40:50Z",
+    "updated_at": "2026-05-25T16:36:31Z",
+    "pushed_at": "2026-05-25T16:36:27Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
   "unirate-api/astro-unirate": {
