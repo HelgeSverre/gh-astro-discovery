@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-26T05:46:10Z",
-    "pushed_at": "2026-05-26T05:46:07Z",
+    "updated_at": "2026-05-26T12:51:37Z",
+    "pushed_at": "2026-05-26T12:51:32Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-05-18T15:19:30Z",
-    "pushed_at": "2026-05-22T13:46:19Z",
+    "pushed_at": "2026-05-26T10:53:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -3023,8 +3023,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-05-26T06:33:12Z",
-    "pushed_at": "2026-05-26T06:33:09Z",
+    "updated_at": "2026-05-26T08:38:20Z",
+    "pushed_at": "2026-05-26T08:38:16Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jan-nikolov/astro-annotate": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-26T06:55:55Z",
-    "pushed_at": "2026-05-26T06:55:51Z",
+    "updated_at": "2026-05-26T09:50:06Z",
+    "pushed_at": "2026-05-26T09:50:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-26T06:53:33Z",
-    "pushed_at": "2026-05-26T06:53:29Z",
+    "updated_at": "2026-05-26T09:47:35Z",
+    "pushed_at": "2026-05-26T09:47:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-26T06:38:03Z",
-    "pushed_at": "2026-05-26T06:37:43Z",
+    "updated_at": "2026-05-26T09:32:11Z",
+    "pushed_at": "2026-05-26T09:32:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-26T05:28:55Z",
-    "pushed_at": "2026-05-26T05:28:51Z",
+    "updated_at": "2026-05-26T12:34:33Z",
+    "pushed_at": "2026-05-26T12:34:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-26T05:23:53Z",
-    "pushed_at": "2026-05-26T05:23:49Z",
+    "updated_at": "2026-05-26T12:29:29Z",
+    "pushed_at": "2026-05-26T12:29:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-26T05:08:43Z",
-    "pushed_at": "2026-05-26T05:08:39Z",
+    "updated_at": "2026-05-26T12:14:27Z",
+    "pushed_at": "2026-05-26T12:14:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5584,7 +5584,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "topics": [
       "astro",
@@ -5600,7 +5600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-05-25T20:59:44Z",
+    "updated_at": "2026-05-26T12:20:53Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6165,7 +6165,7 @@
     "name": "getastrothemes/folex-lite-astro",
     "url": "https://github.com/getastrothemes/folex-lite-astro",
     "description": "A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!",
-    "stars": 37,
+    "stars": 38,
     "forks": 24,
     "topics": [
       "agency-template",
@@ -6186,7 +6186,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-07-25T20:50:27Z",
-    "updated_at": "2026-05-08T08:29:55Z",
+    "updated_at": "2026-05-26T09:59:14Z",
     "pushed_at": "2026-05-02T11:39:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6462,7 +6462,7 @@
     "name": "JustGoodUI/dante-astro-theme",
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
-    "stars": 494,
+    "stars": 495,
     "forks": 322,
     "topics": [
       "astro",
@@ -6479,7 +6479,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-01-11T15:23:14Z",
-    "updated_at": "2026-05-24T10:27:16Z",
+    "updated_at": "2026-05-26T11:33:02Z",
     "pushed_at": "2026-04-08T07:14:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6948,7 +6948,7 @@
     "name": "erlandv/case",
     "url": "https://github.com/erlandv/case",
     "description": "A case-study-first portfolio theme for Astro. Designed for professionals who want to showcase their thinking, decisions, and real impact.",
-    "stars": 45,
+    "stars": 46,
     "forks": 28,
     "topics": [
       "astro",
@@ -6963,7 +6963,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-08T07:07:46Z",
-    "updated_at": "2026-05-22T23:20:26Z",
+    "updated_at": "2026-05-26T11:37:28Z",
     "pushed_at": "2026-01-13T10:04:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8079,8 +8079,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
-    "updated_at": "2026-05-18T11:08:44Z",
-    "pushed_at": "2026-05-22T06:44:00Z",
+    "updated_at": "2026-05-26T11:36:20Z",
+    "pushed_at": "2026-05-26T11:42:51Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -10046,11 +10046,11 @@
       "vercel",
       "withastro"
     ],
-    "language": "CSS",
+    "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-05-25T16:36:31Z",
-    "pushed_at": "2026-05-25T16:36:27Z",
+    "updated_at": "2026-05-26T11:58:44Z",
+    "pushed_at": "2026-05-26T11:58:40Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
   "unirate-api/astro-unirate": {
