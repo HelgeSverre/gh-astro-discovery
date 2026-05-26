@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 480
-**Last updated:** 2026-05-25T18:44:47.756Z
+**Last updated:** 2026-05-26T01:10:12.131Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-26 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-26 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
+| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-25 | Build fast, responsive websites using Astro with a clean, cu... |
+| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-25 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-25 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-25 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-25 | 🌟 Create stunning websites with the Mainline Astro Template... |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-05-25 | Loads fonts from custom font packages |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-05-25 | An Astro Prometheus nodejs middleware integration for Astro |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-25 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-05-25 | in Astro - as a plugin - get the github api |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-05-25 | Loaders for Astro's Content Layer |
+| [twocaretcat/Tally](https://github.com/twocaretcat/Tally) | 6 | 2026-05-25 | Your favorite dark mode word counter, now with grammar check... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-05-25 | Documentation for Azion's services and features. |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-05-25 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
+| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 277 | 2026-05-25 | Effortlessly share your thoughts in a calm & dustless space. |
+| [pascal-brand38/astro-lightGallery](https://github.com/pascal-brand38/astro-lightGallery) | 11 | 2026-05-25 | Astro component for lightgallery, for building beautiful ima... |
 | [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-05-25 | A framework free Astro starter template |
 | [protomorph/astro-zero](https://github.com/protomorph/astro-zero) | 8 | 2026-05-25 | A zero styling, simple, Astro blog starter template. |
 | [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 0 | 2026-05-25 | A minimal Astro theme for blogs, notes, and quiet publishing... |
-| [pascal-brand38/astro-lightGallery](https://github.com/pascal-brand38/astro-lightGallery) | 11 | 2026-05-25 | Astro component for lightgallery, for building beautiful ima... |
 | [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-05-25 | A simple, minimal style, framework free Astro blog starter t... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-25 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-25 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
-| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-25 | Build fast, responsive websites using Astro with a clean, cu... |
-| [bablr-lang/astro_integration-cstml](https://github.com/bablr-lang/astro_integration-cstml) | 0 | 2026-05-25 | An Astro integration for rendering .cstml pages |
-| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-25 | 🚀 Automate IndexNow submissions for new or changed pages in... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-05-25 | Network 🚠 |
-| [zionfuo/astro-webstack](https://github.com/zionfuo/astro-webstack) | 1 | 2026-05-25 | A astro theme based on webstack. | 一个基于webstack的astro主题。 |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-05-25 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-05-25 | Convert 🫶🏻 |
-| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 54 | 2026-05-25 | Render Elm modules as Astro components |
-| [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | 2026-05-25 | Astro integration for UniRate — build-time currency exchange... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-26T01:10 | 0 | 480 | 480 |
 | 2026-05-25T18:44 | 0 | 480 | 480 |
 | 2026-05-25T13:24 | 0 | 480 | 480 |
 | 2026-05-25T07:52 | 1 | 479 | 480 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-05-24T07:19 | 0 | 478 | 478 |
 | 2026-05-24T01:13 | 0 | 478 | 478 |
 | 2026-05-23T18:30 | 2 | 476 | 478 |
-| 2026-05-23T12:33 | 0 | 476 | 476 |
 
 ---
 
