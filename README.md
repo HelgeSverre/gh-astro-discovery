@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 480
-**Last updated:** 2026-05-27T13:29:27.452Z
+**Last updated:** 2026-05-27T19:00:00.901Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 277 | 2026-05-27 | Effortlessly share your thoughts in a calm & dustless space. |
-| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 1 | 2026-05-27 | Astro integration that generates robots.txt, llms.txt, sitem... |
-| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-05-27 | Notro is Notion, Astro, Tailwind CSS based CMS. |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-05-27 | Loaders for Astro's Content Layer |
-| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-27 | 🚀 Automate IndexNow submissions for new or changed pages in... |
-| [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-27 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
-| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 0 | 2026-05-27 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-27 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-27 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 145 | 2026-05-27 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-05-27 | The Astro Quick Start package covers the basics of connectin... |
-| [pascal-brand38/astro-lightGallery](https://github.com/pascal-brand38/astro-lightGallery) | 11 | 2026-05-27 | Astro component for lightgallery, for building beautiful ima... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-27 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-27 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-27 | Build fast, responsive websites using Astro with a clean, cu... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-05-27 | Convert 🫶🏻 |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-05-27 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 278 | 2026-05-27 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-05-27 | Format 🗻 |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-05-27 | ✨A static blog template built with Astro. |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-05-27 | Matomo integration for Astro |
+| [supportgenix/supportgenix-docs](https://github.com/supportgenix/supportgenix-docs) | 7 | 2026-05-27 | A free Astro documentation theme with MDX, Pagefind search, ... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 209 | 2026-05-27 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 65 | 2026-05-27 | A minimal Astro blog theme |
+| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-27 | 🚀 Automate IndexNow submissions for new or changed pages in... |
+| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 0 | 2026-05-27 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
+| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 199 | 2026-05-27 | A flexible Astro blog theme designed for Obsidian users. |
+| [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-27 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-27 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-27 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 277 | 2026-05-27 | Effortlessly share your thoughts in a calm & dustless space. |
+| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 1 | 2026-05-27 | ⭐A simple, fast and powerful blog & document theme built by ... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-05-27 | An Astro Prometheus nodejs middleware integration for Astro |
+| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 1 | 2026-05-27 | Astro integration that generates robots.txt, llms.txt, sitem... |
+| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-05-27 | Notro is Notion, Astro, Tailwind CSS based CMS. |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-05-27 | Loaders for Astro's Content Layer |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 145 | 2026-05-27 | Open-source Astro website template with TailwindCSS, Keystat... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-27T19:00 | 0 | 480 | 480 |
 | 2026-05-27T13:29 | 0 | 480 | 480 |
 | 2026-05-27T07:43 | 0 | 480 | 480 |
 | 2026-05-27T01:14 | 0 | 480 | 480 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-05-26T01:10 | 0 | 480 | 480 |
 | 2026-05-25T18:44 | 0 | 480 | 480 |
 | 2026-05-25T13:24 | 0 | 480 | 480 |
-| 2026-05-25T07:52 | 1 | 479 | 480 |
 
 ---
 
