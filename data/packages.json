@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-26T23:01:04Z",
-    "pushed_at": "2026-05-26T23:01:00Z",
+    "updated_at": "2026-05-27T05:30:16Z",
+    "pushed_at": "2026-05-27T05:30:12Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-05-26T04:04:34Z",
-    "pushed_at": "2026-05-26T04:04:30Z",
+    "updated_at": "2026-05-27T04:18:34Z",
+    "pushed_at": "2026-05-27T04:18:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-05-26T03:33:46Z",
-    "pushed_at": "2026-05-26T03:33:43Z",
+    "updated_at": "2026-05-27T03:51:06Z",
+    "pushed_at": "2026-05-27T03:51:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-05-26T17:37:24Z",
-    "pushed_at": "2026-05-26T17:37:20Z",
+    "updated_at": "2026-05-27T03:30:27Z",
+    "pushed_at": "2026-05-27T03:30:21Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-05-26T17:37:24Z",
-    "pushed_at": "2026-05-26T17:37:20Z",
+    "updated_at": "2026-05-27T03:27:19Z",
+    "pushed_at": "2026-05-27T03:27:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -3190,7 +3190,7 @@
     "license": "MIT",
     "created_at": "2025-06-22T16:04:26Z",
     "updated_at": "2026-05-25T16:09:30Z",
-    "pushed_at": "2026-05-25T19:24:45Z",
+    "pushed_at": "2026-05-27T06:42:49Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "proxima812/astro-versions-proxima": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-27T00:04:36Z",
-    "pushed_at": "2026-05-27T00:04:32Z",
+    "updated_at": "2026-05-27T06:38:17Z",
+    "pushed_at": "2026-05-27T06:38:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-27T00:02:17Z",
-    "pushed_at": "2026-05-27T00:02:14Z",
+    "updated_at": "2026-05-27T06:36:16Z",
+    "pushed_at": "2026-05-27T06:36:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5360,7 +5360,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-05-26T06:32:55Z",
-    "pushed_at": "2026-05-26T06:32:51Z",
+    "pushed_at": "2026-05-27T01:51:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-26T23:48:28Z",
-    "pushed_at": "2026-05-26T23:48:23Z",
+    "updated_at": "2026-05-27T06:21:07Z",
+    "pushed_at": "2026-05-27T06:21:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-26T22:45:29Z",
-    "pushed_at": "2026-05-26T22:45:25Z",
+    "updated_at": "2026-05-27T05:13:48Z",
+    "pushed_at": "2026-05-27T05:13:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-26T22:40:52Z",
-    "pushed_at": "2026-05-26T22:40:48Z",
+    "updated_at": "2026-05-27T05:08:52Z",
+    "pushed_at": "2026-05-27T05:08:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-26T22:26:56Z",
-    "pushed_at": "2026-05-26T22:26:53Z",
+    "updated_at": "2026-05-27T04:53:55Z",
+    "pushed_at": "2026-05-27T04:53:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5488,7 +5488,7 @@
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
     "stars": 152,
-    "forks": 531,
+    "forks": 530,
     "topics": [
       "astro-template",
       "astro-theme",
@@ -5696,8 +5696,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-05-21T03:58:08Z",
-    "pushed_at": "2026-05-26T22:24:20Z",
+    "updated_at": "2026-05-27T07:42:38Z",
+    "pushed_at": "2026-05-27T07:42:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -6511,7 +6511,7 @@
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with lightbox, custom typography, cursor glow effects, and a glassmorphism UI",
     "stars": 153,
-    "forks": 27,
+    "forks": 28,
     "topics": [
       "astro",
       "astro-template",
@@ -8110,7 +8110,7 @@
     "name": "oxygenna-themes/mizu-light-astro-theme",
     "url": "https://github.com/oxygenna-themes/mizu-light-astro-theme",
     "description": "Mizu Light is a product launch template designed specifically for modern SaaS products, digital launches, and ambitious startups. ",
-    "stars": 23,
+    "stars": 22,
     "forks": 15,
     "topics": [
       "astro",
@@ -8132,7 +8132,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-05-20T23:47:46Z",
+    "updated_at": "2026-05-27T02:26:40Z",
     "pushed_at": "2026-05-12T09:55:18Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
