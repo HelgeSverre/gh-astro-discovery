@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-29T00:49:11Z",
-    "pushed_at": "2026-05-29T00:49:08Z",
+    "updated_at": "2026-05-29T06:48:58Z",
+    "pushed_at": "2026-05-29T06:48:55Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-05-28T04:07:42Z",
-    "pushed_at": "2026-05-28T04:07:39Z",
+    "updated_at": "2026-05-29T04:09:38Z",
+    "pushed_at": "2026-05-29T04:09:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-05-28T03:36:54Z",
-    "pushed_at": "2026-05-28T03:36:50Z",
+    "updated_at": "2026-05-29T03:37:05Z",
+    "pushed_at": "2026-05-29T03:37:02Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-05-28T02:50:17Z",
-    "pushed_at": "2026-05-28T02:50:14Z",
+    "updated_at": "2026-05-29T02:54:24Z",
+    "pushed_at": "2026-05-29T02:54:21Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-05-28T02:48:18Z",
-    "pushed_at": "2026-05-28T02:48:14Z",
+    "updated_at": "2026-05-29T02:51:40Z",
+    "pushed_at": "2026-05-29T02:51:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-05-28T12:47:23Z",
-    "pushed_at": "2026-05-29T00:49:10Z",
+    "updated_at": "2026-05-29T04:58:39Z",
+    "pushed_at": "2026-05-29T04:59:43Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-04-16T17:10:55Z",
-    "pushed_at": "2026-05-28T22:49:15Z",
+    "pushed_at": "2026-05-29T06:53:02Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -2830,7 +2830,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-05-25T20:02:16Z",
+    "pushed_at": "2026-05-29T04:10:35Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -3103,8 +3103,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-05-04T16:32:16Z",
-    "pushed_at": "2026-05-04T16:32:12Z",
+    "updated_at": "2026-05-29T06:41:28Z",
+    "pushed_at": "2026-05-29T06:41:27Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dorukgezici/astro-decap-cms-oauth": {
@@ -3189,8 +3189,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-22T16:04:26Z",
-    "updated_at": "2026-05-25T16:09:30Z",
-    "pushed_at": "2026-05-27T06:42:49Z",
+    "updated_at": "2026-05-29T06:23:20Z",
+    "pushed_at": "2026-05-29T06:23:17Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "proxima812/astro-versions-proxima": {
@@ -4432,8 +4432,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-05-29T00:28:54Z",
-    "pushed_at": "2026-05-29T00:29:46Z",
+    "updated_at": "2026-05-29T04:06:31Z",
+    "pushed_at": "2026-05-29T04:06:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-28T22:26:59Z",
-    "pushed_at": "2026-05-28T22:26:54Z",
+    "updated_at": "2026-05-29T04:26:03Z",
+    "pushed_at": "2026-05-29T04:26:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-28T22:25:06Z",
-    "pushed_at": "2026-05-28T22:25:03Z",
+    "updated_at": "2026-05-29T04:23:59Z",
+    "pushed_at": "2026-05-29T04:23:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-28T22:11:49Z",
-    "pushed_at": "2026-05-28T22:11:45Z",
+    "updated_at": "2026-05-29T07:36:03Z",
+    "pushed_at": "2026-05-29T07:35:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-29T00:34:21Z",
-    "pushed_at": "2026-05-29T00:34:17Z",
+    "updated_at": "2026-05-29T06:33:43Z",
+    "pushed_at": "2026-05-29T06:33:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-29T00:29:56Z",
-    "pushed_at": "2026-05-29T00:29:52Z",
+    "updated_at": "2026-05-29T06:29:09Z",
+    "pushed_at": "2026-05-29T06:29:06Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-29T00:17:12Z",
-    "pushed_at": "2026-05-29T00:17:08Z",
+    "updated_at": "2026-05-29T06:15:26Z",
+    "pushed_at": "2026-05-29T06:15:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6194,7 +6194,7 @@
     "name": "psephopaiktes/astro-i18n-starter",
     "url": "https://github.com/psephopaiktes/astro-i18n-starter",
     "description": "A minimal i18n astro theme",
-    "stars": 147,
+    "stars": 148,
     "forks": 22,
     "topics": [
       "astro",
@@ -6207,7 +6207,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2024-05-25T06:35:35Z",
-    "updated_at": "2026-05-18T06:21:40Z",
+    "updated_at": "2026-05-29T05:25:20Z",
     "pushed_at": "2026-04-28T08:26:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6948,7 +6948,7 @@
     "name": "erlandv/case",
     "url": "https://github.com/erlandv/case",
     "description": "A case-study-first portfolio theme for Astro. Designed for professionals who want to showcase their thinking, decisions, and real impact.",
-    "stars": 46,
+    "stars": 47,
     "forks": 28,
     "topics": [
       "astro",
@@ -6963,7 +6963,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-08T07:07:46Z",
-    "updated_at": "2026-05-26T11:37:28Z",
+    "updated_at": "2026-05-29T07:08:19Z",
     "pushed_at": "2026-01-13T10:04:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8080,7 +8080,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-05-26T11:36:20Z",
-    "pushed_at": "2026-05-27T08:26:47Z",
+    "pushed_at": "2026-05-29T06:44:03Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -10024,7 +10024,7 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "astro",
@@ -10040,7 +10040,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-05-28T16:25:34Z",
+    "updated_at": "2026-05-29T02:05:37Z",
     "pushed_at": "2026-05-26T18:20:59Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
