@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-29T06:48:58Z",
-    "pushed_at": "2026-05-29T06:48:55Z",
+    "updated_at": "2026-05-29T13:12:04Z",
+    "pushed_at": "2026-05-29T13:11:59Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-05-28T19:43:21Z",
-    "pushed_at": "2026-05-28T19:43:19Z",
+    "pushed_at": "2026-05-29T13:02:19Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-05-29T04:58:39Z",
-    "pushed_at": "2026-05-29T04:59:43Z",
+    "updated_at": "2026-05-29T09:27:28Z",
+    "pushed_at": "2026-05-29T09:28:24Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -366,7 +366,7 @@
     "name": "sudeep2003/astro-iconset",
     "url": "https://github.com/sudeep2003/astro-iconset",
     "description": "SVG icon integration for Astro — local icons, Iconify sets, sprite deduplication, and zero browser runtime.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "topics": [
       "astro",
@@ -382,7 +382,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-04-05T07:53:49Z",
-    "updated_at": "2026-05-16T22:21:13Z",
+    "updated_at": "2026-05-29T11:14:00Z",
     "pushed_at": "2026-05-13T20:18:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -432,7 +432,7 @@
     "name": "yaroslav/astro-slop",
     "url": "https://github.com/yaroslav/astro-slop",
     "description": "The most complete and flexible Astro integration for LLMs and generating markdown versions of pages. Per-page .md siblings, llms.txt index, content negotiation, and link rel=alternate.",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "topics": [
       "ai",
@@ -449,7 +449,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-09T07:33:13Z",
-    "updated_at": "2026-05-24T20:35:03Z",
+    "updated_at": "2026-05-29T09:18:09Z",
     "pushed_at": "2026-05-11T15:31:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -4671,8 +4671,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-23T14:14:05Z",
-    "updated_at": "2026-04-04T22:38:14Z",
-    "pushed_at": "2026-04-04T22:38:09Z",
+    "updated_at": "2026-05-29T12:21:08Z",
+    "pushed_at": "2026-05-29T13:20:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "claudiabdm/astro-carousel": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-29T04:26:03Z",
-    "pushed_at": "2026-05-29T04:26:00Z",
+    "updated_at": "2026-05-29T10:42:10Z",
+    "pushed_at": "2026-05-29T10:42:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-29T04:23:59Z",
-    "pushed_at": "2026-05-29T04:23:55Z",
+    "updated_at": "2026-05-29T10:40:01Z",
+    "pushed_at": "2026-05-29T10:39:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-29T07:36:03Z",
-    "pushed_at": "2026-05-29T07:35:59Z",
+    "updated_at": "2026-05-29T10:26:07Z",
+    "pushed_at": "2026-05-29T10:26:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-29T06:33:43Z",
-    "pushed_at": "2026-05-29T06:33:38Z",
+    "updated_at": "2026-05-29T12:56:03Z",
+    "pushed_at": "2026-05-29T12:55:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-29T06:29:09Z",
-    "pushed_at": "2026-05-29T06:29:06Z",
+    "updated_at": "2026-05-29T12:51:16Z",
+    "pushed_at": "2026-05-29T12:51:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-29T06:15:26Z",
-    "pushed_at": "2026-05-29T06:15:21Z",
+    "updated_at": "2026-05-29T12:37:09Z",
+    "pushed_at": "2026-05-29T12:37:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5584,7 +5584,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "topics": [
       "astro",
@@ -5600,7 +5600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-05-28T16:41:57Z",
+    "updated_at": "2026-05-29T09:44:53Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6455,7 +6455,7 @@
     "license": "ISC",
     "created_at": "2026-04-10T22:37:50Z",
     "updated_at": "2026-05-11T08:24:36Z",
-    "pushed_at": "2026-05-28T04:27:36Z",
+    "pushed_at": "2026-05-29T13:12:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "justgoodui/dante-astro-theme": {
@@ -8110,7 +8110,7 @@
     "name": "oxygenna-themes/mizu-light-astro-theme",
     "url": "https://github.com/oxygenna-themes/mizu-light-astro-theme",
     "description": "Mizu Light is a product launch template designed specifically for modern SaaS products, digital launches, and ambitious startups. ",
-    "stars": 22,
+    "stars": 23,
     "forks": 15,
     "topics": [
       "astro",
@@ -8132,7 +8132,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-05-27T02:26:40Z",
+    "updated_at": "2026-05-29T10:13:01Z",
     "pushed_at": "2026-05-12T09:55:18Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -8684,8 +8684,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-05-28T00:40:36Z",
-    "pushed_at": "2026-05-28T18:29:53Z",
+    "updated_at": "2026-05-29T09:42:22Z",
+    "pushed_at": "2026-05-29T09:43:11Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
