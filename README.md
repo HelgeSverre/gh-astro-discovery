@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 482
-**Last updated:** 2026-05-30T07:14:23.611Z
+**Last updated:** 2026-05-30T12:38:45.405Z
 
 ## 📦 Recently Discovered
 
@@ -46,31 +46,31 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 274 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 270 | Simple and Elegant Astro Blog Template. |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 248 | A flexible and feature-rich Astro theme for developers and creators. |
-| [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 227 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
+| [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 228 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | The i18n integration for Astro 🧑‍🚀 |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 200 | A flexible Astro blog theme designed for Obsidian users. |
-| [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel) | 159 | the Astro powered landing page builder |
+| [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel) | 160 | the Astro powered landing page builder |
 | [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 155 | Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with light... |
 | [louisescher/spectre](https://github.com/louisescher/spectre) | 154 | Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript... |
-| [ArtemKutsan/astro-citrus](https://github.com/ArtemKutsan/astro-citrus) | 154 | Astro Citrus |
+| [ArtemKutsan/astro-citrus](https://github.com/ArtemKutsan/astro-citrus) | 153 | Astro Citrus |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 68 | 2026-05-30 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-30 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [pascal-brand38/astro-lightGallery](https://github.com/pascal-brand38/astro-lightGallery) | 11 | 2026-05-30 | Astro component for lightgallery, for building beautiful ima... |
-| [pascal-brand38/astro-dev](https://github.com/pascal-brand38/astro-dev) | 8 | 2026-05-30 | Astro package and site development doc |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-05-30 | ✨A static blog template built with Astro. |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-05-30 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-05-30 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-05-30 | Build fast, responsive websites using Astro with a clean, cu... |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-05-30 | 🚀 Automate IndexNow submissions for new or changed pages in... |
-| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-05-30 | in Astro - as a plugin - get the github api |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-05-30 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-05-30 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-05-30 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 70 | 2026-05-30 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
+| [pascal-brand38/astro-lightGallery](https://github.com/pascal-brand38/astro-lightGallery) | 11 | 2026-05-30 | Astro component for lightgallery, for building beautiful ima... |
+| [pascal-brand38/astro-dev](https://github.com/pascal-brand38/astro-dev) | 8 | 2026-05-30 | Astro package and site development doc |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-05-30 | ✨A static blog template built with Astro. |
+| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-05-30 | in Astro - as a plugin - get the github api |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-05-30 | Convert 🫶🏻 |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-05-30 | Network 🚠 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 278 | 2026-05-30 | Inline 🦔 |
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-30T12:38 | 0 | 481 | 482 |
 | 2026-05-30T07:14 | 0 | 481 | 482 |
 | 2026-05-30T01:10 | 0 | 481 | 482 |
 | 2026-05-29T19:04 | 0 | 481 | 482 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-05-28T19:04 | 0 | 481 | 481 |
 | 2026-05-28T13:32 | 1 | 480 | 481 |
 | 2026-05-28T07:38 | 0 | 480 | 480 |
-| 2026-05-28T01:06 | 0 | 480 | 480 |
 
 ---
 
