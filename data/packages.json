@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-29T15:59:07Z",
-    "pushed_at": "2026-05-29T15:59:03Z",
+    "updated_at": "2026-05-29T22:23:14Z",
+    "pushed_at": "2026-05-29T22:23:10Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-05-29T17:21:37Z",
-    "pushed_at": "2026-05-29T18:07:26Z",
+    "updated_at": "2026-05-29T20:58:39Z",
+    "pushed_at": "2026-05-29T20:58:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-05-18T15:19:30Z",
-    "pushed_at": "2026-05-28T21:29:30Z",
+    "pushed_at": "2026-05-29T21:13:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -2789,7 +2789,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 67,
+    "stars": 68,
     "forks": 21,
     "topics": [
       "aeo",
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-05-29T18:30:33Z",
-    "pushed_at": "2026-05-29T18:20:50Z",
+    "updated_at": "2026-05-29T20:43:51Z",
+    "pushed_at": "2026-05-29T20:34:14Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -3007,7 +3007,7 @@
     "name": "casoon/astro-site-files",
     "url": "https://github.com/casoon/astro-site-files",
     "description": "Astro integration that generates robots.txt, llms.txt, sitemap.xml, security.txt, and humans.txt at build time from typed configuration.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -3023,7 +3023,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-05-27T13:19:57Z",
+    "updated_at": "2026-05-29T21:15:16Z",
     "pushed_at": "2026-05-27T13:19:52Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4659,7 +4659,7 @@
   "jcoppede11/jc11-portfolio-dev": {
     "name": "jcoppede11/jc11-portfolio-dev",
     "url": "https://github.com/jcoppede11/jc11-portfolio-dev",
-    "description": "My personal website 🧑‍💻",
+    "description": "",
     "stars": 0,
     "forks": 0,
     "topics": [
@@ -4671,8 +4671,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-23T14:14:05Z",
-    "updated_at": "2026-05-29T15:22:07Z",
-    "pushed_at": "2026-05-29T17:14:44Z",
+    "updated_at": "2026-05-30T00:43:18Z",
+    "pushed_at": "2026-05-29T19:16:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "claudiabdm/astro-carousel": {
@@ -5120,7 +5120,7 @@
     "name": "arnoldwender/wm-project-astro-components",
     "url": "https://github.com/arnoldwender/wm-project-astro-components",
     "description": "150+ production-ready, accessible, GDPR-compliant Astro components",
-    "stars": 41,
+    "stars": 42,
     "forks": 3,
     "topics": [
       "accessibility",
@@ -5142,7 +5142,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-05-24T17:36:15Z",
+    "updated_at": "2026-05-29T21:59:32Z",
     "pushed_at": "2026-05-24T17:36:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-29T17:05:26Z",
-    "pushed_at": "2026-05-29T17:05:21Z",
+    "updated_at": "2026-05-29T23:23:21Z",
+    "pushed_at": "2026-05-29T23:23:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-29T17:03:28Z",
-    "pushed_at": "2026-05-29T17:03:11Z",
+    "updated_at": "2026-05-29T23:21:23Z",
+    "pushed_at": "2026-05-29T23:21:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5360,7 +5360,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-05-26T06:32:55Z",
-    "pushed_at": "2026-05-28T23:08:06Z",
+    "pushed_at": "2026-05-29T23:56:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-29T16:48:30Z",
-    "pushed_at": "2026-05-29T16:48:24Z",
+    "updated_at": "2026-05-29T23:08:25Z",
+    "pushed_at": "2026-05-29T23:08:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-29T15:42:53Z",
-    "pushed_at": "2026-05-29T15:42:48Z",
+    "updated_at": "2026-05-29T22:08:19Z",
+    "pushed_at": "2026-05-29T22:08:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-29T15:38:14Z",
-    "pushed_at": "2026-05-29T15:37:54Z",
+    "updated_at": "2026-05-29T22:03:46Z",
+    "pushed_at": "2026-05-29T22:03:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-29T15:24:22Z",
-    "pushed_at": "2026-05-29T15:23:10Z",
+    "updated_at": "2026-05-29T21:50:15Z",
+    "pushed_at": "2026-05-29T21:50:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5500,8 +5500,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-05-25T05:15:20Z",
-    "pushed_at": "2026-05-29T18:48:41Z",
+    "updated_at": "2026-05-30T00:43:48Z",
+    "pushed_at": "2026-05-30T00:43:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -6017,7 +6017,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 199,
+    "stars": 200,
     "forks": 42,
     "topics": [
       "astro",
@@ -6031,7 +6031,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-05-27T17:07:47Z",
+    "updated_at": "2026-05-29T22:27:13Z",
     "pushed_at": "2026-05-27T17:07:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6510,7 +6510,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with lightbox, custom typography, cursor glow effects, and a glassmorphism UI",
-    "stars": 154,
+    "stars": 155,
     "forks": 29,
     "topics": [
       "astro",
@@ -6528,7 +6528,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-05-27T11:12:53Z",
+    "updated_at": "2026-05-29T21:58:14Z",
     "pushed_at": "2026-05-21T16:10:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10086,8 +10086,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-05-28T10:30:38Z",
-    "pushed_at": "2026-05-29T18:29:48Z",
+    "updated_at": "2026-05-29T20:29:11Z",
+    "pushed_at": "2026-05-29T20:29:08Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
