@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-29T22:23:14Z",
-    "pushed_at": "2026-05-29T22:23:10Z",
+    "updated_at": "2026-05-30T04:18:11Z",
+    "pushed_at": "2026-05-30T04:18:07Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-05-29T04:09:38Z",
-    "pushed_at": "2026-05-29T04:09:34Z",
+    "updated_at": "2026-05-30T03:55:34Z",
+    "pushed_at": "2026-05-30T03:55:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-05-29T03:37:05Z",
-    "pushed_at": "2026-05-29T03:37:02Z",
+    "updated_at": "2026-05-30T03:26:11Z",
+    "pushed_at": "2026-05-30T03:26:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-05-29T02:54:24Z",
-    "pushed_at": "2026-05-29T02:54:21Z",
+    "updated_at": "2026-05-30T02:47:32Z",
+    "pushed_at": "2026-05-30T02:47:29Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-05-29T02:51:40Z",
-    "pushed_at": "2026-05-29T02:51:36Z",
+    "updated_at": "2026-05-30T02:45:06Z",
+    "pushed_at": "2026-05-30T02:45:02Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-05-29T20:43:51Z",
-    "pushed_at": "2026-05-29T20:34:14Z",
+    "updated_at": "2026-05-30T07:10:53Z",
+    "pushed_at": "2026-05-30T07:11:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -3149,8 +3149,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-10-16T14:43:11Z",
-    "updated_at": "2026-05-03T19:10:11Z",
-    "pushed_at": "2026-05-03T19:10:07Z",
+    "updated_at": "2026-05-30T05:55:53Z",
+    "pushed_at": "2026-05-30T05:55:50Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-splide": {
@@ -3189,8 +3189,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-22T16:04:26Z",
-    "updated_at": "2026-05-29T16:18:45Z",
-    "pushed_at": "2026-05-29T16:18:41Z",
+    "updated_at": "2026-05-30T05:24:18Z",
+    "pushed_at": "2026-05-30T06:01:53Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "proxima812/astro-versions-proxima": {
@@ -4531,8 +4531,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
-    "updated_at": "2026-05-20T19:09:37Z",
-    "pushed_at": "2026-05-25T21:55:25Z",
+    "updated_at": "2026-05-30T04:15:19Z",
+    "pushed_at": "2026-05-30T04:15:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-29T23:23:21Z",
-    "pushed_at": "2026-05-29T23:23:17Z",
+    "updated_at": "2026-05-30T05:19:40Z",
+    "pushed_at": "2026-05-30T05:19:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-29T23:21:23Z",
-    "pushed_at": "2026-05-29T23:21:19Z",
+    "updated_at": "2026-05-30T05:17:29Z",
+    "pushed_at": "2026-05-30T05:17:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5359,8 +5359,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-05-26T06:32:55Z",
-    "pushed_at": "2026-05-29T23:56:05Z",
+    "updated_at": "2026-05-30T05:41:41Z",
+    "pushed_at": "2026-05-30T05:41:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-29T23:08:25Z",
-    "pushed_at": "2026-05-29T23:08:21Z",
+    "updated_at": "2026-05-30T05:03:32Z",
+    "pushed_at": "2026-05-30T05:03:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-29T22:08:19Z",
-    "pushed_at": "2026-05-29T22:08:14Z",
+    "updated_at": "2026-05-30T04:03:07Z",
+    "pushed_at": "2026-05-30T04:03:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-29T22:03:46Z",
-    "pushed_at": "2026-05-29T22:03:42Z",
+    "updated_at": "2026-05-30T03:58:43Z",
+    "pushed_at": "2026-05-30T03:58:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-29T21:50:15Z",
-    "pushed_at": "2026-05-29T21:50:12Z",
+    "updated_at": "2026-05-30T07:09:31Z",
+    "pushed_at": "2026-05-30T07:09:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5584,7 +5584,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 6,
+    "stars": 7,
     "forks": 2,
     "topics": [
       "astro",
@@ -5600,7 +5600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-05-29T09:44:53Z",
+    "updated_at": "2026-05-30T03:38:29Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7221,7 +7221,7 @@
     "name": "francosuarez-dev/artistree",
     "url": "https://github.com/francosuarez-dev/artistree",
     "description": "Link in Bio Page for Artists 🎶",
-    "stars": 20,
+    "stars": 21,
     "forks": 7,
     "topics": [
       "astro",
@@ -7244,7 +7244,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T02:25:38Z",
-    "updated_at": "2026-05-15T00:38:52Z",
+    "updated_at": "2026-05-30T05:24:36Z",
     "pushed_at": "2025-09-04T05:58:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7493,7 +7493,7 @@
     "name": "izmttk/astro-mecure",
     "url": "https://github.com/izmttk/astro-mecure",
     "description": "My personal blog built with Astro, React and Tailwindcss.",
-    "stars": 75,
+    "stars": 76,
     "forks": 13,
     "topics": [
       "astro",
@@ -7510,7 +7510,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-02-12T11:22:12Z",
-    "updated_at": "2026-05-28T13:27:31Z",
+    "updated_at": "2026-05-30T03:43:11Z",
     "pushed_at": "2025-03-28T17:01:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
