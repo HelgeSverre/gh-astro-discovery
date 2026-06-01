@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-05-31T18:21:44Z",
-    "pushed_at": "2026-05-31T18:21:40Z",
+    "updated_at": "2026-06-01T01:04:38Z",
+    "pushed_at": "2026-06-01T01:04:34Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -70,7 +70,7 @@
     "license": "MIT",
     "created_at": "2024-01-20T16:20:43Z",
     "updated_at": "2026-05-27T17:54:32Z",
-    "pushed_at": "2026-05-26T06:28:30Z",
+    "pushed_at": "2026-06-01T00:54:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "florian-lefebvre/astro-typed-links": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-05-29T20:58:39Z",
-    "pushed_at": "2026-05-31T15:00:55Z",
+    "pushed_at": "2026-06-01T00:33:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -432,7 +432,7 @@
     "name": "yaroslav/astro-slop",
     "url": "https://github.com/yaroslav/astro-slop",
     "description": "The most complete and flexible Astro integration for LLMs and generating markdown versions of pages. Per-page .md siblings, llms.txt index, content negotiation, and link rel=alternate.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "topics": [
       "ai",
@@ -449,7 +449,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-09T07:33:13Z",
-    "updated_at": "2026-05-29T09:18:09Z",
+    "updated_at": "2026-05-31T19:50:54Z",
     "pushed_at": "2026-05-11T15:31:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -602,8 +602,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2025-01-05T22:36:31Z",
-    "updated_at": "2026-05-24T10:51:08Z",
-    "pushed_at": "2026-05-24T10:51:04Z",
+    "updated_at": "2026-05-31T19:56:00Z",
+    "pushed_at": "2026-05-31T19:55:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "robot-inventor/astro-custom-toc": {
@@ -821,8 +821,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
-    "updated_at": "2026-04-21T01:24:06Z",
-    "pushed_at": "2026-05-31T02:28:53Z",
+    "updated_at": "2026-05-31T22:25:40Z",
+    "pushed_at": "2026-05-31T22:26:18Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2550,7 +2550,7 @@
     "name": "kitschpatrol/astro-media-kit",
     "url": "https://github.com/kitschpatrol/astro-media-kit",
     "description": "Astro components for images and video.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "aphex",
@@ -2572,7 +2572,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-05-20T00:07:03Z",
+    "updated_at": "2026-06-01T01:19:33Z",
     "pushed_at": "2026-05-20T00:06:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3007,7 +3007,7 @@
     "name": "casoon/astro-site-files",
     "url": "https://github.com/casoon/astro-site-files",
     "description": "Astro integration that generates robots.txt, llms.txt, sitemap.xml, security.txt, and humans.txt at build time from typed configuration.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro",
@@ -3023,7 +3023,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-05-29T21:15:16Z",
+    "updated_at": "2026-05-31T19:48:23Z",
     "pushed_at": "2026-05-27T13:19:52Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3470,7 +3470,7 @@
     "url": "https://github.com/Rettend/starlight-plugin-icons",
     "description": "Add icons to Astro Starlight: sidebar, codeblocks, filetree",
     "stars": 14,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-integration",
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-05-31T16:31:09Z",
-    "pushed_at": "2026-05-31T16:31:05Z",
+    "updated_at": "2026-05-31T23:25:53Z",
+    "pushed_at": "2026-05-31T23:25:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-05-31T16:28:47Z",
-    "pushed_at": "2026-05-31T16:28:44Z",
+    "updated_at": "2026-05-31T23:23:11Z",
+    "pushed_at": "2026-05-31T23:23:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-05-31T16:13:54Z",
-    "pushed_at": "2026-05-31T16:13:50Z",
+    "updated_at": "2026-05-31T23:07:52Z",
+    "pushed_at": "2026-05-31T23:07:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-05-31T18:04:36Z",
-    "pushed_at": "2026-05-31T18:04:33Z",
+    "updated_at": "2026-06-01T00:48:37Z",
+    "pushed_at": "2026-06-01T00:48:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-05-31T17:59:09Z",
-    "pushed_at": "2026-05-31T17:59:06Z",
+    "updated_at": "2026-06-01T00:43:41Z",
+    "pushed_at": "2026-06-01T00:43:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-05-31T17:43:00Z",
-    "pushed_at": "2026-05-31T17:42:56Z",
+    "updated_at": "2026-06-01T00:29:34Z",
+    "pushed_at": "2026-06-01T00:29:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5823,7 +5823,7 @@
     "name": "D-Sketon/astro-theme-reimu",
     "url": "https://github.com/D-Sketon/astro-theme-reimu",
     "description": "一款博丽灵梦风格的Astro主题 | A Hakurei Reimu style Astro theme. 💘Touhou💘",
-    "stars": 64,
+    "stars": 65,
     "forks": 10,
     "topics": [
       "astro",
@@ -5844,7 +5844,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-10T13:01:41Z",
-    "updated_at": "2026-05-25T15:44:23Z",
+    "updated_at": "2026-05-31T23:04:18Z",
     "pushed_at": "2026-05-13T15:14:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7195,7 +7195,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 78,
+    "stars": 79,
     "forks": 22,
     "topics": [
       "astro",
@@ -7213,7 +7213,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-05-28T15:59:31Z",
+    "updated_at": "2026-05-31T21:17:42Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10072,7 +10072,7 @@
     "name": "hugo-vrijswijk/astro-headers-file",
     "url": "https://github.com/hugo-vrijswijk/astro-headers-file",
     "description": "Astro integration that uses existing configuration to write a static headers file for platforms like Cloudflare Pages, Netlify and Vercel.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -10086,7 +10086,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-05-30T20:42:26Z",
+    "updated_at": "2026-05-31T19:28:27Z",
     "pushed_at": "2026-05-30T20:42:23Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
@@ -10127,8 +10127,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T08:08:29Z",
-    "updated_at": "2026-05-31T17:04:45Z",
-    "pushed_at": "2026-05-31T17:04:42Z",
+    "updated_at": "2026-05-31T18:59:16Z",
+    "pushed_at": "2026-05-31T18:59:13Z",
     "discovered_at": "2026-05-30T18:33:17.098Z"
   }
 }
