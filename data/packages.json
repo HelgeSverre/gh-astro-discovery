@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-02T15:29:41Z",
-    "pushed_at": "2026-06-02T15:25:04Z",
+    "updated_at": "2026-06-02T23:35:53Z",
+    "pushed_at": "2026-06-02T23:35:49Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-01T20:38:54Z",
+    "pushed_at": "2026-06-02T19:43:49Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2789,7 +2789,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 75,
+    "stars": 76,
     "forks": 23,
     "topics": [
       "aeo",
@@ -2811,7 +2811,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-01T18:37:57Z",
+    "updated_at": "2026-06-02T20:07:31Z",
     "pushed_at": "2026-06-01T18:28:16Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2918,7 +2918,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-05-20T21:01:15Z",
-    "pushed_at": "2026-06-02T14:57:10Z",
+    "pushed_at": "2026-06-02T19:38:47Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -3189,8 +3189,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-22T16:04:26Z",
-    "updated_at": "2026-06-02T16:25:23Z",
-    "pushed_at": "2026-06-02T16:18:22Z",
+    "updated_at": "2026-06-02T19:48:49Z",
+    "pushed_at": "2026-06-02T19:48:45Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "proxima812/astro-versions-proxima": {
@@ -4532,7 +4532,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-05-30T04:15:19Z",
-    "pushed_at": "2026-05-30T04:15:20Z",
+    "pushed_at": "2026-06-02T22:32:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-02T16:35:29Z",
-    "pushed_at": "2026-06-02T16:35:24Z",
+    "updated_at": "2026-06-03T00:40:48Z",
+    "pushed_at": "2026-06-03T00:40:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-02T16:33:17Z",
-    "pushed_at": "2026-06-02T16:33:09Z",
+    "updated_at": "2026-06-03T00:38:37Z",
+    "pushed_at": "2026-06-03T00:38:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-02T16:17:48Z",
-    "pushed_at": "2026-06-02T16:17:32Z",
+    "updated_at": "2026-06-03T00:24:01Z",
+    "pushed_at": "2026-06-03T00:23:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-02T19:15:24Z",
-    "pushed_at": "2026-06-02T19:15:18Z",
+    "updated_at": "2026-06-02T23:20:36Z",
+    "pushed_at": "2026-06-02T23:20:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-02T19:10:00Z",
-    "pushed_at": "2026-06-02T19:09:56Z",
+    "updated_at": "2026-06-02T23:16:13Z",
+    "pushed_at": "2026-06-02T23:16:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-02T18:54:30Z",
-    "pushed_at": "2026-06-02T18:54:26Z",
+    "updated_at": "2026-06-02T23:02:11Z",
+    "pushed_at": "2026-06-02T23:02:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5917,7 +5917,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-05-12T02:51:22Z",
-    "pushed_at": "2026-06-01T23:51:35Z",
+    "pushed_at": "2026-06-02T20:37:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -6058,7 +6058,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-06-01T23:51:47Z",
+    "pushed_at": "2026-06-02T20:14:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -8684,8 +8684,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-05-30T18:07:46Z",
-    "pushed_at": "2026-06-02T11:01:01Z",
+    "updated_at": "2026-06-03T00:32:15Z",
+    "pushed_at": "2026-06-03T00:33:11Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10040,8 +10040,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-02T08:58:48Z",
-    "pushed_at": "2026-05-30T21:29:59Z",
+    "updated_at": "2026-06-02T21:09:51Z",
+    "pushed_at": "2026-06-02T21:09:46Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
   "unirate-api/astro-unirate": {
@@ -10159,7 +10159,7 @@
     "name": "A58361/Ryze",
     "url": "https://github.com/A58361/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 31,
+    "stars": 32,
     "forks": 6,
     "topics": [
       "astro",
@@ -10186,7 +10186,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-06-02T18:02:43Z",
+    "updated_at": "2026-06-02T20:40:21Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -10267,8 +10267,34 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-29T03:49:42Z",
-    "updated_at": "2026-06-02T02:57:36Z",
-    "pushed_at": "2026-06-02T02:57:32Z",
+    "updated_at": "2026-06-03T00:59:21Z",
+    "pushed_at": "2026-06-03T00:59:17Z",
     "discovered_at": "2026-06-02T07:55:51.259Z"
+  },
+  "caret-collective/tally": {
+    "name": "caret-collective/Tally",
+    "url": "https://github.com/caret-collective/Tally",
+    "description": "Your favorite dark mode word counter, now with grammar checking! Count the number of characters, words, sentences, paragraphs, and lines in your text instantly with Tally.",
+    "stars": 6,
+    "forks": 3,
+    "topics": [
+      "character-counter",
+      "css",
+      "github-pages",
+      "html",
+      "javascript",
+      "js",
+      "typescript",
+      "webapp",
+      "website",
+      "withastro",
+      "word-counter"
+    ],
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "created_at": "2015-04-08T23:37:53Z",
+    "updated_at": "2026-06-03T00:36:43Z",
+    "pushed_at": "2026-06-03T00:36:40Z",
+    "discovered_at": "2026-06-03T01:26:14.918Z"
   }
 }
