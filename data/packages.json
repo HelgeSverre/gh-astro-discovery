@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-03T06:16:38Z",
-    "pushed_at": "2026-06-03T06:16:34Z",
+    "updated_at": "2026-06-03T10:53:15Z",
+    "pushed_at": "2026-06-03T10:53:11Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -842,8 +842,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
-    "updated_at": "2026-06-01T07:59:05Z",
-    "pushed_at": "2026-06-01T09:48:37Z",
+    "updated_at": "2026-06-03T08:35:57Z",
+    "pushed_at": "2026-06-03T08:48:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -1165,7 +1165,7 @@
     "url": "https://github.com/blackspike/blackspike-astro-landing-page",
     "description": "A free, modern, Astro landing page theme made with Tailwind to help kick start your next Astro project",
     "stars": 72,
-    "forks": 49,
+    "forks": 48,
     "topics": [
       "astro",
       "astrojs",
@@ -1364,7 +1364,7 @@
     "license": "AGPL-3.0",
     "created_at": "2025-12-14T15:01:12Z",
     "updated_at": "2026-01-26T11:50:22Z",
-    "pushed_at": "2026-05-24T10:22:20Z",
+    "pushed_at": "2026-06-03T11:49:15Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "frostybee/expressive-code-typewriter": {
@@ -2782,7 +2782,7 @@
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
     "updated_at": "2026-05-19T15:21:18Z",
-    "pushed_at": "2026-05-25T08:36:05Z",
+    "pushed_at": "2026-06-03T08:20:47Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dodopayments/dualmark": {
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-02T20:07:31Z",
-    "pushed_at": "2026-06-01T18:28:16Z",
+    "updated_at": "2026-06-03T13:43:41Z",
+    "pushed_at": "2026-06-03T13:33:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-03T07:29:27Z",
-    "pushed_at": "2026-06-03T07:29:23Z",
+    "updated_at": "2026-06-03T12:11:48Z",
+    "pushed_at": "2026-06-03T12:11:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-03T07:27:03Z",
-    "pushed_at": "2026-06-03T07:26:59Z",
+    "updated_at": "2026-06-03T12:09:05Z",
+    "pushed_at": "2026-06-03T12:08:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-03T07:11:05Z",
-    "pushed_at": "2026-06-03T07:11:00Z",
+    "updated_at": "2026-06-03T11:51:50Z",
+    "pushed_at": "2026-06-03T11:51:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-03T06:00:04Z",
-    "pushed_at": "2026-06-03T06:00:00Z",
+    "updated_at": "2026-06-03T10:33:46Z",
+    "pushed_at": "2026-06-03T10:33:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-03T05:55:00Z",
-    "pushed_at": "2026-06-03T05:54:57Z",
+    "updated_at": "2026-06-03T10:28:12Z",
+    "pushed_at": "2026-06-03T10:28:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-03T05:39:26Z",
-    "pushed_at": "2026-06-03T05:39:22Z",
+    "updated_at": "2026-06-03T10:11:35Z",
+    "pushed_at": "2026-06-03T10:11:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5608,7 +5608,7 @@
     "name": "CloudCannon/jetstream-astro-template",
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "topics": [
       "astro",
@@ -5624,7 +5624,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
-    "updated_at": "2026-05-25T13:11:10Z",
+    "updated_at": "2026-06-03T08:51:16Z",
     "pushed_at": "2026-05-18T21:35:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5678,7 +5678,7 @@
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
     "stars": 147,
-    "forks": 25,
+    "forks": 24,
     "topics": [
       "astro",
       "astro-template",
@@ -5744,8 +5744,8 @@
   "the3ash/astro-chiri": {
     "name": "the3ash/astro-chiri",
     "url": "https://github.com/the3ash/astro-chiri",
-    "description": "Effortlessly share your thoughts in a calm & dustless space.",
-    "stars": 278,
+    "description": "Minimal blog theme built with Astro.",
+    "stars": 279,
     "forks": 94,
     "topics": [
       "astro",
@@ -5760,8 +5760,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-06-02T17:12:40Z",
-    "pushed_at": "2026-06-02T17:13:29Z",
+    "updated_at": "2026-06-03T13:52:47Z",
+    "pushed_at": "2026-06-03T13:23:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
@@ -5941,8 +5941,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-01-02T19:03:05Z",
-    "updated_at": "2026-06-02T12:19:01Z",
-    "pushed_at": "2026-06-02T12:21:26Z",
+    "updated_at": "2026-06-03T13:12:02Z",
+    "pushed_at": "2026-06-03T13:12:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astro-vanilla": {
@@ -6666,15 +6666,19 @@
     "stars": 228,
     "forks": 173,
     "topics": [
+      "astro-starter",
       "astro-theme",
+      "astro-themes",
       "jamstack-theme",
       "saas-theme",
+      "ssg",
+      "tailwind",
       "tailwind-template"
     ],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-01T09:48:28Z",
-    "updated_at": "2026-05-30T09:31:40Z",
+    "updated_at": "2026-06-03T09:19:36Z",
     "pushed_at": "2026-03-14T04:32:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10319,5 +10323,84 @@
     "updated_at": "2026-06-03T05:45:06Z",
     "pushed_at": "2026-05-01T09:05:15Z",
     "discovered_at": "2026-06-03T07:59:31.424Z"
+  },
+  "themefisher/automark-astro": {
+    "name": "themefisher/automark-astro",
+    "url": "https://github.com/themefisher/automark-astro",
+    "description": "Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.",
+    "stars": 21,
+    "forks": 11,
+    "topics": [
+      "astro",
+      "astro-starter",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "astrojs",
+      "boilerplate",
+      "gohighlevel",
+      "gohighlevel-integration",
+      "landing-page",
+      "ssg",
+      "static-site",
+      "tailwindcss"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-03-29T09:08:54Z",
+    "updated_at": "2026-06-03T10:23:20Z",
+    "pushed_at": "2026-04-15T07:15:11Z",
+    "discovered_at": "2026-06-03T13:57:17.690Z"
+  },
+  "themefisher/bigspring-light-astro": {
+    "name": "themefisher/bigspring-light-astro",
+    "url": "https://github.com/themefisher/bigspring-light-astro",
+    "description": "Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.  ",
+    "stars": 171,
+    "forks": 146,
+    "topics": [
+      "astro-blog",
+      "astro-bussiness-theme",
+      "astro-saas-theme",
+      "astro-tailwind",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "astrojs",
+      "build-with-astro",
+      "tailwind-template",
+      "tailwind-theme",
+      "tailwindcss"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2023-03-11T08:41:01Z",
+    "updated_at": "2026-06-03T09:18:02Z",
+    "pushed_at": "2026-04-12T09:58:04Z",
+    "discovered_at": "2026-06-03T13:57:17.690Z"
+  },
+  "themefisher/dockit-astro": {
+    "name": "themefisher/dockit-astro",
+    "url": "https://github.com/themefisher/dockit-astro",
+    "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
+    "stars": 51,
+    "forks": 33,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "astro-themes",
+      "docs-generator",
+      "documentation",
+      "documentation-theme",
+      "documentation-tool",
+      "starlight",
+      "static-site-generator"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2025-10-19T09:24:22Z",
+    "updated_at": "2026-06-03T09:18:51Z",
+    "pushed_at": "2026-03-14T07:48:54Z",
+    "discovered_at": "2026-06-03T13:57:17.690Z"
   }
 }
