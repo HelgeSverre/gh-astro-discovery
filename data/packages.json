@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-04T00:23:04Z",
-    "pushed_at": "2026-06-04T00:23:01Z",
+    "updated_at": "2026-06-04T04:44:36Z",
+    "pushed_at": "2026-06-04T04:44:32Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-03T22:41:43Z",
-    "pushed_at": "2026-06-03T22:41:39Z",
+    "updated_at": "2026-06-04T04:42:16Z",
+    "pushed_at": "2026-06-04T04:42:12Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-03T23:27:05Z",
-    "pushed_at": "2026-06-03T23:27:02Z",
+    "updated_at": "2026-06-04T04:01:39Z",
+    "pushed_at": "2026-06-04T04:01:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-03T03:46:48Z",
-    "pushed_at": "2026-06-03T04:18:41Z",
+    "updated_at": "2026-06-04T03:41:50Z",
+    "pushed_at": "2026-06-04T03:41:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-03T03:42:58Z",
-    "pushed_at": "2026-06-03T03:42:55Z",
+    "updated_at": "2026-06-04T03:39:00Z",
+    "pushed_at": "2026-06-04T03:38:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-05-14T02:03:26Z",
-    "pushed_at": "2026-06-04T00:00:16Z",
+    "pushed_at": "2026-06-04T02:39:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -842,8 +842,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
-    "updated_at": "2026-06-04T00:30:45Z",
-    "pushed_at": "2026-06-04T00:48:00Z",
+    "updated_at": "2026-06-04T07:45:49Z",
+    "pushed_at": "2026-06-04T07:47:57Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -1112,8 +1112,8 @@
     "name": "withstudiocms/ui",
     "url": "https://github.com/withstudiocms/ui",
     "description": "The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.",
-    "stars": 67,
-    "forks": 7,
+    "stars": 68,
+    "forks": 8,
     "topics": [
       "astro",
       "hacktoberfest",
@@ -1126,7 +1126,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-05T17:08:07Z",
-    "updated_at": "2026-05-24T17:00:58Z",
+    "updated_at": "2026-06-04T04:43:09Z",
     "pushed_at": "2026-03-21T14:28:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2738,7 +2738,7 @@
     "license": "MIT",
     "created_at": "2025-06-29T23:36:28Z",
     "updated_at": "2026-05-30T10:16:09Z",
-    "pushed_at": "2026-05-28T06:15:37Z",
+    "pushed_at": "2026-06-04T06:09:14Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "virtuslab-open-source/astro-strapi-loader": {
@@ -2789,8 +2789,8 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 77,
-    "forks": 23,
+    "stars": 78,
+    "forks": 24,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2811,7 +2811,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-03T18:00:03Z",
+    "updated_at": "2026-06-04T05:29:14Z",
     "pushed_at": "2026-06-03T17:25:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3347,7 +3347,7 @@
     "url": "https://github.com/jgabriel98/astro-compress",
     "description": "A powerful compression integration for static assets in Astro. This package automatically optimizes and compresses various file types including images, HTML, JavaScript, CSS, and SVG files during the build process.",
     "stars": 11,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "astro-integration",
       "astrojs",
@@ -4432,8 +4432,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-03T16:46:45Z",
-    "pushed_at": "2026-06-03T16:46:42Z",
+    "updated_at": "2026-06-04T02:34:55Z",
+    "pushed_at": "2026-06-04T02:34:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-03T21:10:53Z",
-    "pushed_at": "2026-06-03T21:10:48Z",
+    "updated_at": "2026-06-04T05:57:00Z",
+    "pushed_at": "2026-06-04T05:56:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-03T21:07:48Z",
-    "pushed_at": "2026-06-03T21:07:43Z",
+    "updated_at": "2026-06-04T05:55:46Z",
+    "pushed_at": "2026-06-04T05:54:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-04T01:17:52Z",
-    "pushed_at": "2026-06-04T01:17:48Z",
+    "updated_at": "2026-06-04T05:38:47Z",
+    "pushed_at": "2026-06-04T05:38:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-04T00:05:08Z",
-    "pushed_at": "2026-06-04T00:05:02Z",
+    "updated_at": "2026-06-04T04:27:22Z",
+    "pushed_at": "2026-06-04T04:27:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-03T23:59:42Z",
-    "pushed_at": "2026-06-03T23:59:38Z",
+    "updated_at": "2026-06-04T04:22:24Z",
+    "pushed_at": "2026-06-04T04:22:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-03T23:44:44Z",
-    "pushed_at": "2026-06-03T23:44:41Z",
+    "updated_at": "2026-06-04T04:06:04Z",
+    "pushed_at": "2026-06-04T04:06:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5584,8 +5584,8 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 10,
-    "forks": 2,
+    "stars": 11,
+    "forks": 3,
     "topics": [
       "astro",
       "astro-blog",
@@ -5600,7 +5600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-06-03T19:35:02Z",
+    "updated_at": "2026-06-04T07:00:16Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5608,7 +5608,7 @@
     "name": "CloudCannon/jetstream-astro-template",
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "topics": [
       "astro",
@@ -5624,7 +5624,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
-    "updated_at": "2026-06-03T15:41:59Z",
+    "updated_at": "2026-06-04T07:35:52Z",
     "pushed_at": "2026-05-18T21:35:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5677,7 +5677,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 147,
+    "stars": 148,
     "forks": 24,
     "topics": [
       "astro",
@@ -5696,8 +5696,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-05-28T16:16:51Z",
-    "pushed_at": "2026-06-04T00:36:20Z",
+    "updated_at": "2026-06-04T02:40:32Z",
+    "pushed_at": "2026-06-04T02:40:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -7037,7 +7037,7 @@
     "url": "https://github.com/advitiyan-png/clay-astro-theme",
     "description": "A minimalist, high-performance Astro theme for photographers and artists.",
     "stars": 13,
-    "forks": 23,
+    "forks": 24,
     "topics": [
       "astro",
       "astro-template",
@@ -7059,7 +7059,7 @@
     "url": "https://github.com/erlandv/virex",
     "description": "A production-ready SaaS UI theme for Astro. Designed to help you move from idea to launch quickly.",
     "stars": 40,
-    "forks": 13,
+    "forks": 14,
     "topics": [
       "astro",
       "astro-template",
@@ -7301,7 +7301,7 @@
     "url": "https://github.com/bekturaslan/syntro-astro",
     "description": "Syntro is a minimal SaaS landing page theme built with Astro Js and Tailwind CSS. ⭐️ Star to support our work!",
     "stars": 31,
-    "forks": 14,
+    "forks": 15,
     "topics": [
       "alpinejs",
       "astro",
@@ -8114,8 +8114,8 @@
     "name": "oxygenna-themes/mizu-light-astro-theme",
     "url": "https://github.com/oxygenna-themes/mizu-light-astro-theme",
     "description": "Mizu Light is a product launch template designed specifically for modern SaaS products, digital launches, and ambitious startups. ",
-    "stars": 25,
-    "forks": 16,
+    "stars": 26,
+    "forks": 17,
     "topics": [
       "astro",
       "astro-blog",
@@ -8136,7 +8136,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-06-03T14:27:27Z",
+    "updated_at": "2026-06-04T07:33:02Z",
     "pushed_at": "2026-05-12T09:55:18Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
