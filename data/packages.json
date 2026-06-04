@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-04T04:44:36Z",
-    "pushed_at": "2026-06-04T04:44:32Z",
+    "updated_at": "2026-06-04T09:40:57Z",
+    "pushed_at": "2026-06-04T09:40:53Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-04T05:29:14Z",
-    "pushed_at": "2026-06-03T17:25:20Z",
+    "updated_at": "2026-06-04T12:37:48Z",
+    "pushed_at": "2026-06-04T12:44:57Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -3023,8 +3023,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-06-01T06:45:19Z",
-    "pushed_at": "2026-06-01T06:46:55Z",
+    "updated_at": "2026-06-04T12:20:55Z",
+    "pushed_at": "2026-06-04T12:20:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jan-nikolov/astro-annotate": {
@@ -3320,7 +3320,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-02T21:19:25Z",
-    "updated_at": "2026-04-01T21:19:48Z",
+    "updated_at": "2026-06-04T09:46:08Z",
     "pushed_at": "2026-04-01T21:20:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-04T05:57:00Z",
-    "pushed_at": "2026-06-04T05:56:56Z",
+    "updated_at": "2026-06-04T11:01:53Z",
+    "pushed_at": "2026-06-04T11:01:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-04T05:55:46Z",
-    "pushed_at": "2026-06-04T05:54:38Z",
+    "updated_at": "2026-06-04T10:58:55Z",
+    "pushed_at": "2026-06-04T10:58:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-04T05:38:47Z",
-    "pushed_at": "2026-06-04T05:38:43Z",
+    "updated_at": "2026-06-04T10:40:36Z",
+    "pushed_at": "2026-06-04T10:40:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-04T04:27:22Z",
-    "pushed_at": "2026-06-04T04:27:17Z",
+    "updated_at": "2026-06-04T09:20:41Z",
+    "pushed_at": "2026-06-04T09:20:37Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-04T04:22:24Z",
-    "pushed_at": "2026-06-04T04:22:20Z",
+    "updated_at": "2026-06-04T09:13:53Z",
+    "pushed_at": "2026-06-04T09:13:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-04T04:06:04Z",
-    "pushed_at": "2026-06-04T04:06:00Z",
+    "updated_at": "2026-06-04T08:55:23Z",
+    "pushed_at": "2026-06-04T08:55:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5654,7 +5654,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 121,
-    "forks": 42,
+    "forks": 43,
     "topics": [
       "astro",
       "astro-theme",
@@ -5677,7 +5677,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 148,
+    "stars": 149,
     "forks": 24,
     "topics": [
       "astro",
@@ -5696,7 +5696,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-06-04T02:40:32Z",
+    "updated_at": "2026-06-04T07:53:47Z",
     "pushed_at": "2026-06-04T02:40:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6250,7 +6250,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 375,
+    "stars": 376,
     "forks": 130,
     "topics": [
       "astro-build",
@@ -6270,7 +6270,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-06-02T11:51:36Z",
+    "updated_at": "2026-06-04T11:05:02Z",
     "pushed_at": "2026-05-25T04:06:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7540,7 +7540,7 @@
     "name": "ArtemKutsan/astro-citrus",
     "url": "https://github.com/ArtemKutsan/astro-citrus",
     "description": "Astro Citrus",
-    "stars": 153,
+    "stars": 154,
     "forks": 49,
     "topics": [
       "astro",
@@ -7567,7 +7567,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-03-03T18:52:37Z",
-    "updated_at": "2026-05-30T10:59:42Z",
+    "updated_at": "2026-06-04T10:59:21Z",
     "pushed_at": "2025-03-10T17:05:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7776,7 +7776,7 @@
     "name": "unfolding-io/StarFunnel",
     "url": "https://github.com/unfolding-io/StarFunnel",
     "description": "the Astro powered landing page builder",
-    "stars": 160,
+    "stars": 161,
     "forks": 74,
     "topics": [
       "astro",
@@ -7794,7 +7794,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2023-11-19T14:35:58Z",
-    "updated_at": "2026-05-30T12:11:52Z",
+    "updated_at": "2026-06-04T11:59:33Z",
     "pushed_at": "2024-07-08T10:42:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8689,7 +8689,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-06-03T00:32:15Z",
-    "pushed_at": "2026-06-03T22:28:24Z",
+    "pushed_at": "2026-06-04T08:35:16Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -9939,8 +9939,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-05-27T15:27:47Z",
-    "pushed_at": "2026-05-27T15:25:08Z",
+    "updated_at": "2026-06-04T12:02:02Z",
+    "pushed_at": "2026-06-04T12:01:58Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
   "ebootheee/emdash-plugin-stl-viewer": {
