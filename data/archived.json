@@ -1,0 +1,21 @@
+{
+  "astro-reactive/astro-reactive": {
+    "name": "astro-reactive/astro-reactive",
+    "url": "https://github.com/astro-reactive/astro-reactive",
+    "description": "Let your data build your UI, with Astro components",
+    "stars": 86,
+    "forks": 1,
+    "topics": [
+      "astro-component",
+      "reactive-forms"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2022-10-01T14:00:27Z",
+    "updated_at": "2026-01-31T19:53:26Z",
+    "pushed_at": "2025-03-09T19:11:22Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-06-05T13:18:04.753Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 452 days ago"
+  }
+}
