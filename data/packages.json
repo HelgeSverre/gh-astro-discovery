@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-04T14:33:33Z",
-    "pushed_at": "2026-06-04T14:30:53Z",
+    "updated_at": "2026-06-04T22:25:27Z",
+    "pushed_at": "2026-06-04T22:25:23Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-06-01T03:33:03Z",
-    "pushed_at": "2026-06-03T18:59:21Z",
+    "pushed_at": "2026-06-05T00:44:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 32,
+    "stars": 33,
     "forks": 4,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-05-29T14:46:30Z",
+    "updated_at": "2026-06-05T01:03:45Z",
     "pushed_at": "2026-05-28T05:13:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2830,7 +2830,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-05-31T00:26:05Z",
+    "pushed_at": "2026-06-04T23:58:07Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -4432,8 +4432,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-04T02:34:55Z",
-    "pushed_at": "2026-06-04T16:30:29Z",
+    "updated_at": "2026-06-05T00:51:27Z",
+    "pushed_at": "2026-06-05T00:51:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5304,8 +5304,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-04T15:50:53Z",
-    "pushed_at": "2026-06-04T15:50:49Z",
+    "updated_at": "2026-06-04T23:50:25Z",
+    "pushed_at": "2026-06-04T23:50:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5334,8 +5334,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-04T15:48:37Z",
-    "pushed_at": "2026-06-04T15:48:33Z",
+    "updated_at": "2026-06-04T23:48:03Z",
+    "pushed_at": "2026-06-04T23:48:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5389,8 +5389,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-04T15:35:56Z",
-    "pushed_at": "2026-06-04T15:32:14Z",
+    "updated_at": "2026-06-04T23:31:14Z",
+    "pushed_at": "2026-06-04T23:31:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5422,8 +5422,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-04T18:56:02Z",
-    "pushed_at": "2026-06-04T18:55:59Z",
+    "updated_at": "2026-06-04T22:04:35Z",
+    "pushed_at": "2026-06-04T22:04:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5455,8 +5455,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-04T18:50:28Z",
-    "pushed_at": "2026-06-04T18:50:24Z",
+    "updated_at": "2026-06-04T21:58:26Z",
+    "pushed_at": "2026-06-04T21:58:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5479,8 +5479,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-04T18:34:08Z",
-    "pushed_at": "2026-06-04T18:34:04Z",
+    "updated_at": "2026-06-04T21:43:13Z",
+    "pushed_at": "2026-06-04T21:43:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5526,8 +5526,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
-    "updated_at": "2026-05-18T14:21:15Z",
-    "pushed_at": "2026-05-18T14:18:06Z",
+    "updated_at": "2026-06-05T01:01:55Z",
+    "pushed_at": "2026-06-05T01:01:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5559,7 +5559,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 27,
-    "forks": 18,
+    "forks": 19,
     "topics": [
       "astro-theme",
       "contribute",
@@ -9939,8 +9939,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-06-04T18:39:21Z",
-    "pushed_at": "2026-06-04T18:39:10Z",
+    "updated_at": "2026-06-04T19:49:48Z",
+    "pushed_at": "2026-06-04T19:49:45Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
   "ebootheee/emdash-plugin-stl-viewer": {
