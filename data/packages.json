@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-06T04:03:37Z",
-    "pushed_at": "2026-06-06T04:03:34Z",
+    "updated_at": "2026-06-06T10:51:35Z",
+    "pushed_at": "2026-06-06T10:51:31Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -783,7 +783,7 @@
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
     "stars": 33,
-    "forks": 4,
+    "forks": 3,
     "topics": [
       "ai-tools",
       "astro-integration",
@@ -2693,7 +2693,7 @@
     "license": null,
     "created_at": "2024-07-16T00:23:38Z",
     "updated_at": "2026-05-22T13:07:36Z",
-    "pushed_at": "2026-06-06T01:05:28Z",
+    "pushed_at": "2026-06-06T11:07:47Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dirsigler/astro-securitytxt": {
@@ -3699,8 +3699,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-01-14T16:06:06Z",
-    "updated_at": "2026-05-27T14:16:28Z",
-    "pushed_at": "2025-11-01T15:19:57Z",
+    "updated_at": "2026-06-06T07:53:24Z",
+    "pushed_at": "2026-06-06T07:53:21Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "unfolding-io/astro-chatty-gpt": {
@@ -4419,7 +4419,7 @@
   "iveelsm/astro-font-loader": {
     "name": "iveelsm/astro-font-loader",
     "url": "https://github.com/iveelsm/astro-font-loader",
-    "description": "Loads fonts from custom font packages",
+    "description": "Astro integration for loading fonts into build artifacts with configurable output paths and media query-based conditional preloading",
     "stars": 0,
     "forks": 0,
     "topics": [
@@ -4435,8 +4435,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-06T07:14:32Z",
-    "pushed_at": "2026-06-06T07:16:07Z",
+    "updated_at": "2026-06-06T07:36:46Z",
+    "pushed_at": "2026-06-06T07:36:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-06T05:11:05Z",
-    "pushed_at": "2026-06-06T05:11:02Z",
+    "updated_at": "2026-06-06T11:57:23Z",
+    "pushed_at": "2026-06-06T11:57:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-06T05:09:00Z",
-    "pushed_at": "2026-06-06T05:08:57Z",
+    "updated_at": "2026-06-06T11:55:12Z",
+    "pushed_at": "2026-06-06T11:55:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-06T04:54:01Z",
-    "pushed_at": "2026-06-06T04:53:57Z",
+    "updated_at": "2026-06-06T11:40:47Z",
+    "pushed_at": "2026-06-06T11:40:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-06T03:43:26Z",
-    "pushed_at": "2026-06-06T03:43:22Z",
+    "updated_at": "2026-06-06T10:35:20Z",
+    "pushed_at": "2026-06-06T10:35:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-06T03:37:30Z",
-    "pushed_at": "2026-06-06T03:37:26Z",
+    "updated_at": "2026-06-06T10:30:27Z",
+    "pushed_at": "2026-06-06T10:30:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-06T03:22:39Z",
-    "pushed_at": "2026-06-06T03:22:36Z",
+    "updated_at": "2026-06-06T10:15:49Z",
+    "pushed_at": "2026-06-06T10:15:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6003,7 +6003,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 200,
+    "stars": 201,
     "forks": 42,
     "topics": [
       "astro",
@@ -6017,7 +6017,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-05-31T06:39:47Z",
+    "updated_at": "2026-06-06T09:49:05Z",
     "pushed_at": "2026-05-31T06:39:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6579,8 +6579,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-29T12:04:25Z",
-    "updated_at": "2026-06-06T05:47:40Z",
-    "pushed_at": "2026-06-06T05:47:29Z",
+    "updated_at": "2026-06-06T11:25:26Z",
+    "pushed_at": "2026-06-06T11:25:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "fabformhub/paperastro": {
@@ -9925,8 +9925,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-06-06T04:38:34Z",
-    "pushed_at": "2026-06-06T04:38:31Z",
+    "updated_at": "2026-06-06T08:45:07Z",
+    "pushed_at": "2026-06-06T08:45:04Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
   "ebootheee/emdash-plugin-stl-viewer": {
@@ -10077,7 +10077,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-06-06T05:06:53Z",
-    "pushed_at": "2026-06-06T05:06:51Z",
+    "pushed_at": "2026-06-06T08:41:13Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
