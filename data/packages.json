@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-05T16:30:48Z",
-    "pushed_at": "2026-06-05T16:30:41Z",
+    "updated_at": "2026-06-06T01:06:43Z",
+    "pushed_at": "2026-06-06T01:06:39Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -57,7 +57,7 @@
     "name": "florian-lefebvre/astro-loading-indicator",
     "url": "https://github.com/florian-lefebvre/astro-loading-indicator",
     "description": "Display a progress bar between page navigations when using View Transitions",
-    "stars": 112,
+    "stars": 111,
     "forks": 10,
     "topics": [
       "astro",
@@ -69,7 +69,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-01-20T16:20:43Z",
-    "updated_at": "2026-06-01T07:09:01Z",
+    "updated_at": "2026-06-05T20:46:15Z",
     "pushed_at": "2026-06-01T07:08:57Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -562,7 +562,7 @@
     "name": "QwikDev/astro",
     "url": "https://github.com/QwikDev/astro",
     "description": "Qwik + Astro",
-    "stars": 288,
+    "stars": 287,
     "forks": 23,
     "topics": [
       "astro",
@@ -582,7 +582,7 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2023-11-02T16:34:40Z",
-    "updated_at": "2026-05-09T20:12:03Z",
+    "updated_at": "2026-06-05T22:18:50Z",
     "pushed_at": "2026-05-08T18:34:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1112,7 +1112,7 @@
     "name": "withstudiocms/ui",
     "url": "https://github.com/withstudiocms/ui",
     "description": "The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.",
-    "stars": 68,
+    "stars": 67,
     "forks": 8,
     "topics": [
       "astro",
@@ -1126,7 +1126,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-05T17:08:07Z",
-    "updated_at": "2026-06-04T04:43:09Z",
+    "updated_at": "2026-06-05T22:07:31Z",
     "pushed_at": "2026-03-21T14:28:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1391,7 +1391,7 @@
     "name": "ktym4a/astro-page-insight",
     "url": "https://github.com/ktym4a/astro-page-insight",
     "description": "Shows everything to improve from Lighthouse results directly on the page.",
-    "stars": 86,
+    "stars": 85,
     "forks": 2,
     "topics": [
       "astro",
@@ -1404,7 +1404,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-12T10:03:13Z",
-    "updated_at": "2026-02-23T02:20:24Z",
+    "updated_at": "2026-06-05T22:14:49Z",
     "pushed_at": "2026-01-12T01:52:19Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-05-30T15:29:27Z",
+    "pushed_at": "2026-06-05T20:04:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -2433,7 +2433,7 @@
     "name": "HiDeoo/astro-content-devtools",
     "url": "https://github.com/HiDeoo/astro-content-devtools",
     "description": "Browse Astro Content Collections, schemas and entry files in your browser",
-    "stars": 22,
+    "stars": 21,
     "forks": 3,
     "topics": [
       "astro",
@@ -2446,7 +2446,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-03-16T13:55:14Z",
-    "updated_at": "2025-10-31T01:53:40Z",
+    "updated_at": "2026-06-05T22:14:49Z",
     "pushed_at": "2024-01-04T17:38:36Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2693,7 +2693,7 @@
     "license": null,
     "created_at": "2024-07-16T00:23:38Z",
     "updated_at": "2026-05-22T13:07:36Z",
-    "pushed_at": "2026-05-27T12:02:40Z",
+    "pushed_at": "2026-06-06T01:05:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dirsigler/astro-securitytxt": {
@@ -2790,7 +2790,7 @@
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
     "stars": 79,
-    "forks": 24,
+    "forks": 25,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2918,7 +2918,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-05-20T21:01:15Z",
-    "pushed_at": "2026-06-03T21:33:03Z",
+    "pushed_at": "2026-06-06T00:58:32Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -3404,7 +3404,7 @@
     "name": "patrick91/astro-meta-tags",
     "url": "https://github.com/patrick91/astro-meta-tags",
     "description": "A small Astro Dev Toolbar app to help you check your meta tags ✨",
-    "stars": 91,
+    "stars": 90,
     "forks": 6,
     "topics": [
       "astro",
@@ -3413,7 +3413,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-01-05T21:56:47Z",
-    "updated_at": "2026-04-17T21:00:59Z",
+    "updated_at": "2026-06-05T22:14:48Z",
     "pushed_at": "2026-03-15T01:12:19Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3631,7 +3631,7 @@
     "name": "vite-pwa/astro",
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
-    "stars": 306,
+    "stars": 305,
     "forks": 13,
     "topics": [
       "astro",
@@ -3644,7 +3644,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-05-30T17:42:33Z",
+    "updated_at": "2026-06-05T22:07:21Z",
     "pushed_at": "2025-11-27T22:14:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3652,7 +3652,7 @@
     "name": "pauchiner/astro-command-palette",
     "url": "https://github.com/pauchiner/astro-command-palette",
     "description": "A lightweight, extensible and fast command palette for astro.",
-    "stars": 27,
+    "stars": 26,
     "forks": 3,
     "topics": [
       "astro-components",
@@ -3663,7 +3663,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-08T08:34:52Z",
-    "updated_at": "2026-02-20T15:09:35Z",
+    "updated_at": "2026-06-05T22:11:58Z",
     "pushed_at": "2025-11-19T20:26:43Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4070,7 +4070,7 @@
     "name": "RodrigoTomeES/astro-rename",
     "url": "https://github.com/RodrigoTomeES/astro-rename",
     "description": "Astro-Rename is an Astro integration that brings postcss-rename functionality to your Astro project without the need of configuration.",
-    "stars": 22,
+    "stars": 21,
     "forks": 4,
     "topics": [
       "astro",
@@ -4086,7 +4086,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2023-05-29T20:20:02Z",
-    "updated_at": "2025-12-22T10:55:06Z",
+    "updated_at": "2026-06-05T22:04:33Z",
     "pushed_at": "2024-06-21T11:58:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5067,7 +5067,7 @@
     "name": "SeanMcP/astro-emoji",
     "url": "https://github.com/SeanMcP/astro-emoji",
     "description": "🚀 An accessible Emoji component for Astro applications",
-    "stars": 21,
+    "stars": 20,
     "forks": 2,
     "topics": [
       "a11y",
@@ -5079,7 +5079,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2022-09-23T13:38:21Z",
-    "updated_at": "2025-06-12T20:13:04Z",
+    "updated_at": "2026-06-05T22:18:23Z",
     "pushed_at": "2022-12-01T13:58:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5287,8 +5287,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-05T17:46:30Z",
-    "pushed_at": "2026-06-05T17:46:27Z",
+    "updated_at": "2026-06-05T22:15:48Z",
+    "pushed_at": "2026-06-05T22:15:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5317,8 +5317,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-05T17:44:31Z",
-    "pushed_at": "2026-06-05T17:43:58Z",
+    "updated_at": "2026-06-05T22:13:15Z",
+    "pushed_at": "2026-06-05T22:13:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5372,8 +5372,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-05T17:27:37Z",
-    "pushed_at": "2026-06-05T17:27:33Z",
+    "updated_at": "2026-06-05T21:56:43Z",
+    "pushed_at": "2026-06-05T21:56:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5405,8 +5405,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-05T16:12:57Z",
-    "pushed_at": "2026-06-05T16:12:53Z",
+    "updated_at": "2026-06-06T00:51:00Z",
+    "pushed_at": "2026-06-06T00:50:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5438,8 +5438,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-05T16:07:35Z",
-    "pushed_at": "2026-06-05T16:07:30Z",
+    "updated_at": "2026-06-06T00:46:18Z",
+    "pushed_at": "2026-06-06T00:46:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5462,8 +5462,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-05T15:51:29Z",
-    "pushed_at": "2026-06-05T15:50:54Z",
+    "updated_at": "2026-06-06T00:31:37Z",
+    "pushed_at": "2026-06-06T00:31:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5510,7 +5510,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-05T10:48:20Z",
-    "pushed_at": "2026-06-05T10:48:43Z",
+    "pushed_at": "2026-06-06T01:02:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5900,7 +5900,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-05-12T02:51:22Z",
-    "pushed_at": "2026-06-03T21:02:27Z",
+    "pushed_at": "2026-06-05T23:56:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5992,8 +5992,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-06-05T17:53:03Z",
-    "pushed_at": "2026-06-05T17:52:38Z",
+    "updated_at": "2026-06-05T18:50:21Z",
+    "pushed_at": "2026-06-05T18:50:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -9847,7 +9847,7 @@
     "name": "cijiugechu/astro-link-preview",
     "url": "https://github.com/cijiugechu/astro-link-preview",
     "description": "This Astro integration generates preview images for external links.",
-    "stars": 44,
+    "stars": 43,
     "forks": 3,
     "topics": [
       "astro",
@@ -9860,7 +9860,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-05-28T15:29:07Z",
-    "updated_at": "2026-01-11T08:28:51Z",
+    "updated_at": "2026-06-05T19:28:47Z",
     "pushed_at": "2025-11-14T09:11:24Z",
     "discovered_at": "2026-05-18T13:31:42.522Z"
   },
@@ -10073,8 +10073,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-05-31T19:28:27Z",
-    "pushed_at": "2026-05-30T20:42:23Z",
+    "updated_at": "2026-06-06T01:04:30Z",
+    "pushed_at": "2026-06-06T01:05:02Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
