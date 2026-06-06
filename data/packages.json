@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-06T10:51:35Z",
-    "pushed_at": "2026-06-06T10:51:31Z",
+    "updated_at": "2026-06-06T14:54:50Z",
+    "pushed_at": "2026-06-06T14:54:47Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-05-14T02:03:26Z",
-    "pushed_at": "2026-06-05T17:14:45Z",
+    "pushed_at": "2026-06-06T17:47:29Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -685,7 +685,7 @@
     "license": "MIT",
     "created_at": "2026-05-02T09:18:16Z",
     "updated_at": "2026-05-03T20:23:20Z",
-    "pushed_at": "2026-05-30T15:03:32Z",
+    "pushed_at": "2026-06-06T15:03:06Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "freshjuice-dev/astro-search-plugin": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-05T17:00:39Z",
-    "pushed_at": "2026-06-05T17:47:51Z",
+    "pushed_at": "2026-06-06T17:48:40Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -2550,7 +2550,7 @@
     "name": "kitschpatrol/astro-media-kit",
     "url": "https://github.com/kitschpatrol/astro-media-kit",
     "description": "Astro components for images and video.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "aphex",
@@ -2572,7 +2572,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-06-01T01:19:33Z",
+    "updated_at": "2026-06-06T17:55:10Z",
     "pushed_at": "2026-05-20T00:06:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2830,7 +2830,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-06-04T23:58:07Z",
+    "pushed_at": "2026-06-06T16:14:50Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -3007,7 +3007,7 @@
     "name": "casoon/astro-site-files",
     "url": "https://github.com/casoon/astro-site-files",
     "description": "Astro integration that generates robots.txt, llms.txt, sitemap.xml, security.txt, and humans.txt at build time from typed configuration.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "topics": [
       "astro",
@@ -3023,7 +3023,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-06-04T13:27:29Z",
+    "updated_at": "2026-06-06T18:01:11Z",
     "pushed_at": "2026-06-04T13:26:45Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-06T11:57:23Z",
-    "pushed_at": "2026-06-06T11:57:20Z",
+    "updated_at": "2026-06-06T16:06:28Z",
+    "pushed_at": "2026-06-06T16:06:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-06T11:55:12Z",
-    "pushed_at": "2026-06-06T11:55:08Z",
+    "updated_at": "2026-06-06T16:04:09Z",
+    "pushed_at": "2026-06-06T16:04:06Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-06T11:40:47Z",
-    "pushed_at": "2026-06-06T11:40:44Z",
+    "updated_at": "2026-06-06T15:48:29Z",
+    "pushed_at": "2026-06-06T15:48:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-06T10:35:20Z",
-    "pushed_at": "2026-06-06T10:35:17Z",
+    "updated_at": "2026-06-06T14:35:57Z",
+    "pushed_at": "2026-06-06T14:35:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-06T10:30:27Z",
-    "pushed_at": "2026-06-06T10:30:23Z",
+    "updated_at": "2026-06-06T14:31:04Z",
+    "pushed_at": "2026-06-06T14:31:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-06T10:15:49Z",
-    "pushed_at": "2026-06-06T10:15:45Z",
+    "updated_at": "2026-06-06T14:15:09Z",
+    "pushed_at": "2026-06-06T14:15:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5571,7 +5571,7 @@
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
     "stars": 11,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-blog",
@@ -5619,7 +5619,7 @@
     "url": "https://github.com/louisescher/spectre",
     "description": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript. ",
     "stars": 156,
-    "forks": 34,
+    "forks": 33,
     "topics": [
       "astro",
       "astro-theme",
@@ -5712,7 +5712,7 @@
     "name": "souloss/astro-minimax",
     "url": "https://github.com/souloss/astro-minimax",
     "description": "A minimal, accessible & SEO-friendly Astro blog theme with AI chat, Mermaid diagrams, multi-language support, and dynamic OG images.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "topics": [
       "astro",
@@ -5723,7 +5723,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-03T18:14:27Z",
-    "updated_at": "2026-05-24T10:22:47Z",
+    "updated_at": "2026-06-06T12:46:03Z",
     "pushed_at": "2026-05-14T11:12:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6072,7 +6072,7 @@
     "name": "lin-stephanie/astro-antfustyle-theme",
     "url": "https://github.com/lin-stephanie/astro-antfustyle-theme",
     "description": "A flexible and feature-rich Astro theme for developers and creators.",
-    "stars": 249,
+    "stars": 250,
     "forks": 36,
     "topics": [
       "astro",
@@ -6093,7 +6093,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
-    "updated_at": "2026-06-05T16:06:43Z",
+    "updated_at": "2026-06-06T12:44:40Z",
     "pushed_at": "2026-06-05T16:06:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6579,8 +6579,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-29T12:04:25Z",
-    "updated_at": "2026-06-06T11:25:26Z",
-    "pushed_at": "2026-06-06T11:25:26Z",
+    "updated_at": "2026-06-06T15:27:18Z",
+    "pushed_at": "2026-06-06T15:27:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "fabformhub/paperastro": {
@@ -6629,7 +6629,7 @@
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-theme",
@@ -10015,7 +10015,7 @@
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
     "stars": 8,
-    "forks": 4,
+    "forks": 5,
     "topics": [
       "astro",
       "astro-blog",
@@ -10030,8 +10030,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-05T18:11:22Z",
-    "pushed_at": "2026-06-04T16:41:40Z",
+    "updated_at": "2026-06-06T18:27:51Z",
+    "pushed_at": "2026-06-06T18:27:49Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
   "unirate-api/astro-unirate": {
@@ -10076,8 +10076,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-06-06T05:06:53Z",
-    "pushed_at": "2026-06-06T08:41:13Z",
+    "updated_at": "2026-06-06T14:01:48Z",
+    "pushed_at": "2026-06-06T14:01:45Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10292,7 +10292,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 26,
-    "forks": 16,
+    "forks": 15,
     "topics": [
       "astro",
       "astro-template",
@@ -10370,7 +10370,7 @@
     "url": "https://github.com/themefisher/dockit-astro",
     "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
     "stars": 51,
-    "forks": 34,
+    "forks": 35,
     "topics": [
       "astro",
       "astro-theme",
@@ -10407,8 +10407,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-16T18:03:17Z",
-    "updated_at": "2026-06-05T16:32:37Z",
-    "pushed_at": "2026-06-05T16:32:33Z",
+    "updated_at": "2026-06-06T16:43:05Z",
+    "pushed_at": "2026-06-06T16:45:24Z",
     "discovered_at": "2026-06-05T13:18:04.752Z"
   }
 }
