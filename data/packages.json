@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-07T04:41:00Z",
-    "pushed_at": "2026-06-07T04:40:56Z",
+    "updated_at": "2026-06-07T12:37:39Z",
+    "pushed_at": "2026-06-07T12:37:36Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -303,8 +303,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
-    "updated_at": "2026-05-14T02:03:26Z",
-    "pushed_at": "2026-06-06T17:47:29Z",
+    "updated_at": "2026-06-07T08:50:44Z",
+    "pushed_at": "2026-06-07T08:50:42Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -554,8 +554,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-05T16:25:44Z",
-    "updated_at": "2026-06-07T07:37:19Z",
-    "pushed_at": "2026-06-07T07:37:16Z",
+    "updated_at": "2026-06-07T07:37:52Z",
+    "pushed_at": "2026-06-07T07:37:50Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "qwikdev/astro": {
@@ -646,7 +646,7 @@
     "license": "MIT",
     "created_at": "2026-04-25T23:20:36Z",
     "updated_at": "2026-05-05T03:19:11Z",
-    "pushed_at": "2026-05-24T08:13:33Z",
+    "pushed_at": "2026-06-07T08:13:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "karesztrk/astro-svg-icon": {
@@ -1364,7 +1364,7 @@
     "license": "AGPL-3.0",
     "created_at": "2025-12-14T15:01:12Z",
     "updated_at": "2026-01-26T11:50:22Z",
-    "pushed_at": "2026-06-03T11:49:15Z",
+    "pushed_at": "2026-06-07T10:22:25Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "frostybee/expressive-code-typewriter": {
@@ -2693,7 +2693,7 @@
     "license": null,
     "created_at": "2024-07-16T00:23:38Z",
     "updated_at": "2026-05-22T13:07:36Z",
-    "pushed_at": "2026-06-07T07:27:25Z",
+    "pushed_at": "2026-06-07T11:31:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dirsigler/astro-securitytxt": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-07T05:44:45Z",
-    "pushed_at": "2026-06-07T05:44:41Z",
+    "updated_at": "2026-06-07T09:44:03Z",
+    "pushed_at": "2026-06-07T09:43:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-07T05:42:27Z",
-    "pushed_at": "2026-06-07T05:42:23Z",
+    "updated_at": "2026-06-07T09:41:46Z",
+    "pushed_at": "2026-06-07T09:41:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-07T05:28:41Z",
-    "pushed_at": "2026-06-07T05:28:38Z",
+    "updated_at": "2026-06-07T09:26:02Z",
+    "pushed_at": "2026-06-07T09:25:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-07T04:24:54Z",
-    "pushed_at": "2026-06-07T04:24:50Z",
+    "updated_at": "2026-06-07T12:20:52Z",
+    "pushed_at": "2026-06-07T12:20:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-07T04:20:08Z",
-    "pushed_at": "2026-06-07T04:20:05Z",
+    "updated_at": "2026-06-07T12:15:53Z",
+    "pushed_at": "2026-06-07T12:15:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-07T04:05:32Z",
-    "pushed_at": "2026-06-07T04:05:29Z",
+    "updated_at": "2026-06-07T12:00:59Z",
+    "pushed_at": "2026-06-07T12:00:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5618,7 +5618,7 @@
     "name": "louisescher/spectre",
     "url": "https://github.com/louisescher/spectre",
     "description": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript. ",
-    "stars": 157,
+    "stars": 158,
     "forks": 33,
     "topics": [
       "astro",
@@ -5631,7 +5631,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-12-29T17:12:32Z",
-    "updated_at": "2026-06-07T03:25:30Z",
+    "updated_at": "2026-06-07T09:14:22Z",
     "pushed_at": "2026-05-22T06:07:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5639,7 +5639,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 124,
+    "stars": 125,
     "forks": 43,
     "topics": [
       "astro",
@@ -5655,8 +5655,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-07T03:27:12Z",
-    "pushed_at": "2026-05-22T01:14:57Z",
+    "updated_at": "2026-06-07T09:19:06Z",
+    "pushed_at": "2026-06-07T12:37:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mearashadowfax/datanova": {
@@ -5809,7 +5809,7 @@
     "name": "D-Sketon/astro-theme-reimu",
     "url": "https://github.com/D-Sketon/astro-theme-reimu",
     "description": "一款博丽灵梦风格的Astro主题 | A Hakurei Reimu style Astro theme. 💘Touhou💘",
-    "stars": 66,
+    "stars": 67,
     "forks": 10,
     "topics": [
       "astro",
@@ -5830,7 +5830,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-10T13:01:41Z",
-    "updated_at": "2026-06-02T03:39:39Z",
+    "updated_at": "2026-06-07T09:21:37Z",
     "pushed_at": "2026-05-13T15:14:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6072,7 +6072,7 @@
     "name": "lin-stephanie/astro-antfustyle-theme",
     "url": "https://github.com/lin-stephanie/astro-antfustyle-theme",
     "description": "A flexible and feature-rich Astro theme for developers and creators.",
-    "stars": 250,
+    "stars": 251,
     "forks": 36,
     "topics": [
       "astro",
@@ -6093,7 +6093,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
-    "updated_at": "2026-06-06T12:44:40Z",
+    "updated_at": "2026-06-07T07:45:43Z",
     "pushed_at": "2026-06-05T16:06:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6473,7 +6473,7 @@
     "name": "anglefeint/astro-theme-anglefeint",
     "url": "https://github.com/anglefeint/astro-theme-anglefeint",
     "description": "A cinematic, multi-atmosphere Astro theme for personal publishing.",
-    "stars": 0,
+    "stars": 1,
     "forks": 5,
     "topics": [
       "ai",
@@ -6488,7 +6488,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-05-31T17:05:51Z",
+    "updated_at": "2026-06-07T09:09:35Z",
     "pushed_at": "2026-05-31T17:05:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6543,7 +6543,7 @@
     "name": "RATIU5/zaggonaut",
     "url": "https://github.com/RATIU5/zaggonaut",
     "description": "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and of course, Astro.",
-    "stars": 90,
+    "stars": 91,
     "forks": 25,
     "topics": [
       "astro",
@@ -6554,7 +6554,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-24T20:11:46Z",
-    "updated_at": "2026-05-05T22:39:59Z",
+    "updated_at": "2026-06-07T09:12:44Z",
     "pushed_at": "2026-03-30T19:29:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6914,7 +6914,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 270,
+    "stars": 271,
     "forks": 74,
     "topics": [
       "astro",
@@ -6930,7 +6930,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-06-04T16:37:52Z",
+    "updated_at": "2026-06-07T09:31:31Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8574,7 +8574,7 @@
     "name": "frostybee/starlight-telescope",
     "url": "https://github.com/frostybee/starlight-telescope",
     "description": "A Starlight plugin to quickly navigate to any page in your Starlight docs with fuzzy search and keyboard-first navigation.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "topics": [
       "docum",
@@ -8587,7 +8587,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-26T01:16:03Z",
-    "updated_at": "2026-04-07T22:14:37Z",
+    "updated_at": "2026-06-07T08:25:30Z",
     "pushed_at": "2026-04-07T22:15:07Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -8674,8 +8674,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-06-05T04:30:49Z",
-    "pushed_at": "2026-06-06T01:54:39Z",
+    "updated_at": "2026-06-07T08:44:29Z",
+    "pushed_at": "2026-06-07T08:45:13Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -8689,7 +8689,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-05-22T12:25:52Z",
-    "pushed_at": "2026-05-31T08:15:24Z",
+    "pushed_at": "2026-06-07T08:18:03Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
@@ -10149,7 +10149,7 @@
     "name": "A58361/Ryze",
     "url": "https://github.com/A58361/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 32,
+    "stars": 33,
     "forks": 6,
     "topics": [
       "astro",
@@ -10176,7 +10176,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-06-02T20:40:21Z",
+    "updated_at": "2026-06-07T09:24:05Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -10343,7 +10343,7 @@
     "url": "https://github.com/themefisher/bigspring-light-astro",
     "description": "Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.  ",
     "stars": 171,
-    "forks": 146,
+    "forks": 145,
     "topics": [
       "astro-blog",
       "astro-bussiness-theme",
@@ -10431,5 +10431,31 @@
     "updated_at": "2026-06-07T07:02:01Z",
     "pushed_at": "2026-06-07T02:10:19Z",
     "discovered_at": "2026-06-07T07:37:49.685Z"
+  },
+  "eigdoyr/ryodgie-v2": {
+    "name": "eigdoyr/ryodgie-v2",
+    "url": "https://github.com/eigdoyr/ryodgie-v2",
+    "description": "Personal portfolio of Ryodgie Barnatia. Built with Astro, SCSS, TypeScript.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "front-end-developer",
+      "personal-website",
+      "portfolio",
+      "scss",
+      "static-site",
+      "typescript",
+      "webdesign",
+      "webdeveloper"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-05-20T03:30:54Z",
+    "updated_at": "2026-06-07T07:54:23Z",
+    "pushed_at": "2026-06-07T07:48:53Z",
+    "discovered_at": "2026-06-07T12:45:33.430Z"
   }
 }
