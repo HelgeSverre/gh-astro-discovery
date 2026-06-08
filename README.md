@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 495
-**Last updated:** 2026-06-08T01:20:32.510Z
+**Last updated:** 2026-06-08T08:03:32.228Z
 
 ## 📦 Recently Discovered
 
@@ -26,7 +26,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [felixicaza/capo](https://github.com/felixicaza/capo) | 12 | 🔷 The most accurate and modern <head> sorting! |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | Astro integration that uses existing configuration to write a static headers fil... |
 | [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | Astro integration for UniRate — build-time currency exchange rate snapshots, <Cu... |
-| [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 9 | A minimal Astro theme for blogs, notes, and quiet publishing. |
+| [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 10 | A minimal Astro theme for blogs, notes, and quiet publishing. |
 | [smart-developer1791/astro-quantum-hologram](https://github.com/smart-developer1791/astro-quantum-hologram) | 0 | 🌌 A visually stunning, deploy-ready Astro static site demonstrating next-genera... |
 | [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 0 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pages, YAML config, on... |
 
@@ -53,32 +53,32 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) | 171 | Bigspring is a highly customizable Astro theme designed specifically for SaaS & ... |
 | [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel) | 161 | the Astro powered landing page builder |
 | [louisescher/spectre](https://github.com/louisescher/spectre) | 158 | Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript... |
-| [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 156 | Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with light... |
+| [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 157 | Astro V6 theme built on AstroPaper. Global ⌘K search, image galleries with light... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-08 | Loaders for Astro's Content Layer |
-| [Valyay/astro-iubenda](https://github.com/Valyay/astro-iubenda) | 5 | 2026-06-08 | Astro integration to manage privacy policies, cookies and te... |
+| [SolitudeRA/Solitude-Interface](https://github.com/SolitudeRA/Solitude-Interface) | 3 | 2026-06-08 | A modern, high-performance personal blog interface built wit... |
+| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 69 | 2026-06-08 | Publish integrations within minutes. |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-08 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-08 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-08 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-07 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-07 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
-| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-07 | Build fast, responsive websites using Astro with a clean, cu... |
-| [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 156 | 2026-06-07 | Astro V6 theme built on AstroPaper. Global ⌘K search, image ... |
-| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-07 | 🚀 Automate IndexNow submissions for new or changed pages in... |
-| [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-06-07 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-07 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-07 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 2 | 2026-06-07 | ⭐A simple, fast and powerful blog & document theme built by ... |
-| [sudeep2003/astro-iconset](https://github.com/sudeep2003/astro-iconset) | 5 | 2026-06-07 | SVG icon integration for Astro — local icons, Iconify sets, ... |
-| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 125 | 2026-06-07 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
-| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-06-07 | Notro is Notion, Astro, Tailwind CSS based CMS. |
-| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 1 | 2026-06-07 | Automatically add your parameters to external links and URLs... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-06-07 | An Astro Prometheus nodejs middleware integration for Astro |
-| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-06-07 | Regular integration tests of Coordinated packages with astro... |
-| [obaronai/astro-ai-readiness](https://github.com/obaronai/astro-ai-readiness) | 0 | 2026-06-07 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-08 | Loaders for Astro's Content Layer |
+| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-08 | Build fast, responsive websites using Astro with a clean, cu... |
+| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-08 | 🚀 Automate IndexNow submissions for new or changed pages in... |
+| [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-06-08 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-08 | Convert 🫶🏻 |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-08 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-06-08 | The Astro Supabase starter demonstrates how to integrate Sup... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-08 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-08 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 278 | 2026-06-08 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-08 | Format 🗻 |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-08 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-06-08 | Astro integration that uses existing configuration to write ... |
+| [Valyay/astro-iubenda](https://github.com/Valyay/astro-iubenda) | 5 | 2026-06-08 | Astro integration to manage privacy policies, cookies and te... |
+| [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 157 | 2026-06-07 | Astro V6 theme built on AstroPaper. Global ⌘K search, image ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-08T08:03 | 0 | 491 | 495 |
 | 2026-06-08T01:20 | 0 | 491 | 495 |
 | 2026-06-07T18:38 | 0 | 491 | 495 |
 | 2026-06-07T12:45 | 1 | 490 | 495 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-06T12:40 | 0 | 489 | 493 |
 | 2026-06-06T07:17 | 0 | 489 | 493 |
 | 2026-06-06T01:11 | 0 | 489 | 493 |
-| 2026-06-05T18:50 | 0 | 489 | 493 |
 
 ---
 
