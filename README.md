@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 495
-**Last updated:** 2026-06-07T18:38:44.095Z
+**Last updated:** 2026-06-08T01:20:32.510Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 125 | 2026-06-07 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-07 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-08 | Loaders for Astro's Content Layer |
+| [Valyay/astro-iubenda](https://github.com/Valyay/astro-iubenda) | 5 | 2026-06-08 | Astro integration to manage privacy policies, cookies and te... |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-08 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-07 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-07 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-07 | Build fast, responsive websites using Astro with a clean, cu... |
-| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 2 | 2026-06-07 | ⭐A simple, fast and powerful blog & document theme built by ... |
+| [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) | 156 | 2026-06-07 | Astro V6 theme built on AstroPaper. Global ⌘K search, image ... |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-07 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-06-07 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-07 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-07 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 2 | 2026-06-07 | ⭐A simple, fast and powerful blog & document theme built by ... |
+| [sudeep2003/astro-iconset](https://github.com/sudeep2003/astro-iconset) | 5 | 2026-06-07 | SVG icon integration for Astro — local icons, Iconify sets, ... |
+| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 125 | 2026-06-07 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
 | [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-06-07 | Notro is Notion, Astro, Tailwind CSS based CMS. |
 | [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 1 | 2026-06-07 | Automatically add your parameters to external links and URLs... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-07 | Loaders for Astro's Content Layer |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-06-07 | An Astro Prometheus nodejs middleware integration for Astro |
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-06-07 | Regular integration tests of Coordinated packages with astro... |
 | [obaronai/astro-ai-readiness](https://github.com/obaronai/astro-ai-readiness) | 0 | 2026-06-07 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
-| [eigdoyr/ryodgie-v2](https://github.com/eigdoyr/ryodgie-v2) | 1 | 2026-06-07 | Personal portfolio of Ryodgie Barnatia. Built with Astro, SC... |
-| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 14 | 2026-06-07 | A integration for Astro adding a toolbar for users of astro-... |
-| [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 58 | 2026-06-07 | A content loader for Astro that uses the PocketBase API |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 2 | 2026-06-07 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-08T01:20 | 0 | 491 | 495 |
 | 2026-06-07T18:38 | 0 | 491 | 495 |
 | 2026-06-07T12:45 | 1 | 490 | 495 |
 | 2026-06-07T07:37 | 1 | 489 | 494 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-06T07:17 | 0 | 489 | 493 |
 | 2026-06-06T01:11 | 0 | 489 | 493 |
 | 2026-06-05T18:50 | 0 | 489 | 493 |
-| 2026-06-05T13:18 | 1 | 488 | 493 |
 
 ---
 

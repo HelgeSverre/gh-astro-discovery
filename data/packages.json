@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-07T15:39:55Z",
-    "pushed_at": "2026-06-07T15:39:52Z",
+    "updated_at": "2026-06-07T22:40:52Z",
+    "pushed_at": "2026-06-07T22:40:48Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-07T08:50:44Z",
-    "pushed_at": "2026-06-07T08:50:42Z",
+    "pushed_at": "2026-06-08T01:05:55Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -382,8 +382,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-04-05T07:53:49Z",
-    "updated_at": "2026-06-04T01:24:55Z",
-    "pushed_at": "2026-05-13T20:18:07Z",
+    "updated_at": "2026-06-07T19:11:58Z",
+    "pushed_at": "2026-06-07T19:11:55Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "jonasgeiler/astro-html-minifier-next": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-01T22:48:09Z",
-    "pushed_at": "2026-06-02T16:14:24Z",
+    "pushed_at": "2026-06-07T22:08:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -3083,7 +3083,7 @@
     "license": "MIT",
     "created_at": "2025-04-30T12:23:25Z",
     "updated_at": "2026-05-06T15:14:23Z",
-    "pushed_at": "2026-05-18T01:00:02Z",
+    "pushed_at": "2026-06-08T00:43:26Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-swiper": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-07T16:52:28Z",
-    "pushed_at": "2026-06-07T16:52:24Z",
+    "updated_at": "2026-06-07T23:41:57Z",
+    "pushed_at": "2026-06-07T23:41:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-07T16:49:59Z",
-    "pushed_at": "2026-06-07T16:49:56Z",
+    "updated_at": "2026-06-07T23:40:04Z",
+    "pushed_at": "2026-06-07T23:40:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-07T16:32:45Z",
-    "pushed_at": "2026-06-07T16:32:41Z",
+    "updated_at": "2026-06-07T23:26:25Z",
+    "pushed_at": "2026-06-07T23:26:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-07T15:23:29Z",
-    "pushed_at": "2026-06-07T15:23:25Z",
+    "updated_at": "2026-06-07T22:25:42Z",
+    "pushed_at": "2026-06-07T22:25:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-07T15:18:20Z",
-    "pushed_at": "2026-06-07T15:18:16Z",
+    "updated_at": "2026-06-07T22:21:01Z",
+    "pushed_at": "2026-06-07T22:20:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-07T15:02:45Z",
-    "pushed_at": "2026-06-07T15:02:41Z",
+    "updated_at": "2026-06-07T22:06:29Z",
+    "pushed_at": "2026-06-07T22:06:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5487,7 +5487,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-06-04T17:31:39Z",
-    "pushed_at": "2026-06-07T17:15:23Z",
+    "pushed_at": "2026-06-08T00:38:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5595,7 +5595,7 @@
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
     "stars": 8,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-template",
@@ -6004,7 +6004,7 @@
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
     "stars": 201,
-    "forks": 42,
+    "forks": 43,
     "topics": [
       "astro",
       "astro-template",
@@ -6180,7 +6180,7 @@
     "name": "psephopaiktes/astro-i18n-starter",
     "url": "https://github.com/psephopaiktes/astro-i18n-starter",
     "description": "A minimal i18n astro theme",
-    "stars": 149,
+    "stars": 148,
     "forks": 22,
     "topics": [
       "astro",
@@ -6193,7 +6193,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2024-05-25T06:35:35Z",
-    "updated_at": "2026-06-03T17:52:22Z",
+    "updated_at": "2026-06-08T00:24:02Z",
     "pushed_at": "2026-04-28T08:26:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6514,8 +6514,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-05T18:11:18Z",
-    "pushed_at": "2026-05-21T16:10:44Z",
+    "updated_at": "2026-06-07T22:55:56Z",
+    "pushed_at": "2026-06-07T22:55:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theserverlessdev/astro-monograph": {
@@ -9925,8 +9925,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-06-07T16:24:13Z",
-    "pushed_at": "2026-06-07T16:24:09Z",
+    "updated_at": "2026-06-07T21:38:53Z",
+    "pushed_at": "2026-06-07T21:38:50Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
   "ebootheee/emdash-plugin-stl-viewer": {
