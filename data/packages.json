@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-10T23:39:43Z",
-    "pushed_at": "2026-06-10T23:39:39Z",
+    "updated_at": "2026-06-11T06:22:41Z",
+    "pushed_at": "2026-06-11T06:22:37Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-10T04:13:49Z",
-    "pushed_at": "2026-06-10T04:13:46Z",
+    "updated_at": "2026-06-11T04:25:51Z",
+    "pushed_at": "2026-06-11T04:25:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-10T03:42:23Z",
-    "pushed_at": "2026-06-10T03:42:19Z",
+    "updated_at": "2026-06-11T03:59:11Z",
+    "pushed_at": "2026-06-11T03:59:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-10T03:26:26Z",
-    "pushed_at": "2026-06-10T03:26:22Z",
+    "updated_at": "2026-06-11T03:38:17Z",
+    "pushed_at": "2026-06-11T03:38:14Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-10T03:23:23Z",
-    "pushed_at": "2026-06-10T03:23:19Z",
+    "updated_at": "2026-06-11T03:35:38Z",
+    "pushed_at": "2026-06-11T03:35:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-09T13:16:28Z",
+    "pushed_at": "2026-06-11T02:29:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2572,8 +2572,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-06-06T17:55:10Z",
-    "pushed_at": "2026-05-20T00:06:59Z",
+    "updated_at": "2026-06-11T05:25:22Z",
+    "pushed_at": "2026-06-11T05:25:19Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-html-kit": {
@@ -2594,8 +2594,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:48:36Z",
-    "updated_at": "2026-05-26T17:55:39Z",
-    "pushed_at": "2026-05-17T16:50:10Z",
+    "updated_at": "2026-06-11T04:44:36Z",
+    "pushed_at": "2026-06-11T04:44:33Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-feed-kit": {
@@ -2617,8 +2617,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:46:17Z",
-    "updated_at": "2026-06-03T21:15:02Z",
-    "pushed_at": "2026-05-17T16:48:03Z",
+    "updated_at": "2026-06-11T05:21:52Z",
+    "pushed_at": "2026-06-11T05:21:49Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-mdx-kit": {
@@ -2641,15 +2641,15 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-23T05:42:13Z",
-    "updated_at": "2026-06-01T01:23:45Z",
-    "pushed_at": "2026-05-16T19:41:00Z",
+    "updated_at": "2026-06-11T04:42:14Z",
+    "pushed_at": "2026-06-11T04:42:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-leaflet": {
     "name": "pascal-brand38/astro-leaflet",
     "url": "https://github.com/pascal-brand38/astro-leaflet",
     "description": "Leaflet astro component, to display maps: googlemaps, openstreetmap, google maps,... ⭐️ Star to support",
-    "stars": 14,
+    "stars": 15,
     "forks": 1,
     "topics": [
       "astro",
@@ -2663,7 +2663,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-07-15T08:48:56Z",
-    "updated_at": "2026-05-16T16:00:54Z",
+    "updated_at": "2026-06-11T01:25:49Z",
     "pushed_at": "2026-05-16T14:34:24Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2738,7 +2738,7 @@
     "license": "MIT",
     "created_at": "2025-06-29T23:36:28Z",
     "updated_at": "2026-05-30T10:16:09Z",
-    "pushed_at": "2026-06-04T06:09:14Z",
+    "pushed_at": "2026-06-11T06:09:15Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "virtuslab-open-source/astro-strapi-loader": {
@@ -2782,7 +2782,7 @@
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
     "updated_at": "2026-05-19T15:21:18Z",
-    "pushed_at": "2026-06-03T08:20:47Z",
+    "pushed_at": "2026-06-11T07:40:37Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dodopayments/dualmark": {
@@ -3128,7 +3128,7 @@
     "name": "pascal-brand38/astro-dev",
     "url": "https://github.com/pascal-brand38/astro-dev",
     "description": "Astro package and site development doc",
-    "stars": 9,
+    "stars": 10,
     "forks": 3,
     "topics": [
       "astro",
@@ -3149,7 +3149,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-10-16T14:43:11Z",
-    "updated_at": "2026-06-05T16:58:20Z",
+    "updated_at": "2026-06-11T01:28:01Z",
     "pushed_at": "2026-06-02T16:18:29Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3157,7 +3157,7 @@
     "name": "pascal-brand38/astro-splide",
     "url": "https://github.com/pascal-brand38/astro-splide",
     "description": "The Astro component for Splide  dedicated to slides / carousel / photo swiper. ⭐️ Star to support",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "topics": [
       "astro",
@@ -3169,7 +3169,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-03-22T18:55:02Z",
-    "updated_at": "2026-05-03T16:30:28Z",
+    "updated_at": "2026-06-11T01:27:00Z",
     "pushed_at": "2026-05-03T16:30:24Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-10T18:23:36Z",
-    "pushed_at": "2026-06-10T18:23:32Z",
+    "updated_at": "2026-06-11T01:22:15Z",
+    "pushed_at": "2026-06-11T01:22:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-11T00:57:13Z",
-    "pushed_at": "2026-06-11T00:57:10Z",
+    "updated_at": "2026-06-11T07:39:06Z",
+    "pushed_at": "2026-06-11T07:39:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-10T23:14:12Z",
-    "pushed_at": "2026-06-10T23:14:07Z",
+    "updated_at": "2026-06-11T05:57:45Z",
+    "pushed_at": "2026-06-11T05:57:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-10T23:06:22Z",
-    "pushed_at": "2026-06-10T23:06:18Z",
+    "updated_at": "2026-06-11T05:50:04Z",
+    "pushed_at": "2026-06-11T05:50:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-10T22:42:29Z",
-    "pushed_at": "2026-06-10T22:42:26Z",
+    "updated_at": "2026-06-11T05:27:27Z",
+    "pushed_at": "2026-06-11T05:27:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5640,7 +5640,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 128,
-    "forks": 44,
+    "forks": 43,
     "topics": [
       "astro",
       "astro-theme",
@@ -5902,8 +5902,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
-    "updated_at": "2026-06-09T21:10:15Z",
-    "pushed_at": "2026-06-11T00:12:32Z",
+    "updated_at": "2026-06-11T03:52:46Z",
+    "pushed_at": "2026-06-11T03:53:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5995,8 +5995,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-06-10T18:08:57Z",
-    "pushed_at": "2026-06-10T18:08:39Z",
+    "updated_at": "2026-06-11T07:33:47Z",
+    "pushed_at": "2026-06-11T07:33:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -6579,8 +6579,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-29T12:04:25Z",
-    "updated_at": "2026-06-10T14:56:09Z",
-    "pushed_at": "2026-06-10T14:51:05Z",
+    "updated_at": "2026-06-11T04:54:49Z",
+    "pushed_at": "2026-06-11T04:55:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "fabformhub/paperastro": {
@@ -8070,7 +8070,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-06-04T14:33:48Z",
-    "pushed_at": "2026-06-10T06:43:07Z",
+    "pushed_at": "2026-06-11T06:43:14Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -8660,8 +8660,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2023-08-13T17:06:23Z",
-    "updated_at": "2026-06-10T18:00:05Z",
-    "pushed_at": "2026-06-10T18:00:00Z",
+    "updated_at": "2026-06-11T07:01:44Z",
+    "pushed_at": "2026-06-11T07:01:41Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "dvelasquez/astro-prometheus-integration": {
@@ -8675,7 +8675,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-06-07T08:44:29Z",
-    "pushed_at": "2026-06-10T18:28:06Z",
+    "pushed_at": "2026-06-11T02:45:34Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
