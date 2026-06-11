@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 495
-**Last updated:** 2026-06-11T13:37:54.864Z
+**Last updated:** 2026-06-11T19:14:06.915Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-11 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | 2026-06-11 | Inline 🦔 |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-11 | This Astro component simplifies the process of adding moneti... |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-11 | Format 🗻 |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-06-11 | Astro integration that uses existing configuration to write ... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-11 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-06-11 | Documentation for Azion's services and features. |
+| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-06-11 | Fetch data from the Stripe API and use it in Astro collectio... |
+| [alex-grover/astro-themes](https://github.com/alex-grover/astro-themes) | 83 | 2026-06-11 | Easy dark mode for Astro websites |
+| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 254 | 2026-06-11 | A flexible and feature-rich Astro theme for developers and c... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-11 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-11 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-11 | ✨A static blog template built with Astro. |
+| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-11 | Build fast, responsive websites using Astro with a clean, cu... |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-11 | The global variable integration for Astro 🌐 |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-11 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-11 | Matomo integration for Astro |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-06-11 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-11 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-11 | 🌟 Create stunning websites with the Mainline Astro Template... |
 | [SolitudeRA/Solitude-Interface](https://github.com/SolitudeRA/Solitude-Interface) | 3 | 2026-06-11 | A modern, high-performance personal blog interface built wit... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-06-11 | An Astro Prometheus nodejs middleware integration for Astro |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-11 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-06-11 | A minimal Astro blog theme |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-11 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 2 | 2026-06-11 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-06-11 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-11 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-11 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
-| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 54 | 2026-06-11 | Render Elm modules as Astro components |
-| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-11 | Build fast, responsive websites using Astro with a clean, cu... |
-| [lirantal/triggerdev-astro-integration](https://github.com/lirantal/triggerdev-astro-integration) | 0 | 2026-06-11 | An Astro-native integration for Trigger.dev background jobs ... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-11 | The Astro Quick Start package covers the basics of connectin... |
-| [felixicaza/astro-lqip](https://github.com/felixicaza/astro-lqip) | 26 | 2026-06-11 | 🖼️  Native extended Astro components for generating low-qua... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-11T19:14 | 0 | 491 | 495 |
 | 2026-06-11T13:37 | 0 | 491 | 495 |
 | 2026-06-11T07:58 | 0 | 491 | 495 |
 | 2026-06-11T01:19 | 0 | 491 | 495 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-10T01:16 | 0 | 491 | 495 |
 | 2026-06-09T18:56 | 0 | 491 | 495 |
 | 2026-06-09T13:14 | 0 | 491 | 495 |
-| 2026-06-09T07:30 | 0 | 491 | 495 |
 
 ---
 
