@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-12T06:52:53Z",
-    "pushed_at": "2026-06-12T06:52:49Z",
+    "updated_at": "2026-06-12T09:42:26Z",
+    "pushed_at": "2026-06-12T09:42:22Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-12T03:59:04Z",
-    "pushed_at": "2026-06-12T03:59:01Z",
+    "updated_at": "2026-06-12T09:03:22Z",
+    "pushed_at": "2026-06-12T09:03:19Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-11T00:47:36Z",
-    "pushed_at": "2026-06-11T16:31:54Z",
+    "updated_at": "2026-06-12T10:59:29Z",
+    "pushed_at": "2026-06-12T10:59:26Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-06-12T05:06:21Z",
-    "pushed_at": "2026-06-12T05:08:08Z",
+    "updated_at": "2026-06-12T10:12:37Z",
+    "pushed_at": "2026-06-12T10:13:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-05T17:00:39Z",
-    "pushed_at": "2026-06-06T17:48:40Z",
+    "pushed_at": "2026-06-12T12:47:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -2790,7 +2790,7 @@
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
     "stars": 85,
-    "forks": 26,
+    "forks": 27,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-12T04:32:52Z",
-    "pushed_at": "2026-06-10T19:12:04Z",
+    "updated_at": "2026-06-12T13:00:40Z",
+    "pushed_at": "2026-06-12T12:51:05Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -3090,7 +3090,7 @@
     "name": "pascal-brand38/astro-swiper",
     "url": "https://github.com/pascal-brand38/astro-swiper",
     "description": "Astro component for swiper, dedicated to slider / carousel / photo swiper / slide. ⭐️ Star to support",
-    "stars": 26,
+    "stars": 27,
     "forks": 2,
     "topics": [
       "astro",
@@ -3103,7 +3103,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-05-29T06:41:28Z",
+    "updated_at": "2026-06-12T12:33:46Z",
     "pushed_at": "2026-05-29T06:41:27Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-12T04:13:25Z",
-    "pushed_at": "2026-06-12T04:13:22Z",
+    "updated_at": "2026-06-12T10:48:19Z",
+    "pushed_at": "2026-06-12T10:48:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-12T04:11:16Z",
-    "pushed_at": "2026-06-12T04:11:13Z",
+    "updated_at": "2026-06-12T10:46:34Z",
+    "pushed_at": "2026-06-12T10:46:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5345,8 +5345,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-06-12T06:14:22Z",
-    "pushed_at": "2026-06-12T06:14:18Z",
+    "updated_at": "2026-06-12T11:14:58Z",
+    "pushed_at": "2026-06-12T11:14:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-12T07:41:24Z",
-    "pushed_at": "2026-06-12T07:41:20Z",
+    "updated_at": "2026-06-12T10:31:49Z",
+    "pushed_at": "2026-06-12T10:31:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-12T06:37:07Z",
-    "pushed_at": "2026-06-12T06:37:03Z",
+    "updated_at": "2026-06-12T13:16:16Z",
+    "pushed_at": "2026-06-12T13:15:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-12T06:32:23Z",
-    "pushed_at": "2026-06-12T06:32:19Z",
+    "updated_at": "2026-06-12T13:10:35Z",
+    "pushed_at": "2026-06-12T13:10:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-12T06:18:13Z",
-    "pushed_at": "2026-06-12T06:18:09Z",
+    "updated_at": "2026-06-12T12:56:29Z",
+    "pushed_at": "2026-06-12T12:55:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5570,7 +5570,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 12,
+    "stars": 13,
     "forks": 5,
     "topics": [
       "astro",
@@ -5586,7 +5586,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-06-09T16:27:32Z",
+    "updated_at": "2026-06-12T12:55:56Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5995,8 +5995,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-06-11T10:19:49Z",
-    "pushed_at": "2026-06-11T10:19:45Z",
+    "updated_at": "2026-06-12T13:03:03Z",
+    "pushed_at": "2026-06-12T13:02:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -6236,7 +6236,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 376,
+    "stars": 377,
     "forks": 133,
     "topics": [
       "astro-build",
@@ -6256,7 +6256,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-06-04T11:05:02Z",
+    "updated_at": "2026-06-12T12:52:33Z",
     "pushed_at": "2026-05-25T04:06:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6378,7 +6378,7 @@
     "name": "510208/sh-blog-next",
     "url": "https://github.com/510208/sh-blog-next",
     "description": "A simple, lightweight, Chinese-based personal blog template, highly customizable, suitable for personal blogs.",
-    "stars": 20,
+    "stars": 21,
     "forks": 3,
     "topics": [
       "astro",
@@ -6393,7 +6393,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-11-30T13:16:32Z",
-    "updated_at": "2026-06-05T06:57:10Z",
+    "updated_at": "2026-06-12T12:53:33Z",
     "pushed_at": "2026-05-24T05:44:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8557,7 +8557,7 @@
     "name": "dlcastillop/starlight-page-actions",
     "url": "https://github.com/dlcastillop/starlight-page-actions",
     "description": "A Starlight plugin that adds page action buttons to your documentation.",
-    "stars": 14,
+    "stars": 15,
     "forks": 0,
     "topics": [
       "starlight-astro",
@@ -8566,7 +8566,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-25T14:16:51Z",
-    "updated_at": "2026-06-09T15:43:17Z",
+    "updated_at": "2026-06-12T08:56:29Z",
     "pushed_at": "2026-06-09T15:21:09Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -8660,8 +8660,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2023-08-13T17:06:23Z",
-    "updated_at": "2026-06-11T07:01:44Z",
-    "pushed_at": "2026-06-11T07:01:41Z",
+    "updated_at": "2026-06-12T09:41:02Z",
+    "pushed_at": "2026-06-12T09:40:30Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "dvelasquez/astro-prometheus-integration": {
@@ -8689,7 +8689,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-05-22T12:25:52Z",
-    "pushed_at": "2026-06-07T08:18:03Z",
+    "pushed_at": "2026-06-12T09:04:15Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
