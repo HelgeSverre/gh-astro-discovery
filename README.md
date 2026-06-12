@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 496
-**Last updated:** 2026-06-12T13:25:46.826Z
+**Last updated:** 2026-06-12T18:52:04.423Z
 
 ## 📦 Recently Discovered
 
@@ -15,7 +15,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [atomiechen/astroprint](https://github.com/atomiechen/astroprint) | 0 | Print-ready Markdown documents for Astro, with normal web preview, paged preview... |
 | [themefisher/automark-astro](https://github.com/themefisher/automark-astro) | 21 | Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS... |
 | [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) | 172 | Bigspring is a highly customizable Astro theme designed specifically for SaaS & ... |
-| [themefisher/dockit-astro](https://github.com/themefisher/dockit-astro) | 51 | 🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Sta... |
+| [themefisher/dockit-astro](https://github.com/themefisher/dockit-astro) | 52 | 🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Sta... |
 | [webrating/starfolio](https://github.com/webrating/starfolio) | 26 | Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and d... |
 | [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | Your favorite dark mode word counter, now with grammar checking! Count the numbe... |
 | [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 13 | An Astro integration for generating screenshots of your pages automatically at b... |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [CuB3y0nd/assembly.rip](https://github.com/CuB3y0nd/assembly.rip) | 5 | 2026-06-12 | My personal portfolio. |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-12 | Format 🗻 |
+| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 128 | 2026-06-12 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
+| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-06-12 | A minimal Astro blog theme |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-12 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-12 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
+| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-12 | Build fast, responsive websites using Astro with a clean, cu... |
+| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-12 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-06-12 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-12 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-06-12 | A minimal Astro blog theme |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-12 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-06-12 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
+| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 43 | 2026-06-12 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
 | [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 85 | 2026-06-12 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
 | [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-12 | This package provides a YouTube video loader for the Astro L... |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-12 | ✨A static blog template built with Astro. |
 | [aziontech/docs](https://github.com/aziontech/docs) | 11 | 2026-06-12 | Documentation for Azion's services and features. |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-12 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-12 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
-| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-12 | Build fast, responsive websites using Astro with a clean, cu... |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-12 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-12 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [lirantal/triggerdev-astro-integration](https://github.com/lirantal/triggerdev-astro-integration) | 0 | 2026-06-12 | An Astro-native integration for Trigger.dev background jobs ... |
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-06-12 | Regular integration tests of Coordinated packages with astro... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-12 | Network 🚠 |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-12 | Convert 🫶🏻 |
-| [SolitudeRA/Solitude-Interface](https://github.com/SolitudeRA/Solitude-Interface) | 3 | 2026-06-12 | A modern, high-performance personal blog interface built wit... |
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 0 | 2026-06-12 | Simple and cute Standard.site integration for Astro |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | 2026-06-12 | Inline 🦔 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-12T18:52 | 0 | 492 | 496 |
 | 2026-06-12T13:25 | 0 | 492 | 496 |
 | 2026-06-12T07:53 | 1 | 491 | 496 |
 | 2026-06-12T01:21 | 0 | 491 | 495 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-11T01:19 | 0 | 491 | 495 |
 | 2026-06-10T19:06 | 0 | 491 | 495 |
 | 2026-06-10T13:28 | 0 | 491 | 495 |
-| 2026-06-10T07:45 | 0 | 491 | 495 |
 
 ---
 

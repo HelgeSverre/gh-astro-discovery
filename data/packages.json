@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-12T09:42:26Z",
-    "pushed_at": "2026-06-12T09:42:22Z",
+    "updated_at": "2026-06-12T16:29:49Z",
+    "pushed_at": "2026-06-12T16:29:44Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -191,7 +191,7 @@
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
     "updated_at": "2026-06-12T03:35:10Z",
-    "pushed_at": "2026-06-12T03:35:07Z",
+    "pushed_at": "2026-06-12T18:23:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 33,
+    "stars": 34,
     "forks": 3,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-06-05T01:03:45Z",
+    "updated_at": "2026-06-12T14:28:52Z",
     "pushed_at": "2026-05-28T05:13:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2830,7 +2830,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-06-06T16:14:50Z",
+    "pushed_at": "2026-06-12T15:15:33Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -5128,8 +5128,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-06-02T12:46:29Z",
-    "pushed_at": "2026-05-24T17:36:12Z",
+    "updated_at": "2026-06-12T15:12:06Z",
+    "pushed_at": "2026-06-12T15:12:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "adaptive-shield-matrix/astro-ui": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-12T10:48:19Z",
-    "pushed_at": "2026-06-12T10:48:15Z",
+    "updated_at": "2026-06-12T17:40:58Z",
+    "pushed_at": "2026-06-12T17:40:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-12T10:46:34Z",
-    "pushed_at": "2026-06-12T10:46:08Z",
+    "updated_at": "2026-06-12T17:38:50Z",
+    "pushed_at": "2026-06-12T17:38:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-12T10:31:49Z",
-    "pushed_at": "2026-06-12T10:31:46Z",
+    "updated_at": "2026-06-12T17:23:08Z",
+    "pushed_at": "2026-06-12T17:23:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-12T13:16:16Z",
-    "pushed_at": "2026-06-12T13:15:40Z",
+    "updated_at": "2026-06-12T16:12:05Z",
+    "pushed_at": "2026-06-12T16:12:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-12T13:10:35Z",
-    "pushed_at": "2026-06-12T13:10:28Z",
+    "updated_at": "2026-06-12T16:07:04Z",
+    "pushed_at": "2026-06-12T16:07:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-12T12:56:29Z",
-    "pushed_at": "2026-06-12T12:55:48Z",
+    "updated_at": "2026-06-12T15:51:29Z",
+    "pushed_at": "2026-06-12T15:51:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5656,7 +5656,7 @@
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
     "updated_at": "2026-06-10T11:13:04Z",
-    "pushed_at": "2026-06-07T17:48:32Z",
+    "pushed_at": "2026-06-12T18:17:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mearashadowfax/datanova": {
@@ -5770,7 +5770,7 @@
     "license": "MIT",
     "created_at": "2025-03-10T17:19:34Z",
     "updated_at": "2026-05-06T06:53:24Z",
-    "pushed_at": "2026-06-08T18:47:57Z",
+    "pushed_at": "2026-06-12T18:46:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "smart-developer1791/astro-tron-vr-tournament": {
@@ -5995,8 +5995,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-06-12T13:03:03Z",
-    "pushed_at": "2026-06-12T13:02:52Z",
+    "updated_at": "2026-06-12T18:08:34Z",
+    "pushed_at": "2026-06-12T18:08:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -10369,7 +10369,7 @@
     "name": "themefisher/dockit-astro",
     "url": "https://github.com/themefisher/dockit-astro",
     "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
-    "stars": 51,
+    "stars": 52,
     "forks": 35,
     "topics": [
       "astro",
@@ -10385,7 +10385,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-10-19T09:24:22Z",
-    "updated_at": "2026-06-03T09:18:51Z",
+    "updated_at": "2026-06-12T17:01:01Z",
     "pushed_at": "2026-03-14T07:48:54Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
