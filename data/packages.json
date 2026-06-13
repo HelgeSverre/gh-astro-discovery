@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-13T05:56:01Z",
-    "pushed_at": "2026-06-13T05:55:57Z",
+    "updated_at": "2026-06-13T10:28:27Z",
+    "pushed_at": "2026-06-13T10:28:24Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -783,7 +783,7 @@
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
     "stars": 34,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "ai-tools",
       "astro-integration",
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-08T01:47:00Z",
-    "pushed_at": "2026-06-11T21:08:59Z",
+    "pushed_at": "2026-06-13T12:40:04Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-06-05T20:04:01Z",
+    "pushed_at": "2026-06-13T07:46:49Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-13T07:26:05Z",
-    "pushed_at": "2026-06-13T07:26:01Z",
+    "updated_at": "2026-06-13T11:34:22Z",
+    "pushed_at": "2026-06-13T11:34:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-13T07:22:57Z",
-    "pushed_at": "2026-06-13T07:22:54Z",
+    "updated_at": "2026-06-13T11:32:13Z",
+    "pushed_at": "2026-06-13T11:32:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-13T07:03:09Z",
-    "pushed_at": "2026-06-13T07:03:05Z",
+    "updated_at": "2026-06-13T11:17:36Z",
+    "pushed_at": "2026-06-13T11:17:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-13T05:34:13Z",
-    "pushed_at": "2026-06-13T05:34:09Z",
+    "updated_at": "2026-06-13T10:12:26Z",
+    "pushed_at": "2026-06-13T10:12:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-13T05:27:35Z",
-    "pushed_at": "2026-06-13T05:27:31Z",
+    "updated_at": "2026-06-13T10:07:35Z",
+    "pushed_at": "2026-06-13T10:07:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-13T05:08:21Z",
-    "pushed_at": "2026-06-13T05:08:17Z",
+    "updated_at": "2026-06-13T12:43:00Z",
+    "pushed_at": "2026-06-13T12:42:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5639,7 +5639,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 128,
+    "stars": 129,
     "forks": 43,
     "topics": [
       "astro",
@@ -5655,7 +5655,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-10T11:13:04Z",
+    "updated_at": "2026-06-13T08:55:46Z",
     "pushed_at": "2026-06-12T18:17:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6401,7 +6401,7 @@
     "name": "matt765/Tailcast",
     "url": "https://github.com/matt765/Tailcast",
     "description": "Dark-themed website template built on Astro and Tailwind CSS",
-    "stars": 395,
+    "stars": 396,
     "forks": 139,
     "topics": [
       "astro",
@@ -6415,7 +6415,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2022-10-21T16:49:07Z",
-    "updated_at": "2026-06-12T07:44:07Z",
+    "updated_at": "2026-06-13T09:09:26Z",
     "pushed_at": "2026-04-12T03:14:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6579,8 +6579,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-29T12:04:25Z",
-    "updated_at": "2026-06-13T04:28:09Z",
-    "pushed_at": "2026-06-13T04:28:09Z",
+    "updated_at": "2026-06-13T08:21:44Z",
+    "pushed_at": "2026-06-13T08:21:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "fabformhub/paperastro": {
@@ -8674,8 +8674,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-06-12T03:12:37Z",
-    "pushed_at": "2026-06-12T03:14:15Z",
+    "updated_at": "2026-06-13T09:31:39Z",
+    "pushed_at": "2026-06-13T09:32:59Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10076,8 +10076,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-06-13T05:42:33Z",
-    "pushed_at": "2026-06-13T05:43:12Z",
+    "updated_at": "2026-06-13T10:34:21Z",
+    "pushed_at": "2026-06-13T10:34:54Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
