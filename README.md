@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 496
-**Last updated:** 2026-06-14T12:53:21.156Z
+**Total packages tracked:** 497
+**Last updated:** 2026-06-14T18:41:07.725Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 2 | A simple, minimalistic personal blog theme built with Astro and TailwindCSS, ins... |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 0 | Simple and cute Standard.site integration for Astro |
 | [eigdoyr/ryodgie-v2](https://github.com/eigdoyr/ryodgie-v2) | 1 | Personal portfolio of Ryodgie Barnatia. Built with Astro, SCSS, TypeScript. |
 | [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 3 | Astro integration that exposes your site content via WebMCP for AI agents |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | Astro integration that uses existing configuration to write a static headers fil... |
 | [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | Astro integration for UniRate — build-time currency exchange rate snapshots, <Cu... |
 | [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 10 | A minimal Astro theme for blogs, notes, and quiet publishing. |
-| [smart-developer1791/astro-quantum-hologram](https://github.com/smart-developer1791/astro-quantum-hologram) | 0 | 🌌 A visually stunning, deploy-ready Astro static site demonstrating next-genera... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,14 +59,19 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-14 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 0 | 2026-06-14 | Simple and cute Standard.site integration for Astro |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-14 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-14 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
+| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 2 | 2026-06-14 | A simple, minimalistic personal blog theme built with Astro ... |
+| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-14 | Build fast, responsive websites using Astro with a clean, cu... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-14 | Astro integration for loading fonts into build artifacts wit... |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-14 | 🚀 Automate IndexNow submissions for new or changed pages in... |
 | [Miguel210414/awesome-gh-repos](https://github.com/Miguel210414/awesome-gh-repos) | 2 | 2026-06-14 | 🌐 Generate a complete website showcasing your GitHub Stars ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-14 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-14 | Astro integration to generate PDFs from pages in your site a... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-14 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-14 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [biscoch2654/astro-sakura-blog](https://github.com/biscoch2654/astro-sakura-blog) | 0 | 2026-06-14 | Build a Sakura-themed blog with Astro 6 and Tailwind CSS, pl... |
-| [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-14 | Build fast, responsive websites using Astro with a clean, cu... |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-14 | ✨A static blog template built with Astro. |
+| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-14 | Astro integration to generate PDFs from pages in your site a... |
 | [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-06-14 | Support AsciiDoc pages in Astro |
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-06-14 | Regular integration tests of Coordinated packages with astro... |
 | [obaronai/astro-ai-readiness](https://github.com/obaronai/astro-ai-readiness) | 0 | 2026-06-14 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
@@ -74,11 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [HuanNan520/astro-sakura-blog](https://github.com/HuanNan520/astro-sakura-blog) | 1 | 2026-06-14 | A beautiful Astro 6 blog template with cherry blossom aesthe... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-14 | Convert 🫶🏻 |
 | [tfmurad/astro-llms-md](https://github.com/tfmurad/astro-llms-md) | 35 | 2026-06-14 | Astro integration to generate llms.txt, llms-full.txt, and m... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-14 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | 2026-06-14 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-14 | Format 🗻 |
-| [SolitudeRA/Solitude-Interface](https://github.com/SolitudeRA/Solitude-Interface) | 3 | 2026-06-14 | A modern, high-performance personal blog interface built wit... |
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 0 | 2026-06-14 | Simple and cute Standard.site integration for Astro |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-14T18:41 | 1 | 492 | 497 |
 | 2026-06-14T12:53 | 0 | 492 | 496 |
 | 2026-06-14T07:50 | 0 | 492 | 496 |
 | 2026-06-14T01:22 | 0 | 492 | 496 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-13T01:20 | 0 | 492 | 496 |
 | 2026-06-12T18:52 | 0 | 492 | 496 |
 | 2026-06-12T13:25 | 0 | 492 | 496 |
-| 2026-06-12T07:53 | 1 | 491 | 496 |
 
 ---
 

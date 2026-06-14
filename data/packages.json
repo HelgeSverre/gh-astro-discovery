@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-14T12:45:57Z",
-    "pushed_at": "2026-06-14T12:45:53Z",
+    "updated_at": "2026-06-14T15:39:52Z",
+    "pushed_at": "2026-06-14T15:39:48Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -209,8 +209,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
-    "updated_at": "2026-06-14T09:25:41Z",
-    "pushed_at": "2026-06-14T09:26:31Z",
+    "updated_at": "2026-06-14T13:43:36Z",
+    "pushed_at": "2026-06-14T13:43:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-05-14T11:11:57Z",
-    "pushed_at": "2026-06-02T18:47:42Z",
+    "pushed_at": "2026-06-14T18:10:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -3111,7 +3111,7 @@
     "name": "dorukgezici/astro-decap-cms-oauth",
     "url": "https://github.com/dorukgezici/astro-decap-cms-oauth",
     "description": "Add Decap CMS’s admin dashboard and custom OAuth backend routes for GitHub to your Astro project",
-    "stars": 78,
+    "stars": 77,
     "forks": 18,
     "topics": [
       "astro-integration",
@@ -3120,7 +3120,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-08-27T20:34:09Z",
-    "updated_at": "2026-06-05T18:36:23Z",
+    "updated_at": "2026-06-14T13:48:54Z",
     "pushed_at": "2026-06-02T01:43:07Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3396,8 +3396,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
-    "updated_at": "2026-06-14T12:12:52Z",
-    "pushed_at": "2026-06-14T12:15:43Z",
+    "updated_at": "2026-06-14T14:35:27Z",
+    "pushed_at": "2026-06-14T14:35:38Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -4435,8 +4435,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-13T03:01:59Z",
-    "pushed_at": "2026-06-13T03:01:56Z",
+    "updated_at": "2026-06-14T16:11:39Z",
+    "pushed_at": "2026-06-14T16:11:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-14T10:02:03Z",
-    "pushed_at": "2026-06-14T10:02:00Z",
+    "updated_at": "2026-06-14T16:51:09Z",
+    "pushed_at": "2026-06-14T16:51:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-14T09:59:28Z",
-    "pushed_at": "2026-06-14T09:59:24Z",
+    "updated_at": "2026-06-14T16:48:46Z",
+    "pushed_at": "2026-06-14T16:48:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5345,8 +5345,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-06-13T16:26:53Z",
-    "pushed_at": "2026-06-13T16:26:49Z",
+    "updated_at": "2026-06-14T14:51:56Z",
+    "pushed_at": "2026-06-14T14:51:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-14T09:44:38Z",
-    "pushed_at": "2026-06-14T09:44:34Z",
+    "updated_at": "2026-06-14T16:32:49Z",
+    "pushed_at": "2026-06-14T16:32:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-14T12:29:37Z",
-    "pushed_at": "2026-06-14T12:29:33Z",
+    "updated_at": "2026-06-14T15:22:36Z",
+    "pushed_at": "2026-06-14T15:22:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-14T12:24:33Z",
-    "pushed_at": "2026-06-14T12:24:29Z",
+    "updated_at": "2026-06-14T15:17:53Z",
+    "pushed_at": "2026-06-14T15:17:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-14T12:09:49Z",
-    "pushed_at": "2026-06-14T12:09:45Z",
+    "updated_at": "2026-06-14T15:02:30Z",
+    "pushed_at": "2026-06-14T15:02:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5663,7 +5663,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 148,
+    "stars": 149,
     "forks": 25,
     "topics": [
       "astro",
@@ -5682,7 +5682,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-06-10T05:00:40Z",
+    "updated_at": "2026-06-14T14:14:08Z",
     "pushed_at": "2026-06-10T05:00:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6672,7 +6672,7 @@
     "name": "vinitshahdeo/portfolio",
     "url": "https://github.com/vinitshahdeo/portfolio",
     "description": "Minimal Portfolio Template for Software Engineer using Astro and Tailwind CSS, optimized for accessibility, performance and SEO.",
-    "stars": 47,
+    "stars": 48,
     "forks": 8,
     "topics": [
       "astro",
@@ -6687,7 +6687,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-06-28T14:27:57Z",
-    "updated_at": "2026-06-09T08:07:15Z",
+    "updated_at": "2026-06-14T13:50:11Z",
     "pushed_at": "2026-06-09T08:07:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10474,8 +10474,33 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-14T06:42:36Z",
-    "pushed_at": "2026-06-14T02:51:18Z",
+    "updated_at": "2026-06-14T17:18:25Z",
+    "pushed_at": "2026-06-14T17:18:21Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
+  },
+  "odhyp/astro-sidey": {
+    "name": "odhyp/astro-sidey",
+    "url": "https://github.com/odhyp/astro-sidey",
+    "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "blog-theme",
+      "cloudflare-pages",
+      "expressive-code",
+      "minimal",
+      "sidey",
+      "tailwindcss",
+      "tailwindcss-v4"
+    ],
+    "language": "MDX",
+    "license": "MIT",
+    "created_at": "2026-06-04T01:20:20Z",
+    "updated_at": "2026-06-14T16:49:37Z",
+    "pushed_at": "2026-06-14T16:42:43Z",
+    "discovered_at": "2026-06-14T18:41:07.719Z"
   }
 }
