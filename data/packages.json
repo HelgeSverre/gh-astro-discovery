@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-13T17:09:12Z",
-    "pushed_at": "2026-06-13T17:09:09Z",
+    "updated_at": "2026-06-13T23:44:42Z",
+    "pushed_at": "2026-06-13T23:44:39Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -210,7 +210,7 @@
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
     "updated_at": "2026-05-16T13:09:12Z",
-    "pushed_at": "2026-05-16T13:09:09Z",
+    "pushed_at": "2026-06-13T22:48:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -4458,7 +4458,7 @@
     "license": "MIT",
     "created_at": "2026-03-14T11:41:43Z",
     "updated_at": "2026-03-22T04:59:39Z",
-    "pushed_at": "2026-06-06T21:23:46Z",
+    "pushed_at": "2026-06-13T21:23:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "hideoo/starlight-showcases": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-13T18:16:49Z",
-    "pushed_at": "2026-06-13T18:16:45Z",
+    "updated_at": "2026-06-14T00:49:38Z",
+    "pushed_at": "2026-06-14T00:49:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-13T18:14:46Z",
-    "pushed_at": "2026-06-13T18:14:42Z",
+    "updated_at": "2026-06-14T00:47:34Z",
+    "pushed_at": "2026-06-14T00:47:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-13T17:59:58Z",
-    "pushed_at": "2026-06-13T17:59:55Z",
+    "updated_at": "2026-06-14T00:33:32Z",
+    "pushed_at": "2026-06-14T00:33:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-13T16:52:07Z",
-    "pushed_at": "2026-06-13T16:52:04Z",
+    "updated_at": "2026-06-13T23:28:23Z",
+    "pushed_at": "2026-06-13T23:28:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-13T16:46:51Z",
-    "pushed_at": "2026-06-13T16:46:47Z",
+    "updated_at": "2026-06-13T23:23:19Z",
+    "pushed_at": "2026-06-13T23:23:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-13T16:30:58Z",
-    "pushed_at": "2026-06-13T16:30:54Z",
+    "updated_at": "2026-06-13T23:08:45Z",
+    "pushed_at": "2026-06-13T23:08:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5520,7 +5520,7 @@
     "name": "devgelo-labs/astro-starter-pro",
     "url": "https://github.com/devgelo-labs/astro-starter-pro",
     "description": "Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.",
-    "stars": 48,
+    "stars": 49,
     "forks": 22,
     "topics": [
       "astro-starter",
@@ -5536,7 +5536,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-06-11T12:24:27Z",
+    "updated_at": "2026-06-13T19:39:57Z",
     "pushed_at": "2026-06-08T22:37:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6180,7 +6180,7 @@
     "name": "psephopaiktes/astro-i18n-starter",
     "url": "https://github.com/psephopaiktes/astro-i18n-starter",
     "description": "A minimal i18n astro theme",
-    "stars": 148,
+    "stars": 147,
     "forks": 22,
     "topics": [
       "astro",
@@ -6193,7 +6193,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2024-05-25T06:35:35Z",
-    "updated_at": "2026-06-08T00:24:02Z",
+    "updated_at": "2026-06-13T20:37:44Z",
     "pushed_at": "2026-04-28T08:26:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6236,7 +6236,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 377,
+    "stars": 378,
     "forks": 133,
     "topics": [
       "astro-build",
@@ -6256,7 +6256,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-06-12T12:52:33Z",
+    "updated_at": "2026-06-14T00:34:26Z",
     "pushed_at": "2026-05-25T04:06:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6495,8 +6495,8 @@
   "0xdres/astro-devosfera": {
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
-    "description": "Astro v6 theme built on AstroPaper. Global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 160,
+    "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
+    "stars": 161,
     "forks": 29,
     "topics": [
       "astro",
@@ -6514,7 +6514,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-13T17:45:08Z",
+    "updated_at": "2026-06-14T00:36:02Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6628,7 +6628,7 @@
     "name": "IMMINJU/astro-theme-chapterlog",
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro",
@@ -6641,7 +6641,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-16T12:41:39Z",
-    "updated_at": "2026-06-13T17:05:17Z",
+    "updated_at": "2026-06-13T19:38:39Z",
     "pushed_at": "2026-03-16T12:43:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10236,7 +10236,7 @@
     "name": "caret-collective/astro-snapshot",
     "url": "https://github.com/caret-collective/astro-snapshot",
     "description": "An Astro integration for generating screenshots of your pages automatically at build time. Perfect for creating social images, content previews, dynamic icons, and more!",
-    "stars": 13,
+    "stars": 12,
     "forks": 1,
     "topics": [
       "astro",
@@ -10257,7 +10257,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-29T03:49:42Z",
-    "updated_at": "2026-06-03T00:59:21Z",
+    "updated_at": "2026-06-13T23:24:01Z",
     "pushed_at": "2026-06-03T00:59:17Z",
     "discovered_at": "2026-06-02T07:55:51.259Z"
   },
@@ -10369,7 +10369,7 @@
     "name": "themefisher/dockit-astro",
     "url": "https://github.com/themefisher/dockit-astro",
     "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
-    "stars": 52,
+    "stars": 53,
     "forks": 35,
     "topics": [
       "astro",
@@ -10385,7 +10385,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-10-19T09:24:22Z",
-    "updated_at": "2026-06-12T17:01:01Z",
+    "updated_at": "2026-06-13T18:54:25Z",
     "pushed_at": "2026-03-14T07:48:54Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
