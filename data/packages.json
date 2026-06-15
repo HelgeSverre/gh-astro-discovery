@@ -30,8 +30,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-13T17:35:38Z",
-    "updated_at": "2026-06-14T15:39:52Z",
-    "pushed_at": "2026-06-14T15:39:48Z",
+    "updated_at": "2026-06-14T22:35:37Z",
+    "pushed_at": "2026-06-14T22:35:33Z",
     "discovered_at": "2026-05-18T09:58:51.160Z"
   },
   "florian-lefebvre/astro-integration-template": {
@@ -50,7 +50,7 @@
     "license": "MIT",
     "created_at": "2024-01-18T16:32:38Z",
     "updated_at": "2026-06-10T13:42:47Z",
-    "pushed_at": "2026-06-08T07:30:01Z",
+    "pushed_at": "2026-06-15T00:34:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "florian-lefebvre/astro-loading-indicator": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-14T02:37:44Z",
+    "pushed_at": "2026-06-15T00:35:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -562,7 +562,7 @@
     "name": "QwikDev/astro",
     "url": "https://github.com/QwikDev/astro",
     "description": "Qwik + Astro",
-    "stars": 287,
+    "stars": 288,
     "forks": 23,
     "topics": [
       "astro",
@@ -582,7 +582,7 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2023-11-02T16:34:40Z",
-    "updated_at": "2026-06-05T22:18:50Z",
+    "updated_at": "2026-06-14T20:35:29Z",
     "pushed_at": "2026-05-08T18:34:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-08T01:47:00Z",
-    "pushed_at": "2026-06-13T16:48:49Z",
+    "pushed_at": "2026-06-14T21:26:12Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2945,7 +2945,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 31,
+    "stars": 32,
     "forks": 7,
     "topics": [
       "agent-ready",
@@ -2963,7 +2963,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-05-23T18:45:05Z",
+    "updated_at": "2026-06-14T22:38:13Z",
     "pushed_at": "2026-05-18T20:26:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-14T16:51:09Z",
-    "pushed_at": "2026-06-14T16:51:05Z",
+    "updated_at": "2026-06-14T23:39:59Z",
+    "pushed_at": "2026-06-14T23:39:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-14T16:48:46Z",
-    "pushed_at": "2026-06-14T16:48:43Z",
+    "updated_at": "2026-06-14T23:37:51Z",
+    "pushed_at": "2026-06-14T23:37:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-14T16:32:49Z",
-    "pushed_at": "2026-06-14T16:32:46Z",
+    "updated_at": "2026-06-14T23:23:44Z",
+    "pushed_at": "2026-06-14T23:23:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5408,8 +5408,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-19T00:24:00Z",
-    "updated_at": "2026-06-14T15:22:36Z",
-    "pushed_at": "2026-06-14T15:22:32Z",
+    "updated_at": "2026-06-14T22:19:32Z",
+    "pushed_at": "2026-06-14T22:19:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rizkiameli/blog-starter-template": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-14T15:17:53Z",
-    "pushed_at": "2026-06-14T15:17:50Z",
+    "updated_at": "2026-06-14T22:14:46Z",
+    "pushed_at": "2026-06-14T22:14:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-14T15:02:30Z",
-    "pushed_at": "2026-06-14T15:02:26Z",
+    "updated_at": "2026-06-14T22:00:19Z",
+    "pushed_at": "2026-06-14T22:00:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5570,7 +5570,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 16,
+    "stars": 17,
     "forks": 5,
     "topics": [
       "astro",
@@ -5586,7 +5586,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-06-14T12:52:17Z",
+    "updated_at": "2026-06-14T21:43:00Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6236,7 +6236,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 378,
+    "stars": 379,
     "forks": 133,
     "topics": [
       "astro-build",
@@ -6256,7 +6256,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-06-14T00:34:26Z",
+    "updated_at": "2026-06-14T21:49:04Z",
     "pushed_at": "2026-05-25T04:06:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6448,7 +6448,7 @@
     "name": "JustGoodUI/dante-astro-theme",
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
-    "stars": 499,
+    "stars": 500,
     "forks": 321,
     "topics": [
       "astro",
@@ -6465,7 +6465,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-01-11T15:23:14Z",
-    "updated_at": "2026-06-14T05:35:28Z",
+    "updated_at": "2026-06-14T20:14:37Z",
     "pushed_at": "2026-04-08T07:14:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8674,8 +8674,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-06-13T14:00:27Z",
-    "pushed_at": "2026-06-13T14:01:37Z",
+    "updated_at": "2026-06-14T21:32:11Z",
+    "pushed_at": "2026-06-14T21:33:24Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10499,8 +10499,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-06-14T16:49:37Z",
-    "pushed_at": "2026-06-14T16:42:43Z",
+    "updated_at": "2026-06-15T01:05:21Z",
+    "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   }
 }
