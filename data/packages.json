@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-05T17:00:39Z",
-    "pushed_at": "2026-06-13T17:47:52Z",
+    "pushed_at": "2026-06-16T17:48:06Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -3049,7 +3049,7 @@
     "license": "MIT",
     "created_at": "2026-02-20T13:34:43Z",
     "updated_at": "2026-05-12T12:37:07Z",
-    "pushed_at": "2026-06-09T17:15:14Z",
+    "pushed_at": "2026-06-16T17:15:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "valyay/astro-iubenda": {
@@ -4436,7 +4436,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-06-14T16:11:39Z",
-    "pushed_at": "2026-06-16T01:04:51Z",
+    "pushed_at": "2026-06-16T17:50:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-16T11:46:37Z",
-    "pushed_at": "2026-06-16T11:46:33Z",
+    "updated_at": "2026-06-16T14:34:43Z",
+    "pushed_at": "2026-06-16T14:24:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5320,8 +5320,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T07:07:22Z",
-    "updated_at": "2026-06-16T11:44:10Z",
-    "pushed_at": "2026-06-16T11:44:05Z",
+    "updated_at": "2026-06-16T14:26:51Z",
+    "pushed_at": "2026-06-16T14:22:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "markd3ng/kirari": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-16T10:52:48Z",
-    "pushed_at": "2026-06-16T10:52:44Z",
+    "pushed_at": "2026-06-16T15:59:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5375,8 +5375,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-03-25T03:28:15Z",
-    "updated_at": "2026-06-16T11:28:35Z",
-    "pushed_at": "2026-06-16T11:28:31Z",
+    "updated_at": "2026-06-16T14:08:42Z",
+    "pushed_at": "2026-06-16T14:06:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "miguel210414/awesome-gh-repos": {
@@ -5571,7 +5571,7 @@
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
     "stars": 17,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "astro",
       "astro-blog",
@@ -5639,8 +5639,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 132,
-    "forks": 44,
+    "stars": 133,
+    "forks": 45,
     "topics": [
       "astro",
       "astro-theme",
@@ -5655,8 +5655,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-16T05:04:29Z",
-    "pushed_at": "2026-06-16T05:03:37Z",
+    "updated_at": "2026-06-16T15:32:56Z",
+    "pushed_at": "2026-06-16T15:27:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mearashadowfax/datanova": {
@@ -5683,7 +5683,7 @@
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
     "updated_at": "2026-06-14T14:14:08Z",
-    "pushed_at": "2026-06-10T05:00:16Z",
+    "pushed_at": "2026-06-16T15:56:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -6344,8 +6344,8 @@
     "language": "CSS",
     "license": "NOASSERTION",
     "created_at": "2025-11-10T23:09:37Z",
-    "updated_at": "2026-06-15T10:45:36Z",
-    "pushed_at": "2026-06-15T10:45:33Z",
+    "updated_at": "2026-06-16T14:51:33Z",
+    "pushed_at": "2026-06-16T14:50:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "themefisher/northendlab-light-astro": {
@@ -6401,7 +6401,7 @@
     "name": "matt765/Tailcast",
     "url": "https://github.com/matt765/Tailcast",
     "description": "Dark-themed website template built on Astro and Tailwind CSS",
-    "stars": 397,
+    "stars": 398,
     "forks": 139,
     "topics": [
       "astro",
@@ -6415,7 +6415,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2022-10-21T16:49:07Z",
-    "updated_at": "2026-06-15T16:48:49Z",
+    "updated_at": "2026-06-16T14:37:29Z",
     "pushed_at": "2026-04-12T03:14:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6496,7 +6496,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 160,
+    "stars": 161,
     "forks": 29,
     "topics": [
       "astro",
@@ -6514,7 +6514,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-15T15:50:31Z",
+    "updated_at": "2026-06-16T14:21:53Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6579,8 +6579,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-29T12:04:25Z",
-    "updated_at": "2026-06-16T12:32:07Z",
-    "pushed_at": "2026-06-16T13:23:09Z",
+    "updated_at": "2026-06-16T15:30:11Z",
+    "pushed_at": "2026-06-16T15:28:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "fabformhub/paperastro": {
@@ -6914,7 +6914,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 271,
+    "stars": 272,
     "forks": 74,
     "topics": [
       "astro",
@@ -6930,7 +6930,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-06-16T08:53:05Z",
+    "updated_at": "2026-06-16T16:36:32Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10030,8 +10030,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-15T15:25:17Z",
-    "pushed_at": "2026-06-06T18:27:49Z",
+    "updated_at": "2026-06-16T17:53:54Z",
+    "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
   "unirate-api/astro-unirate": {
@@ -10428,8 +10428,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-07T02:00:06Z",
-    "updated_at": "2026-06-09T19:24:24Z",
-    "pushed_at": "2026-06-07T02:10:19Z",
+    "updated_at": "2026-06-16T17:00:47Z",
+    "pushed_at": "2026-06-16T17:00:34Z",
     "discovered_at": "2026-06-07T07:37:49.685Z"
   },
   "eigdoyr/ryodgie-v2": {
@@ -10578,5 +10578,43 @@
     "updated_at": "2026-06-15T22:48:38Z",
     "pushed_at": "2026-06-15T22:48:34Z",
     "discovered_at": "2026-06-16T01:26:04.668Z"
+  },
+  "meno-so/meno-astro": {
+    "name": "meno-so/meno-astro",
+    "url": "https://github.com/meno-so/meno-astro",
+    "description": "Runtime + round-trippable .astro dialect (emit/parse) that lets Meno use Astro files as a source-of-truth format. Public runtime-only mirror.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "astro-integration",
+      "i18n",
+      "meno",
+      "static-site-generator",
+      "typescript",
+      "website-builder",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-06-16T13:26:03Z",
+    "updated_at": "2026-06-16T15:21:56Z",
+    "pushed_at": "2026-06-16T14:11:37Z",
+    "discovered_at": "2026-06-16T19:21:28.686Z"
+  },
+  "opsydyn/astro-azure-integration": {
+    "name": "opsydyn/astro-azure-integration",
+    "url": "https://github.com/opsydyn/astro-azure-integration",
+    "description": "astro azure swa integration",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "TypeScript",
+    "license": null,
+    "created_at": "2026-06-16T17:31:54Z",
+    "updated_at": "2026-06-16T18:48:50Z",
+    "pushed_at": "2026-06-16T18:47:31Z",
+    "discovered_at": "2026-06-16T19:21:28.687Z"
   }
 }
