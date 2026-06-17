@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-16T06:32:58Z",
-    "pushed_at": "2026-06-16T06:32:55Z",
+    "updated_at": "2026-06-17T04:45:15Z",
+    "pushed_at": "2026-06-17T04:45:12Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-16T09:04:40Z",
-    "pushed_at": "2026-06-16T09:04:21Z",
+    "updated_at": "2026-06-17T04:08:32Z",
+    "pushed_at": "2026-06-17T04:08:28Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-16T03:45:41Z",
-    "pushed_at": "2026-06-16T03:44:56Z",
+    "updated_at": "2026-06-17T03:48:58Z",
+    "pushed_at": "2026-06-17T03:48:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-16T03:42:33Z",
-    "pushed_at": "2026-06-16T03:41:40Z",
+    "updated_at": "2026-06-17T03:42:18Z",
+    "pushed_at": "2026-06-17T03:42:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -382,8 +382,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-05T07:53:49Z",
-    "updated_at": "2026-06-17T00:18:03Z",
-    "pushed_at": "2026-06-17T00:17:58Z",
+    "updated_at": "2026-06-17T07:36:39Z",
+    "pushed_at": "2026-06-17T07:37:10Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "jonasgeiler/astro-html-minifier-next": {
@@ -2763,7 +2763,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-05-30T10:47:59Z",
-    "updated_at": "2026-04-26T12:12:06Z",
+    "updated_at": "2026-06-17T03:39:25Z",
     "pushed_at": "2026-05-23T12:42:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-16T10:52:48Z",
-    "pushed_at": "2026-06-17T01:22:17Z",
+    "pushed_at": "2026-06-17T02:02:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5570,7 +5570,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 17,
+    "stars": 18,
     "forks": 6,
     "topics": [
       "astro",
@@ -5586,7 +5586,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-06-14T21:43:00Z",
+    "updated_at": "2026-06-17T06:29:20Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5664,7 +5664,7 @@
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
     "stars": 149,
-    "forks": 25,
+    "forks": 26,
     "topics": [
       "astro",
       "astro-template",
@@ -5732,7 +5732,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 283,
-    "forks": 97,
+    "forks": 98,
     "topics": [
       "astro",
       "astro-theme",
@@ -6914,7 +6914,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 272,
+    "stars": 273,
     "forks": 74,
     "topics": [
       "astro",
@@ -6930,7 +6930,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-06-16T16:36:32Z",
+    "updated_at": "2026-06-17T06:25:28Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7044,7 +7044,7 @@
     "name": "erlandv/virex",
     "url": "https://github.com/erlandv/virex",
     "description": "A production-ready SaaS UI theme for Astro. Designed to help you move from idea to launch quickly.",
-    "stars": 40,
+    "stars": 39,
     "forks": 15,
     "topics": [
       "astro",
@@ -7058,7 +7058,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-17T04:25:58Z",
-    "updated_at": "2026-06-14T10:35:21Z",
+    "updated_at": "2026-06-17T06:50:16Z",
     "pushed_at": "2025-12-28T05:27:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10474,8 +10474,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-16T05:36:55Z",
-    "pushed_at": "2026-06-16T05:36:51Z",
+    "updated_at": "2026-06-17T05:37:55Z",
+    "pushed_at": "2026-06-17T05:39:00Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
@@ -10613,8 +10613,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-16T21:45:46Z",
-    "pushed_at": "2026-06-16T21:45:21Z",
+    "updated_at": "2026-06-17T07:49:24Z",
+    "pushed_at": "2026-06-17T07:49:20Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {
@@ -10636,5 +10636,24 @@
     "updated_at": "2026-06-16T21:02:33Z",
     "pushed_at": "2026-06-16T21:00:45Z",
     "discovered_at": "2026-06-17T01:22:34.060Z"
+  },
+  "kpab/astro-darkness": {
+    "name": "kpab/astro-darkness",
+    "url": "https://github.com/kpab/astro-darkness",
+    "description": "A stunning dark-themed portfolio template for Astro with interactive Three.js particle animations, blog system, and modern glassmorphism UI.",
+    "stars": 8,
+    "forks": 4,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "theme",
+      "threejs"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2025-11-18T08:54:34Z",
+    "updated_at": "2026-06-17T07:33:59Z",
+    "pushed_at": "2026-06-17T07:33:54Z",
+    "discovered_at": "2026-06-17T08:10:00.559Z"
   }
 }
