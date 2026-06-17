@@ -366,7 +366,7 @@
     "name": "sudeep2003/astro-iconset",
     "url": "https://github.com/sudeep2003/astro-iconset",
     "description": "SVG icon integration for Astro — local icons, Iconify sets, sprite deduplication, and zero browser runtime.",
-    "stars": 7,
+    "stars": 8,
     "forks": 3,
     "topics": [
       "astro",
@@ -379,11 +379,11 @@
       "svgo",
       "withastro"
     ],
-    "language": "MDX",
+    "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-05T07:53:49Z",
-    "updated_at": "2026-06-12T20:27:35Z",
-    "pushed_at": "2026-06-07T19:11:55Z",
+    "updated_at": "2026-06-17T00:18:03Z",
+    "pushed_at": "2026-06-17T00:17:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "jonasgeiler/astro-html-minifier-next": {
@@ -2782,7 +2782,7 @@
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
     "updated_at": "2026-05-19T15:21:18Z",
-    "pushed_at": "2026-06-11T07:40:37Z",
+    "pushed_at": "2026-06-16T23:15:50Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dodopayments/dualmark": {
@@ -4435,8 +4435,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-14T16:11:39Z",
-    "pushed_at": "2026-06-16T17:50:24Z",
+    "updated_at": "2026-06-16T21:45:00Z",
+    "pushed_at": "2026-06-16T21:44:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-16T10:52:48Z",
-    "pushed_at": "2026-06-16T15:59:50Z",
+    "pushed_at": "2026-06-17T01:22:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5682,8 +5682,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-06-14T14:14:08Z",
-    "pushed_at": "2026-06-16T15:56:00Z",
+    "updated_at": "2026-06-16T21:22:46Z",
+    "pushed_at": "2026-06-16T21:22:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -10613,8 +10613,28 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-16T18:48:50Z",
-    "pushed_at": "2026-06-16T18:47:31Z",
+    "updated_at": "2026-06-16T21:45:46Z",
+    "pushed_at": "2026-06-16T21:45:21Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
+  },
+  "elstron/astro-search": {
+    "name": "elstron/astro-search",
+    "url": "https://github.com/elstron/astro-search",
+    "description": "astro-search is an Astro integration that generates a static search index at build time and exposes a ready-to-use search component for static sites.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "component",
+      "components",
+      "page-search",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-06-16T19:29:55Z",
+    "updated_at": "2026-06-16T21:02:33Z",
+    "pushed_at": "2026-06-16T21:00:45Z",
+    "discovered_at": "2026-06-17T01:22:34.060Z"
   }
 }

@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 502
-**Last updated:** 2026-06-16T19:21:28.691Z
+**Total packages tracked:** 503
+**Last updated:** 2026-06-17T01:22:34.066Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [elstron/astro-search](https://github.com/elstron/astro-search) | 0 | astro-search is an Astro integration that generates a static search index at bui... |
 | [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | astro azure swa integration |
 | [meno-so/meno-astro](https://github.com/meno-so/meno-astro) | 1 | Runtime + round-trippable .astro dialect (emit/parse) that lets Meno use Astro f... |
 | [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | Astro starter template for Cloudflare Workers with Svelte, Tailwind CSS 4, daisy... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [vsima/astro-aeo-image](https://github.com/vsima/astro-aeo-image) | 0 | Astro image service that embeds <Image> alt text as XMP into your optimized outp... |
 | [l3onkers/l3onkers.github.io](https://github.com/l3onkers/l3onkers.github.io) | 1 | 🧬 My personal website with a list of my projects that help people learn and blo... |
 | [MarvinBregiosa/astro-sparkline](https://github.com/MarvinBregiosa/astro-sparkline) | 0 | Tiny inline-SVG sparkline component for Astro. Zero runtime, zero dependencies, ... |
-| [A58361/Ryze](https://github.com/A58361/Ryze) | 37 | Astro 6 starter for portfolio and blogs with static search, dynamic og images, m... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,14 +59,17 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-17 | ✨A static blog template built with Astro. |
+| [sudeep2003/astro-iconset](https://github.com/sudeep2003/astro-iconset) | 8 | 2026-06-17 | SVG icon integration for Astro — local icons, Iconify sets, ... |
+| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 54 | 2026-06-16 | Render Elm modules as Astro components |
 | [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-16 | astro azure swa integration |
-| [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 12 | 2026-06-16 | A minimal Astro theme for blogs, notes, and quiet publishing... |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-16 | Astro integration for loading fonts into build artifacts wit... |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 149 | 2026-06-16 | Open-source Astro website template with TailwindCSS, Keystat... |
+| [elstron/astro-search](https://github.com/elstron/astro-search) | 0 | 2026-06-16 | astro-search is an Astro integration that generates a static... |
+| [hanityx/astro-tone](https://github.com/hanityx/astro-tone) | 12 | 2026-06-16 | A minimal Astro theme for blogs, notes, and quiet publishing... |
 | [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-16 | This package provides a YouTube video loader for the Astro L... |
 | [jan-nikolov/astro-annotate](https://github.com/jan-nikolov/astro-annotate) | 4 | 2026-06-16 | Visual annotation overlay for Astro staging sites. Annotatio... |
 | [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 3 | 2026-06-16 | Astro integration that exposes your site content via WebMCP ... |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-16 | ✨A static blog template built with Astro. |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 149 | 2026-06-16 | Open-source Astro website template with TailwindCSS, Keystat... |
 | [SolitudeRA/Solitude-Interface](https://github.com/SolitudeRA/Solitude-Interface) | 3 | 2026-06-16 | A modern, high-performance personal blog interface built wit... |
 | [cxro/astro-whono](https://github.com/cxro/astro-whono) | 133 | 2026-06-16 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
 | [the-coded-type/open-blog-revolution](https://github.com/the-coded-type/open-blog-revolution) | 16 | 2026-06-16 | HTML first blog template for writers and devs. |
@@ -76,9 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [juneaboveground534/astro-theme-aither](https://github.com/juneaboveground534/astro-theme-aither) | 0 | 2026-06-16 | Build fast, responsive websites using Astro with a clean, cu... |
 | [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 0 | 2026-06-16 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
 | [Devdatta7/astro-indexnow](https://github.com/Devdatta7/astro-indexnow) | 1 | 2026-06-16 | 🚀 Automate IndexNow submissions for new or changed pages in... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-16 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-16 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-16 | Astro Integration to generate a customizable table of conten... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-17T01:22 | 1 | 497 | 503 |
 | 2026-06-16T19:21 | 2 | 495 | 502 |
 | 2026-06-16T14:03 | 0 | 495 | 500 |
 | 2026-06-16T08:13 | 0 | 495 | 500 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-15T08:21 | 0 | 493 | 497 |
 | 2026-06-15T01:25 | 0 | 493 | 497 |
 | 2026-06-14T18:41 | 1 | 492 | 497 |
-| 2026-06-14T12:53 | 0 | 492 | 496 |
 
 ---
 
