@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-17T04:45:15Z",
-    "pushed_at": "2026-06-17T04:45:12Z",
+    "updated_at": "2026-06-18T04:38:59Z",
+    "pushed_at": "2026-06-18T04:38:55Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-17T04:08:32Z",
-    "pushed_at": "2026-06-17T04:08:28Z",
+    "updated_at": "2026-06-18T03:59:04Z",
+    "pushed_at": "2026-06-18T03:59:00Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-17T03:48:58Z",
-    "pushed_at": "2026-06-17T03:48:54Z",
+    "updated_at": "2026-06-18T03:37:08Z",
+    "pushed_at": "2026-06-18T03:37:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-17T03:42:18Z",
-    "pushed_at": "2026-06-17T03:42:15Z",
+    "updated_at": "2026-06-18T03:34:25Z",
+    "pushed_at": "2026-06-18T03:34:21Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -842,8 +842,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
-    "updated_at": "2026-06-05T17:00:39Z",
-    "pushed_at": "2026-06-16T17:48:06Z",
+    "updated_at": "2026-06-18T04:29:01Z",
+    "pushed_at": "2026-06-18T04:31:55Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-15T12:47:39Z",
+    "pushed_at": "2026-06-18T07:57:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-17T15:26:23Z",
-    "pushed_at": "2026-06-17T22:08:48Z",
+    "pushed_at": "2026-06-18T07:57:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5640,7 +5640,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 133,
-    "forks": 45,
+    "forks": 46,
     "topics": [
       "astro",
       "astro-theme",
@@ -6004,7 +6004,7 @@
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
     "stars": 202,
-    "forks": 43,
+    "forks": 42,
     "topics": [
       "astro",
       "astro-template",
@@ -6072,7 +6072,7 @@
     "name": "lin-stephanie/astro-antfustyle-theme",
     "url": "https://github.com/lin-stephanie/astro-antfustyle-theme",
     "description": "A flexible and feature-rich Astro theme for developers and creators.",
-    "stars": 255,
+    "stars": 256,
     "forks": 36,
     "topics": [
       "astro",
@@ -6093,7 +6093,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
-    "updated_at": "2026-06-12T02:57:56Z",
+    "updated_at": "2026-06-18T04:29:30Z",
     "pushed_at": "2026-06-11T15:27:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6543,7 +6543,7 @@
     "name": "RATIU5/zaggonaut",
     "url": "https://github.com/RATIU5/zaggonaut",
     "description": "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and of course, Astro.",
-    "stars": 93,
+    "stars": 92,
     "forks": 25,
     "topics": [
       "astro",
@@ -6554,7 +6554,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-24T20:11:46Z",
-    "updated_at": "2026-06-09T11:53:11Z",
+    "updated_at": "2026-06-18T07:16:30Z",
     "pushed_at": "2026-03-30T19:29:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7527,7 +7527,7 @@
     "url": "https://github.com/ArtemKutsan/astro-citrus",
     "description": "Astro Citrus",
     "stars": 154,
-    "forks": 48,
+    "forks": 49,
     "topics": [
       "astro",
       "astro-template",
@@ -8070,7 +8070,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-06-04T14:33:48Z",
-    "pushed_at": "2026-06-16T06:43:12Z",
+    "pushed_at": "2026-06-18T06:43:03Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -10613,8 +10613,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-17T22:13:54Z",
-    "pushed_at": "2026-06-17T22:13:50Z",
+    "updated_at": "2026-06-18T07:02:53Z",
+    "pushed_at": "2026-06-18T07:02:49Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {
