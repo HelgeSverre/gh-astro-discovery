@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-06-18T04:31:55Z",
+    "pushed_at": "2026-06-18T10:48:09Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -1179,7 +1179,7 @@
     "language": "Astro",
     "license": "CC-BY-4.0",
     "created_at": "2025-05-16T13:10:07Z",
-    "updated_at": "2026-05-30T10:59:44Z",
+    "updated_at": "2026-06-18T08:44:52Z",
     "pushed_at": "2026-03-19T09:59:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2790,7 +2790,7 @@
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
     "stars": 88,
-    "forks": 27,
+    "forks": 26,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2811,8 +2811,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-17T18:39:09Z",
-    "pushed_at": "2026-06-17T18:29:33Z",
+    "updated_at": "2026-06-18T12:17:15Z",
+    "pushed_at": "2026-06-18T12:18:02Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -2918,7 +2918,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-06-11T11:00:44Z",
-    "pushed_at": "2026-06-17T20:43:26Z",
+    "pushed_at": "2026-06-18T08:00:47Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-17T15:26:23Z",
-    "pushed_at": "2026-06-18T07:57:18Z",
+    "pushed_at": "2026-06-18T08:00:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5513,7 +5513,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-06-16T09:53:57Z",
+    "pushed_at": "2026-06-18T09:53:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5639,8 +5639,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 133,
-    "forks": 46,
+    "stars": 134,
+    "forks": 47,
     "topics": [
       "astro",
       "astro-theme",
@@ -5655,7 +5655,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-16T15:32:56Z",
+    "updated_at": "2026-06-18T11:43:26Z",
     "pushed_at": "2026-06-16T15:27:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5731,7 +5731,7 @@
     "name": "the3ash/astro-chiri",
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
-    "stars": 283,
+    "stars": 284,
     "forks": 98,
     "topics": [
       "astro",
@@ -5746,7 +5746,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-06-16T11:16:56Z",
+    "updated_at": "2026-06-18T10:04:50Z",
     "pushed_at": "2026-06-16T01:33:06Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6344,8 +6344,8 @@
     "language": "CSS",
     "license": "NOASSERTION",
     "created_at": "2025-11-10T23:09:37Z",
-    "updated_at": "2026-06-17T16:35:22Z",
-    "pushed_at": "2026-06-17T16:35:01Z",
+    "updated_at": "2026-06-18T10:00:13Z",
+    "pushed_at": "2026-06-18T10:00:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "themefisher/northendlab-light-astro": {
@@ -10653,7 +10653,7 @@
     "license": "MIT",
     "created_at": "2025-11-18T08:54:34Z",
     "updated_at": "2026-06-17T18:07:27Z",
-    "pushed_at": "2026-06-17T08:23:04Z",
+    "pushed_at": "2026-06-18T12:04:44Z",
     "discovered_at": "2026-06-17T08:10:00.559Z"
   }
 }
