@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-15T18:52:23Z",
-    "pushed_at": "2026-06-16T11:02:54Z",
+    "pushed_at": "2026-06-17T19:07:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -2918,7 +2918,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-06-11T11:00:44Z",
-    "pushed_at": "2026-06-16T00:07:13Z",
+    "pushed_at": "2026-06-17T20:43:26Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -4534,8 +4534,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
-    "updated_at": "2026-06-08T17:28:23Z",
-    "pushed_at": "2026-06-15T15:53:17Z",
+    "updated_at": "2026-06-17T19:37:36Z",
+    "pushed_at": "2026-06-17T19:36:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-17T15:26:23Z",
-    "pushed_at": "2026-06-17T15:24:36Z",
+    "pushed_at": "2026-06-17T22:08:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5770,7 +5770,7 @@
     "license": "MIT",
     "created_at": "2025-03-10T17:19:34Z",
     "updated_at": "2026-05-06T06:53:24Z",
-    "pushed_at": "2026-06-12T18:46:30Z",
+    "pushed_at": "2026-06-17T21:41:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "smart-developer1791/astro-tron-vr-tournament": {
@@ -5903,7 +5903,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-06-11T03:52:46Z",
-    "pushed_at": "2026-06-16T01:15:30Z",
+    "pushed_at": "2026-06-17T21:11:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -6044,7 +6044,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-06-15T17:16:41Z",
+    "pushed_at": "2026-06-17T21:13:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6496,7 +6496,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 162,
+    "stars": 163,
     "forks": 29,
     "topics": [
       "astro",
@@ -6514,7 +6514,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-17T18:55:40Z",
+    "updated_at": "2026-06-17T20:43:29Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6747,7 +6747,7 @@
     "name": "hilava999/vellum",
     "url": "https://github.com/hilava999/vellum",
     "description": "Vellum – A minimal Astro theme for illustration portfolios and blogs",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -6761,7 +6761,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-07T01:01:17Z",
-    "updated_at": "2026-03-07T02:56:42Z",
+    "updated_at": "2026-06-18T01:13:13Z",
     "pushed_at": "2026-03-07T02:56:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8077,7 +8077,7 @@
     "name": "baflow/baselayer",
     "url": "https://github.com/baflow/baselayer",
     "description": "Astro template for Developers — blog, portfolio, contact form via cloudflare worker",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro-starter",
@@ -8092,7 +8092,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-02T14:31:36Z",
-    "updated_at": "2026-05-13T16:35:01Z",
+    "updated_at": "2026-06-17T20:12:31Z",
     "pushed_at": "2026-05-13T16:34:56Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -9933,7 +9933,7 @@
     "name": "ebootheee/emdash-plugin-stl-viewer",
     "url": "https://github.com/ebootheee/emdash-plugin-stl-viewer",
     "description": "EmDash CMS plugin: interactive 3D previews of STL and 3MF files in Portable Text content. Lazy three.js, touch-friendly orbit, five materials.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "3d-printing",
@@ -9953,7 +9953,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-16T15:57:05Z",
-    "updated_at": "2026-05-22T02:58:31Z",
+    "updated_at": "2026-06-17T19:50:39Z",
     "pushed_at": "2026-05-22T02:58:28Z",
     "discovered_at": "2026-05-22T01:12:33.147Z"
   },
@@ -10575,8 +10575,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-19T19:39:36Z",
-    "updated_at": "2026-06-15T22:48:38Z",
-    "pushed_at": "2026-06-15T22:48:34Z",
+    "updated_at": "2026-06-17T22:54:28Z",
+    "pushed_at": "2026-06-17T22:54:24Z",
     "discovered_at": "2026-06-16T01:26:04.668Z"
   },
   "meno-so/meno-astro": {
@@ -10613,8 +10613,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-17T19:00:24Z",
-    "pushed_at": "2026-06-17T18:59:12Z",
+    "updated_at": "2026-06-17T22:13:54Z",
+    "pushed_at": "2026-06-17T22:13:50Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {
