@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-19T04:18:41Z",
-    "pushed_at": "2026-06-19T04:18:37Z",
+    "updated_at": "2026-06-19T09:03:15Z",
+    "pushed_at": "2026-06-19T09:03:13Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-06-19T05:58:23Z",
-    "pushed_at": "2026-06-19T05:59:20Z",
+    "updated_at": "2026-06-19T11:29:23Z",
+    "pushed_at": "2026-06-19T11:30:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -622,8 +622,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
-    "updated_at": "2026-06-19T07:46:39Z",
-    "pushed_at": "2026-06-19T07:50:25Z",
+    "updated_at": "2026-06-19T08:50:51Z",
+    "pushed_at": "2026-06-19T08:54:24Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-18T19:01:42Z",
+    "pushed_at": "2026-06-19T09:44:46Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2918,7 +2918,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-06-11T11:00:44Z",
-    "pushed_at": "2026-06-18T18:35:02Z",
+    "pushed_at": "2026-06-19T10:47:03Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -3973,7 +3973,7 @@
     "name": "giuseppelt/astro-lottie",
     "url": "https://github.com/giuseppelt/astro-lottie",
     "description": "Use Lottie animations within your Astro website",
-    "stars": 55,
+    "stars": 56,
     "forks": 7,
     "topics": [
       "astro",
@@ -3985,7 +3985,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-11-28T15:40:08Z",
-    "updated_at": "2026-06-06T06:34:04Z",
+    "updated_at": "2026-06-19T10:59:39Z",
     "pushed_at": "2024-12-18T00:27:38Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -10006,8 +10006,8 @@
     "language": "HTML",
     "license": "MIT",
     "created_at": "2026-02-01T12:27:25Z",
-    "updated_at": "2026-06-17T08:35:52Z",
-    "pushed_at": "2026-06-16T13:43:32Z",
+    "updated_at": "2026-06-19T13:15:29Z",
+    "pushed_at": "2026-06-19T13:15:24Z",
     "discovered_at": "2026-05-23T18:30:51.236Z"
   },
   "hanityx/astro-tone": {
@@ -10284,7 +10284,7 @@
     "license": "AGPL-3.0",
     "created_at": "2015-04-08T23:37:53Z",
     "updated_at": "2026-06-03T00:36:43Z",
-    "pushed_at": "2026-06-03T00:36:40Z",
+    "pushed_at": "2026-06-19T11:33:52Z",
     "discovered_at": "2026-06-03T01:26:14.918Z"
   },
   "webrating/starfolio": {
@@ -10462,7 +10462,7 @@
     "name": "thegu5/astro-scute",
     "url": "https://github.com/thegu5/astro-scute",
     "description": "Simple and cute Standard.site integration for Astro",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro-component",
@@ -10474,7 +10474,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-19T03:25:20Z",
+    "updated_at": "2026-06-19T08:48:56Z",
     "pushed_at": "2026-06-19T03:25:17Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
@@ -10613,8 +10613,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-18T07:02:53Z",
-    "pushed_at": "2026-06-18T07:02:49Z",
+    "updated_at": "2026-06-19T11:29:51Z",
+    "pushed_at": "2026-06-19T11:29:47Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {
