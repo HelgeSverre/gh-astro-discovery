@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 505
-**Last updated:** 2026-06-19T13:23:00.689Z
+**Total packages tracked:** 506
+**Last updated:** 2026-06-19T18:48:07.908Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 0 |  |
 | [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 2 | A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance. |
 | [kpab/astro-darkness](https://github.com/kpab/astro-darkness) | 9 | A stunning dark-themed portfolio template for Astro with interactive Three.js pa... |
 | [elstron/astro-search](https://github.com/elstron/astro-search) | 0 | astro-search is an Astro integration that generates a static search index at bui... |
@@ -28,13 +29,12 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [webrating/starfolio](https://github.com/webrating/starfolio) | 28 | Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and d... |
 | [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | Your favorite dark mode word counter, now with grammar checking! Count the numbe... |
 | [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 12 | An Astro integration for generating screenshots of your pages automatically at b... |
-| [vsima/astro-aeo-image](https://github.com/vsima/astro-aeo-image) | 0 | Astro image service that embeds <Image> alt text as XMP into your optimized outp... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 500 | Dante, a single-author blog and portfolio theme for Astro.js.  |
+| [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 499 | Dante, a single-author blog and portfolio theme for Astro.js.  |
 | [matt765/Tailcast](https://github.com/matt765/Tailcast) | 397 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 380 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 306 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
@@ -59,14 +59,17 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 1 | 2026-06-19 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
-| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | 2026-06-19 | Your favorite dark mode word counter, now with grammar check... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-19 | Astro Integration to generate a customizable table of conten... |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-19 | 🔌 Minify Astro HTML assets using html-minifier-next! |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-19 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [sondr3/astro-html-minifier](https://github.com/sondr3/astro-html-minifier) | 8 | 2026-06-19 | DEPRECATED: A HTML minifier for Astro |
+| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 1 | 2026-06-19 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
+| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 0 | 2026-06-19 |  |
+| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | 2026-06-19 | Your favorite dark mode word counter, now with grammar check... |
 | [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-19 | astro azure swa integration |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 200 | 2026-06-19 | The i18n integration for Astro 🧑‍🚀 |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-19 | The global variable integration for Astro 🌐 |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-19 | Network 🚠 |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-19 | Astro Integration to generate a customizable table of conten... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-19 | Convert 🫶🏻 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | 2026-06-19 | Inline 🦔 |
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-19 | Format 🗻 |
@@ -76,9 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-06-19 | Fetch data from the Stripe API and use it in Astro collectio... |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-19 | Matomo integration for Astro |
 | [kpab/astro-darkness](https://github.com/kpab/astro-darkness) | 9 | 2026-06-18 | A stunning dark-themed portfolio template for Astro with int... |
-| [webrating/starfolio](https://github.com/webrating/starfolio) | 28 | 2026-06-18 | Modern Astro portfolio template with Tailwind CSS v4, shadcn... |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-18 | This Astro component simplifies the process of adding moneti... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-18 | 🔌 Minify Astro HTML assets using html-minifier-next! |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-19T18:48 | 1 | 497 | 506 |
 | 2026-06-19T13:23 | 0 | 497 | 505 |
 | 2026-06-19T08:09 | 0 | 497 | 505 |
 | 2026-06-19T01:26 | 0 | 497 | 505 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-18T01:20 | 0 | 499 | 504 |
 | 2026-06-17T19:01 | 0 | 499 | 504 |
 | 2026-06-17T13:29 | 0 | 499 | 504 |
-| 2026-06-17T08:10 | 1 | 498 | 504 |
 
 ---
 

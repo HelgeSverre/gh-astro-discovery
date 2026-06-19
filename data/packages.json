@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-06-19T11:29:23Z",
-    "pushed_at": "2026-06-19T11:30:05Z",
+    "pushed_at": "2026-06-19T15:54:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-05-14T11:11:57Z",
-    "pushed_at": "2026-06-18T20:50:01Z",
+    "pushed_at": "2026-06-19T15:55:38Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -622,8 +622,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
-    "updated_at": "2026-06-19T08:50:51Z",
-    "pushed_at": "2026-06-19T08:54:24Z",
+    "updated_at": "2026-06-19T18:45:03Z",
+    "pushed_at": "2026-06-19T18:45:25Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -4514,7 +4514,7 @@
     "license": "MIT",
     "created_at": "2022-08-27T18:25:16Z",
     "updated_at": "2026-06-15T17:51:40Z",
-    "pushed_at": "2026-06-15T17:50:33Z",
+    "pushed_at": "2026-06-19T14:02:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "roebi/astro-github-api-plugin": {
@@ -5732,7 +5732,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 284,
-    "forks": 98,
+    "forks": 97,
     "topics": [
       "astro",
       "astro-theme",
@@ -6448,7 +6448,7 @@
     "name": "JustGoodUI/dante-astro-theme",
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
-    "stars": 500,
+    "stars": 499,
     "forks": 321,
     "topics": [
       "astro",
@@ -6465,7 +6465,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-01-11T15:23:14Z",
-    "updated_at": "2026-06-14T20:14:37Z",
+    "updated_at": "2026-06-19T17:44:05Z",
     "pushed_at": "2026-04-08T07:14:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7185,7 +7185,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 81,
+    "stars": 82,
     "forks": 24,
     "topics": [
       "astro",
@@ -7203,7 +7203,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-06-14T12:09:39Z",
+    "updated_at": "2026-06-19T13:49:53Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10678,5 +10678,26 @@
     "updated_at": "2026-06-18T14:57:07Z",
     "pushed_at": "2026-06-18T00:10:15Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
+  },
+  "andreialba/quietpages": {
+    "name": "andreialba/quietpages",
+    "url": "https://github.com/andreialba/quietpages",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "astrojs",
+      "mdx",
+      "template",
+      "theme"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-06-16T18:05:17Z",
+    "updated_at": "2026-06-19T18:29:07Z",
+    "pushed_at": "2026-06-19T12:53:25Z",
+    "discovered_at": "2026-06-19T18:48:07.904Z"
   }
 }
