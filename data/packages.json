@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-18T04:38:59Z",
-    "pushed_at": "2026-06-18T04:38:55Z",
+    "updated_at": "2026-06-19T06:32:48Z",
+    "pushed_at": "2026-06-19T06:32:45Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-18T03:59:04Z",
-    "pushed_at": "2026-06-18T03:59:00Z",
+    "updated_at": "2026-06-19T04:18:41Z",
+    "pushed_at": "2026-06-19T04:18:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-18T03:37:08Z",
-    "pushed_at": "2026-06-18T19:03:07Z",
+    "updated_at": "2026-06-19T03:59:45Z",
+    "pushed_at": "2026-06-19T03:59:42Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-18T03:34:25Z",
-    "pushed_at": "2026-06-18T18:22:51Z",
+    "updated_at": "2026-06-19T03:56:37Z",
+    "pushed_at": "2026-06-19T03:56:33Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-06-13T00:33:12Z",
-    "pushed_at": "2026-06-18T23:59:37Z",
+    "updated_at": "2026-06-19T05:58:23Z",
+    "pushed_at": "2026-06-19T05:59:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -622,15 +622,15 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
-    "updated_at": "2026-06-15T18:52:23Z",
-    "pushed_at": "2026-06-18T21:32:23Z",
+    "updated_at": "2026-06-19T07:46:39Z",
+    "pushed_at": "2026-06-19T07:50:25Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
     "name": "obaronai/astro-ai-readiness",
     "url": "https://github.com/obaronai/astro-ai-readiness",
     "description": "AI Readiness toolkit for Astro — generates llms.txt, agents.md, .well-known/mcp.json, named-bot rules in robots.txt, and ships JSON-LD helper components.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "agents-md",
@@ -645,7 +645,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-25T23:20:36Z",
-    "updated_at": "2026-05-05T03:19:11Z",
+    "updated_at": "2026-06-19T03:21:34Z",
     "pushed_at": "2026-06-14T08:12:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1243,7 +1243,7 @@
     "license": "MIT",
     "created_at": "2025-03-20T08:57:20Z",
     "updated_at": "2026-03-11T21:57:37Z",
-    "pushed_at": "2026-05-18T17:04:40Z",
+    "pushed_at": "2026-06-19T02:41:08Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "withstudiocms/project-board": {
@@ -2368,7 +2368,7 @@
     "name": "denoland/deno-astro-template",
     "url": "https://github.com/denoland/deno-astro-template",
     "description": "Template repo for an Astro site, preconfigured to run with Deno and Deno Deploy",
-    "stars": 64,
+    "stars": 65,
     "forks": 4,
     "topics": [
       "astro-template",
@@ -2378,7 +2378,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-07-07T18:42:44Z",
-    "updated_at": "2026-04-17T01:56:40Z",
+    "updated_at": "2026-06-19T05:02:04Z",
     "pushed_at": "2024-06-10T11:16:14Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2873,7 +2873,7 @@
     "license": null,
     "created_at": "2024-08-15T20:08:05Z",
     "updated_at": "2025-12-24T07:18:33Z",
-    "pushed_at": "2026-06-18T18:02:11Z",
+    "pushed_at": "2026-06-19T01:41:46Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yeskunall/astro-umami": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-18T16:04:33Z",
-    "pushed_at": "2026-06-18T22:07:56Z",
+    "pushed_at": "2026-06-19T02:43:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5639,7 +5639,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 134,
+    "stars": 135,
     "forks": 47,
     "topics": [
       "astro",
@@ -5655,7 +5655,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-18T11:43:26Z",
+    "updated_at": "2026-06-19T06:22:20Z",
     "pushed_at": "2026-06-16T15:27:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5863,7 +5863,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 274,
+    "stars": 275,
     "forks": 80,
     "topics": [
       "astro",
@@ -5882,7 +5882,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-06-17T13:04:09Z",
+    "updated_at": "2026-06-19T06:14:42Z",
     "pushed_at": "2026-05-12T09:25:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6003,7 +6003,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 202,
+    "stars": 203,
     "forks": 42,
     "topics": [
       "astro",
@@ -6017,7 +6017,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-06-15T02:23:32Z",
+    "updated_at": "2026-06-19T04:43:30Z",
     "pushed_at": "2026-06-09T20:18:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6930,7 +6930,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-06-17T15:04:57Z",
+    "updated_at": "2026-06-19T07:45:15Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6938,7 +6938,7 @@
     "name": "erlandv/case",
     "url": "https://github.com/erlandv/case",
     "description": "A case-study-first portfolio theme for Astro. Designed for professionals who want to showcase their thinking, decisions, and real impact.",
-    "stars": 48,
+    "stars": 49,
     "forks": 28,
     "topics": [
       "astro",
@@ -6953,7 +6953,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-08T07:07:46Z",
-    "updated_at": "2026-06-07T03:32:05Z",
+    "updated_at": "2026-06-19T06:32:44Z",
     "pushed_at": "2026-01-13T10:04:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7561,7 +7561,7 @@
     "name": "thevrus/vrus.vercel.app",
     "url": "https://github.com/thevrus/vrus.vercel.app",
     "description": "Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
-    "stars": 66,
+    "stars": 67,
     "forks": 15,
     "topics": [
       "astro",
@@ -7579,7 +7579,7 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2024-06-08T22:28:42Z",
-    "updated_at": "2026-05-25T07:32:20Z",
+    "updated_at": "2026-06-19T07:54:42Z",
     "pushed_at": "2025-01-20T04:50:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10474,8 +10474,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-18T17:53:28Z",
-    "pushed_at": "2026-06-18T17:53:21Z",
+    "updated_at": "2026-06-19T03:25:20Z",
+    "pushed_at": "2026-06-19T03:25:17Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
