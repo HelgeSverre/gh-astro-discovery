@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 506
-**Last updated:** 2026-06-19T18:48:07.908Z
+**Last updated:** 2026-06-20T01:15:15.987Z
 
 ## 📦 Recently Discovered
 
@@ -59,6 +59,13 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [dorukgezici/astro-decap-cms-oauth](https://github.com/dorukgezici/astro-decap-cms-oauth) | 77 | 2026-06-20 | Add Decap CMS’s admin dashboard and custom OAuth backend rou... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-20 | Astro integration for loading fonts into build artifacts wit... |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-06-19 | Support AsciiDoc pages in Astro |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-19 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-19 | ✨A static blog template built with Astro. |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-19 | Simple and cute Standard.site integration for Astro |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-19 | Loaders for Astro's Content Layer |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-19 | Astro Integration to generate a customizable table of conten... |
 | [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-19 | 🔌 Minify Astro HTML assets using html-minifier-next! |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-19 | Well configurable breadcrumb component for Astro.js. Create ... |
@@ -72,13 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-19 | Network 🚠 |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-19 | Convert 🫶🏻 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | 2026-06-19 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-19 | Format 🗻 |
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-19 | Simple and cute Standard.site integration for Astro |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-19 | ✨A static blog template built with Astro. |
-| [cyrillbolliger/astro-typewriter](https://github.com/cyrillbolliger/astro-typewriter) | 14 | 2026-06-19 | Typewriter component for Astro. Lightweight, easy to use, an... |
-| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-06-19 | Fetch data from the Stripe API and use it in Astro collectio... |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-19 | Matomo integration for Astro |
-| [kpab/astro-darkness](https://github.com/kpab/astro-darkness) | 9 | 2026-06-18 | A stunning dark-themed portfolio template for Astro with int... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-20T01:15 | 0 | 498 | 506 |
 | 2026-06-19T18:48 | 1 | 497 | 506 |
 | 2026-06-19T13:23 | 0 | 497 | 505 |
 | 2026-06-19T08:09 | 0 | 497 | 505 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-18T07:58 | 0 | 499 | 504 |
 | 2026-06-18T01:20 | 0 | 499 | 504 |
 | 2026-06-17T19:01 | 0 | 499 | 504 |
-| 2026-06-17T13:29 | 0 | 499 | 504 |
 
 ---
 

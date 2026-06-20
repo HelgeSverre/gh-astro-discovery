@@ -210,7 +210,7 @@
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
     "updated_at": "2026-06-14T13:43:36Z",
-    "pushed_at": "2026-06-14T13:43:34Z",
+    "pushed_at": "2026-06-19T23:56:14Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-18T18:16:16Z",
+    "pushed_at": "2026-06-19T18:57:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -3121,7 +3121,7 @@
     "license": "MIT",
     "created_at": "2023-08-27T20:34:09Z",
     "updated_at": "2026-06-14T13:48:54Z",
-    "pushed_at": "2026-06-02T01:43:07Z",
+    "pushed_at": "2026-06-20T00:44:49Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-dev": {
@@ -4435,8 +4435,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-16T21:45:00Z",
-    "pushed_at": "2026-06-16T21:44:28Z",
+    "updated_at": "2026-06-20T00:05:54Z",
+    "pushed_at": "2026-06-20T00:05:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5346,7 +5346,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-18T16:04:33Z",
-    "pushed_at": "2026-06-19T02:43:00Z",
+    "pushed_at": "2026-06-19T22:06:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5487,7 +5487,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-06-08T05:54:23Z",
-    "pushed_at": "2026-06-11T11:02:43Z",
+    "pushed_at": "2026-06-19T23:36:06Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -10014,7 +10014,7 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 13,
+    "stars": 14,
     "forks": 6,
     "topics": [
       "astro",
@@ -10030,7 +10030,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-18T16:06:54Z",
+    "updated_at": "2026-06-20T00:31:03Z",
     "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
@@ -10474,8 +10474,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-19T08:48:56Z",
-    "pushed_at": "2026-06-19T03:25:17Z",
+    "updated_at": "2026-06-19T19:11:06Z",
+    "pushed_at": "2026-06-19T19:11:14Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
@@ -10684,7 +10684,7 @@
     "url": "https://github.com/andreialba/quietpages",
     "description": "",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-theme",
@@ -10696,7 +10696,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-19T18:29:07Z",
+    "updated_at": "2026-06-20T00:10:11Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   }
