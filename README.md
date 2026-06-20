@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 506
-**Last updated:** 2026-06-20T01:15:15.987Z
+**Last updated:** 2026-06-20T07:34:11.916Z
 
 ## 📦 Recently Discovered
 
@@ -45,7 +45,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | Inline 🦔 |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 275 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 274 | Simple and Elegant Astro Blog Template. |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 256 | A flexible and feature-rich Astro theme for developers and creators. |
+| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 257 | A flexible and feature-rich Astro theme for developers and creators. |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 228 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 203 | A flexible Astro blog theme designed for Obsidian users. |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dorukgezici/astro-decap-cms-oauth](https://github.com/dorukgezici/astro-decap-cms-oauth) | 77 | 2026-06-20 | Add Decap CMS’s admin dashboard and custom OAuth backend rou... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-20 | Astro integration for loading fonts into build artifacts wit... |
-| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-06-19 | Support AsciiDoc pages in Astro |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-19 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-19 | ✨A static blog template built with Astro. |
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-19 | Simple and cute Standard.site integration for Astro |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-19 | Loaders for Astro's Content Layer |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-19 | Astro Integration to generate a customizable table of conten... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-19 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-19 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [sondr3/astro-html-minifier](https://github.com/sondr3/astro-html-minifier) | 8 | 2026-06-19 | DEPRECATED: A HTML minifier for Astro |
-| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 1 | 2026-06-19 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
-| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 0 | 2026-06-19 |  |
-| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | 2026-06-19 | Your favorite dark mode word counter, now with grammar check... |
-| [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-19 | astro azure swa integration |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 200 | 2026-06-19 | The i18n integration for Astro 🧑‍🚀 |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-19 | The global variable integration for Astro 🌐 |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-19 | Network 🚠 |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-19 | Convert 🫶🏻 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 279 | 2026-06-19 | Inline 🦔 |
+| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 15 | 2026-06-20 | A integration for Astro adding a toolbar for users of astro-... |
+| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-06-20 | The Astro Supabase starter demonstrates how to integrate Sup... |
+| [CuB3y0nd/assembly.rip](https://github.com/CuB3y0nd/assembly.rip) | 5 | 2026-06-20 | My personal portfolio. |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-20 | The Astro Quick Start package covers the basics of connectin... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-06-20 | Astro integration that uses existing configuration to write ... |
+| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-20 | Astro integration to generate PDFs from pages in your site a... |
+| [alex-grover/astro-themes](https://github.com/alex-grover/astro-themes) | 83 | 2026-06-20 | Easy dark mode for Astro websites |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-06-20 | Support AsciiDoc pages in Astro |
+| [claylo/astro-loader-glob-frontmatter](https://github.com/claylo/astro-loader-glob-frontmatter) | 0 | 2026-06-20 | Astro content loader that injects frontmatter from external ... |
+| [martinsilha/astro-html-validate](https://github.com/martinsilha/astro-html-validate) | 1 | 2026-06-20 | Astro integration that validates generated HTML with html-va... |
+| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 135 | 2026-06-20 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-20 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-20 | Convert 🫶🏻 |
+| [ykocaman/astro-medium-loader](https://github.com/ykocaman/astro-medium-loader) | 3 | 2026-06-20 | An Astro loader that fetches and parses Medium RSS feeds by ... |
+| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | 2026-06-20 | Your favorite dark mode word counter, now with grammar check... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-20 | Loaders for Astro's Content Layer |
+| [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 59 | 2026-06-20 | A content loader for Astro that uses the PocketBase API |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-20 | Network 🚠 |
+| [sushichan044/astro-simple-feature-flags](https://github.com/sushichan044/astro-simple-feature-flags) | 3 | 2026-06-20 | A simple, type-safe feature flag integration for Astro, powe... |
+| [porsche-design-system/sample-integration-astro-offline](https://github.com/porsche-design-system/sample-integration-astro-offline) | 0 | 2026-06-20 | This repository demonstrates how to integrate the Porsche De... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-20T07:34 | 0 | 498 | 506 |
 | 2026-06-20T01:15 | 0 | 498 | 506 |
 | 2026-06-19T18:48 | 1 | 497 | 506 |
 | 2026-06-19T13:23 | 0 | 497 | 505 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-18T13:25 | 0 | 499 | 504 |
 | 2026-06-18T07:58 | 0 | 499 | 504 |
 | 2026-06-18T01:20 | 0 | 499 | 504 |
-| 2026-06-17T19:01 | 0 | 499 | 504 |
 
 ---
 
