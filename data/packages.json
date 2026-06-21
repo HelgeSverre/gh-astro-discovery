@@ -646,7 +646,7 @@
     "license": "MIT",
     "created_at": "2026-04-25T23:20:36Z",
     "updated_at": "2026-06-19T03:21:34Z",
-    "pushed_at": "2026-06-14T08:12:51Z",
+    "pushed_at": "2026-06-21T08:12:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "karesztrk/astro-svg-icon": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-08T01:47:00Z",
-    "pushed_at": "2026-06-20T10:15:00Z",
+    "pushed_at": "2026-06-21T12:36:39Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -1364,7 +1364,7 @@
     "license": "AGPL-3.0",
     "created_at": "2025-12-14T15:01:12Z",
     "updated_at": "2026-06-09T05:03:46Z",
-    "pushed_at": "2026-06-17T11:26:27Z",
+    "pushed_at": "2026-06-21T10:22:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "frostybee/expressive-code-typewriter": {
@@ -2789,7 +2789,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 89,
+    "stars": 90,
     "forks": 26,
     "topics": [
       "aeo",
@@ -2811,7 +2811,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-20T08:20:28Z",
+    "updated_at": "2026-06-21T08:45:57Z",
     "pushed_at": "2026-06-18T12:18:02Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2945,7 +2945,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 32,
+    "stars": 33,
     "forks": 8,
     "topics": [
       "agent-ready",
@@ -2963,7 +2963,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-06-14T22:38:13Z",
+    "updated_at": "2026-06-21T12:18:33Z",
     "pushed_at": "2026-06-15T11:09:23Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3397,7 +3397,7 @@
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
     "updated_at": "2026-06-21T02:03:39Z",
-    "pushed_at": "2026-06-21T02:03:39Z",
+    "pushed_at": "2026-06-21T08:40:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-16T14:34:43Z",
-    "pushed_at": "2026-06-16T14:24:35Z",
+    "updated_at": "2026-06-21T10:51:15Z",
+    "pushed_at": "2026-06-21T10:51:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-16T13:02:02Z",
-    "pushed_at": "2026-06-16T13:01:32Z",
+    "updated_at": "2026-06-21T11:58:45Z",
+    "pushed_at": "2026-06-21T11:58:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-16T12:48:42Z",
-    "pushed_at": "2026-06-16T12:48:38Z",
+    "updated_at": "2026-06-21T11:48:28Z",
+    "pushed_at": "2026-06-21T11:48:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5513,7 +5513,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-06-18T09:53:45Z",
+    "pushed_at": "2026-06-21T09:52:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5544,7 +5544,7 @@
     "name": "nbakh16/career-portfolio-template",
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
-    "stars": 29,
+    "stars": 30,
     "forks": 21,
     "topics": [
       "astro-theme",
@@ -5562,7 +5562,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T09:13:08Z",
-    "updated_at": "2026-06-17T13:24:59Z",
+    "updated_at": "2026-06-21T10:32:49Z",
     "pushed_at": "2026-05-16T15:25:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8689,7 +8689,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-05-22T12:25:52Z",
-    "pushed_at": "2026-06-14T08:51:35Z",
+    "pushed_at": "2026-06-21T08:32:04Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
@@ -10117,8 +10117,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T08:08:29Z",
-    "updated_at": "2026-06-20T22:18:13Z",
-    "pushed_at": "2026-06-20T22:17:27Z",
+    "updated_at": "2026-06-21T10:05:29Z",
+    "pushed_at": "2026-06-21T10:05:26Z",
     "discovered_at": "2026-05-30T18:33:17.098Z"
   },
   "marvinbregiosa/astro-sparkline": {
@@ -10306,7 +10306,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-01T06:37:03Z",
-    "updated_at": "2026-06-20T18:56:25Z",
+    "updated_at": "2026-06-21T10:29:26Z",
     "pushed_at": "2026-06-18T23:23:03Z",
     "discovered_at": "2026-06-03T07:59:31.424Z"
   },
@@ -10613,8 +10613,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-19T11:29:51Z",
-    "pushed_at": "2026-06-19T11:29:47Z",
+    "updated_at": "2026-06-21T12:40:23Z",
+    "pushed_at": "2026-06-21T12:40:18Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {

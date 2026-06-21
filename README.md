@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 506
-**Last updated:** 2026-06-21T07:53:19.526Z
+**Last updated:** 2026-06-21T12:53:48.520Z
 
 ## 📦 Recently Discovered
 
@@ -59,6 +59,17 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-21 | astro azure swa integration |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-21 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-21 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-21 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-21 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-06-21 | Automatically add your parameters to external links and URLs... |
+| [jomorespi/manduca](https://github.com/jomorespi/manduca) | 2 | 2026-06-21 | Fast, lightweight and self-hosted "Link in Bio" solution bas... |
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-06-21 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-21 | Astro integration to generate PDFs from pages in your site a... |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-06-21 | Regular integration tests of Coordinated packages with astro... |
+| [obaronai/astro-ai-readiness](https://github.com/obaronai/astro-ai-readiness) | 1 | 2026-06-21 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
 | [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | 2026-06-21 | Your favorite dark mode word counter, now with grammar check... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-21 | Convert 🫶🏻 |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-21 | Network 🚠 |
@@ -67,18 +78,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-06-21 | BeamAnalytics integration for Astro |
 | [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 49 | 2026-06-21 | Astro Starter Pro: A free, production-ready Astro starter fo... |
 | [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-21 | Loaders for Astro's Content Layer |
-| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-21 | Astro integration to generate PDFs from pages in your site a... |
 | [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 12 | 2026-06-20 | An Astro integration for generating screenshots of your page... |
-| [jomorespi/manduca](https://github.com/jomorespi/manduca) | 2 | 2026-06-20 | Fast, lightweight and self-hosted "Link in Bio" solution bas... |
-| [TomXV/astro-mermaid-renderer](https://github.com/TomXV/astro-mermaid-renderer) | 0 | 2026-06-20 | Reusable Mermaid renderer components for Astro |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-06-20 | An Astro Prometheus nodejs middleware integration for Astro |
-| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-06-20 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-20 | This package provides a YouTube video loader for the Astro L... |
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-20 | Simple and cute Standard.site integration for Astro |
-| [sondr3/astro-html-minifier](https://github.com/sondr3/astro-html-minifier) | 8 | 2026-06-20 | DEPRECATED: A HTML minifier for Astro |
-| [sushichan044/astro-simple-feature-flags](https://github.com/sushichan044/astro-simple-feature-flags) | 3 | 2026-06-20 | A simple, type-safe feature flag integration for Astro, powe... |
-| [jdevalk/astro-markdown-alternate](https://github.com/jdevalk/astro-markdown-alternate) | 1 | 2026-06-20 | Astro integration that makes markdown sources discoverable v... |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-06-20 | Astro integration that uses existing configuration to write ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-21T12:53 | 0 | 498 | 506 |
 | 2026-06-21T07:53 | 0 | 498 | 506 |
 | 2026-06-21T01:24 | 0 | 498 | 506 |
 | 2026-06-20T18:40 | 0 | 498 | 506 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-19T18:48 | 1 | 497 | 506 |
 | 2026-06-19T13:23 | 0 | 497 | 505 |
 | 2026-06-19T08:09 | 0 | 497 | 505 |
-| 2026-06-19T01:26 | 0 | 497 | 505 |
 
 ---
 
