@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-20T04:11:03Z",
-    "pushed_at": "2026-06-20T04:10:59Z",
+    "updated_at": "2026-06-21T04:53:00Z",
+    "pushed_at": "2026-06-21T04:52:57Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-20T03:40:23Z",
-    "pushed_at": "2026-06-20T03:40:20Z",
+    "updated_at": "2026-06-21T04:13:32Z",
+    "pushed_at": "2026-06-21T04:13:29Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-20T03:23:18Z",
-    "pushed_at": "2026-06-20T03:23:14Z",
+    "updated_at": "2026-06-21T03:52:51Z",
+    "pushed_at": "2026-06-21T03:52:48Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-20T02:57:24Z",
-    "pushed_at": "2026-06-20T02:57:20Z",
+    "updated_at": "2026-06-21T03:46:40Z",
+    "pushed_at": "2026-06-21T03:46:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-20T03:44:13Z",
+    "pushed_at": "2026-06-21T02:25:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-06-13T07:46:49Z",
+    "pushed_at": "2026-06-21T03:28:14Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -3396,8 +3396,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
-    "updated_at": "2026-06-14T14:35:27Z",
-    "pushed_at": "2026-06-20T16:30:34Z",
+    "updated_at": "2026-06-21T02:03:39Z",
+    "pushed_at": "2026-06-21T02:03:39Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -5536,8 +5536,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-06-14T02:14:27Z",
-    "pushed_at": "2026-06-14T02:14:23Z",
+    "updated_at": "2026-06-21T02:27:27Z",
+    "pushed_at": "2026-06-21T02:27:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "nbakh16/career-portfolio-template": {
@@ -5639,7 +5639,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 135,
+    "stars": 137,
     "forks": 47,
     "topics": [
       "astro",
@@ -5655,7 +5655,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-19T06:22:20Z",
+    "updated_at": "2026-06-21T05:45:33Z",
     "pushed_at": "2026-06-20T04:33:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10284,7 +10284,7 @@
     "license": "AGPL-3.0",
     "created_at": "2015-04-08T23:37:53Z",
     "updated_at": "2026-06-03T00:36:43Z",
-    "pushed_at": "2026-06-20T03:53:51Z",
+    "pushed_at": "2026-06-21T05:42:43Z",
     "discovered_at": "2026-06-03T01:26:14.918Z"
   },
   "webrating/starfolio": {
@@ -10482,7 +10482,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "topics": [
       "astro",
@@ -10499,7 +10499,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-06-20T10:21:58Z",
+    "updated_at": "2026-06-21T03:11:26Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
