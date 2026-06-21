@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 506
-**Last updated:** 2026-06-21T12:53:48.520Z
+**Last updated:** 2026-06-21T18:42:45.347Z
 
 ## 📦 Recently Discovered
 
@@ -35,7 +35,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 499 | Dante, a single-author blog and portfolio theme for Astro.js.  |
-| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 397 | Dark-themed website template built on Astro and Tailwind CSS |
+| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 396 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 380 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 306 | Zero-config PWA Integration for Astro |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 306 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
@@ -59,11 +59,13 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-21 | astro azure swa integration |
-| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-21 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-21 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-21 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-21 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-21 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [eigdoyr/ryodgie-v2](https://github.com/eigdoyr/ryodgie-v2) | 1 | 2026-06-21 | Personal portfolio of Ryodgie Barnatia. Built with Astro, SC... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-21 | Loaders for Astro's Content Layer |
+| [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-21 | astro azure swa integration |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-21 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 | [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-06-21 | Automatically add your parameters to external links and URLs... |
 | [jomorespi/manduca](https://github.com/jomorespi/manduca) | 2 | 2026-06-21 | Fast, lightweight and self-hosted "Link in Bio" solution bas... |
 | [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-06-21 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
@@ -77,8 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-21 | Format 🗻 |
 | [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-06-21 | BeamAnalytics integration for Astro |
 | [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 49 | 2026-06-21 | Astro Starter Pro: A free, production-ready Astro starter fo... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-21 | Loaders for Astro's Content Layer |
-| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 12 | 2026-06-20 | An Astro integration for generating screenshots of your page... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-21T18:42 | 0 | 498 | 506 |
 | 2026-06-21T12:53 | 0 | 498 | 506 |
 | 2026-06-21T07:53 | 0 | 498 | 506 |
 | 2026-06-21T01:24 | 0 | 498 | 506 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-20T01:15 | 0 | 498 | 506 |
 | 2026-06-19T18:48 | 1 | 497 | 506 |
 | 2026-06-19T13:23 | 0 | 497 | 505 |
-| 2026-06-19T08:09 | 0 | 497 | 505 |
 
 ---
 

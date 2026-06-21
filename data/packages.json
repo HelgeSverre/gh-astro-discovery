@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-21T02:25:20Z",
+    "pushed_at": "2026-06-21T13:33:46Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-21T10:51:15Z",
-    "pushed_at": "2026-06-21T10:51:11Z",
+    "updated_at": "2026-06-21T18:15:44Z",
+    "pushed_at": "2026-06-21T18:15:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-21T11:58:45Z",
-    "pushed_at": "2026-06-21T11:58:42Z",
+    "updated_at": "2026-06-21T17:05:58Z",
+    "pushed_at": "2026-06-21T17:05:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-21T11:48:28Z",
-    "pushed_at": "2026-06-21T11:48:25Z",
+    "updated_at": "2026-06-21T16:55:28Z",
+    "pushed_at": "2026-06-21T16:55:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6401,7 +6401,7 @@
     "name": "matt765/Tailcast",
     "url": "https://github.com/matt765/Tailcast",
     "description": "Dark-themed website template built on Astro and Tailwind CSS",
-    "stars": 397,
+    "stars": 396,
     "forks": 139,
     "topics": [
       "astro",
@@ -6415,7 +6415,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2022-10-21T16:49:07Z",
-    "updated_at": "2026-06-17T12:58:54Z",
+    "updated_at": "2026-06-21T14:58:27Z",
     "pushed_at": "2026-04-12T03:14:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10455,7 +10455,7 @@
     "license": null,
     "created_at": "2026-05-20T03:30:54Z",
     "updated_at": "2026-06-08T16:03:29Z",
-    "pushed_at": "2026-06-08T16:02:55Z",
+    "pushed_at": "2026-06-21T14:03:47Z",
     "discovered_at": "2026-06-07T12:45:33.430Z"
   },
   "thegu5/astro-scute": {
@@ -10613,8 +10613,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-06-21T12:40:23Z",
-    "pushed_at": "2026-06-21T12:40:18Z",
+    "updated_at": "2026-06-21T13:32:24Z",
+    "pushed_at": "2026-06-21T13:32:21Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {
