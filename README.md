@@ -3,13 +3,13 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 506
-**Last updated:** 2026-06-20T18:40:48.222Z
+**Last updated:** 2026-06-21T01:24:55.576Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 1 |  |
+| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 2 |  |
 | [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 2 | A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance. |
 | [kpab/astro-darkness](https://github.com/kpab/astro-darkness) | 9 | A stunning dark-themed portfolio template for Astro with interactive Three.js pa... |
 | [elstron/astro-search](https://github.com/elstron/astro-search) | 0 | astro-search is an Astro integration that generates a static search index at bui... |
@@ -26,7 +26,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [themefisher/automark-astro](https://github.com/themefisher/automark-astro) | 21 | Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS... |
 | [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) | 172 | Bigspring is a highly customizable Astro theme designed specifically for SaaS & ... |
 | [themefisher/dockit-astro](https://github.com/themefisher/dockit-astro) | 54 | 🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Sta... |
-| [webrating/starfolio](https://github.com/webrating/starfolio) | 30 | Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and d... |
+| [webrating/starfolio](https://github.com/webrating/starfolio) | 31 | Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and d... |
 | [caret-collective/Tally](https://github.com/caret-collective/Tally) | 6 | Your favorite dark mode word counter, now with grammar checking! Count the numbe... |
 | [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 12 | An Astro integration for generating screenshots of your pages automatically at b... |
 
@@ -59,12 +59,17 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 12 | 2026-06-20 | An Astro integration for generating screenshots of your page... |
+| [jomorespi/manduca](https://github.com/jomorespi/manduca) | 2 | 2026-06-20 | Fast, lightweight and self-hosted "Link in Bio" solution bas... |
+| [TomXV/astro-mermaid-renderer](https://github.com/TomXV/astro-mermaid-renderer) | 0 | 2026-06-20 | Reusable Mermaid renderer components for Astro |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-06-20 | An Astro Prometheus nodejs middleware integration for Astro |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-06-20 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-20 | This package provides a YouTube video loader for the Astro L... |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-20 | Simple and cute Standard.site integration for Astro |
 | [sondr3/astro-html-minifier](https://github.com/sondr3/astro-html-minifier) | 8 | 2026-06-20 | DEPRECATED: A HTML minifier for Astro |
 | [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-20 | Astro integration to generate PDFs from pages in your site a... |
 | [sushichan044/astro-simple-feature-flags](https://github.com/sushichan044/astro-simple-feature-flags) | 3 | 2026-06-20 | A simple, type-safe feature flag integration for Astro, powe... |
 | [jdevalk/astro-markdown-alternate](https://github.com/jdevalk/astro-markdown-alternate) | 1 | 2026-06-20 | Astro integration that makes markdown sources discoverable v... |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-20 | This package provides a YouTube video loader for the Astro L... |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-06-20 | Astro integration that uses existing configuration to write ... |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-20 | The global variable integration for Astro 🌐 |
 | [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-06-20 | Support AsciiDoc pages in Astro |
@@ -74,11 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 44 | 2026-06-20 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
 | [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-20 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 | [sudeep2003/astro-iconset](https://github.com/sudeep2003/astro-iconset) | 8 | 2026-06-20 | SVG icon integration for Astro — local icons, Iconify sets, ... |
-| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-06-20 | The Astro Supabase starter demonstrates how to integrate Sup... |
-| [CuB3y0nd/assembly.rip](https://github.com/CuB3y0nd/assembly.rip) | 5 | 2026-06-20 | My personal portfolio. |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-20 | The Astro Quick Start package covers the basics of connectin... |
-| [alex-grover/astro-themes](https://github.com/alex-grover/astro-themes) | 83 | 2026-06-20 | Easy dark mode for Astro websites |
-| [claylo/astro-loader-glob-frontmatter](https://github.com/claylo/astro-loader-glob-frontmatter) | 0 | 2026-06-20 | Astro content loader that injects frontmatter from external ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-21T01:24 | 0 | 498 | 506 |
 | 2026-06-20T18:40 | 0 | 498 | 506 |
 | 2026-06-20T12:50 | 0 | 498 | 506 |
 | 2026-06-20T07:34 | 0 | 498 | 506 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-19T08:09 | 0 | 497 | 505 |
 | 2026-06-19T01:26 | 0 | 497 | 505 |
 | 2026-06-18T18:59 | 1 | 496 | 505 |
-| 2026-06-18T13:25 | 0 | 499 | 504 |
 
 ---
 

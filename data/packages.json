@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-06-20T14:48:13Z",
+    "pushed_at": "2026-06-20T18:47:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -2830,7 +2830,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-06-14T08:04:00Z",
+    "pushed_at": "2026-06-20T19:58:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -4458,7 +4458,7 @@
     "license": "MIT",
     "created_at": "2026-03-14T11:41:43Z",
     "updated_at": "2026-03-22T04:59:39Z",
-    "pushed_at": "2026-06-13T21:23:25Z",
+    "pushed_at": "2026-06-20T21:22:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "hideoo/starlight-showcases": {
@@ -8675,7 +8675,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-06-14T21:32:11Z",
-    "pushed_at": "2026-06-18T20:35:43Z",
+    "pushed_at": "2026-06-20T20:29:43Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10117,8 +10117,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T08:08:29Z",
-    "updated_at": "2026-06-18T19:17:20Z",
-    "pushed_at": "2026-06-18T19:17:14Z",
+    "updated_at": "2026-06-20T22:18:13Z",
+    "pushed_at": "2026-06-20T22:17:27Z",
     "discovered_at": "2026-05-30T18:33:17.098Z"
   },
   "marvinbregiosa/astro-sparkline": {
@@ -10257,8 +10257,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-29T03:49:42Z",
-    "updated_at": "2026-06-13T23:24:01Z",
-    "pushed_at": "2026-06-18T16:53:25Z",
+    "updated_at": "2026-06-20T22:55:11Z",
+    "pushed_at": "2026-06-20T22:55:09Z",
     "discovered_at": "2026-06-02T07:55:51.259Z"
   },
   "caret-collective/tally": {
@@ -10291,8 +10291,8 @@
     "name": "webrating/starfolio",
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
-    "stars": 30,
-    "forks": 16,
+    "stars": 31,
+    "forks": 15,
     "topics": [
       "astro",
       "astro-template",
@@ -10306,7 +10306,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-01T06:37:03Z",
-    "updated_at": "2026-06-20T14:28:24Z",
+    "updated_at": "2026-06-20T18:56:25Z",
     "pushed_at": "2026-06-18T23:23:03Z",
     "discovered_at": "2026-06-03T07:59:31.424Z"
   },
@@ -10315,7 +10315,7 @@
     "url": "https://github.com/themefisher/automark-astro",
     "description": "Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.",
     "stars": 21,
-    "forks": 10,
+    "forks": 11,
     "topics": [
       "astro",
       "astro-starter",
@@ -10683,7 +10683,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "",
-    "stars": 1,
+    "stars": 2,
     "forks": 3,
     "topics": [
       "astro",
@@ -10696,7 +10696,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-20T16:09:24Z",
+    "updated_at": "2026-06-20T20:31:21Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   }
