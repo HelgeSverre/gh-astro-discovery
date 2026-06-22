@@ -217,7 +217,7 @@
     "name": "aziontech/docs",
     "url": "https://github.com/aziontech/docs",
     "description": "Documentation for Azion's services and features.",
-    "stars": 11,
+    "stars": 12,
     "forks": 17,
     "topics": [
       "astro",
@@ -235,7 +235,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-15T19:47:43Z",
+    "updated_at": "2026-06-22T16:51:59Z",
     "pushed_at": "2026-06-15T19:47:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -602,8 +602,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2025-01-05T22:36:31Z",
-    "updated_at": "2026-06-18T20:41:28Z",
-    "pushed_at": "2026-06-18T20:41:24Z",
+    "updated_at": "2026-06-22T18:14:32Z",
+    "pushed_at": "2026-06-22T18:14:28Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "robot-inventor/astro-custom-toc": {
@@ -622,8 +622,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
-    "updated_at": "2026-06-19T18:45:03Z",
-    "pushed_at": "2026-06-22T12:58:22Z",
+    "updated_at": "2026-06-22T18:22:29Z",
+    "pushed_at": "2026-06-22T18:23:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-20T14:12:47Z",
+    "pushed_at": "2026-06-22T15:55:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2812,7 +2812,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
     "updated_at": "2026-06-21T08:45:57Z",
-    "pushed_at": "2026-06-18T12:18:02Z",
+    "pushed_at": "2026-06-22T18:55:10Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -3396,8 +3396,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
-    "updated_at": "2026-06-21T02:03:39Z",
-    "pushed_at": "2026-06-22T13:59:55Z",
+    "updated_at": "2026-06-22T14:08:33Z",
+    "pushed_at": "2026-06-22T14:07:50Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -4535,7 +4535,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-06-17T19:37:36Z",
-    "pushed_at": "2026-06-17T19:36:48Z",
+    "pushed_at": "2026-06-22T15:53:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-22T12:30:19Z",
-    "pushed_at": "2026-06-22T12:30:10Z",
+    "updated_at": "2026-06-22T19:12:24Z",
+    "pushed_at": "2026-06-22T19:11:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-22T10:24:00Z",
-    "pushed_at": "2026-06-22T10:23:56Z",
+    "updated_at": "2026-06-22T17:59:42Z",
+    "pushed_at": "2026-06-22T17:59:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-22T10:13:45Z",
-    "pushed_at": "2026-06-22T10:13:41Z",
+    "updated_at": "2026-06-22T17:48:34Z",
+    "pushed_at": "2026-06-22T17:48:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5631,15 +5631,15 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-12-29T17:12:32Z",
-    "updated_at": "2026-06-16T11:08:51Z",
-    "pushed_at": "2026-05-22T06:07:00Z",
+    "updated_at": "2026-06-22T18:13:04Z",
+    "pushed_at": "2026-06-22T18:12:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cxro/astro-whono": {
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 137,
+    "stars": 138,
     "forks": 47,
     "topics": [
       "astro",
@@ -5655,7 +5655,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-21T05:45:33Z",
+    "updated_at": "2026-06-22T15:23:47Z",
     "pushed_at": "2026-06-20T04:33:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6044,7 +6044,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-06-17T21:13:47Z",
+    "pushed_at": "2026-06-22T16:16:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6554,8 +6554,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-24T20:11:46Z",
-    "updated_at": "2026-06-18T07:16:30Z",
-    "pushed_at": "2026-03-30T19:29:16Z",
+    "updated_at": "2026-06-22T18:47:09Z",
+    "pushed_at": "2026-06-22T18:47:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "solitudera/solitude-interface": {
@@ -8131,7 +8131,7 @@
     "url": "https://github.com/netlify-templates/astro-supabase-starter",
     "description": "The Astro Supabase starter demonstrates how to integrate Supabase into an Astro project deployed on Netlify.",
     "stars": 27,
-    "forks": 58,
+    "forks": 57,
     "topics": [
       "astro",
       "astro-starter",

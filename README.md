@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 507
-**Last updated:** 2026-06-22T14:07:44.708Z
+**Last updated:** 2026-06-22T19:15:57.793Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-22 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 90 | 2026-06-22 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
+| [RATIU5/zaggonaut](https://github.com/RATIU5/zaggonaut) | 92 | 2026-06-22 | Zaggonaut is a retro-inspired theme for Astro, built using T... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-22 | Astro Integration to generate a customizable table of conten... |
+| [louisescher/.dev](https://github.com/louisescher/.dev) | 3 | 2026-06-22 | My personal website |
+| [louisescher/spectre](https://github.com/louisescher/spectre) | 158 | 2026-06-22 | Spectre is a terminal-inspired theme for Astro, built using ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-22 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-22 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-22 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-22 | The global variable integration for Astro 🌐 |
+| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-06-22 | in Astro - as a plugin - get the github api |
 | [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-22 | Astro integration to generate PDFs from pages in your site a... |
 | [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 5 | 2026-06-22 | ⭐A simple, fast and powerful blog & document theme built by ... |
 | [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 152 | 2026-06-22 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 284 | 2026-06-22 | Minimal blog theme built with Astro. |
 | [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-22 | The Astro Quick Start package covers the basics of connectin... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-22 | Astro Integration to generate a customizable table of conten... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-22 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [andreialba/ombra](https://github.com/andreialba/ombra) | 0 | 2026-06-22 | Dark editorial Astro theme for intimate restaurants and tast... |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-06-22 | The i18n integration for Astro 🧑‍🚀 |
 | [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 33 | 2026-06-22 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
 | [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-06-22 | A framework free Astro starter template |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-22 | This Astro component simplifies the process of adding moneti... |
-| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-06-22 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-22 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-22 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-22 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-06-22 | A simple, minimal style, framework free Astro blog starter t... |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-06-22 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 69 | 2026-06-22 | Publish integrations within minutes. |
-| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-06-22 | The Astro Supabase starter demonstrates how to integrate Sup... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-22T19:15 | 0 | 499 | 507 |
 | 2026-06-22T14:07 | 1 | 498 | 507 |
 | 2026-06-22T08:21 | 0 | 498 | 506 |
 | 2026-06-22T01:24 | 0 | 498 | 506 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-21T01:24 | 0 | 498 | 506 |
 | 2026-06-20T18:40 | 0 | 498 | 506 |
 | 2026-06-20T12:50 | 0 | 498 | 506 |
-| 2026-06-20T07:34 | 0 | 498 | 506 |
 
 ---
 
