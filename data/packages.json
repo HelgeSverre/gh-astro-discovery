@@ -141,7 +141,7 @@
     "name": "PlayForm/Inline",
     "url": "https://github.com/PlayForm/Inline",
     "description": "Inline 🦔",
-    "stars": 279,
+    "stars": 280,
     "forks": 11,
     "topics": [
       "astro",
@@ -161,7 +161,7 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-22T03:54:57Z",
+    "updated_at": "2026-06-22T08:33:52Z",
     "pushed_at": "2026-06-22T03:54:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-06-19T11:29:23Z",
-    "pushed_at": "2026-06-19T15:54:31Z",
+    "pushed_at": "2026-06-22T10:48:18Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-19T18:45:03Z",
-    "pushed_at": "2026-06-19T18:45:25Z",
+    "pushed_at": "2026-06-22T12:58:22Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-08T01:47:00Z",
-    "pushed_at": "2026-06-22T00:44:50Z",
+    "pushed_at": "2026-06-22T10:51:01Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2781,7 +2781,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
-    "updated_at": "2026-06-17T11:18:10Z",
+    "updated_at": "2026-06-22T10:15:20Z",
     "pushed_at": "2026-06-16T23:15:50Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2899,7 +2899,7 @@
     "name": "jlarmstrongiv/astro-i18n-aut",
     "url": "https://github.com/jlarmstrongiv/astro-i18n-aut",
     "description": "The i18n integration for Astro 🧑‍🚀",
-    "stars": 201,
+    "stars": 202,
     "forks": 12,
     "topics": [
       "astro",
@@ -2917,8 +2917,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
-    "updated_at": "2026-06-21T23:45:48Z",
-    "pushed_at": "2026-06-20T12:28:02Z",
+    "updated_at": "2026-06-22T10:59:55Z",
+    "pushed_at": "2026-06-22T11:34:35Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -2964,7 +2964,7 @@
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
     "updated_at": "2026-06-21T12:18:33Z",
-    "pushed_at": "2026-06-15T11:09:23Z",
+    "pushed_at": "2026-06-22T11:06:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "ezhuk/astro-hash": {
@@ -3397,7 +3397,7 @@
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
     "updated_at": "2026-06-21T02:03:39Z",
-    "pushed_at": "2026-06-21T08:40:01Z",
+    "pushed_at": "2026-06-22T13:59:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -3973,7 +3973,7 @@
     "name": "giuseppelt/astro-lottie",
     "url": "https://github.com/giuseppelt/astro-lottie",
     "description": "Use Lottie animations within your Astro website",
-    "stars": 56,
+    "stars": 57,
     "forks": 7,
     "topics": [
       "astro",
@@ -3985,7 +3985,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-11-28T15:40:08Z",
-    "updated_at": "2026-06-19T10:59:39Z",
+    "updated_at": "2026-06-22T13:46:29Z",
     "pushed_at": "2024-12-18T00:27:38Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4554,7 +4554,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-01-09T23:55:15Z",
-    "pushed_at": "2026-06-18T21:36:18Z",
+    "pushed_at": "2026-06-22T10:51:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5290,8 +5290,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-22T06:32:40Z",
-    "pushed_at": "2026-06-22T06:32:36Z",
+    "updated_at": "2026-06-22T12:30:19Z",
+    "pushed_at": "2026-06-22T12:30:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5441,8 +5441,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-22T07:38:12Z",
-    "pushed_at": "2026-06-22T07:37:53Z",
+    "updated_at": "2026-06-22T10:24:00Z",
+    "pushed_at": "2026-06-22T10:23:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5465,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-22T07:28:19Z",
-    "pushed_at": "2026-06-22T07:28:05Z",
+    "updated_at": "2026-06-22T10:13:45Z",
+    "pushed_at": "2026-06-22T10:13:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5487,7 +5487,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-06-22T06:13:21Z",
-    "pushed_at": "2026-06-22T06:13:18Z",
+    "pushed_at": "2026-06-22T13:53:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5513,7 +5513,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-06-21T09:52:10Z",
+    "pushed_at": "2026-06-22T09:57:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5746,8 +5746,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-06-18T10:04:50Z",
-    "pushed_at": "2026-06-16T01:33:06Z",
+    "updated_at": "2026-06-22T13:48:47Z",
+    "pushed_at": "2026-06-22T13:48:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
@@ -5928,7 +5928,7 @@
     "license": null,
     "created_at": "2025-01-02T19:03:05Z",
     "updated_at": "2026-06-03T13:12:02Z",
-    "pushed_at": "2026-06-15T11:06:13Z",
+    "pushed_at": "2026-06-22T11:05:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astro-vanilla": {
@@ -5953,7 +5953,7 @@
     "license": "MIT",
     "created_at": "2024-10-12T20:53:01Z",
     "updated_at": "2026-05-04T12:50:37Z",
-    "pushed_at": "2026-06-15T10:06:30Z",
+    "pushed_at": "2026-06-22T10:05:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "ziteh/astro-theme-jing": {
@@ -8069,8 +8069,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
-    "updated_at": "2026-06-04T14:33:48Z",
-    "pushed_at": "2026-06-20T06:15:29Z",
+    "updated_at": "2026-06-22T13:32:33Z",
+    "pushed_at": "2026-06-22T13:33:29Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -9925,8 +9925,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-06-22T04:32:28Z",
-    "pushed_at": "2026-06-09T20:00:53Z",
+    "updated_at": "2026-06-22T13:57:18Z",
+    "pushed_at": "2026-06-22T13:57:13Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
   "ebootheee/emdash-plugin-stl-viewer": {
@@ -10699,5 +10699,27 @@
     "updated_at": "2026-06-20T20:31:21Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
+  },
+  "andreialba/ombra": {
+    "name": "andreialba/ombra",
+    "url": "https://github.com/andreialba/ombra",
+    "description": "Dark editorial Astro theme for intimate restaurants and tasting menus.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "astrojs",
+      "restaurant",
+      "restaurant-website",
+      "template",
+      "theme"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-06-19T14:33:12Z",
+    "updated_at": "2026-06-22T12:19:18Z",
+    "pushed_at": "2026-06-22T12:19:16Z",
+    "discovered_at": "2026-06-22T14:07:44.703Z"
   }
 }
