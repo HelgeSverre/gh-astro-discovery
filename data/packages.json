@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-22T16:51:59Z",
-    "pushed_at": "2026-06-15T19:47:41Z",
+    "updated_at": "2026-06-22T19:48:58Z",
+    "pushed_at": "2026-06-22T19:48:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -405,8 +405,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
-    "updated_at": "2026-05-14T11:11:57Z",
-    "pushed_at": "2026-06-22T02:13:12Z",
+    "updated_at": "2026-06-22T23:13:04Z",
+    "pushed_at": "2026-06-22T23:13:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -432,7 +432,7 @@
     "name": "yaroslav/astro-slop",
     "url": "https://github.com/yaroslav/astro-slop",
     "description": "The most complete and flexible Astro integration for LLMs and generating markdown versions of pages. Per-page .md siblings, llms.txt index, content negotiation, and link rel=alternate.",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "topics": [
       "ai",
@@ -449,7 +449,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-09T07:33:13Z",
-    "updated_at": "2026-06-18T16:24:48Z",
+    "updated_at": "2026-06-22T20:45:57Z",
     "pushed_at": "2026-05-11T15:31:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -889,7 +889,7 @@
     "name": "frostybee/starlight-announcement",
     "url": "https://github.com/frostybee/starlight-announcement",
     "description": "An Astro Starlight plugin to add custom announcement to your docs.",
-    "stars": 8,
+    "stars": 9,
     "forks": 1,
     "topics": [
       "starlight",
@@ -901,7 +901,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-11T18:13:04Z",
-    "updated_at": "2026-04-08T04:03:54Z",
+    "updated_at": "2026-06-22T20:27:21Z",
     "pushed_at": "2026-04-08T04:04:08Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1811,6 +1811,7 @@
       "back-end",
       "button",
       "component",
+      "igor-dimitrijevic",
       "igorskyflyer",
       "javascript",
       "js",
@@ -1826,7 +1827,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-09T17:13:13Z",
-    "updated_at": "2026-03-17T12:49:48Z",
+    "updated_at": "2026-06-22T23:47:32Z",
     "pushed_at": "2025-08-14T14:40:37Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2811,8 +2812,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-21T08:45:57Z",
-    "pushed_at": "2026-06-22T18:55:10Z",
+    "updated_at": "2026-06-22T19:45:58Z",
+    "pushed_at": "2026-06-22T19:35:56Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -2892,7 +2893,7 @@
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
     "updated_at": "2026-06-09T19:27:54Z",
-    "pushed_at": "2026-06-09T19:24:34Z",
+    "pushed_at": "2026-06-22T21:44:24Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/astro-i18n-aut": {
@@ -4435,8 +4436,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-20T00:05:54Z",
-    "pushed_at": "2026-06-20T00:05:52Z",
+    "updated_at": "2026-06-23T00:32:29Z",
+    "pushed_at": "2026-06-23T00:32:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5106,7 +5107,7 @@
     "name": "arnoldwender/wm-project-astro-components",
     "url": "https://github.com/arnoldwender/wm-project-astro-components",
     "description": "150+ production-ready, accessible, GDPR-compliant Astro components",
-    "stars": 45,
+    "stars": 44,
     "forks": 3,
     "topics": [
       "accessibility",
@@ -5128,7 +5129,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-06-22T04:39:13Z",
+    "updated_at": "2026-06-22T22:51:45Z",
     "pushed_at": "2026-06-20T10:39:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5290,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-22T19:12:24Z",
-    "pushed_at": "2026-06-22T19:11:55Z",
+    "updated_at": "2026-06-23T00:09:02Z",
+    "pushed_at": "2026-06-23T00:08:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5346,7 +5347,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-18T16:04:33Z",
-    "pushed_at": "2026-06-19T22:06:09Z",
+    "pushed_at": "2026-06-22T22:07:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5441,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-22T17:59:42Z",
-    "pushed_at": "2026-06-22T17:59:38Z",
+    "updated_at": "2026-06-22T23:04:11Z",
+    "pushed_at": "2026-06-22T23:04:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5465,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-22T17:48:34Z",
-    "pushed_at": "2026-06-22T17:48:30Z",
+    "updated_at": "2026-06-22T22:54:18Z",
+    "pushed_at": "2026-06-22T22:54:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5536,8 +5537,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-06-21T02:27:27Z",
-    "pushed_at": "2026-06-21T02:27:24Z",
+    "updated_at": "2026-06-22T21:06:52Z",
+    "pushed_at": "2026-06-22T21:06:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "nbakh16/career-portfolio-template": {
@@ -5903,7 +5904,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-06-11T03:52:46Z",
-    "pushed_at": "2026-06-17T21:11:15Z",
+    "pushed_at": "2026-06-22T19:27:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -6017,8 +6018,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-06-20T14:40:19Z",
-    "pushed_at": "2026-06-09T20:18:48Z",
+    "updated_at": "2026-06-22T22:08:29Z",
+    "pushed_at": "2026-06-22T22:08:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "advanced-astro/rocketbase": {
@@ -6449,7 +6450,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 499,
-    "forks": 321,
+    "forks": 323,
     "topics": [
       "astro",
       "astro-template",
@@ -8236,8 +8237,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-23T10:18:01Z",
-    "updated_at": "2026-05-25T02:12:20Z",
-    "pushed_at": "2026-05-25T02:12:16Z",
+    "updated_at": "2026-06-23T00:37:40Z",
+    "pushed_at": "2026-06-23T00:37:34Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "pcamarajr/astro-template": {
@@ -8557,7 +8558,7 @@
     "name": "dlcastillop/starlight-page-actions",
     "url": "https://github.com/dlcastillop/starlight-page-actions",
     "description": "A Starlight plugin that adds page action buttons to your documentation.",
-    "stars": 15,
+    "stars": 16,
     "forks": 0,
     "topics": [
       "starlight-astro",
@@ -8566,7 +8567,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-25T14:16:51Z",
-    "updated_at": "2026-06-12T08:56:29Z",
+    "updated_at": "2026-06-22T20:09:04Z",
     "pushed_at": "2026-06-09T15:21:09Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -10292,7 +10293,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 31,
-    "forks": 15,
+    "forks": 16,
     "topics": [
       "astro",
       "astro-template",
@@ -10483,7 +10484,7 @@
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
     "stars": 7,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-template",
@@ -10684,7 +10685,7 @@
     "url": "https://github.com/andreialba/quietpages",
     "description": "",
     "stars": 2,
-    "forks": 3,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-theme",
