@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-22T19:48:58Z",
-    "pushed_at": "2026-06-23T23:30:32Z",
+    "updated_at": "2026-06-24T13:05:07Z",
+    "pushed_at": "2026-06-24T18:35:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-21T13:33:46Z",
+    "pushed_at": "2026-06-24T14:49:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-22T18:22:29Z",
-    "pushed_at": "2026-06-22T18:23:35Z",
+    "pushed_at": "2026-06-24T14:02:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -1021,8 +1021,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-12-23T21:39:16Z",
-    "updated_at": "2026-06-22T06:57:13Z",
-    "pushed_at": "2026-03-31T20:40:55Z",
+    "updated_at": "2026-06-24T18:42:14Z",
+    "pushed_at": "2026-06-24T18:42:11Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "mattbrailsford/github-discussions-blog-loader": {
@@ -2938,8 +2938,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-07T20:43:25Z",
-    "updated_at": "2026-06-23T23:01:00Z",
-    "pushed_at": "2026-06-23T23:00:56Z",
+    "updated_at": "2026-06-24T17:20:14Z",
+    "pushed_at": "2026-06-24T17:20:09Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jdevalk/seo-graph": {
@@ -3397,8 +3397,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
-    "updated_at": "2026-06-24T11:53:28Z",
-    "pushed_at": "2026-06-24T12:07:59Z",
+    "updated_at": "2026-06-24T13:48:37Z",
+    "pushed_at": "2026-06-24T14:14:07Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-24T11:32:19Z",
-    "pushed_at": "2026-06-24T11:32:15Z",
+    "updated_at": "2026-06-24T16:46:17Z",
+    "pushed_at": "2026-06-24T16:46:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-24T10:24:34Z",
-    "pushed_at": "2026-06-24T10:24:30Z",
+    "updated_at": "2026-06-24T18:35:08Z",
+    "pushed_at": "2026-06-24T18:35:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-24T10:15:41Z",
-    "pushed_at": "2026-06-24T10:15:29Z",
+    "updated_at": "2026-06-24T18:24:45Z",
+    "pushed_at": "2026-06-24T18:24:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5522,7 +5522,7 @@
     "url": "https://github.com/devgelo-labs/astro-starter-pro",
     "description": "Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.",
     "stars": 50,
-    "forks": 22,
+    "forks": 23,
     "topics": [
       "astro-starter",
       "astro-template",
@@ -6403,7 +6403,7 @@
     "url": "https://github.com/matt765/Tailcast",
     "description": "Dark-themed website template built on Astro and Tailwind CSS",
     "stars": 397,
-    "forks": 139,
+    "forks": 140,
     "topics": [
       "astro",
       "astro-template",
@@ -6450,7 +6450,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 499,
-    "forks": 323,
+    "forks": 324,
     "topics": [
       "astro",
       "astro-template",
@@ -10683,7 +10683,7 @@
   "andreialba/quietpages": {
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
-    "description": "",
+    "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
     "stars": 4,
     "forks": 3,
     "topics": [
@@ -10697,7 +10697,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-24T11:12:29Z",
+    "updated_at": "2026-06-24T17:13:25Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
