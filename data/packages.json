@@ -3397,8 +3397,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
-    "updated_at": "2026-06-22T14:08:33Z",
-    "pushed_at": "2026-06-22T14:07:50Z",
+    "updated_at": "2026-06-24T11:53:28Z",
+    "pushed_at": "2026-06-24T12:07:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-24T06:28:36Z",
-    "pushed_at": "2026-06-24T06:28:32Z",
+    "updated_at": "2026-06-24T11:32:19Z",
+    "pushed_at": "2026-06-24T11:32:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-24T05:21:44Z",
-    "pushed_at": "2026-06-24T05:21:41Z",
+    "updated_at": "2026-06-24T10:24:34Z",
+    "pushed_at": "2026-06-24T10:24:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-24T05:11:04Z",
-    "pushed_at": "2026-06-24T05:11:01Z",
+    "updated_at": "2026-06-24T10:15:41Z",
+    "pushed_at": "2026-06-24T10:15:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5514,7 +5514,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-06-23T09:53:36Z",
+    "pushed_at": "2026-06-24T09:53:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5864,7 +5864,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 275,
+    "stars": 276,
     "forks": 81,
     "topics": [
       "astro",
@@ -5883,7 +5883,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-06-24T05:36:45Z",
+    "updated_at": "2026-06-24T09:05:13Z",
     "pushed_at": "2026-06-24T05:40:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6004,7 +6004,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 204,
+    "stars": 205,
     "forks": 42,
     "topics": [
       "astro",
@@ -6018,7 +6018,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-06-22T22:08:29Z",
+    "updated_at": "2026-06-24T09:28:07Z",
     "pushed_at": "2026-06-22T22:08:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6073,7 +6073,7 @@
     "name": "lin-stephanie/astro-antfustyle-theme",
     "url": "https://github.com/lin-stephanie/astro-antfustyle-theme",
     "description": "A flexible and feature-rich Astro theme for developers and creators.",
-    "stars": 256,
+    "stars": 257,
     "forks": 36,
     "topics": [
       "astro",
@@ -6094,7 +6094,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
-    "updated_at": "2026-06-23T02:09:59Z",
+    "updated_at": "2026-06-24T08:45:41Z",
     "pushed_at": "2026-06-11T15:27:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8568,7 +8568,7 @@
     "license": "MIT",
     "created_at": "2025-10-25T14:16:51Z",
     "updated_at": "2026-06-22T20:09:04Z",
-    "pushed_at": "2026-06-23T18:01:58Z",
+    "pushed_at": "2026-06-24T11:23:05Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "frostybee/starlight-telescope": {
@@ -10293,7 +10293,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 32,
-    "forks": 16,
+    "forks": 17,
     "topics": [
       "astro",
       "astro-template",
@@ -10684,7 +10684,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "",
-    "stars": 3,
+    "stars": 4,
     "forks": 3,
     "topics": [
       "astro",
@@ -10697,7 +10697,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-23T11:09:34Z",
+    "updated_at": "2026-06-24T11:12:29Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
