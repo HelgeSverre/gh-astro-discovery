@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-23T04:01:02Z",
-    "pushed_at": "2026-06-23T04:00:58Z",
+    "updated_at": "2026-06-24T04:03:44Z",
+    "pushed_at": "2026-06-24T04:03:40Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-23T03:34:34Z",
-    "pushed_at": "2026-06-23T03:34:29Z",
+    "updated_at": "2026-06-24T03:35:20Z",
+    "pushed_at": "2026-06-24T03:35:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-23T02:54:09Z",
-    "pushed_at": "2026-06-23T02:54:06Z",
+    "updated_at": "2026-06-24T02:54:58Z",
+    "pushed_at": "2026-06-24T02:54:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-23T02:52:01Z",
-    "pushed_at": "2026-06-23T18:23:39Z",
+    "updated_at": "2026-06-24T02:52:35Z",
+    "pushed_at": "2026-06-24T02:52:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -1165,7 +1165,7 @@
     "url": "https://github.com/blackspike/blackspike-astro-landing-page",
     "description": "A free, modern, Astro landing page theme made with Tailwind to help kick start your next Astro project",
     "stars": 72,
-    "forks": 49,
+    "forks": 48,
     "topics": [
       "astro",
       "astrojs",
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-23T17:58:08Z",
+    "pushed_at": "2026-06-24T01:13:21Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2831,7 +2831,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-06-20T19:58:30Z",
+    "pushed_at": "2026-06-24T04:17:35Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -2919,7 +2919,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-06-22T10:59:55Z",
-    "pushed_at": "2026-06-23T18:13:57Z",
+    "pushed_at": "2026-06-24T01:53:16Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -2946,7 +2946,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 33,
+    "stars": 34,
     "forks": 8,
     "topics": [
       "agent-ready",
@@ -2964,7 +2964,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-06-21T12:18:33Z",
+    "updated_at": "2026-06-24T03:25:17Z",
     "pushed_at": "2026-06-22T11:06:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-23T23:23:20Z",
-    "pushed_at": "2026-06-23T23:23:16Z",
+    "updated_at": "2026-06-24T06:28:36Z",
+    "pushed_at": "2026-06-24T06:28:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-24T00:28:08Z",
-    "pushed_at": "2026-06-24T00:28:05Z",
+    "updated_at": "2026-06-24T05:21:44Z",
+    "pushed_at": "2026-06-24T05:21:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-24T00:18:47Z",
-    "pushed_at": "2026-06-24T00:18:43Z",
+    "updated_at": "2026-06-24T05:11:04Z",
+    "pushed_at": "2026-06-24T05:11:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5521,7 +5521,7 @@
     "name": "devgelo-labs/astro-starter-pro",
     "url": "https://github.com/devgelo-labs/astro-starter-pro",
     "description": "Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.",
-    "stars": 49,
+    "stars": 50,
     "forks": 22,
     "topics": [
       "astro-starter",
@@ -5537,7 +5537,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-06-23T01:28:07Z",
+    "updated_at": "2026-06-24T04:20:35Z",
     "pushed_at": "2026-06-23T01:28:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5883,8 +5883,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-06-19T06:14:42Z",
-    "pushed_at": "2026-05-12T09:25:36Z",
+    "updated_at": "2026-06-24T05:36:45Z",
+    "pushed_at": "2026-06-24T05:40:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "advanced-astro/split": {
@@ -5903,8 +5903,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
-    "updated_at": "2026-06-11T03:52:46Z",
-    "pushed_at": "2026-06-23T22:59:11Z",
+    "updated_at": "2026-06-24T02:44:16Z",
+    "pushed_at": "2026-06-24T02:44:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -6194,8 +6194,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2024-05-25T06:35:35Z",
-    "updated_at": "2026-06-13T20:37:44Z",
-    "pushed_at": "2026-04-28T08:26:48Z",
+    "updated_at": "2026-06-24T03:57:15Z",
+    "pushed_at": "2026-06-24T03:57:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "musi-lang/www.musi-lang.org": {
@@ -8071,7 +8071,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-06-22T13:32:33Z",
-    "pushed_at": "2026-06-23T06:42:57Z",
+    "pushed_at": "2026-06-24T06:43:11Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -8123,8 +8123,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-06-05T14:38:18Z",
-    "pushed_at": "2026-05-12T09:55:18Z",
+    "updated_at": "2026-06-24T07:07:26Z",
+    "pushed_at": "2026-06-24T07:11:45Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "netlify-templates/astro-supabase-starter": {
@@ -8624,8 +8624,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-30T19:54:34Z",
-    "updated_at": "2026-05-24T06:07:35Z",
-    "pushed_at": "2026-05-24T06:07:32Z",
+    "updated_at": "2026-06-24T03:22:52Z",
+    "pushed_at": "2026-06-24T03:28:34Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "windmillcode/starlight-fullview-mode": {

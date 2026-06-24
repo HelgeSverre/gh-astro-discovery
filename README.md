@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 507
-**Last updated:** 2026-06-24T01:08:13.294Z
+**Last updated:** 2026-06-24T07:26:10.588Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [oxygenna-themes/mizu-light-astro-theme](https://github.com/oxygenna-themes/mizu-light-astro-theme) | 25 | 2026-06-24 | Mizu Light is a product launch template designed specificall... |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-24 | The Astro Quick Start package covers the basics of connectin... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-24 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 275 | 2026-06-24 | Foxi is an Astro theme crafted with Tailwind CSS, designed f... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-24 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-24 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-06-24 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-24 | Convert 🫶🏻 |
+| [psephopaiktes/astro-i18n-starter](https://github.com/psephopaiktes/astro-i18n-starter) | 147 | 2026-06-24 | A minimal i18n astro theme |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-24 | Network 🚠 |
+| [dragomano/starlight-giscus](https://github.com/dragomano/starlight-giscus) | 12 | 2026-06-24 | Adds Giscus comments to your docs site |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-06-24 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-24 | Format 🗻 |
+| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-06-24 | Port of Split template by One Page Love to Astro 👨‍🚀 |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-06-24 | The i18n integration for Astro 🧑‍🚀 |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-24 | The global variable integration for Astro 🌐 |
 | [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-23 | Documentation for Azion's services and features. |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-23 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [roedwin-afk/astro-blog-kit](https://github.com/roedwin-afk/astro-blog-kit) | 0 | 2026-06-23 | A ready-to-use blog system for Astro with WordPress headless... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-06-23 | Port of Split template by One Page Love to Astro 👨‍🚀 |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-23 | ✨A static blog template built with Astro. |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-23 | Simple and cute Standard.site integration for Astro |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-23 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-06-23 | astro azure swa integration |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-23 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 55 | 2026-06-23 | Render Elm modules as Astro components |
-| [CuB3y0nd/assembly.rip](https://github.com/CuB3y0nd/assembly.rip) | 5 | 2026-06-23 | My personal portfolio. |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-23 | This Astro component simplifies the process of adding moneti... |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-23 | Format 🗻 |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-23 | Matomo integration for Astro |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-06-23 | The i18n integration for Astro 🧑‍🚀 |
-| [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 16 | 2026-06-23 | A Starlight plugin that adds page action buttons to your doc... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-06-23 | An Astro Prometheus nodejs middleware integration for Astro |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-23 | The global variable integration for Astro 🌐 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-24T07:26 | 0 | 499 | 507 |
 | 2026-06-24T01:08 | 0 | 499 | 507 |
 | 2026-06-23T18:54 | 0 | 499 | 507 |
 | 2026-06-23T13:13 | 0 | 499 | 507 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-22T14:07 | 1 | 498 | 507 |
 | 2026-06-22T08:21 | 0 | 498 | 506 |
 | 2026-06-22T01:24 | 0 | 498 | 506 |
-| 2026-06-21T18:42 | 0 | 498 | 506 |
 
 ---
 
