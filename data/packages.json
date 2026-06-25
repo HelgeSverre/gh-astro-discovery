@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-24T04:03:44Z",
-    "pushed_at": "2026-06-24T04:03:40Z",
+    "updated_at": "2026-06-25T04:03:56Z",
+    "pushed_at": "2026-06-25T04:03:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-24T03:35:20Z",
-    "pushed_at": "2026-06-24T03:35:16Z",
+    "updated_at": "2026-06-25T03:33:49Z",
+    "pushed_at": "2026-06-25T03:33:46Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-24T02:54:58Z",
-    "pushed_at": "2026-06-24T02:54:54Z",
+    "updated_at": "2026-06-25T02:54:24Z",
+    "pushed_at": "2026-06-25T02:54:19Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-24T02:52:35Z",
-    "pushed_at": "2026-06-24T02:52:31Z",
+    "updated_at": "2026-06-25T02:52:28Z",
+    "pushed_at": "2026-06-25T02:52:24Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-06-21T03:28:14Z",
+    "pushed_at": "2026-06-25T03:55:32Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -2739,7 +2739,7 @@
     "license": "MIT",
     "created_at": "2025-06-29T23:36:28Z",
     "updated_at": "2026-06-20T16:40:28Z",
-    "pushed_at": "2026-06-11T06:09:15Z",
+    "pushed_at": "2026-06-25T06:27:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "virtuslab-open-source/astro-strapi-loader": {
@@ -2874,7 +2874,7 @@
     "license": null,
     "created_at": "2024-08-15T20:08:05Z",
     "updated_at": "2025-12-24T07:18:33Z",
-    "pushed_at": "2026-06-23T01:29:21Z",
+    "pushed_at": "2026-06-25T02:10:35Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yeskunall/astro-umami": {
@@ -3348,7 +3348,7 @@
     "url": "https://github.com/jgabriel98/astro-compress",
     "description": "A powerful compression integration for static assets in Astro. This package automatically optimizes and compresses various file types including images, HTML, JavaScript, CSS, and SVG files during the build process.",
     "stars": 11,
-    "forks": 2,
+    "forks": 3,
     "topics": [
       "astro-integration",
       "astrojs",
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-25T00:47:16Z",
-    "pushed_at": "2026-06-25T00:47:12Z",
+    "updated_at": "2026-06-25T05:49:51Z",
+    "pushed_at": "2026-06-25T05:49:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-24T23:41:14Z",
-    "pushed_at": "2026-06-24T23:41:10Z",
+    "updated_at": "2026-06-25T06:57:46Z",
+    "pushed_at": "2026-06-25T06:57:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-24T23:30:57Z",
-    "pushed_at": "2026-06-24T23:30:54Z",
+    "updated_at": "2026-06-25T06:47:45Z",
+    "pushed_at": "2026-06-25T06:47:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5640,8 +5640,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 138,
-    "forks": 47,
+    "stars": 141,
+    "forks": 48,
     "topics": [
       "astro",
       "astro-theme",
@@ -5656,7 +5656,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-22T15:23:47Z",
+    "updated_at": "2026-06-25T07:12:41Z",
     "pushed_at": "2026-06-20T04:33:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6916,7 +6916,7 @@
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
     "stars": 274,
-    "forks": 74,
+    "forks": 73,
     "topics": [
       "astro",
       "astro-template",
@@ -8731,8 +8731,8 @@
     "language": "Python",
     "license": null,
     "created_at": "2025-02-20T14:19:54Z",
-    "updated_at": "2026-05-10T15:35:50Z",
-    "pushed_at": "2026-05-10T15:35:45Z",
+    "updated_at": "2026-06-25T02:33:30Z",
+    "pushed_at": "2026-06-25T02:33:25Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "juvojustin/astrojs-wp-integration": {
@@ -10416,7 +10416,7 @@
     "name": "fabricioctelles/astro-webmcp",
     "url": "https://github.com/fabricioctelles/astro-webmcp",
     "description": "Astro integration that exposes your site content via WebMCP for AI agents",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "topics": [
       "agents",
@@ -10429,7 +10429,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-07T02:00:06Z",
-    "updated_at": "2026-06-23T23:19:37Z",
+    "updated_at": "2026-06-25T06:20:50Z",
     "pushed_at": "2026-06-16T17:00:34Z",
     "discovered_at": "2026-06-07T07:37:49.685Z"
   },
@@ -10475,15 +10475,15 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-25T00:28:48Z",
-    "pushed_at": "2026-06-25T00:28:44Z",
+    "updated_at": "2026-06-25T04:10:43Z",
+    "pushed_at": "2026-06-25T04:10:38Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 8,
+    "stars": 9,
     "forks": 3,
     "topics": [
       "astro",
@@ -10500,7 +10500,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-06-23T09:00:30Z",
+    "updated_at": "2026-06-25T01:42:44Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10685,7 +10685,7 @@
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
     "stars": 4,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-theme",

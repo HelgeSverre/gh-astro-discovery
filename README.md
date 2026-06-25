@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 507
-**Last updated:** 2026-06-25T01:12:28.401Z
+**Last updated:** 2026-06-25T07:26:49.952Z
 
 ## 📦 Recently Discovered
 
@@ -19,10 +19,10 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | Astro starter template for Cloudflare Workers with Svelte, Tailwind CSS 4, daisy... |
 | [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | Astro components and integration for managing page head metadata, SEO outputs, s... |
 | [BrainWeb/astro-payload-live-preview](https://github.com/BrainWeb/astro-payload-live-preview) | 1 | Payload CMS Live Preview for Astro — refresh SSR routes in place when documents ... |
-| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 8 | A simple, minimalistic personal blog theme built with Astro and TailwindCSS, ins... |
+| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 9 | A simple, minimalistic personal blog theme built with Astro and TailwindCSS, ins... |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | Simple and cute Standard.site integration for Astro |
 | [eigdoyr/ryodgie-v2](https://github.com/eigdoyr/ryodgie-v2) | 1 | Personal portfolio of Ryodgie Barnatia. Built with Astro, SCSS, TypeScript. |
-| [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 4 | Astro integration that exposes your site content via WebMCP for AI agents |
+| [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 5 | Astro integration that exposes your site content via WebMCP for AI agents |
 | [atomiechen/astroprint](https://github.com/atomiechen/astroprint) | 1 | Print-ready Markdown documents for Astro, with normal web preview, paged preview... |
 | [themefisher/automark-astro](https://github.com/themefisher/automark-astro) | 21 | Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS... |
 | [themefisher/bigspring-light-astro](https://github.com/themefisher/bigspring-light-astro) | 172 | Bigspring is a highly customizable Astro theme designed specifically for SaaS & ... |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-25 | Astro integration for loading fonts into build artifacts wit... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-25 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-25 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [felixicaza/astro-lqip](https://github.com/felixicaza/astro-lqip) | 27 | 2026-06-25 | 🖼️  Native extended Astro components for generating low-qua... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-25 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-25 | Documentation for Azion's services and features. |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | 2026-06-25 | Simple and cute Standard.site integration for Astro |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-24 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-24 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-25 | Convert 🫶🏻 |
+| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-06-25 | BeamAnalytics integration for Astro |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-25 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-06-25 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-25 | Format 🗻 |
+| [telexintegrations/NASA-Astronomy-Picture-of-the-Day-Integration](https://github.com/telexintegrations/NASA-Astronomy-Picture-of-the-Day-Integration) | 0 | 2026-06-25 | An integration that fetches NASA's Astronomy Picture of the ... |
+| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-06-25 | Fetch data from the Stripe API and use it in Astro collectio... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-25 | Astro integration for loading fonts into build artifacts wit... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-25 | Documentation for Azion's services and features. |
 | [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-06-24 | Port of Split template by One Page Love to Astro 👨‍🚀 |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-06-24 | The i18n integration for Astro 🧑‍🚀 |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-24 | The global variable integration for Astro 🌐 |
 | [velohost/astro-indexnow](https://github.com/velohost/astro-indexnow) | 11 | 2026-06-24 | Astro integration that submits all built pages to IndexNow a... |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-24 | 🚀 This Astro template offers more than 'Just the Basics', p... |
 | [roedwin-afk/astro-blog-kit](https://github.com/roedwin-afk/astro-blog-kit) | 0 | 2026-06-24 | A ready-to-use blog system for Astro with WordPress headless... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-24 | Loaders for Astro's Content Layer |
-| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 40 | 2026-06-24 | Astro integration to generate PDFs from pages in your site a... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-24 | Astro Integration to generate a customizable table of conten... |
-| [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 16 | 2026-06-24 | A Starlight plugin that adds page action buttons to your doc... |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-06-24 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [oxygenna-themes/mizu-light-astro-theme](https://github.com/oxygenna-themes/mizu-light-astro-theme) | 25 | 2026-06-24 | Mizu Light is a product launch template designed specificall... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-24 | The Astro Quick Start package covers the basics of connectin... |
-| [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 276 | 2026-06-24 | Foxi is an Astro theme crafted with Tailwind CSS, designed f... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-25T07:26 | 0 | 499 | 507 |
 | 2026-06-25T01:12 | 0 | 499 | 507 |
 | 2026-06-24T18:45 | 0 | 499 | 507 |
 | 2026-06-24T12:59 | 0 | 499 | 507 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-23T13:13 | 0 | 499 | 507 |
 | 2026-06-23T07:30 | 0 | 499 | 507 |
 | 2026-06-23T01:10 | 0 | 499 | 507 |
-| 2026-06-22T19:15 | 0 | 499 | 507 |
 
 ---
 
