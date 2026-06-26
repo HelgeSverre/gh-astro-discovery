@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-22T18:22:29Z",
-    "pushed_at": "2026-06-24T14:02:51Z",
+    "pushed_at": "2026-06-26T10:06:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -2790,7 +2790,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 90,
+    "stars": 91,
     "forks": 26,
     "topics": [
       "aeo",
@@ -2812,8 +2812,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-06-22T19:45:58Z",
-    "pushed_at": "2026-06-22T19:35:56Z",
+    "updated_at": "2026-06-26T11:53:56Z",
+    "pushed_at": "2026-06-26T10:32:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -3470,7 +3470,7 @@
     "name": "Rettend/starlight-plugin-icons",
     "url": "https://github.com/Rettend/starlight-plugin-icons",
     "description": "Add icons to Astro Starlight: sidebar, codeblocks, filetree",
-    "stars": 14,
+    "stars": 15,
     "forks": 2,
     "topics": [
       "astro",
@@ -3484,7 +3484,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-05T10:48:07Z",
-    "updated_at": "2026-05-31T09:25:03Z",
+    "updated_at": "2026-06-26T12:06:16Z",
     "pushed_at": "2026-02-24T13:09:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-26T05:11:01Z",
-    "pushed_at": "2026-06-26T05:10:57Z",
+    "updated_at": "2026-06-26T12:22:37Z",
+    "pushed_at": "2026-06-26T12:22:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-26T04:02:20Z",
-    "pushed_at": "2026-06-26T04:02:16Z",
+    "updated_at": "2026-06-26T11:07:54Z",
+    "pushed_at": "2026-06-26T11:07:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-26T03:52:00Z",
-    "pushed_at": "2026-06-26T03:51:56Z",
+    "updated_at": "2026-06-26T10:57:30Z",
+    "pushed_at": "2026-06-26T10:57:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5514,7 +5514,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-06-24T09:53:39Z",
+    "pushed_at": "2026-06-26T09:53:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -7186,7 +7186,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 83,
+    "stars": 84,
     "forks": 25,
     "topics": [
       "astro",
@@ -7204,7 +7204,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-06-25T20:51:54Z",
+    "updated_at": "2026-06-26T08:29:23Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7258,8 +7258,8 @@
     "language": "CSS",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-06-26T07:15:00Z",
-    "pushed_at": "2026-06-26T07:14:57Z",
+    "updated_at": "2026-06-26T11:16:03Z",
+    "pushed_at": "2026-06-26T11:15:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -10150,7 +10150,7 @@
     "name": "A58361/Ryze",
     "url": "https://github.com/A58361/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 38,
+    "stars": 39,
     "forks": 6,
     "topics": [
       "astro",
@@ -10177,7 +10177,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-06-24T21:04:08Z",
+    "updated_at": "2026-06-26T11:36:43Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -10484,7 +10484,7 @@
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
     "stars": 9,
-    "forks": 3,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-template",

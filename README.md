@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 507
-**Last updated:** 2026-06-26T07:33:28.403Z
+**Last updated:** 2026-06-26T12:56:53.887Z
 
 ## 📦 Recently Discovered
 
@@ -59,13 +59,16 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 10 | 2026-06-26 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-26 | The Astro Quick Start package covers the basics of connectin... |
-| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 27 | 2026-06-26 | Astro component for swiper, dedicated to slider / carousel /... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-26 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-26 | Convert 🫶🏻 |
+| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 10 | 2026-06-26 | A modern, clean and bloat-free Astro starter template. Acces... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-26 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-26 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 91 | 2026-06-26 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-26 | Astro Integration to generate a customizable table of conten... |
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-06-26 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-26 | The Astro Quick Start package covers the basics of connectin... |
+| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 27 | 2026-06-26 | Astro component for swiper, dedicated to slider / carousel /... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-26 | Convert 🫶🏻 |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-26 | Network 🚠 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-06-26 | Inline 🦔 |
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-26 | Format 🗻 |
@@ -76,9 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [jonasfroeller/astro.async.loader](https://github.com/jonasfroeller/astro.async.loader) | 0 | 2026-06-25 | An Astro component that shows a loader while iframe is loadi... |
 | [jonasfroeller/astro.image.lightbox](https://github.com/jonasfroeller/astro.image.lightbox) | 4 | 2026-06-25 | An Astro component for photoswipe's lightbox. |
 | [withstudiocms/ui](https://github.com/withstudiocms/ui) | 67 | 2026-06-25 | The UI library for StudioCMS. Includes the layouts & compone... |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-25 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-25 | Loaders for Astro's Content Layer |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-25 | The global variable integration for Astro 🌐 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-26T12:56 | 0 | 499 | 507 |
 | 2026-06-26T07:33 | 0 | 499 | 507 |
 | 2026-06-26T01:15 | 0 | 499 | 507 |
 | 2026-06-25T18:55 | 0 | 499 | 507 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-24T18:45 | 0 | 499 | 507 |
 | 2026-06-24T12:59 | 0 | 499 | 507 |
 | 2026-06-24T07:26 | 0 | 499 | 507 |
-| 2026-06-24T01:08 | 0 | 499 | 507 |
 
 ---
 
