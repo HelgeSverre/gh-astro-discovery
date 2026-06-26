@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-25T18:43:46Z",
-    "pushed_at": "2026-06-25T18:43:43Z",
+    "updated_at": "2026-06-25T20:01:14Z",
+    "pushed_at": "2026-06-25T20:01:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-06-19T11:29:23Z",
-    "pushed_at": "2026-06-25T18:50:32Z",
+    "pushed_at": "2026-06-25T22:49:17Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-25T15:14:56Z",
+    "pushed_at": "2026-06-25T19:09:01Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -1127,7 +1127,7 @@
     "license": "MIT",
     "created_at": "2024-12-05T17:08:07Z",
     "updated_at": "2026-06-05T22:07:31Z",
-    "pushed_at": "2026-06-25T18:43:21Z",
+    "pushed_at": "2026-06-25T19:28:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "louisbrulenaudet/astro-markdown-export": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-06-24T22:09:02Z",
+    "pushed_at": "2026-06-25T19:02:54Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2919,7 +2919,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-06-25T16:39:05Z",
-    "pushed_at": "2026-06-24T22:10:21Z",
+    "pushed_at": "2026-06-25T18:58:25Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -3104,8 +3104,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-06-12T12:33:46Z",
-    "pushed_at": "2026-05-29T06:41:27Z",
+    "updated_at": "2026-06-25T21:16:00Z",
+    "pushed_at": "2026-06-25T21:15:56Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dorukgezici/astro-decap-cms-oauth": {
@@ -3150,8 +3150,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-10-16T14:43:11Z",
-    "updated_at": "2026-06-25T16:05:21Z",
-    "pushed_at": "2026-06-25T16:05:07Z",
+    "updated_at": "2026-06-25T21:18:14Z",
+    "pushed_at": "2026-06-25T21:18:10Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-splide": {
@@ -4721,7 +4721,7 @@
     "license": "MIT",
     "created_at": "2025-01-06T01:01:44Z",
     "updated_at": "2026-01-07T03:27:40Z",
-    "pushed_at": "2026-03-31T08:53:51Z",
+    "pushed_at": "2026-06-25T19:52:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "jonasfroeller/astro.image.lightbox": {
@@ -4740,7 +4740,7 @@
     "license": "MIT",
     "created_at": "2025-01-05T23:14:56Z",
     "updated_at": "2026-01-06T22:48:20Z",
-    "pushed_at": "2026-03-31T08:36:06Z",
+    "pushed_at": "2026-06-25T19:44:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "codiume/astro-component-starter": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-25T18:49:28Z",
-    "pushed_at": "2026-06-25T18:49:23Z",
+    "updated_at": "2026-06-26T00:03:18Z",
+    "pushed_at": "2026-06-26T00:03:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-25T17:37:29Z",
-    "pushed_at": "2026-06-25T17:37:25Z",
+    "updated_at": "2026-06-25T22:56:48Z",
+    "pushed_at": "2026-06-25T22:56:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-25T17:26:26Z",
-    "pushed_at": "2026-06-25T17:26:22Z",
+    "updated_at": "2026-06-25T22:46:36Z",
+    "pushed_at": "2026-06-25T22:46:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6045,7 +6045,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-06-24T19:33:57Z",
+    "pushed_at": "2026-06-25T19:28:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6450,7 +6450,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 499,
-    "forks": 324,
+    "forks": 325,
     "topics": [
       "astro",
       "astro-template",
@@ -7186,7 +7186,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 82,
+    "stars": 83,
     "forks": 25,
     "topics": [
       "astro",
@@ -7204,7 +7204,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-06-19T13:49:53Z",
+    "updated_at": "2026-06-25T20:51:54Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7868,7 +7868,7 @@
     "url": "https://github.com/unfolding-io/nebulix",
     "description": "Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart",
     "stars": 306,
-    "forks": 125,
+    "forks": 124,
     "topics": [
       "astro",
       "astro-template",
@@ -10661,7 +10661,7 @@
     "name": "freshjuice-dev/zest",
     "url": "https://github.com/freshjuice-dev/zest",
     "description": "A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance.",
-    "stars": 3,
+    "stars": 5,
     "forks": 2,
     "topics": [
       "11ty",
@@ -10676,7 +10676,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-06-25T18:49:39Z",
+    "updated_at": "2026-06-25T20:10:52Z",
     "pushed_at": "2026-06-18T00:10:15Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
