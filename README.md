@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 507
-**Last updated:** 2026-06-26T01:15:18.539Z
+**Last updated:** 2026-06-26T07:33:28.403Z
 
 ## 📦 Recently Discovered
 
@@ -59,12 +59,19 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 10 | 2026-06-26 | A modern, clean and bloat-free Astro starter template. Acces... |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-06-26 | The Astro Quick Start package covers the basics of connectin... |
+| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 27 | 2026-06-26 | Astro component for swiper, dedicated to slider / carousel /... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-26 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-25 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-26 | Convert 🫶🏻 |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-26 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-26 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-26 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-06-26 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-26 | Format 🗻 |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-26 | Matomo integration for Astro |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-25 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-25 | 🌟 Create stunning websites with the Mainline Astro Template... |
 | [pascal-brand38/astro-dev](https://github.com/pascal-brand38/astro-dev) | 10 | 2026-06-25 | Astro package and site development doc |
-| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 27 | 2026-06-25 | Astro component for swiper, dedicated to slider / carousel /... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-25 | Documentation for Azion's services and features. |
 | [jonasfroeller/astro.async.loader](https://github.com/jonasfroeller/astro.async.loader) | 0 | 2026-06-25 | An Astro component that shows a loader while iframe is loadi... |
 | [jonasfroeller/astro.image.lightbox](https://github.com/jonasfroeller/astro.image.lightbox) | 4 | 2026-06-25 | An Astro component for photoswipe's lightbox. |
@@ -72,13 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-25 | 🚀 This Astro template offers more than 'Just the Basics', p... |
 | [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-25 | Loaders for Astro's Content Layer |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-25 | The global variable integration for Astro 🌐 |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-06-25 | The i18n integration for Astro 🧑‍🚀 |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-25 | This Astro component simplifies the process of adding moneti... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-06-25 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [roedwin-afk/astro-blog-kit](https://github.com/roedwin-afk/astro-blog-kit) | 0 | 2026-06-25 | A ready-to-use blog system for Astro with WordPress headless... |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-25 | This package provides a YouTube video loader for the Astro L... |
-| [velohost/astro-indexnow](https://github.com/velohost/astro-indexnow) | 11 | 2026-06-25 | Astro integration that submits all built pages to IndexNow a... |
-| [phillychi3/gilded](https://github.com/phillychi3/gilded) | 0 | 2026-06-25 | astro theme |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-26T07:33 | 0 | 499 | 507 |
 | 2026-06-26T01:15 | 0 | 499 | 507 |
 | 2026-06-25T18:55 | 0 | 499 | 507 |
 | 2026-06-25T13:00 | 0 | 499 | 507 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-24T12:59 | 0 | 499 | 507 |
 | 2026-06-24T07:26 | 0 | 499 | 507 |
 | 2026-06-24T01:08 | 0 | 499 | 507 |
-| 2026-06-23T18:54 | 0 | 499 | 507 |
 
 ---
 

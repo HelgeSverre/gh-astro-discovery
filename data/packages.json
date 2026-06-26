@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-25T04:03:56Z",
-    "pushed_at": "2026-06-25T04:03:52Z",
+    "updated_at": "2026-06-26T04:11:01Z",
+    "pushed_at": "2026-06-26T04:10:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-25T03:33:49Z",
-    "pushed_at": "2026-06-25T03:33:46Z",
+    "updated_at": "2026-06-26T03:41:15Z",
+    "pushed_at": "2026-06-26T03:41:12Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-25T02:54:24Z",
-    "pushed_at": "2026-06-25T02:54:19Z",
+    "updated_at": "2026-06-26T03:23:35Z",
+    "pushed_at": "2026-06-26T03:23:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-25T02:52:28Z",
-    "pushed_at": "2026-06-25T02:52:24Z",
+    "updated_at": "2026-06-26T02:57:47Z",
+    "pushed_at": "2026-06-26T02:57:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -715,8 +715,8 @@
     "name": "ykocaman/astro-medium-loader",
     "url": "https://github.com/ykocaman/astro-medium-loader",
     "description": "An Astro loader that fetches and parses Medium RSS feeds by username",
-    "stars": 3,
-    "forks": 0,
+    "stars": 4,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-component",
@@ -729,7 +729,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-13T02:15:50Z",
-    "updated_at": "2026-06-01T14:48:02Z",
+    "updated_at": "2026-06-26T01:59:19Z",
     "pushed_at": "2026-06-20T03:59:09Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -753,7 +753,7 @@
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
     "updated_at": "2026-05-19T01:04:57Z",
-    "pushed_at": "2026-06-23T18:15:49Z",
+    "pushed_at": "2026-06-26T02:42:39Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -3104,8 +3104,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-06-25T21:16:00Z",
-    "pushed_at": "2026-06-25T21:15:56Z",
+    "updated_at": "2026-06-26T05:26:47Z",
+    "pushed_at": "2026-06-26T05:26:44Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dorukgezici/astro-decap-cms-oauth": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-26T00:03:18Z",
-    "pushed_at": "2026-06-26T00:03:13Z",
+    "updated_at": "2026-06-26T05:11:01Z",
+    "pushed_at": "2026-06-26T05:10:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-25T22:56:48Z",
-    "pushed_at": "2026-06-25T22:56:45Z",
+    "updated_at": "2026-06-26T04:02:20Z",
+    "pushed_at": "2026-06-26T04:02:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-25T22:46:36Z",
-    "pushed_at": "2026-06-25T22:46:33Z",
+    "updated_at": "2026-06-26T03:52:00Z",
+    "pushed_at": "2026-06-26T03:51:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5641,7 +5641,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 142,
-    "forks": 48,
+    "forks": 49,
     "topics": [
       "astro",
       "astro-theme",
@@ -5656,7 +5656,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-25T10:54:08Z",
+    "updated_at": "2026-06-26T03:01:20Z",
     "pushed_at": "2026-06-20T04:33:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7255,11 +7255,11 @@
       "html",
       "template"
     ],
-    "language": "Astro",
+    "language": "CSS",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-05-28T08:17:32Z",
-    "pushed_at": "2026-05-28T08:17:18Z",
+    "updated_at": "2026-06-26T07:15:00Z",
+    "pushed_at": "2026-06-26T07:14:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -8071,7 +8071,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-06-22T13:32:33Z",
-    "pushed_at": "2026-06-24T06:43:11Z",
+    "pushed_at": "2026-06-26T06:43:12Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
