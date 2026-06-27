@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-26T04:11:01Z",
-    "pushed_at": "2026-06-26T04:10:58Z",
+    "updated_at": "2026-06-27T03:57:09Z",
+    "pushed_at": "2026-06-27T03:57:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-26T03:41:15Z",
-    "pushed_at": "2026-06-26T03:41:12Z",
+    "updated_at": "2026-06-27T03:27:46Z",
+    "pushed_at": "2026-06-27T03:27:42Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-26T03:23:35Z",
-    "pushed_at": "2026-06-26T03:23:31Z",
+    "updated_at": "2026-06-27T02:49:30Z",
+    "pushed_at": "2026-06-27T02:49:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-26T02:57:47Z",
-    "pushed_at": "2026-06-26T02:57:44Z",
+    "updated_at": "2026-06-27T02:47:08Z",
+    "pushed_at": "2026-06-27T02:47:04Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-27T00:00:27Z",
-    "pushed_at": "2026-06-27T00:00:23Z",
+    "updated_at": "2026-06-27T07:07:23Z",
+    "pushed_at": "2026-06-27T07:07:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-27T01:07:02Z",
-    "pushed_at": "2026-06-27T01:06:58Z",
+    "updated_at": "2026-06-27T06:00:54Z",
+    "pushed_at": "2026-06-27T06:00:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-27T00:57:20Z",
-    "pushed_at": "2026-06-27T00:57:17Z",
+    "updated_at": "2026-06-27T05:50:57Z",
+    "pushed_at": "2026-06-27T05:50:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6257,8 +6257,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-06-25T12:22:04Z",
-    "pushed_at": "2026-05-25T04:06:32Z",
+    "updated_at": "2026-06-27T06:45:37Z",
+    "pushed_at": "2026-06-27T06:45:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "timfang4162/astro-theme-vellume": {
@@ -6371,8 +6371,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-03-18T05:16:34Z",
-    "updated_at": "2026-04-23T04:31:16Z",
-    "pushed_at": "2026-04-12T09:29:44Z",
+    "updated_at": "2026-06-27T06:43:36Z",
+    "pushed_at": "2026-06-27T06:43:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "510208/sh-blog-next": {
@@ -6665,8 +6665,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-01T09:48:28Z",
-    "updated_at": "2026-06-25T12:23:18Z",
-    "pushed_at": "2026-03-14T04:32:00Z",
+    "updated_at": "2026-06-27T06:44:00Z",
+    "pushed_at": "2026-06-27T06:43:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "vinitshahdeo/portfolio": {
@@ -6938,7 +6938,7 @@
   "erlandv/case": {
     "name": "erlandv/case",
     "url": "https://github.com/erlandv/case",
-    "description": "A case-study-first portfolio theme for Astro. Designed for professionals who want to showcase their thinking, decisions, and real impact.",
+    "description": "An Astro portfolio theme made for developers who want to tell the real story behind their code.",
     "stars": 50,
     "forks": 28,
     "topics": [
@@ -6954,7 +6954,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-08T07:07:46Z",
-    "updated_at": "2026-06-24T00:37:38Z",
+    "updated_at": "2026-06-27T05:03:28Z",
     "pushed_at": "2026-01-13T10:04:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7044,7 +7044,7 @@
   "erlandv/virex": {
     "name": "erlandv/virex",
     "url": "https://github.com/erlandv/virex",
-    "description": "A production-ready SaaS UI theme for Astro. Designed to help you move from idea to launch quickly.",
+    "description": "A sleek, ready-to-go Astro theme to help you launch your SaaS product without the layout headache.",
     "stars": 39,
     "forks": 15,
     "topics": [
@@ -7059,7 +7059,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-17T04:25:58Z",
-    "updated_at": "2026-06-17T06:50:16Z",
+    "updated_at": "2026-06-27T05:03:49Z",
     "pushed_at": "2025-12-28T05:27:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10078,7 +10078,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-06-26T22:46:10Z",
-    "pushed_at": "2026-06-26T22:46:06Z",
+    "pushed_at": "2026-06-27T01:37:13Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10335,8 +10335,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-29T09:08:54Z",
-    "updated_at": "2026-06-03T10:23:20Z",
-    "pushed_at": "2026-04-15T07:15:11Z",
+    "updated_at": "2026-06-27T06:48:27Z",
+    "pushed_at": "2026-06-27T06:48:23Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
   "themefisher/bigspring-light-astro": {
@@ -10362,8 +10362,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-03-11T08:41:01Z",
-    "updated_at": "2026-06-08T16:18:55Z",
-    "pushed_at": "2026-04-12T09:58:04Z",
+    "updated_at": "2026-06-27T06:44:24Z",
+    "pushed_at": "2026-06-27T06:44:19Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
   "themefisher/dockit-astro": {
@@ -10386,8 +10386,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-10-19T09:24:22Z",
-    "updated_at": "2026-06-16T09:02:52Z",
-    "pushed_at": "2026-03-14T07:48:54Z",
+    "updated_at": "2026-06-27T06:50:56Z",
+    "pushed_at": "2026-06-27T06:50:52Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
   "atomiechen/astroprint": {
