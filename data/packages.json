@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-22T18:22:29Z",
-    "pushed_at": "2026-06-28T02:37:23Z",
+    "pushed_at": "2026-06-28T10:39:33Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -646,7 +646,7 @@
     "license": "MIT",
     "created_at": "2026-04-25T23:20:36Z",
     "updated_at": "2026-06-19T03:21:34Z",
-    "pushed_at": "2026-06-21T08:12:52Z",
+    "pushed_at": "2026-06-28T08:12:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "karesztrk/astro-svg-icon": {
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-06-25T03:55:32Z",
+    "pushed_at": "2026-06-28T11:54:07Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -2946,7 +2946,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 35,
+    "stars": 36,
     "forks": 8,
     "topics": [
       "agent-ready",
@@ -2964,7 +2964,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-06-27T17:11:58Z",
+    "updated_at": "2026-06-28T12:18:03Z",
     "pushed_at": "2026-06-22T11:06:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-28T05:26:13Z",
-    "pushed_at": "2026-06-28T05:26:09Z",
+    "updated_at": "2026-06-28T10:29:11Z",
+    "pushed_at": "2026-06-28T10:29:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-28T07:05:45Z",
-    "pushed_at": "2026-06-28T07:05:41Z",
+    "updated_at": "2026-06-28T12:15:34Z",
+    "pushed_at": "2026-06-28T12:15:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-28T06:55:50Z",
-    "pushed_at": "2026-06-28T06:55:46Z",
+    "updated_at": "2026-06-28T12:05:23Z",
+    "pushed_at": "2026-06-28T12:05:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5810,7 +5810,7 @@
     "name": "D-Sketon/astro-theme-reimu",
     "url": "https://github.com/D-Sketon/astro-theme-reimu",
     "description": "一款博丽灵梦风格的Astro主题 | A Hakurei Reimu style Astro theme. 💘Touhou💘",
-    "stars": 68,
+    "stars": 67,
     "forks": 10,
     "topics": [
       "astro",
@@ -5831,7 +5831,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-10T13:01:41Z",
-    "updated_at": "2026-06-23T14:19:01Z",
+    "updated_at": "2026-06-28T09:18:04Z",
     "pushed_at": "2026-05-13T15:14:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6153,7 +6153,7 @@
     "url": "https://github.com/getastrothemes/folex-lite-astro",
     "description": "A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!",
     "stars": 39,
-    "forks": 25,
+    "forks": 24,
     "topics": [
       "agency-template",
       "astro",
@@ -8690,7 +8690,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-05-22T12:25:52Z",
-    "pushed_at": "2026-06-21T08:32:04Z",
+    "pushed_at": "2026-06-28T09:00:47Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
@@ -10015,7 +10015,7 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 16,
+    "stars": 15,
     "forks": 6,
     "topics": [
       "astro",
@@ -10031,7 +10031,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-22T03:38:30Z",
+    "updated_at": "2026-06-28T10:45:09Z",
     "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
@@ -10483,7 +10483,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 10,
+    "stars": 11,
     "forks": 3,
     "topics": [
       "astro",
@@ -10500,7 +10500,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-06-27T22:54:10Z",
+    "updated_at": "2026-06-28T08:50:20Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10684,7 +10684,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 6,
+    "stars": 7,
     "forks": 5,
     "topics": [
       "astro",
@@ -10697,7 +10697,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-27T08:06:26Z",
+    "updated_at": "2026-06-28T08:50:34Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
@@ -10819,8 +10819,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-28T07:15:35Z",
-    "pushed_at": "2026-06-28T07:15:32Z",
+    "updated_at": "2026-06-28T11:18:33Z",
+    "pushed_at": "2026-06-28T11:18:29Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
@@ -10849,5 +10849,32 @@
     "updated_at": "2026-06-28T01:13:02Z",
     "pushed_at": "2026-06-28T01:03:47Z",
     "discovered_at": "2026-06-28T01:17:02.812Z"
+  },
+  "muhammad-fiaz/awesome": {
+    "name": "muhammad-fiaz/awesome",
+    "url": "https://github.com/muhammad-fiaz/awesome",
+    "description": "A curated collection of developer resources, tutorials, tools, and open-source projects.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "astrojs",
+      "awesome",
+      "awesome-list",
+      "awesome-readme",
+      "awesome-resources",
+      "react",
+      "reactjs",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-06-21T17:11:16Z",
+    "updated_at": "2026-06-28T11:23:28Z",
+    "pushed_at": "2026-06-28T11:23:24Z",
+    "discovered_at": "2026-06-28T12:40:37.423Z"
   }
 }

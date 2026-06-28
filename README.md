@@ -2,20 +2,21 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 512
-**Last updated:** 2026-06-28T07:35:05.778Z
+**Total packages tracked:** 513
+**Last updated:** 2026-06-28T12:40:37.428Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | A curated collection of developer resources, tutorials, tools, and open-source p... |
 | [nooniwa/starter](https://github.com/nooniwa/starter) | 0 | nooniwa is an Astro theme (Astro integration) for digital gardens. Your Markdown... |
 | [ewels/starlight-quiz](https://github.com/ewels/starlight-quiz) | 0 |  |
 | [alex-on-ai/astroblog](https://github.com/alex-on-ai/astroblog) | 65 | Personal Astro blog edited through self-hosted Pages CMS and deployed on Vercel. |
 | [nooniwa/nooniwa](https://github.com/nooniwa/nooniwa) | 0 | nooniwa is an Astro theme (Astro integration) for digital gardens. Your Markdown... |
 | [kpab/astro-keel](https://github.com/kpab/astro-keel) | 0 | Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7... |
 | [andreialba/ombra](https://github.com/andreialba/ombra) | 0 | Dark editorial Astro theme for intimate restaurants and tasting menus. |
-| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 6 | QuietPages is a calm Astro theme for independent magazines, personal journals, a... |
+| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 7 | QuietPages is a calm Astro theme for independent magazines, personal journals, a... |
 | [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 6 | A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance. |
 | [kpab/astro-darkness](https://github.com/kpab/astro-darkness) | 9 | A stunning dark-themed portfolio template for Astro with interactive Three.js pa... |
 | [elstron/astro-search](https://github.com/elstron/astro-search) | 0 | astro-search is an Astro integration that generates a static search index at bui... |
@@ -24,11 +25,10 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | Astro starter template for Cloudflare Workers with Svelte, Tailwind CSS 4, daisy... |
 | [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | Astro components and integration for managing page head metadata, SEO outputs, s... |
 | [BrainWeb/astro-payload-live-preview](https://github.com/BrainWeb/astro-payload-live-preview) | 1 | Payload CMS Live Preview for Astro — refresh SSR routes in place when documents ... |
-| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 10 | A simple, minimalistic personal blog theme built with Astro and TailwindCSS, ins... |
+| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 11 | A simple, minimalistic personal blog theme built with Astro and TailwindCSS, ins... |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 2 | Simple and cute Standard.site integration for Astro |
 | [eigdoyr/ryodgie-v2](https://github.com/eigdoyr/ryodgie-v2) | 1 | Personal portfolio of Ryodgie Barnatia. Built with Astro, SCSS, TypeScript. |
 | [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 5 | Astro integration that exposes your site content via WebMCP for AI agents |
-| [atomiechen/astroprint](https://github.com/atomiechen/astroprint) | 1 | Print-ready Markdown documents for Astro, with normal web preview, paged preview... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,15 +59,19 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ewels/starlight-quiz](https://github.com/ewels/starlight-quiz) | 0 | 2026-06-28 |  |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-28 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-28 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-06-28 | BeamAnalytics integration for Astro |
+| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | 2026-06-28 | A curated collection of developer resources, tutorials, tool... |
+| [ewels/starlight-quiz](https://github.com/ewels/starlight-quiz) | 0 | 2026-06-28 |  |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-28 | Astro Integration to generate a customizable table of conten... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-28 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-06-28 | Regular integration tests of Coordinated packages with astro... |
+| [obaronai/astro-ai-readiness](https://github.com/obaronai/astro-ai-readiness) | 1 | 2026-06-28 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-28 | Convert 🫶🏻 |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-28 | Network 🚠 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-06-28 | Inline 🦔 |
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-28 | Format 🗻 |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-28 | Astro Integration to generate a customizable table of conten... |
 | [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-28 | This Astro component simplifies the process of adding moneti... |
 | [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 51 | 2026-06-28 | Astro Starter Pro: A free, production-ready Astro starter fo... |
 | [nooniwa/starter](https://github.com/nooniwa/starter) | 0 | 2026-06-28 | nooniwa is an Astro theme (Astro integration) for digital ga... |
@@ -75,10 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [nooniwa/nooniwa](https://github.com/nooniwa/nooniwa) | 0 | 2026-06-28 | nooniwa is an Astro theme (Astro integration) for digital ga... |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-27 | 🚀 This Astro template offers more than 'Just the Basics', p... |
 | [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-06-27 | Loaders for Astro's Content Layer |
-| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-06-27 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
-| [pascal-brand38/astro-dev](https://github.com/pascal-brand38/astro-dev) | 10 | 2026-06-27 | Astro package and site development doc |
-| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 27 | 2026-06-27 | Astro component for swiper, dedicated to slider / carousel /... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 210 | 2026-06-27 | Well configurable breadcrumb component for Astro.js. Create ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-28T12:40 | 1 | 504 | 513 |
 | 2026-06-28T07:35 | 0 | 504 | 512 |
 | 2026-06-28T01:17 | 1 | 503 | 512 |
 | 2026-06-27T18:34 | 1 | 502 | 511 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-26T18:47 | 0 | 499 | 507 |
 | 2026-06-26T12:56 | 0 | 499 | 507 |
 | 2026-06-26T07:33 | 0 | 499 | 507 |
-| 2026-06-26T01:15 | 0 | 499 | 507 |
 
 ---
 
