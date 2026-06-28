@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-06-26T16:48:39Z",
+    "pushed_at": "2026-06-28T16:48:01Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -2946,7 +2946,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 36,
+    "stars": 37,
     "forks": 8,
     "topics": [
       "agent-ready",
@@ -2964,7 +2964,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-06-28T12:18:03Z",
+    "updated_at": "2026-06-28T17:52:28Z",
     "pushed_at": "2026-06-22T11:06:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3150,8 +3150,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-10-16T14:43:11Z",
-    "updated_at": "2026-06-27T17:44:32Z",
-    "pushed_at": "2026-06-27T17:44:29Z",
+    "updated_at": "2026-06-28T16:59:10Z",
+    "pushed_at": "2026-06-28T16:59:06Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-splide": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-28T10:29:11Z",
-    "pushed_at": "2026-06-28T10:29:07Z",
+    "updated_at": "2026-06-28T18:34:40Z",
+    "pushed_at": "2026-06-28T18:34:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-28T12:15:34Z",
-    "pushed_at": "2026-06-28T12:15:30Z",
+    "updated_at": "2026-06-28T17:26:55Z",
+    "pushed_at": "2026-06-28T17:26:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-28T12:05:23Z",
-    "pushed_at": "2026-06-28T12:05:20Z",
+    "updated_at": "2026-06-28T17:16:43Z",
+    "pushed_at": "2026-06-28T17:16:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5596,7 +5596,7 @@
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
     "stars": 9,
-    "forks": 2,
+    "forks": 3,
     "topics": [
       "astro",
       "astro-template",
@@ -5640,7 +5640,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 142,
+    "stars": 143,
     "forks": 50,
     "topics": [
       "astro",
@@ -5656,7 +5656,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-26T13:49:31Z",
+    "updated_at": "2026-06-28T14:44:00Z",
     "pushed_at": "2026-06-26T14:40:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6045,7 +6045,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-06-27T23:34:54Z",
+    "pushed_at": "2026-06-28T15:55:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6497,7 +6497,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 165,
+    "stars": 166,
     "forks": 29,
     "topics": [
       "astro",
@@ -6515,7 +6515,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-18T22:06:27Z",
+    "updated_at": "2026-06-28T13:15:33Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7024,7 +7024,7 @@
     "url": "https://github.com/advitiyan-png/clay-astro-theme",
     "description": "A minimalist, high-performance Astro theme for photographers and artists.",
     "stars": 13,
-    "forks": 24,
+    "forks": 25,
     "topics": [
       "astro",
       "astro-template",
@@ -7719,7 +7719,7 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 305,
+    "stars": 304,
     "forks": 126,
     "topics": [
       "astro",
@@ -7729,7 +7729,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-06-22T08:06:41Z",
+    "updated_at": "2026-06-28T13:00:26Z",
     "pushed_at": "2024-08-25T01:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10676,8 +10676,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-06-26T14:33:35Z",
-    "pushed_at": "2026-06-18T00:10:15Z",
+    "updated_at": "2026-06-28T13:10:07Z",
+    "pushed_at": "2026-06-28T13:10:12Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
   "andreialba/quietpages": {
@@ -10819,8 +10819,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-28T11:18:33Z",
-    "pushed_at": "2026-06-28T11:18:29Z",
+    "updated_at": "2026-06-28T13:27:04Z",
+    "pushed_at": "2026-06-28T13:27:00Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
@@ -10876,5 +10876,27 @@
     "updated_at": "2026-06-28T11:23:28Z",
     "pushed_at": "2026-06-28T11:23:24Z",
     "discovered_at": "2026-06-28T12:40:37.423Z"
+  },
+  "peltmonger/create-stardrive": {
+    "name": "Peltmonger/create-stardrive",
+    "url": "https://github.com/Peltmonger/create-stardrive",
+    "description": "Create a new top-notch astro boilerplate to kick of your next high-speed website. LLM-friendly.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-boilerplate",
+      "astro-starter",
+      "astro-template",
+      "astrojs",
+      "boilerplate",
+      "starter"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-12T09:12:35Z",
+    "updated_at": "2026-06-28T13:59:56Z",
+    "pushed_at": "2026-06-28T13:59:52Z",
+    "discovered_at": "2026-06-28T18:35:16.399Z"
   }
 }
