@@ -49,8 +49,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-01-18T16:32:38Z",
-    "updated_at": "2026-06-22T06:26:01Z",
-    "pushed_at": "2026-06-22T06:25:58Z",
+    "updated_at": "2026-06-29T06:19:07Z",
+    "pushed_at": "2026-06-29T06:19:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "florian-lefebvre/astro-loading-indicator": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-06-28T04:19:28Z",
-    "pushed_at": "2026-06-28T04:19:25Z",
+    "updated_at": "2026-06-29T04:26:08Z",
+    "pushed_at": "2026-06-29T04:26:04Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-06-28T03:51:14Z",
-    "pushed_at": "2026-06-28T03:51:10Z",
+    "updated_at": "2026-06-29T03:55:49Z",
+    "pushed_at": "2026-06-29T03:55:45Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-06-28T03:31:01Z",
-    "pushed_at": "2026-06-28T03:30:57Z",
+    "updated_at": "2026-06-29T03:35:40Z",
+    "pushed_at": "2026-06-29T03:35:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-06-28T03:27:50Z",
-    "pushed_at": "2026-06-28T03:27:46Z",
+    "updated_at": "2026-06-29T03:32:44Z",
+    "pushed_at": "2026-06-29T03:32:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -2946,7 +2946,7 @@
     "name": "jdevalk/seo-graph",
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
-    "stars": 37,
+    "stars": 39,
     "forks": 8,
     "topics": [
       "agent-ready",
@@ -2964,7 +2964,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-06-28T17:52:28Z",
+    "updated_at": "2026-06-29T06:53:32Z",
     "pushed_at": "2026-06-22T11:06:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-28T23:36:12Z",
-    "pushed_at": "2026-06-28T23:36:08Z",
+    "updated_at": "2026-06-29T04:29:16Z",
+    "pushed_at": "2026-06-29T04:29:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-29T00:43:44Z",
-    "pushed_at": "2026-06-29T00:43:40Z",
+    "updated_at": "2026-06-29T03:25:26Z",
+    "pushed_at": "2026-06-29T03:25:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-29T00:34:14Z",
-    "pushed_at": "2026-06-29T00:34:10Z",
+    "updated_at": "2026-06-29T03:15:49Z",
+    "pushed_at": "2026-06-29T03:15:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -10015,7 +10015,7 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 15,
+    "stars": 16,
     "forks": 6,
     "topics": [
       "astro",
@@ -10031,7 +10031,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-28T10:45:09Z",
+    "updated_at": "2026-06-29T02:12:05Z",
     "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
@@ -10676,15 +10676,15 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-06-28T13:10:07Z",
-    "pushed_at": "2026-06-28T13:10:12Z",
+    "updated_at": "2026-06-29T07:53:17Z",
+    "pushed_at": "2026-06-29T07:57:15Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
   "andreialba/quietpages": {
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 7,
+    "stars": 8,
     "forks": 5,
     "topics": [
       "astro",
@@ -10697,7 +10697,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-28T08:50:34Z",
+    "updated_at": "2026-06-29T02:17:42Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
@@ -10819,8 +10819,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-29T00:15:37Z",
-    "pushed_at": "2026-06-29T00:15:34Z",
+    "updated_at": "2026-06-29T07:26:33Z",
+    "pushed_at": "2026-06-29T07:26:29Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
@@ -10846,7 +10846,7 @@
     "language": "JavaScript",
     "license": null,
     "created_at": "2026-06-27T14:21:08Z",
-    "updated_at": "2026-06-28T01:13:02Z",
+    "updated_at": "2026-06-29T01:57:35Z",
     "pushed_at": "2026-06-28T01:03:47Z",
     "discovered_at": "2026-06-28T01:17:02.812Z"
   },
@@ -10873,8 +10873,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-21T17:11:16Z",
-    "updated_at": "2026-06-29T01:06:13Z",
-    "pushed_at": "2026-06-29T01:06:09Z",
+    "updated_at": "2026-06-29T02:06:22Z",
+    "pushed_at": "2026-06-29T02:06:19Z",
     "discovered_at": "2026-06-28T12:40:37.423Z"
   },
   "peltmonger/create-stardrive": {
