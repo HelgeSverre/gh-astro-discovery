@@ -17,5 +17,221 @@
     "discovered_at": "2026-05-18T10:54:54.925Z",
     "archived_at": "2026-06-05T13:18:04.753Z",
     "archive_reason": "Stale: not seen in search results and last pushed 452 days ago"
+  },
+  "zastinian/astro-bun": {
+    "name": "Zastinian/astro-bun",
+    "url": "https://github.com/Zastinian/astro-bun",
+    "description": "Supercharge your Astro projects with the power of Bun! 🌟 - Bun Adapter",
+    "stars": 11,
+    "forks": 1,
+    "topics": [
+      "adapter",
+      "astro",
+      "astro-adapter",
+      "astro-integration",
+      "bun",
+      "performance",
+      "speed",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2024-12-04T22:22:42Z",
+    "updated_at": "2026-05-30T08:55:01Z",
+    "pushed_at": "2025-06-11T03:18:39Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 383 days ago"
+  },
+  "maxnatamo/maxnatamo": {
+    "name": "maxnatamo/maxnatamo",
+    "url": "https://github.com/maxnatamo/maxnatamo",
+    "description": "Just my own little place on the internet.",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "resume",
+      "tailwindcss",
+      "typescript",
+      "utterances",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "Unlicense",
+    "created_at": "2023-03-19T23:01:10Z",
+    "updated_at": "2025-06-06T14:20:35Z",
+    "pushed_at": "2025-06-06T14:20:32Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 387 days ago"
+  },
+  "pricci1/gh-discussions-astro": {
+    "name": "pricci1/gh-discussions-astro",
+    "url": "https://github.com/pricci1/gh-discussions-astro",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro-loader",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": null,
+    "created_at": "2025-05-16T16:26:36Z",
+    "updated_at": "2025-06-10T20:46:18Z",
+    "pushed_at": "2025-05-20T20:17:16Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 404 days ago"
+  },
+  "hejimenez00/butterui": {
+    "name": "HeJimenez00/ButterUI",
+    "url": "https://github.com/HeJimenez00/ButterUI",
+    "description": "Catalog of UI components as smooth as butter: soft, fluid, and designed for developers 🧈",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "class-variance-authority",
+      "gsap",
+      "tailwindcss",
+      "ui-components",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2025-01-23T21:29:19Z",
+    "updated_at": "2026-01-25T02:21:28Z",
+    "pushed_at": "2025-05-06T16:05:55Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 418 days ago"
+  },
+  "theisel/astro-toc": {
+    "name": "theisel/astro-toc",
+    "url": "https://github.com/theisel/astro-toc",
+    "description": "A flexible Table of Contents (ToC) generator component for Astro. Perfect for blogs, documentation, or any content-rich page which benefits from in-page navigation",
+    "stars": 25,
+    "forks": 2,
+    "topics": [
+      "astro",
+      "astro-component",
+      "toc",
+      "toc-generator",
+      "ui",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "ISC",
+    "created_at": "2022-10-23T03:45:49Z",
+    "updated_at": "2025-12-26T17:54:53Z",
+    "pushed_at": "2025-04-26T03:52:37Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 429 days ago"
+  },
+  "florian-lefebvre/qr-generator": {
+    "name": "florian-lefebvre/qr-generator",
+    "url": "https://github.com/florian-lefebvre/qr-generator",
+    "description": "Generate unlimited QR Codes with ease for free",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "qrcode",
+      "qrcode-generator",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2024-05-27T12:43:26Z",
+    "updated_at": "2025-11-02T04:34:56Z",
+    "pushed_at": "2025-04-13T10:30:06Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 442 days ago"
+  },
+  "arifrabbaniin/astro-package-template": {
+    "name": "ArifRabbaniIn/astro-package-template",
+    "url": "https://github.com/ArifRabbaniIn/astro-package-template",
+    "description": "A ready to use template for developing Astro package",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "astro-integration",
+      "javascript",
+      "typescript",
+      "withastro"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2025-03-02T04:51:02Z",
+    "updated_at": "2025-05-13T13:37:29Z",
+    "pushed_at": "2025-03-13T11:47:27Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 473 days ago"
+  },
+  "theotterlord/starlight-theme-template": {
+    "name": "TheOtterlord/starlight-theme-template",
+    "url": "https://github.com/TheOtterlord/starlight-theme-template",
+    "description": "Create and publish your own Starlight theme!",
+    "stars": 4,
+    "forks": 1,
+    "topics": [
+      "starlight",
+      "withastro"
+    ],
+    "language": "MDX",
+    "license": "MIT",
+    "created_at": "2025-01-11T15:53:12Z",
+    "updated_at": "2025-04-03T21:49:29Z",
+    "pushed_at": "2025-02-17T13:41:37Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 497 days ago"
+  },
+  "ijanos/astro-doom-text": {
+    "name": "ijanos/astro-doom-text",
+    "url": "https://github.com/ijanos/astro-doom-text",
+    "description": "Doom text generator Astro component",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "astro-component",
+      "astrojs",
+      "doom",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": null,
+    "created_at": "2025-01-19T18:15:37Z",
+    "updated_at": "2026-06-01T07:38:58Z",
+    "pushed_at": "2025-02-01T16:04:35Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 512 days ago"
+  },
+  "truewinter/astro-copy-prod-deps": {
+    "name": "TrueWinter/astro-copy-prod-deps",
+    "url": "https://github.com/TrueWinter/astro-copy-prod-deps",
+    "description": "Astro integration that copies only the dependencies needed in production for SSR and hybrid websites",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro-integration",
+      "withastro"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2024-09-05T20:17:22Z",
+    "updated_at": "2025-01-24T19:08:51Z",
+    "pushed_at": "2025-01-24T19:08:47Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-06-29T13:45:53.901Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 520 days ago"
   }
 }

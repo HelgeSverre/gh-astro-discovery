@@ -2,8 +2,8 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 515
-**Last updated:** 2026-06-29T08:04:34.004Z
+**Total packages tracked:** 505
+**Last updated:** 2026-06-29T13:45:53.904Z
 
 ## 📦 Recently Discovered
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-29T13:45 | 0 | 0 | 505 |
 | 2026-06-29T08:04 | 0 | 506 | 515 |
 | 2026-06-29T01:17 | 1 | 505 | 515 |
 | 2026-06-28T18:35 | 1 | 505 | 514 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-27T18:34 | 1 | 502 | 511 |
 | 2026-06-27T12:40 | 2 | 500 | 510 |
 | 2026-06-27T07:18 | 0 | 500 | 508 |
-| 2026-06-27T01:11 | 1 | 499 | 508 |
 
 ---
 
