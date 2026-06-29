@@ -366,7 +366,7 @@
     "name": "sudeep2003/astro-iconset",
     "url": "https://github.com/sudeep2003/astro-iconset",
     "description": "SVG icon integration for Astro — local icons, Iconify sets, sprite deduplication, and zero browser runtime.",
-    "stars": 8,
+    "stars": 7,
     "forks": 3,
     "topics": [
       "astro",
@@ -382,7 +382,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-05T07:53:49Z",
-    "updated_at": "2026-06-20T08:15:47Z",
+    "updated_at": "2026-06-29T00:57:48Z",
     "pushed_at": "2026-06-20T08:15:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-06-22T23:13:04Z",
-    "pushed_at": "2026-06-22T23:13:34Z",
+    "pushed_at": "2026-06-28T22:02:08Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-23T01:45:36Z",
-    "pushed_at": "2026-06-26T19:36:50Z",
+    "pushed_at": "2026-06-28T23:29:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -5291,8 +5291,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-28T18:34:40Z",
-    "pushed_at": "2026-06-28T18:34:36Z",
+    "updated_at": "2026-06-28T23:36:12Z",
+    "pushed_at": "2026-06-28T23:36:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-28T17:26:55Z",
-    "pushed_at": "2026-06-28T17:26:51Z",
+    "updated_at": "2026-06-29T00:43:44Z",
+    "pushed_at": "2026-06-29T00:43:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5466,8 +5466,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-28T17:16:43Z",
-    "pushed_at": "2026-06-28T17:16:39Z",
+    "updated_at": "2026-06-29T00:34:14Z",
+    "pushed_at": "2026-06-29T00:34:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5572,7 +5572,7 @@
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
     "stars": 19,
-    "forks": 7,
+    "forks": 8,
     "topics": [
       "astro",
       "astro-blog",
@@ -10077,8 +10077,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-06-26T22:46:10Z",
-    "pushed_at": "2026-06-27T01:37:13Z",
+    "updated_at": "2026-06-28T23:58:10Z",
+    "pushed_at": "2026-06-28T23:58:07Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10293,7 +10293,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 32,
-    "forks": 17,
+    "forks": 18,
     "topics": [
       "astro",
       "astro-template",
@@ -10484,7 +10484,7 @@
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
     "stars": 11,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-template",
@@ -10793,10 +10793,10 @@
       "tailwindcss"
     ],
     "language": "Astro",
-    "license": null,
+    "license": "MIT",
     "created_at": "2023-05-11T01:17:33Z",
-    "updated_at": "2026-06-27T08:54:19Z",
-    "pushed_at": "2026-06-27T08:23:44Z",
+    "updated_at": "2026-06-28T22:01:29Z",
+    "pushed_at": "2026-06-28T22:01:25Z",
     "discovered_at": "2026-06-27T12:40:15.501Z"
   },
   "ewels/starlight-quiz": {
@@ -10819,8 +10819,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-28T13:27:04Z",
-    "pushed_at": "2026-06-28T13:27:00Z",
+    "updated_at": "2026-06-29T00:15:37Z",
+    "pushed_at": "2026-06-29T00:15:34Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
@@ -10873,8 +10873,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-21T17:11:16Z",
-    "updated_at": "2026-06-28T11:23:28Z",
-    "pushed_at": "2026-06-28T11:23:24Z",
+    "updated_at": "2026-06-29T01:06:13Z",
+    "pushed_at": "2026-06-29T01:06:09Z",
     "discovered_at": "2026-06-28T12:40:37.423Z"
   },
   "peltmonger/create-stardrive": {
@@ -10898,5 +10898,32 @@
     "updated_at": "2026-06-28T13:59:56Z",
     "pushed_at": "2026-06-28T13:59:52Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
+  },
+  "achis-space/astro-justified-gallery-layout": {
+    "name": "achis-space/astro-justified-gallery-layout",
+    "url": "https://github.com/achis-space/astro-justified-gallery-layout",
+    "description": "Justified (Flickr-style) photo gallery for Astro with EXIF/IPTC/GPS extraction, LQIP previews, virtualized rendering, and a drop-in modal lightbox.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "exif",
+      "flickr-layout",
+      "gallery",
+      "image-gallery",
+      "iptc",
+      "justified-layout",
+      "lightbox",
+      "lqip",
+      "masonry",
+      "photo-gallery"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-04-28T21:55:48Z",
+    "updated_at": "2026-04-28T22:02:04Z",
+    "pushed_at": "2026-04-28T22:00:29Z",
+    "discovered_at": "2026-06-29T01:17:43.767Z"
   }
 }
