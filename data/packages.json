@@ -236,14 +236,14 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-06-25T20:01:14Z",
-    "pushed_at": "2026-06-26T17:10:30Z",
+    "pushed_at": "2026-06-29T18:28:17Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 210,
+    "stars": 211,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-06-27T13:09:12Z",
-    "pushed_at": "2026-06-27T13:09:09Z",
+    "updated_at": "2026-06-29T13:28:00Z",
+    "pushed_at": "2026-06-29T17:51:45Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-22T18:22:29Z",
-    "pushed_at": "2026-06-28T10:39:33Z",
+    "pushed_at": "2026-06-29T12:58:12Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-06-28T16:48:01Z",
+    "pushed_at": "2026-06-29T13:48:01Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -1479,7 +1479,7 @@
     "name": "TrueWinter/astro-obfuscate",
     "url": "https://github.com/TrueWinter/astro-obfuscate",
     "description": "astro-obfuscate is a set of components that prevent spam bots from finding email addresses, phone numbers, or other text that you wish to hide.",
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "topics": [
       "astro",
@@ -1493,7 +1493,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-26T18:52:46Z",
-    "updated_at": "2026-06-11T19:43:54Z",
+    "updated_at": "2026-06-29T13:18:55Z",
     "pushed_at": "2025-11-25T17:36:05Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2049,7 +2049,7 @@
     "name": "andreas-brunner/astro-mail-obfuscation",
     "url": "https://github.com/andreas-brunner/astro-mail-obfuscation",
     "description": "Protect email addresses, phone numbers and other sensitive data from bots scraping the source code of your Astro app.",
-    "stars": 17,
+    "stars": 18,
     "forks": 1,
     "topics": [
       "astro",
@@ -2070,7 +2070,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-22T22:07:22Z",
-    "updated_at": "2026-05-22T19:56:27Z",
+    "updated_at": "2026-06-29T13:18:50Z",
     "pushed_at": "2024-11-01T00:48:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4241,7 +4241,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-06-26T23:59:51Z",
-    "pushed_at": "2026-06-26T23:59:26Z",
+    "pushed_at": "2026-06-29T17:00:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -4340,7 +4340,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-06-17T19:37:36Z",
-    "pushed_at": "2026-06-22T15:53:10Z",
+    "pushed_at": "2026-06-29T15:53:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -4359,7 +4359,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-01-09T23:55:15Z",
-    "pushed_at": "2026-06-28T02:27:24Z",
+    "pushed_at": "2026-06-29T14:52:06Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-29T04:29:16Z",
-    "pushed_at": "2026-06-29T04:29:11Z",
+    "updated_at": "2026-06-29T16:33:59Z",
+    "pushed_at": "2026-06-29T16:33:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-29T03:25:26Z",
-    "pushed_at": "2026-06-29T03:25:22Z",
+    "updated_at": "2026-06-29T17:49:19Z",
+    "pushed_at": "2026-06-29T17:49:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-29T03:15:49Z",
-    "pushed_at": "2026-06-29T03:15:46Z",
+    "updated_at": "2026-06-29T17:38:08Z",
+    "pushed_at": "2026-06-29T17:38:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5375,7 +5375,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 19,
+    "stars": 20,
     "forks": 8,
     "topics": [
       "astro",
@@ -5391,7 +5391,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-06-18T16:18:53Z",
+    "updated_at": "2026-06-29T10:10:34Z",
     "pushed_at": "2026-05-16T06:42:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5537,7 +5537,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 284,
-    "forks": 98,
+    "forks": 97,
     "topics": [
       "astro",
       "astro-theme",
@@ -5733,7 +5733,7 @@
     "license": null,
     "created_at": "2025-01-02T19:03:05Z",
     "updated_at": "2026-06-03T13:12:02Z",
-    "pushed_at": "2026-06-22T11:05:47Z",
+    "pushed_at": "2026-06-29T11:05:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astro-vanilla": {
@@ -5758,7 +5758,7 @@
     "license": "MIT",
     "created_at": "2024-10-12T20:53:01Z",
     "updated_at": "2026-05-04T12:50:37Z",
-    "pushed_at": "2026-06-22T10:05:27Z",
+    "pushed_at": "2026-06-29T10:05:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "ziteh/astro-theme-jing": {
@@ -5849,7 +5849,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-06-28T15:55:15Z",
+    "pushed_at": "2026-06-29T16:13:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -5877,7 +5877,7 @@
     "name": "lin-stephanie/astro-antfustyle-theme",
     "url": "https://github.com/lin-stephanie/astro-antfustyle-theme",
     "description": "A flexible and feature-rich Astro theme for developers and creators.",
-    "stars": 259,
+    "stars": 258,
     "forks": 36,
     "topics": [
       "astro",
@@ -5898,7 +5898,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
-    "updated_at": "2026-06-28T05:30:14Z",
+    "updated_at": "2026-06-29T11:49:24Z",
     "pushed_at": "2026-06-11T15:27:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5977,8 +5977,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-07-25T20:50:27Z",
-    "updated_at": "2026-06-08T11:10:57Z",
-    "pushed_at": "2026-05-02T11:39:36Z",
+    "updated_at": "2026-06-29T15:12:42Z",
+    "pushed_at": "2026-06-29T15:11:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "psephopaiktes/astro-i18n-starter": {
@@ -6597,7 +6597,7 @@
     "url": "https://github.com/CloudCannon/sendit-astro-template",
     "description": "Sendit is a polished, marketing website template for Astro.",
     "stars": 131,
-    "forks": 77,
+    "forks": 76,
     "topics": [
       "astro",
       "astro-template",
@@ -8372,7 +8372,7 @@
     "license": "MIT",
     "created_at": "2025-10-25T14:16:51Z",
     "updated_at": "2026-06-27T11:23:49Z",
-    "pushed_at": "2026-06-27T11:25:31Z",
+    "pushed_at": "2026-06-29T12:38:39Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "frostybee/starlight-telescope": {
@@ -8522,7 +8522,7 @@
     "license": null,
     "created_at": "2026-05-11T13:16:51Z",
     "updated_at": "2026-05-11T14:02:49Z",
-    "pushed_at": "2026-06-20T03:37:40Z",
+    "pushed_at": "2026-06-29T12:43:26Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "telexintegrations/nasa-astronomy-picture-of-the-day-integration": {
@@ -10480,8 +10480,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-06-29T07:53:17Z",
-    "pushed_at": "2026-06-29T07:57:15Z",
+    "updated_at": "2026-06-29T09:11:32Z",
+    "pushed_at": "2026-06-29T09:11:30Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
   "andreialba/quietpages": {
@@ -10623,8 +10623,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-29T07:26:33Z",
-    "pushed_at": "2026-06-29T07:26:29Z",
+    "updated_at": "2026-06-29T17:58:41Z",
+    "pushed_at": "2026-06-29T17:58:37Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
@@ -10677,8 +10677,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-21T17:11:16Z",
-    "updated_at": "2026-06-29T02:06:22Z",
-    "pushed_at": "2026-06-29T02:06:19Z",
+    "updated_at": "2026-06-29T14:54:17Z",
+    "pushed_at": "2026-06-29T14:52:33Z",
     "discovered_at": "2026-06-28T12:40:37.423Z"
   },
   "peltmonger/create-stardrive": {
@@ -10699,8 +10699,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-06-28T13:59:56Z",
-    "pushed_at": "2026-06-28T13:59:52Z",
+    "updated_at": "2026-06-29T18:42:38Z",
+    "pushed_at": "2026-06-29T18:42:34Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
@@ -10729,5 +10729,201 @@
     "updated_at": "2026-04-28T22:02:04Z",
     "pushed_at": "2026-04-28T22:00:29Z",
     "discovered_at": "2026-06-29T01:17:43.767Z"
+  },
+  "zastinian/astro-bun": {
+    "name": "Zastinian/astro-bun",
+    "url": "https://github.com/Zastinian/astro-bun",
+    "description": "Supercharge your Astro projects with the power of Bun! 🌟 - Bun Adapter",
+    "stars": 11,
+    "forks": 1,
+    "topics": [
+      "adapter",
+      "astro",
+      "astro-adapter",
+      "astro-integration",
+      "bun",
+      "performance",
+      "speed",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2024-12-04T22:22:42Z",
+    "updated_at": "2026-05-30T08:55:01Z",
+    "pushed_at": "2025-06-11T03:18:39Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "maxnatamo/maxnatamo": {
+    "name": "maxnatamo/maxnatamo",
+    "url": "https://github.com/maxnatamo/maxnatamo",
+    "description": "Just my own little place on the internet.",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "resume",
+      "tailwindcss",
+      "typescript",
+      "utterances",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "Unlicense",
+    "created_at": "2023-03-19T23:01:10Z",
+    "updated_at": "2025-06-06T14:20:35Z",
+    "pushed_at": "2025-06-06T14:20:32Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "pricci1/gh-discussions-astro": {
+    "name": "pricci1/gh-discussions-astro",
+    "url": "https://github.com/pricci1/gh-discussions-astro",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro-loader",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": null,
+    "created_at": "2025-05-16T16:26:36Z",
+    "updated_at": "2025-06-10T20:46:18Z",
+    "pushed_at": "2025-05-20T20:17:16Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "hejimenez00/butterui": {
+    "name": "HeJimenez00/ButterUI",
+    "url": "https://github.com/HeJimenez00/ButterUI",
+    "description": "Catalog of UI components as smooth as butter: soft, fluid, and designed for developers 🧈",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "class-variance-authority",
+      "gsap",
+      "tailwindcss",
+      "ui-components",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2025-01-23T21:29:19Z",
+    "updated_at": "2026-01-25T02:21:28Z",
+    "pushed_at": "2025-05-06T16:05:55Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "theisel/astro-toc": {
+    "name": "theisel/astro-toc",
+    "url": "https://github.com/theisel/astro-toc",
+    "description": "A flexible Table of Contents (ToC) generator component for Astro. Perfect for blogs, documentation, or any content-rich page which benefits from in-page navigation",
+    "stars": 25,
+    "forks": 2,
+    "topics": [
+      "astro",
+      "astro-component",
+      "toc",
+      "toc-generator",
+      "ui",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "ISC",
+    "created_at": "2022-10-23T03:45:49Z",
+    "updated_at": "2025-12-26T17:54:53Z",
+    "pushed_at": "2025-04-26T03:52:37Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "florian-lefebvre/qr-generator": {
+    "name": "florian-lefebvre/qr-generator",
+    "url": "https://github.com/florian-lefebvre/qr-generator",
+    "description": "Generate unlimited QR Codes with ease for free",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "qrcode",
+      "qrcode-generator",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2024-05-27T12:43:26Z",
+    "updated_at": "2025-11-02T04:34:56Z",
+    "pushed_at": "2025-04-13T10:30:06Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "arifrabbaniin/astro-package-template": {
+    "name": "ArifRabbaniIn/astro-package-template",
+    "url": "https://github.com/ArifRabbaniIn/astro-package-template",
+    "description": "A ready to use template for developing Astro package",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "astro-integration",
+      "javascript",
+      "typescript",
+      "withastro"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2025-03-02T04:51:02Z",
+    "updated_at": "2025-05-13T13:37:29Z",
+    "pushed_at": "2025-03-13T11:47:27Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "theotterlord/starlight-theme-template": {
+    "name": "TheOtterlord/starlight-theme-template",
+    "url": "https://github.com/TheOtterlord/starlight-theme-template",
+    "description": "Create and publish your own Starlight theme!",
+    "stars": 4,
+    "forks": 1,
+    "topics": [
+      "starlight",
+      "withastro"
+    ],
+    "language": "MDX",
+    "license": "MIT",
+    "created_at": "2025-01-11T15:53:12Z",
+    "updated_at": "2025-04-03T21:49:29Z",
+    "pushed_at": "2025-02-17T13:41:37Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "ijanos/astro-doom-text": {
+    "name": "ijanos/astro-doom-text",
+    "url": "https://github.com/ijanos/astro-doom-text",
+    "description": "Doom text generator Astro component",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "astro-component",
+      "astrojs",
+      "doom",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": null,
+    "created_at": "2025-01-19T18:15:37Z",
+    "updated_at": "2026-06-01T07:38:58Z",
+    "pushed_at": "2025-02-01T16:04:35Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "truewinter/astro-copy-prod-deps": {
+    "name": "TrueWinter/astro-copy-prod-deps",
+    "url": "https://github.com/TrueWinter/astro-copy-prod-deps",
+    "description": "Astro integration that copies only the dependencies needed in production for SSR and hybrid websites",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro-integration",
+      "withastro"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2024-09-05T20:17:22Z",
+    "updated_at": "2025-01-24T19:08:51Z",
+    "pushed_at": "2025-01-24T19:08:47Z",
+    "discovered_at": "2026-06-29T18:52:01.328Z"
   }
 }
