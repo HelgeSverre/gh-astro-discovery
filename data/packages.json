@@ -535,7 +535,7 @@
     "license": "MIT",
     "created_at": "2024-09-22T12:11:49Z",
     "updated_at": "2026-06-27T12:03:27Z",
-    "pushed_at": "2026-06-27T12:12:55Z",
+    "pushed_at": "2026-06-30T08:56:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "pawcoding/astro-integration-pocketbase": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-06-29T13:48:01Z",
+    "pushed_at": "2026-06-30T10:48:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -3437,7 +3437,7 @@
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
     "stars": 309,
-    "forks": 13,
+    "forks": 14,
     "topics": [
       "astro",
       "astro-integration",
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-30T06:18:43Z",
-    "pushed_at": "2026-06-30T06:18:39Z",
+    "updated_at": "2026-06-30T11:50:14Z",
+    "pushed_at": "2026-06-30T11:50:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-30T05:09:24Z",
-    "pushed_at": "2026-06-30T05:09:21Z",
+    "updated_at": "2026-06-30T10:38:25Z",
+    "pushed_at": "2026-06-30T10:38:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-30T04:58:46Z",
-    "pushed_at": "2026-06-30T04:58:43Z",
+    "updated_at": "2026-06-30T10:27:39Z",
+    "pushed_at": "2026-06-30T10:27:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5808,7 +5808,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 207,
+    "stars": 208,
     "forks": 41,
     "topics": [
       "astro",
@@ -5822,7 +5822,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-06-28T02:34:01Z",
+    "updated_at": "2026-06-30T08:11:01Z",
     "pushed_at": "2026-06-22T22:08:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5899,7 +5899,7 @@
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
     "updated_at": "2026-06-29T11:49:24Z",
-    "pushed_at": "2026-06-11T15:27:45Z",
+    "pushed_at": "2026-06-30T08:23:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "gladtek/cooper": {
@@ -6301,7 +6301,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 166,
+    "stars": 167,
     "forks": 29,
     "topics": [
       "astro",
@@ -6319,7 +6319,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-28T13:15:33Z",
+    "updated_at": "2026-06-30T12:10:28Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7288,7 +7288,7 @@
     "name": "izmttk/astro-mecure",
     "url": "https://github.com/izmttk/astro-mecure",
     "description": "My personal blog built with Astro, React and Tailwindcss.",
-    "stars": 77,
+    "stars": 79,
     "forks": 13,
     "topics": [
       "astro",
@@ -7305,7 +7305,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-02-12T11:22:12Z",
-    "updated_at": "2026-06-04T14:00:21Z",
+    "updated_at": "2026-06-30T08:19:47Z",
     "pushed_at": "2025-03-28T17:01:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7523,7 +7523,7 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 305,
+    "stars": 306,
     "forks": 126,
     "topics": [
       "astro",
@@ -7533,7 +7533,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-06-29T22:50:11Z",
+    "updated_at": "2026-06-30T08:00:29Z",
     "pushed_at": "2024-08-25T01:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8372,7 +8372,7 @@
     "license": "MIT",
     "created_at": "2025-10-25T14:16:51Z",
     "updated_at": "2026-06-27T11:23:49Z",
-    "pushed_at": "2026-06-29T12:38:39Z",
+    "pushed_at": "2026-06-30T11:14:32Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "frostybee/starlight-telescope": {
@@ -10198,7 +10198,7 @@
     "name": "atomiechen/astroprint",
     "url": "https://github.com/atomiechen/astroprint",
     "description": "Print-ready Markdown documents for Astro, with normal web preview, paged preview, and PDF export.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro-integration",
@@ -10212,7 +10212,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-16T18:03:17Z",
-    "updated_at": "2026-06-23T12:33:43Z",
+    "updated_at": "2026-06-30T12:54:18Z",
     "pushed_at": "2026-06-06T16:45:24Z",
     "discovered_at": "2026-06-05T13:18:04.752Z"
   },
@@ -10304,7 +10304,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-06-28T08:50:20Z",
+    "updated_at": "2026-06-30T07:50:16Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10623,8 +10623,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-30T07:29:25Z",
-    "pushed_at": "2026-06-30T07:29:20Z",
+    "updated_at": "2026-06-30T09:01:26Z",
+    "pushed_at": "2026-06-30T09:37:35Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
