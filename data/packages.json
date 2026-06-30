@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-25T20:01:14Z",
-    "pushed_at": "2026-06-29T18:28:17Z",
+    "updated_at": "2026-06-29T21:16:15Z",
+    "pushed_at": "2026-06-29T23:18:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-06-29T13:28:00Z",
-    "pushed_at": "2026-06-29T17:51:45Z",
+    "updated_at": "2026-06-29T19:47:21Z",
+    "pushed_at": "2026-06-29T19:47:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -1126,7 +1126,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-05T17:08:07Z",
-    "updated_at": "2026-06-26T16:45:07Z",
+    "updated_at": "2026-06-29T21:15:10Z",
     "pushed_at": "2026-06-26T16:45:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1569,7 +1569,7 @@
     "name": "Yuhanawa/astro-charm",
     "url": "https://github.com/Yuhanawa/astro-charm",
     "description": "Beautiful and easy-to-use blog theme",
-    "stars": 48,
+    "stars": 49,
     "forks": 6,
     "topics": [
       "astro",
@@ -1581,7 +1581,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-08-18T09:37:54Z",
-    "updated_at": "2026-04-15T01:46:43Z",
+    "updated_at": "2026-06-29T19:02:07Z",
     "pushed_at": "2025-11-18T15:45:23Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2697,7 +2697,7 @@
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
     "updated_at": "2026-06-09T19:27:54Z",
-    "pushed_at": "2026-06-22T21:44:24Z",
+    "pushed_at": "2026-06-29T21:44:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/astro-i18n-aut": {
@@ -2723,7 +2723,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-06-25T16:39:05Z",
-    "pushed_at": "2026-06-25T18:58:25Z",
+    "pushed_at": "2026-06-29T22:58:23Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -2742,8 +2742,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-07T20:43:25Z",
-    "updated_at": "2026-06-25T16:24:48Z",
-    "pushed_at": "2026-06-25T16:24:44Z",
+    "updated_at": "2026-06-29T22:00:14Z",
+    "pushed_at": "2026-06-29T22:00:06Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jdevalk/seo-graph": {
@@ -3436,7 +3436,7 @@
     "name": "vite-pwa/astro",
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
-    "stars": 307,
+    "stars": 309,
     "forks": 13,
     "topics": [
       "astro",
@@ -3449,7 +3449,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-06-27T08:52:33Z",
+    "updated_at": "2026-06-29T22:38:03Z",
     "pushed_at": "2025-11-27T22:14:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4240,8 +4240,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-06-26T23:59:51Z",
-    "pushed_at": "2026-06-29T17:00:03Z",
+    "updated_at": "2026-06-29T22:59:02Z",
+    "pushed_at": "2026-06-29T22:59:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-06-29T16:33:59Z",
-    "pushed_at": "2026-06-29T16:33:45Z",
+    "updated_at": "2026-06-30T00:53:43Z",
+    "pushed_at": "2026-06-30T00:53:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5151,7 +5151,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-06-18T16:04:33Z",
-    "pushed_at": "2026-06-23T22:13:43Z",
+    "pushed_at": "2026-06-29T22:11:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-06-29T17:49:19Z",
-    "pushed_at": "2026-06-29T17:49:16Z",
+    "updated_at": "2026-06-29T23:42:33Z",
+    "pushed_at": "2026-06-29T23:42:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-06-29T17:38:08Z",
-    "pushed_at": "2026-06-29T17:38:04Z",
+    "updated_at": "2026-06-29T23:31:33Z",
+    "pushed_at": "2026-06-29T23:31:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5325,7 +5325,7 @@
     "name": "devgelo-labs/astro-starter-pro",
     "url": "https://github.com/devgelo-labs/astro-starter-pro",
     "description": "Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.",
-    "stars": 51,
+    "stars": 52,
     "forks": 23,
     "topics": [
       "astro-starter",
@@ -5341,7 +5341,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-06-28T02:07:08Z",
+    "updated_at": "2026-06-30T00:55:17Z",
     "pushed_at": "2026-06-28T02:07:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5350,7 +5350,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 32,
-    "forks": 21,
+    "forks": 22,
     "topics": [
       "astro-theme",
       "contribute",
@@ -6735,7 +6735,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-06-28T05:29:54Z",
+    "updated_at": "2026-06-29T22:52:11Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7523,7 +7523,7 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 304,
+    "stars": 305,
     "forks": 126,
     "topics": [
       "astro",
@@ -7533,7 +7533,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-06-28T13:00:26Z",
+    "updated_at": "2026-06-29T22:50:11Z",
     "pushed_at": "2024-08-25T01:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10267,7 +10267,7 @@
     "name": "thegu5/astro-scute",
     "url": "https://github.com/thegu5/astro-scute",
     "description": "Simple and cute Standard.site integration for Astro",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro-component",
@@ -10279,7 +10279,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-06-25T04:10:43Z",
+    "updated_at": "2026-06-29T23:27:11Z",
     "pushed_at": "2026-06-25T04:10:38Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
@@ -10501,7 +10501,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-29T02:17:42Z",
+    "updated_at": "2026-06-29T19:04:35Z",
     "pushed_at": "2026-06-19T12:53:25Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
@@ -10623,8 +10623,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-29T17:58:41Z",
-    "pushed_at": "2026-06-29T17:58:37Z",
+    "updated_at": "2026-06-29T23:31:38Z",
+    "pushed_at": "2026-06-29T23:50:14Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
