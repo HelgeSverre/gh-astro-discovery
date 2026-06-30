@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 515
-**Last updated:** 2026-06-30T12:55:02.797Z
+**Last updated:** 2026-06-30T18:49:08.615Z
 
 ## 📦 Recently Discovered
 
@@ -28,7 +28,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [nooniwa/nooniwa](https://github.com/nooniwa/nooniwa) | 0 | nooniwa is an Astro theme (Astro integration) for digital gardens. Your Markdown... |
 | [kpab/astro-keel](https://github.com/kpab/astro-keel) | 0 | Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7... |
 | [andreialba/ombra](https://github.com/andreialba/ombra) | 0 | Dark editorial Astro theme for intimate restaurants and tasting menus. |
-| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 8 | QuietPages is a calm Astro theme for independent magazines, personal journals, a... |
+| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 10 | QuietPages is a calm Astro theme for independent magazines, personal journals, a... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-30 | Documentation for Azion's services and features. |
+| [andreialba/quietpages](https://github.com/andreialba/quietpages) | 10 | 2026-06-30 | QuietPages is a calm Astro theme for independent magazines, ... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-30 | Matomo integration for Astro |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-30 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 16 | 2026-06-30 | A Starlight plugin that adds page action buttons to your doc... |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-30 | This package provides a YouTube video loader for the Astro L... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-06-30 | The i18n integration for Astro 🧑‍🚀 |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-30 | The global variable integration for Astro 🌐 |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-30 | This Astro component simplifies the process of adding moneti... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-30 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-30 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 149 | 2026-06-30 | Open-source Astro website template with TailwindCSS, Keystat... |
+| [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 16 | 2026-06-30 | A Starlight plugin that adds page action buttons to your doc... |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-30 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-30 | This package provides a YouTube video loader for the Astro L... |
 | [ewels/starlight-quiz](https://github.com/ewels/starlight-quiz) | 0 | 2026-06-30 |  |
 | [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 60 | 2026-06-30 | A content loader for Astro that uses the PocketBase API |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 258 | 2026-06-30 | A flexible and feature-rich Astro theme for developers and c... |
 | [Tito-XD/revamped-astro-zozo](https://github.com/Tito-XD/revamped-astro-zozo) | 0 | 2026-06-30 | Revamped Astro Zozo is a sample-first Astro blog template re... |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-30 | 🚀 This Astro template offers more than 'Just the Basics', p... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-30 | Convert 🫶🏻 |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-30 | Astro Integration to generate a customizable table of conten... |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-30 | Network 🚠 |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-30 | This Astro component simplifies the process of adding moneti... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-06-30 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-06-30 | Format 🗻 |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-30 | Documentation for Azion's services and features. |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-06-29 | Astro integration for loading fonts into build artifacts wit... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-06-29 | The i18n integration for Astro 🧑‍🚀 |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-29 | ✨A static blog template built with Astro. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-30T18:49 | 0 | 506 | 515 |
 | 2026-06-30T12:55 | 0 | 506 | 515 |
 | 2026-06-30T07:34 | 0 | 506 | 515 |
 | 2026-06-30T01:12 | 0 | 506 | 515 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-29T01:17 | 1 | 505 | 515 |
 | 2026-06-28T18:35 | 1 | 505 | 514 |
 | 2026-06-28T12:40 | 1 | 504 | 513 |
-| 2026-06-28T07:35 | 0 | 504 | 512 |
 
 ---
 
