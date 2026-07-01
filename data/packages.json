@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-06-30T18:34:21Z",
-    "pushed_at": "2026-06-30T18:34:17Z",
+    "updated_at": "2026-07-01T13:03:42Z",
+    "pushed_at": "2026-07-01T13:03:10Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -1364,7 +1364,7 @@
     "license": "AGPL-3.0",
     "created_at": "2025-12-14T15:01:12Z",
     "updated_at": "2026-06-09T05:03:46Z",
-    "pushed_at": "2026-06-21T10:22:51Z",
+    "pushed_at": "2026-07-01T10:36:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "frostybee/expressive-code-typewriter": {
@@ -2049,7 +2049,7 @@
     "name": "andreas-brunner/astro-mail-obfuscation",
     "url": "https://github.com/andreas-brunner/astro-mail-obfuscation",
     "description": "Protect email addresses, phone numbers and other sensitive data from bots scraping the source code of your Astro app.",
-    "stars": 19,
+    "stars": 21,
     "forks": 1,
     "topics": [
       "astro",
@@ -2070,7 +2070,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-22T22:07:22Z",
-    "updated_at": "2026-07-01T05:21:28Z",
+    "updated_at": "2026-07-01T12:06:02Z",
     "pushed_at": "2024-11-01T00:48:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3436,7 +3436,7 @@
     "name": "vite-pwa/astro",
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
-    "stars": 309,
+    "stars": 310,
     "forks": 14,
     "topics": [
       "astro",
@@ -3449,7 +3449,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-06-29T22:38:03Z",
+    "updated_at": "2026-07-01T12:56:49Z",
     "pushed_at": "2025-11-27T22:14:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4933,8 +4933,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-06-22T22:51:45Z",
-    "pushed_at": "2026-06-20T10:39:04Z",
+    "updated_at": "2026-07-01T12:53:56Z",
+    "pushed_at": "2026-07-01T12:53:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "adaptive-shield-matrix/astro-ui": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-01T04:46:01Z",
-    "pushed_at": "2026-07-01T04:45:57Z",
+    "updated_at": "2026-07-01T12:23:13Z",
+    "pushed_at": "2026-07-01T12:23:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-01T06:39:23Z",
-    "pushed_at": "2026-07-01T06:39:20Z",
+    "updated_at": "2026-07-01T11:09:15Z",
+    "pushed_at": "2026-07-01T11:09:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-01T06:28:37Z",
-    "pushed_at": "2026-07-01T06:28:34Z",
+    "updated_at": "2026-07-01T10:58:08Z",
+    "pushed_at": "2026-07-01T10:58:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5318,7 +5318,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-06-26T09:53:39Z",
+    "pushed_at": "2026-07-01T10:00:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5444,7 +5444,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 143,
+    "stars": 142,
     "forks": 50,
     "topics": [
       "astro",
@@ -5460,7 +5460,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-06-28T14:44:00Z",
+    "updated_at": "2026-07-01T12:40:09Z",
     "pushed_at": "2026-06-26T14:40:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5468,7 +5468,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 149,
+    "stars": 150,
     "forks": 26,
     "topics": [
       "astro",
@@ -5487,8 +5487,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-07-01T07:03:55Z",
-    "pushed_at": "2026-07-01T07:06:16Z",
+    "updated_at": "2026-07-01T11:04:50Z",
+    "pushed_at": "2026-07-01T08:04:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -6990,7 +6990,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 85,
+    "stars": 86,
     "forks": 25,
     "topics": [
       "astro",
@@ -7008,7 +7008,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-06-27T12:05:21Z",
+    "updated_at": "2026-07-01T11:54:51Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7091,7 +7091,7 @@
     "name": "bekturaslan/syntro-astro",
     "url": "https://github.com/bekturaslan/syntro-astro",
     "description": "Syntro is a minimal SaaS landing page theme built with Astro Js and Tailwind CSS. ⭐️ Star to support our work!",
-    "stars": 31,
+    "stars": 32,
     "forks": 15,
     "topics": [
       "alpinejs",
@@ -7110,7 +7110,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-06-22T08:47:46Z",
-    "updated_at": "2026-06-30T22:26:39Z",
+    "updated_at": "2026-07-01T11:38:56Z",
     "pushed_at": "2025-07-30T20:59:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7905,7 +7905,7 @@
     "name": "oxygenna-themes/mizu-light-astro-theme",
     "url": "https://github.com/oxygenna-themes/mizu-light-astro-theme",
     "description": "Mizu Light is a product launch template designed specifically for modern SaaS products, digital launches, and ambitious startups. ",
-    "stars": 25,
+    "stars": 27,
     "forks": 18,
     "topics": [
       "astro",
@@ -7927,7 +7927,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-06-24T07:07:26Z",
+    "updated_at": "2026-07-01T11:51:23Z",
     "pushed_at": "2026-06-24T07:11:45Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -10404,8 +10404,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-16T13:26:03Z",
-    "updated_at": "2026-06-18T15:30:52Z",
-    "pushed_at": "2026-06-16T14:11:37Z",
+    "updated_at": "2026-07-01T10:03:55Z",
+    "pushed_at": "2026-07-01T10:03:49Z",
     "discovered_at": "2026-06-16T19:21:28.686Z"
   },
   "opsydyn/astro-azure-integration": {
@@ -10501,8 +10501,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-06-30T18:05:03Z",
-    "pushed_at": "2026-06-30T18:04:59Z",
+    "updated_at": "2026-07-01T07:47:42Z",
+    "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
   "andreialba/ombra": {
@@ -10699,8 +10699,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-07-01T00:23:28Z",
-    "pushed_at": "2026-07-01T00:23:23Z",
+    "updated_at": "2026-07-01T08:01:07Z",
+    "pushed_at": "2026-07-01T08:00:57Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
@@ -10925,5 +10925,93 @@
     "updated_at": "2025-01-24T19:08:51Z",
     "pushed_at": "2025-01-24T19:08:47Z",
     "discovered_at": "2026-06-29T18:52:01.328Z"
+  },
+  "arraypress/waveform-player-astro": {
+    "name": "arraypress/waveform-player-astro",
+    "url": "https://github.com/arraypress/waveform-player-astro",
+    "description": "Astro component wrapper for @arraypress/waveform-player — typed props for every option, lazy-mount support, framework-idiomatic ergonomics.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "arraypress",
+      "astro",
+      "astro-component",
+      "audio",
+      "audio-player",
+      "audio-visualization",
+      "canvas",
+      "music-player",
+      "typescript",
+      "waveform",
+      "waveform-visualization",
+      "web-audio-api",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T08:59:02Z",
+    "updated_at": "2026-07-01T12:27:32Z",
+    "pushed_at": "2026-07-01T12:13:07Z",
+    "discovered_at": "2026-07-01T13:09:33.583Z"
+  },
+  "arraypress/waveform-playlist-astro": {
+    "name": "arraypress/waveform-playlist-astro",
+    "url": "https://github.com/arraypress/waveform-playlist-astro",
+    "description": "Astro component wrapper for @arraypress/waveform-playlist — typed props, a typed tracks/chapters array, lazy-mount support, framework-idiomatic ergonomics.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "arraypress",
+      "astro",
+      "astro-component",
+      "audio",
+      "audio-player",
+      "audio-playlist",
+      "audio-visualization",
+      "chapters",
+      "music-player",
+      "playlist",
+      "podcast",
+      "podcast-player",
+      "typescript",
+      "waveform",
+      "waveform-visualization"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-06-28T14:05:25Z",
+    "updated_at": "2026-07-01T12:29:49Z",
+    "pushed_at": "2026-07-01T12:13:34Z",
+    "discovered_at": "2026-07-01T13:09:33.583Z"
+  },
+  "arraypress/waveform-bar-astro": {
+    "name": "arraypress/waveform-bar-astro",
+    "url": "https://github.com/arraypress/waveform-bar-astro",
+    "description": "Astro components for @arraypress/waveform-bar — typed singleton mount and polymorphic play/queue trigger.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "arraypress",
+      "astro",
+      "astro-component",
+      "audio",
+      "audio-player",
+      "audio-visualization",
+      "bar",
+      "bottom-bar",
+      "media-session",
+      "music-player",
+      "persistent-player",
+      "playlist",
+      "queue",
+      "typescript",
+      "waveform"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T09:45:35Z",
+    "updated_at": "2026-07-01T12:28:43Z",
+    "pushed_at": "2026-07-01T12:13:21Z",
+    "discovered_at": "2026-07-01T13:09:33.583Z"
   }
 }
