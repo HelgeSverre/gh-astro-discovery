@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 515
-**Last updated:** 2026-06-30T18:49:08.615Z
+**Last updated:** 2026-07-01T01:18:04.940Z
 
 ## 📦 Recently Discovered
 
@@ -35,7 +35,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 499 | Dante, a single-author blog and portfolio theme for Astro.js.  |
-| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 397 | Dark-themed website template built on Astro and Tailwind CSS |
+| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 398 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 381 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 309 | Zero-config PWA Integration for Astro |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 307 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
@@ -43,9 +43,9 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | Qwik + Astro |
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 284 | Minimal blog theme built with Astro. |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | Inline 🦔 |
-| [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 278 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
+| [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 277 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 276 | Simple and Elegant Astro Blog Template. |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 258 | A flexible and feature-rich Astro theme for developers and creators. |
+| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | A flexible and feature-rich Astro theme for developers and creators. |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 228 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 208 | A flexible Astro blog theme designed for Obsidian users. |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-01 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-01 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-01 | Create a new top-notch astro boilerplate to kick of your nex... |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-30 | This package provides a YouTube video loader for the Astro L... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-30 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 3 | 2026-06-30 | Simple and cute Standard.site integration for Astro |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-06-30 | ✨A static blog template built with Astro. |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-06-30 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 149 | 2026-06-30 | Open-source Astro website template with TailwindCSS, Keystat... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-06-30 | Documentation for Azion's services and features. |
 | [andreialba/quietpages](https://github.com/andreialba/quietpages) | 10 | 2026-06-30 | QuietPages is a calm Astro theme for independent magazines, ... |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-06-30 | Matomo integration for Astro |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-06-30 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-06-30 | The i18n integration for Astro 🧑‍🚀 |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-06-30 | The global variable integration for Astro 🌐 |
 | [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-06-30 | This Astro component simplifies the process of adding moneti... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-06-30 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-06-30 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 149 | 2026-06-30 | Open-source Astro website template with TailwindCSS, Keystat... |
 | [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 16 | 2026-06-30 | A Starlight plugin that adds page action buttons to your doc... |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-06-30 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-06-30 | This package provides a YouTube video loader for the Astro L... |
 | [ewels/starlight-quiz](https://github.com/ewels/starlight-quiz) | 0 | 2026-06-30 |  |
 | [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 60 | 2026-06-30 | A content loader for Astro that uses the PocketBase API |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 258 | 2026-06-30 | A flexible and feature-rich Astro theme for developers and c... |
-| [Tito-XD/revamped-astro-zozo](https://github.com/Tito-XD/revamped-astro-zozo) | 0 | 2026-06-30 | Revamped Astro Zozo is a sample-first Astro blog template re... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-06-30 | Convert 🫶🏻 |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-06-30 | Astro Integration to generate a customizable table of conten... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-06-30 | Network 🚠 |
+| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | 2026-06-30 | A flexible and feature-rich Astro theme for developers and c... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-01T01:18 | 0 | 506 | 515 |
 | 2026-06-30T18:49 | 0 | 506 | 515 |
 | 2026-06-30T12:55 | 0 | 506 | 515 |
 | 2026-06-30T07:34 | 0 | 506 | 515 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-29T08:04 | 0 | 506 | 515 |
 | 2026-06-29T01:17 | 1 | 505 | 515 |
 | 2026-06-28T18:35 | 1 | 505 | 514 |
-| 2026-06-28T12:40 | 1 | 504 | 513 |
 
 ---
 
