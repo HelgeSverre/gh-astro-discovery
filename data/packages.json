@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-01T13:30:29Z",
-    "pushed_at": "2026-07-01T14:49:00Z",
+    "pushed_at": "2026-07-02T16:40:22Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -622,8 +622,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
-    "updated_at": "2026-06-22T18:22:29Z",
-    "pushed_at": "2026-07-02T08:51:31Z",
+    "updated_at": "2026-07-02T16:26:25Z",
+    "pushed_at": "2026-07-02T17:26:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 35,
+    "stars": 36,
     "forks": 4,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-06-23T05:40:45Z",
+    "updated_at": "2026-07-02T14:37:44Z",
     "pushed_at": "2026-06-23T05:40:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2498,7 +2498,7 @@
     "license": null,
     "created_at": "2024-07-16T00:23:38Z",
     "updated_at": "2026-05-22T13:07:36Z",
-    "pushed_at": "2026-06-10T14:03:24Z",
+    "pushed_at": "2026-07-02T13:06:13Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dirsigler/astro-securitytxt": {
@@ -4933,8 +4933,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-07-02T07:30:47Z",
-    "pushed_at": "2026-07-02T07:30:43Z",
+    "updated_at": "2026-07-02T16:52:39Z",
+    "pushed_at": "2026-07-02T16:52:36Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "adaptive-shield-matrix/astro-ui": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-02T12:31:26Z",
-    "pushed_at": "2026-07-02T12:31:22Z",
+    "updated_at": "2026-07-02T15:01:36Z",
+    "pushed_at": "2026-07-02T15:00:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5150,8 +5150,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-07-02T09:24:38Z",
-    "pushed_at": "2026-07-02T09:24:32Z",
+    "updated_at": "2026-07-02T13:47:50Z",
+    "pushed_at": "2026-07-02T13:46:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-02T11:20:15Z",
-    "pushed_at": "2026-07-02T11:20:11Z",
+    "updated_at": "2026-07-02T17:24:39Z",
+    "pushed_at": "2026-07-02T17:24:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-02T11:09:30Z",
-    "pushed_at": "2026-07-02T11:09:26Z",
+    "updated_at": "2026-07-02T17:13:50Z",
+    "pushed_at": "2026-07-02T17:13:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6991,7 +6991,7 @@
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
     "stars": 86,
-    "forks": 25,
+    "forks": 24,
     "topics": [
       "astro",
       "astro-starter",
@@ -9931,7 +9931,7 @@
     "url": "https://github.com/MarvinBregiosa/astro-sparkline",
     "description": "Tiny inline-SVG sparkline component for Astro. Zero runtime, zero dependencies, server-rendered. ~90 lines.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-component",
@@ -9990,7 +9990,7 @@
     "url": "https://github.com/vsima/astro-aeo-image",
     "description": "Astro image service that embeds <Image> alt text as XMP into your optimized output files — so dist/_astro assets are self-describing for Google Images and AI answer engines. Wraps Astro's sharp service; byte-preserving via aeo-image.",
     "stars": 2,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "accessibility",
       "aeo",
@@ -10198,8 +10198,8 @@
     "name": "atomiechen/astroprint",
     "url": "https://github.com/atomiechen/astroprint",
     "description": "Print-ready Markdown documents for Astro, with normal web preview, paged preview, and PDF export.",
-    "stars": 4,
-    "forks": 0,
+    "stars": 5,
+    "forks": 1,
     "topics": [
       "astro-integration",
       "citation",
@@ -10212,7 +10212,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-16T18:03:17Z",
-    "updated_at": "2026-07-01T19:34:09Z",
+    "updated_at": "2026-07-02T17:41:34Z",
     "pushed_at": "2026-06-06T16:45:24Z",
     "discovered_at": "2026-06-05T13:18:04.752Z"
   },
@@ -10221,7 +10221,7 @@
     "url": "https://github.com/fabricioctelles/astro-webmcp",
     "description": "Astro integration that exposes your site content via WebMCP for AI agents",
     "stars": 6,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "agents",
       "ai",
@@ -10268,7 +10268,7 @@
     "url": "https://github.com/thegu5/astro-scute",
     "description": "Simple and cute Standard.site integration for Astro",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro-component",
       "astro-integration",
@@ -10287,7 +10287,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 12,
+    "stars": 13,
     "forks": 6,
     "topics": [
       "astro",
@@ -10304,7 +10304,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-06-30T18:26:34Z",
+    "updated_at": "2026-07-02T16:13:36Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10389,7 +10389,7 @@
     "url": "https://github.com/meno-so/meno-astro",
     "description": "Runtime + round-trippable .astro dialect (emit/parse) that lets Meno use Astro files as a source-of-truth format. Public runtime-only mirror.",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-component",
@@ -10980,7 +10980,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-28T14:05:25Z",
-    "updated_at": "2026-07-01T12:29:49Z",
+    "updated_at": "2026-07-02T16:06:06Z",
     "pushed_at": "2026-07-01T12:13:34Z",
     "discovered_at": "2026-07-01T13:09:33.583Z"
   },
@@ -11034,5 +11034,59 @@
     "updated_at": "2026-07-01T23:20:44Z",
     "pushed_at": "2026-07-01T23:20:40Z",
     "discovered_at": "2026-07-02T01:13:00.335Z"
+  },
+  "adrian-altner/astro-justified-gallery-layout": {
+    "name": "adrian-altner/astro-justified-gallery-layout",
+    "url": "https://github.com/adrian-altner/astro-justified-gallery-layout",
+    "description": "Justified (Flickr-style) photo gallery for Astro with EXIF/IPTC/GPS extraction, LQIP previews, virtualized rendering, and a drop-in modal lightbox.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "exif",
+      "flickr-layout",
+      "gallery",
+      "image-gallery",
+      "iptc",
+      "justified-layout",
+      "lightbox",
+      "lqip",
+      "masonry",
+      "photo-gallery"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-04-28T21:55:48Z",
+    "updated_at": "2026-04-28T22:02:04Z",
+    "pushed_at": "2026-04-28T22:00:29Z",
+    "discovered_at": "2026-07-02T18:38:39.142Z"
+  },
+  "sansware/site-templates": {
+    "name": "sansware/site-templates",
+    "url": "https://github.com/sansware/site-templates",
+    "description": "Astro starter template for production small-business sites. The same skeleton I use to ship £200 client sites in 7 days. MIT licensed.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-starter",
+      "marketing-site",
+      "mit-license",
+      "responsive",
+      "small-business",
+      "ssg",
+      "ssg-template",
+      "starter-template",
+      "static-site",
+      "tailwind",
+      "uk-web-marketing"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-06-25T22:39:20Z",
+    "updated_at": "2026-07-02T15:49:23Z",
+    "pushed_at": "2026-07-02T15:49:17Z",
+    "discovered_at": "2026-07-02T18:38:39.142Z"
   }
 }

@@ -1,26 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-06-07T18:38:44.095Z",
-      "fetched": 683,
-      "unique": 534,
-      "new": 0,
-      "updated": 491,
-      "archived": 0,
-      "total": 495,
-      "queries": {
-        "topic:withastro": 132,
-        "topic:astro-integration": 161,
-        "topic:astro-component": 95,
-        "topic:astro-components": 9,
-        "topic:astro-theme": 141,
-        "topic:astro-starter": 40,
-        "topic:starlight-plugin": 8,
-        "astro-integration+in:name": 97,
-        "astro+theme+language:Astro": 0
-      }
-    },
-    {
       "timestamp": "2026-06-08T01:20:32.510Z",
       "fetched": 683,
       "unique": 534,
@@ -1999,8 +1979,28 @@
         "astro-integration+in:name": 98,
         "astro+theme+language:Astro": 0
       }
+    },
+    {
+      "timestamp": "2026-07-02T18:38:39.146Z",
+      "fetched": 709,
+      "unique": 554,
+      "new": 2,
+      "updated": 508,
+      "archived": 0,
+      "total": 521,
+      "queries": {
+        "topic:withastro": 136,
+        "topic:astro-integration": 166,
+        "topic:astro-component": 102,
+        "topic:astro-components": 9,
+        "topic:astro-theme": 146,
+        "topic:astro-starter": 43,
+        "topic:starlight-plugin": 9,
+        "astro-integration+in:name": 98,
+        "astro+theme+language:Astro": 0
+      }
     }
   ],
-  "total_discovered": 519,
-  "last_run": "2026-07-02T12:49:38.358Z"
+  "total_discovered": 521,
+  "last_run": "2026-07-02T18:38:39.146Z"
 }
