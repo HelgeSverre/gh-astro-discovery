@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-06-22T18:22:29Z",
-    "pushed_at": "2026-06-30T03:43:03Z",
+    "pushed_at": "2026-07-02T08:51:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-06-30T23:48:13Z",
+    "pushed_at": "2026-07-02T11:48:18Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -2696,7 +2696,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
-    "updated_at": "2026-07-02T06:37:02Z",
+    "updated_at": "2026-07-02T07:40:17Z",
     "pushed_at": "2026-06-29T21:44:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2895,7 +2895,7 @@
     "name": "pascal-brand38/astro-swiper",
     "url": "https://github.com/pascal-brand38/astro-swiper",
     "description": "Astro component for swiper, dedicated to slider / carousel / photo swiper / slide. ⭐️ Star to support",
-    "stars": 27,
+    "stars": 28,
     "forks": 2,
     "topics": [
       "astro",
@@ -2908,7 +2908,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-06-27T17:35:57Z",
+    "updated_at": "2026-07-02T07:29:06Z",
     "pushed_at": "2026-06-27T17:35:54Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4933,8 +4933,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-07-01T13:55:33Z",
-    "pushed_at": "2026-07-01T13:55:06Z",
+    "updated_at": "2026-07-02T07:30:47Z",
+    "pushed_at": "2026-07-02T07:30:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "adaptive-shield-matrix/astro-ui": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-02T05:07:41Z",
-    "pushed_at": "2026-07-02T05:07:37Z",
+    "updated_at": "2026-07-02T12:31:26Z",
+    "pushed_at": "2026-07-02T12:31:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5150,8 +5150,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-06-18T16:04:33Z",
-    "pushed_at": "2026-07-01T22:11:17Z",
+    "updated_at": "2026-07-02T09:24:38Z",
+    "pushed_at": "2026-07-02T09:24:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-02T06:33:48Z",
-    "pushed_at": "2026-07-02T06:33:45Z",
+    "updated_at": "2026-07-02T11:20:15Z",
+    "pushed_at": "2026-07-02T11:20:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-02T06:19:36Z",
-    "pushed_at": "2026-07-02T06:19:32Z",
+    "updated_at": "2026-07-02T11:09:30Z",
+    "pushed_at": "2026-07-02T11:09:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5318,7 +5318,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-07-01T10:00:15Z",
+    "pushed_at": "2026-07-02T09:53:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5800,8 +5800,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-06-16T11:13:18Z",
-    "pushed_at": "2026-06-16T05:52:31Z",
+    "updated_at": "2026-07-02T12:43:35Z",
+    "pushed_at": "2026-07-02T12:43:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -6301,7 +6301,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 167,
+    "stars": 166,
     "forks": 30,
     "topics": [
       "astro",
@@ -6319,7 +6319,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-06-30T12:10:28Z",
+    "updated_at": "2026-07-02T12:15:42Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9930,7 +9930,7 @@
     "name": "MarvinBregiosa/astro-sparkline",
     "url": "https://github.com/MarvinBregiosa/astro-sparkline",
     "description": "Tiny inline-SVG sparkline component for Astro. Zero runtime, zero dependencies, server-rendered. ~90 lines.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -9946,7 +9946,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-01T10:11:41Z",
-    "updated_at": "2026-07-01T17:52:14Z",
+    "updated_at": "2026-07-02T12:42:29Z",
     "pushed_at": "2026-06-01T10:11:44Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -10404,8 +10404,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-16T13:26:03Z",
-    "updated_at": "2026-07-01T14:29:48Z",
-    "pushed_at": "2026-07-01T10:03:49Z",
+    "updated_at": "2026-07-02T07:22:17Z",
+    "pushed_at": "2026-07-02T07:22:14Z",
     "discovered_at": "2026-06-16T19:21:28.686Z"
   },
   "opsydyn/astro-azure-integration": {
@@ -10426,7 +10426,7 @@
     "name": "elstron/astro-search",
     "url": "https://github.com/elstron/astro-search",
     "description": "astro-search is an Astro integration that generates a static search index at build time and exposes a ready-to-use search component for static sites.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -10438,7 +10438,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T19:29:55Z",
-    "updated_at": "2026-06-16T21:02:33Z",
+    "updated_at": "2026-07-02T12:10:24Z",
     "pushed_at": "2026-06-16T21:00:45Z",
     "discovered_at": "2026-06-17T01:22:34.060Z"
   },
