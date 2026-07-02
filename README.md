@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 519
-**Last updated:** 2026-07-02T01:13:00.339Z
+**Last updated:** 2026-07-02T07:20:57.451Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-02 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-02 | The Astro Quick Start package covers the basics of connectin... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-02 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-07-02 | Astro Integration to automatically generate Subresource Inte... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-02 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [felixicaza/astro-lqip](https://github.com/felixicaza/astro-lqip) | 27 | 2026-07-02 | 🖼️  Native extended Astro components for generating low-qua... |
+| [AnjayGoel/astro-sienna](https://github.com/AnjayGoel/astro-sienna) | 21 | 2026-07-02 | A minimal writing focused Astro blog template |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-02 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 3 | 2026-07-02 | Simple and cute Standard.site integration for Astro |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-02 | Convert 🫶🏻 |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-02 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-02 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-02 | Format 🗻 |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-02 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-07-02 | Astro Integration to automatically generate Subresource Inte... |
 | [hilava999/Vault](https://github.com/hilava999/Vault) | 0 | 2026-07-01 | An Astro theme for illustration portfolio and gallery websit... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-01 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-01 | An Astro Prometheus nodejs middleware integration for Astro |
 | [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-01 | Create a new top-notch astro boilerplate to kick of your nex... |
 | [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-07-01 | The global variable integration for Astro 🌐 |
 | [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-01 | This Astro component simplifies the process of adding moneti... |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-07-01 | ✨A static blog template built with Astro. |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-07-01 | The i18n integration for Astro 🧑‍🚀 |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-01 | Astro integration for loading fonts into build artifacts wit... |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-01 | Matomo integration for Astro |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-01 | Format 🗻 |
-| [AnjayGoel/astro-sienna](https://github.com/AnjayGoel/astro-sienna) | 21 | 2026-07-01 | A minimal writing focused Astro blog template |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-01 | Documentation for Azion's services and features. |
-| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 44 | 2026-07-01 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
-| [arraypress/waveform-playlist-astro](https://github.com/arraypress/waveform-playlist-astro) | 0 | 2026-07-01 | Astro component wrapper for @arraypress/waveform-playlist — ... |
-| [arraypress/waveform-bar-astro](https://github.com/arraypress/waveform-bar-astro) | 0 | 2026-07-01 | Astro components for @arraypress/waveform-bar — typed single... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-02T07:20 | 0 | 510 | 519 |
 | 2026-07-02T01:13 | 1 | 509 | 519 |
 | 2026-07-01T18:50 | 0 | 509 | 518 |
 | 2026-07-01T13:09 | 3 | 506 | 518 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-06-30T12:55 | 0 | 506 | 515 |
 | 2026-06-30T07:34 | 0 | 506 | 515 |
 | 2026-06-30T01:12 | 0 | 506 | 515 |
-| 2026-06-29T18:52 | 10 | 496 | 515 |
 
 ---
 
