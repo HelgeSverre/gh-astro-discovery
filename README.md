@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 522
-**Last updated:** 2026-07-03T12:48:34.606Z
+**Last updated:** 2026-07-03T18:36:01.046Z
 
 ## 📦 Recently Discovered
 
@@ -59,15 +59,19 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-07-03 | This package provides a YouTube video loader for the Astro L... |
+| [sudeep2003/AstroFlow](https://github.com/sudeep2003/AstroFlow) | 43 | 2026-07-03 | Modern Astro.js template for logistics and manufacturing com... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-03 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-03 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-03 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [GladTek/Cooper](https://github.com/GladTek/Cooper) | 28 | 2026-07-03 | production-ready Astro 7 boilerplate for blogging, documenta... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-03 | Documentation for Azion's services and features. |
+| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-07-03 | Notro is Notion, Astro, Tailwind CSS based CMS. |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-07-03 | This package provides a YouTube video loader for the Astro L... |
 | [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-03 | Astro starter template for Cloudflare Workers with Svelte, T... |
 | [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-07-03 | A minimal Astro blog theme |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-03 | An Astro Prometheus nodejs middleware integration for Astro |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-03 | Astro integration for loading fonts into build artifacts wit... |
 | [meno-so/meno-astro](https://github.com/meno-so/meno-astro) | 3 | 2026-07-03 | Runtime + round-trippable .astro dialect (emit/parse) that l... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-03 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-07-03 | Astro components and integration for managing page head meta... |
 | [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-03 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-07-03 | Regular integration tests of Coordinated packages with astro... |
@@ -75,10 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-03 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-03 | Astro Integration to generate a customizable table of conten... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-03 | Convert 🫶🏻 |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-03 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-03 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-03 | Format 🗻 |
-| [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 8 | 2026-07-03 | Astro integration that exposes your site content via WebMCP ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-03T18:36 | 0 | 510 | 522 |
 | 2026-07-03T12:48 | 0 | 510 | 522 |
 | 2026-07-03T09:40 | 0 | 510 | 522 |
 | 2026-07-03T09:32 | 0 | 510 | 522 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-02T12:49 | 0 | 509 | 519 |
 | 2026-07-02T07:20 | 0 | 510 | 519 |
 | 2026-07-02T01:13 | 1 | 509 | 519 |
-| 2026-07-01T18:50 | 0 | 509 | 518 |
 
 ---
 

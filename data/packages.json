@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-07-02T20:56:53Z",
-    "pushed_at": "2026-07-02T20:56:50Z",
+    "updated_at": "2026-07-03T14:40:01Z",
+    "pushed_at": "2026-07-03T14:39:59Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -1479,7 +1479,7 @@
     "name": "TrueWinter/astro-obfuscate",
     "url": "https://github.com/TrueWinter/astro-obfuscate",
     "description": "astro-obfuscate is a set of components that prevent spam bots from finding email addresses, phone numbers, or other text that you wish to hide.",
-    "stars": 11,
+    "stars": 12,
     "forks": 0,
     "topics": [
       "astro",
@@ -1493,7 +1493,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-26T18:52:46Z",
-    "updated_at": "2026-06-29T13:18:55Z",
+    "updated_at": "2026-07-03T13:16:23Z",
     "pushed_at": "2025-11-25T17:36:05Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2498,7 +2498,7 @@
     "license": null,
     "created_at": "2024-07-16T00:23:38Z",
     "updated_at": "2026-05-22T13:07:36Z",
-    "pushed_at": "2026-07-02T23:21:37Z",
+    "pushed_at": "2026-07-03T13:40:03Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dirsigler/astro-securitytxt": {
@@ -2705,7 +2705,7 @@
     "url": "https://github.com/jlarmstrongiv/astro-i18n-aut",
     "description": "The i18n integration for Astro 🧑‍🚀",
     "stars": 201,
-    "forks": 12,
+    "forks": 13,
     "topics": [
       "astro",
       "astro-component",
@@ -3104,7 +3104,7 @@
     "name": "velohost/astro-consent",
     "url": "https://github.com/velohost/astro-consent",
     "description": "Astro integration that creates a cookie consent banner and blocks non-essential scripts until explicit user consent is given.",
-    "stars": 12,
+    "stars": 13,
     "forks": 3,
     "topics": [
       "astro",
@@ -3125,7 +3125,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-02T21:19:25Z",
-    "updated_at": "2026-06-04T09:46:08Z",
+    "updated_at": "2026-07-03T17:49:41Z",
     "pushed_at": "2026-04-01T21:20:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-03T11:24:12Z",
-    "pushed_at": "2026-07-03T11:24:09Z",
+    "updated_at": "2026-07-03T18:27:30Z",
+    "pushed_at": "2026-07-03T18:27:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-03T12:40:25Z",
-    "pushed_at": "2026-07-03T12:40:21Z",
+    "updated_at": "2026-07-03T17:14:37Z",
+    "pushed_at": "2026-07-03T17:14:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,15 +5270,15 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-03T12:29:28Z",
-    "pushed_at": "2026-07-03T12:29:24Z",
+    "updated_at": "2026-07-03T17:03:31Z",
+    "pushed_at": "2026-07-03T17:03:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
     "name": "netlify-templates/astro-platform-starter",
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
-    "stars": 152,
+    "stars": 151,
     "forks": 533,
     "topics": [
       "astro-template",
@@ -5291,7 +5291,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-06-23T17:15:34Z",
+    "updated_at": "2026-07-03T17:50:46Z",
     "pushed_at": "2026-06-23T17:15:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5905,7 +5905,7 @@
   "gladtek/cooper": {
     "name": "GladTek/Cooper",
     "url": "https://github.com/GladTek/Cooper",
-    "description": "production-ready Astro 6 boilerplate for blogging, documentation, changelog and portfolio cases, featuring Tailwind CSS 4, React 19, i18n",
+    "description": "production-ready Astro 7 boilerplate for blogging, documentation, changelog and portfolio cases, featuring Tailwind CSS 4, React 19, i18n",
     "stars": 28,
     "forks": 11,
     "topics": [
@@ -5927,8 +5927,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-28T22:58:57Z",
-    "updated_at": "2026-06-08T15:10:18Z",
-    "pushed_at": "2026-05-02T14:42:29Z",
+    "updated_at": "2026-07-03T13:25:08Z",
+    "pushed_at": "2026-07-03T15:27:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zionfuo/astro-webstack": {
@@ -6434,7 +6434,7 @@
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-theme",
@@ -6892,8 +6892,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-25T16:05:58Z",
-    "updated_at": "2026-06-18T16:48:08Z",
-    "pushed_at": "2025-11-27T13:08:17Z",
+    "updated_at": "2026-07-03T18:32:11Z",
+    "pushed_at": "2026-07-03T18:30:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "vic/awesome-gh-repos": {
@@ -6990,7 +6990,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 86,
+    "stars": 87,
     "forks": 24,
     "topics": [
       "astro",
@@ -7008,7 +7008,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-07-01T11:54:51Z",
+    "updated_at": "2026-07-03T14:04:03Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7091,7 +7091,7 @@
     "name": "bekturaslan/syntro-astro",
     "url": "https://github.com/bekturaslan/syntro-astro",
     "description": "Syntro is a minimal SaaS landing page theme built with Astro Js and Tailwind CSS. ⭐️ Star to support our work!",
-    "stars": 32,
+    "stars": 33,
     "forks": 15,
     "topics": [
       "alpinejs",
@@ -7110,7 +7110,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-06-22T08:47:46Z",
-    "updated_at": "2026-07-01T11:38:56Z",
+    "updated_at": "2026-07-03T18:18:02Z",
     "pushed_at": "2025-07-30T20:59:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7568,7 +7568,7 @@
     "url": "https://github.com/unfolding-io/StarFunnel",
     "description": "the Astro powered landing page builder",
     "stars": 161,
-    "forks": 74,
+    "forks": 75,
     "topics": [
       "astro",
       "astro-theme",
@@ -10198,7 +10198,7 @@
     "name": "atomiechen/astroprint",
     "url": "https://github.com/atomiechen/astroprint",
     "description": "Print-ready Markdown documents for Astro, with normal web preview, paged preview, and PDF export.",
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "topics": [
       "astro-integration",
@@ -10212,7 +10212,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-16T18:03:17Z",
-    "updated_at": "2026-07-02T17:41:34Z",
+    "updated_at": "2026-07-03T15:56:47Z",
     "pushed_at": "2026-06-06T16:45:24Z",
     "discovered_at": "2026-06-05T13:18:04.752Z"
   },
