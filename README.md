@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 522
-**Last updated:** 2026-07-03T07:16:45.832Z
+**Last updated:** 2026-07-03T09:32:13.048Z
 
 ## 📦 Recently Discovered
 
@@ -59,10 +59,11 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-07-03 | Regular integration tests of Coordinated packages with astro... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-03 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-03 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-03 | 🌟 Create stunning websites with the Mainline Astro Template... |
 | [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-03 | The Astro Quick Start package covers the basics of connectin... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-03 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-03 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-03 | Astro Integration to generate a customizable table of conten... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-03 | Convert 🫶🏻 |
@@ -78,7 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-02 | Matomo integration for Astro |
 | [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 44 | 2026-07-02 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
 | [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 151 | 2026-07-02 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-02 | Documentation for Azion's services and features. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-03T09:32 | 0 | 510 | 522 |
 | 2026-07-03T07:16 | 0 | 510 | 522 |
 | 2026-07-03T00:56 | 1 | 509 | 522 |
 | 2026-07-02T18:38 | 2 | 508 | 521 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-01T18:50 | 0 | 509 | 518 |
 | 2026-07-01T13:09 | 3 | 506 | 518 |
 | 2026-07-01T07:46 | 0 | 506 | 515 |
-| 2026-07-01T01:18 | 0 | 506 | 515 |
 
 ---
 

@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-03T05:51:28Z",
-    "pushed_at": "2026-07-03T05:51:24Z",
+    "updated_at": "2026-07-03T08:16:07Z",
+    "pushed_at": "2026-07-03T08:16:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5375,7 +5375,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 21,
+    "stars": 22,
     "forks": 9,
     "topics": [
       "astro",
@@ -5391,7 +5391,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-02T05:15:56Z",
+    "updated_at": "2026-07-03T07:41:06Z",
     "pushed_at": "2026-07-02T05:48:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8494,7 +8494,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-05-22T12:25:52Z",
-    "pushed_at": "2026-06-28T09:00:47Z",
+    "pushed_at": "2026-07-03T09:04:03Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
@@ -9819,7 +9819,7 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 16,
+    "stars": 17,
     "forks": 6,
     "topics": [
       "astro",
@@ -9835,7 +9835,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-06-29T02:12:05Z",
+    "updated_at": "2026-07-03T07:35:23Z",
     "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
@@ -9954,7 +9954,7 @@
     "name": "A58361/Ryze",
     "url": "https://github.com/A58361/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 38,
+    "stars": 39,
     "forks": 6,
     "topics": [
       "astro",
@@ -9981,7 +9981,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-06-26T16:08:49Z",
+    "updated_at": "2026-07-03T07:54:48Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -10488,7 +10488,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 10,
+    "stars": 11,
     "forks": 6,
     "topics": [
       "astro",
@@ -10501,7 +10501,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-07-01T07:47:42Z",
+    "updated_at": "2026-07-03T07:39:21Z",
     "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
