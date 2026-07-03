@@ -10,6 +10,12 @@ permissions:
   pages: write
   id-token: write
 
+# Serialize Pages deployments so overlapping runs can't invalidate each
+# other's in-flight deployment (a cause of "Deployment failed, try again later").
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   discover:
     runs-on: ubuntu-latest
