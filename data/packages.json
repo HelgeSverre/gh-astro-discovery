@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-02T04:01:14Z",
-    "pushed_at": "2026-07-02T04:01:11Z",
+    "updated_at": "2026-07-03T03:46:41Z",
+    "pushed_at": "2026-07-03T03:46:38Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-02T03:35:21Z",
-    "pushed_at": "2026-07-02T03:35:17Z",
+    "updated_at": "2026-07-03T02:57:54Z",
+    "pushed_at": "2026-07-03T02:57:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-02T02:55:57Z",
-    "pushed_at": "2026-07-02T02:55:54Z",
+    "updated_at": "2026-07-03T02:39:31Z",
+    "pushed_at": "2026-07-03T02:39:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-02T02:53:14Z",
-    "pushed_at": "2026-07-02T02:53:11Z",
+    "updated_at": "2026-07-03T02:36:40Z",
+    "pushed_at": "2026-07-03T02:36:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-06-29T19:47:21Z",
-    "pushed_at": "2026-07-02T22:50:51Z",
+    "updated_at": "2026-07-03T05:41:34Z",
+    "pushed_at": "2026-07-03T05:42:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-07-02T16:26:25Z",
-    "pushed_at": "2026-07-02T21:56:41Z",
+    "pushed_at": "2026-07-03T04:46:29Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-07-02T11:48:18Z",
+    "pushed_at": "2026-07-03T01:48:11Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-03T00:20:20Z",
-    "pushed_at": "2026-07-03T00:20:16Z",
+    "updated_at": "2026-07-03T05:51:28Z",
+    "pushed_at": "2026-07-03T05:51:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-02T23:09:22Z",
-    "pushed_at": "2026-07-02T23:09:18Z",
+    "updated_at": "2026-07-03T07:05:16Z",
+    "pushed_at": "2026-07-03T07:05:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-02T22:58:48Z",
-    "pushed_at": "2026-07-02T22:58:45Z",
+    "updated_at": "2026-07-03T06:54:45Z",
+    "pushed_at": "2026-07-03T06:54:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5468,7 +5468,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 150,
+    "stars": 151,
     "forks": 26,
     "topics": [
       "astro",
@@ -5487,7 +5487,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-07-02T21:08:15Z",
+    "updated_at": "2026-07-03T05:37:34Z",
     "pushed_at": "2026-07-02T21:08:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6433,7 +6433,7 @@
     "name": "IMMINJU/astro-theme-chapterlog",
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "astro",
@@ -6446,7 +6446,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-16T12:41:39Z",
-    "updated_at": "2026-07-02T02:34:11Z",
+    "updated_at": "2026-07-03T02:51:11Z",
     "pushed_at": "2026-03-16T12:43:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7875,7 +7875,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-06-22T13:32:33Z",
-    "pushed_at": "2026-07-02T06:43:06Z",
+    "pushed_at": "2026-07-03T06:43:08Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -10220,7 +10220,7 @@
     "name": "fabricioctelles/astro-webmcp",
     "url": "https://github.com/fabricioctelles/astro-webmcp",
     "description": "Astro integration that exposes your site content via WebMCP for AI agents",
-    "stars": 7,
+    "stars": 8,
     "forks": 2,
     "topics": [
       "agents",
@@ -10233,8 +10233,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-07T02:00:06Z",
-    "updated_at": "2026-07-02T23:22:30Z",
-    "pushed_at": "2026-06-16T17:00:34Z",
+    "updated_at": "2026-07-03T02:48:30Z",
+    "pushed_at": "2026-07-03T02:36:00Z",
     "discovered_at": "2026-06-07T07:37:49.685Z"
   },
   "eigdoyr/ryodgie-v2": {
@@ -10988,7 +10988,7 @@
     "name": "arraypress/waveform-bar-astro",
     "url": "https://github.com/arraypress/waveform-bar-astro",
     "description": "Astro components for @arraypress/waveform-bar — typed singleton mount and polymorphic play/queue trigger.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "arraypress",
@@ -11010,7 +11010,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-23T09:45:35Z",
-    "updated_at": "2026-07-01T12:28:43Z",
+    "updated_at": "2026-07-03T07:14:08Z",
     "pushed_at": "2026-07-01T12:13:21Z",
     "discovered_at": "2026-07-01T13:09:33.583Z"
   },
