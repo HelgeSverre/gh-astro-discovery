@@ -38,7 +38,7 @@
     "name": "florian-lefebvre/astro-integration-template",
     "url": "https://github.com/florian-lefebvre/astro-integration-template",
     "description": "Publish integrations within minutes.",
-    "stars": 69,
+    "stars": 70,
     "forks": 15,
     "topics": [
       "astro",
@@ -49,7 +49,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-01-18T16:32:38Z",
-    "updated_at": "2026-06-29T06:19:07Z",
+    "updated_at": "2026-07-04T01:30:43Z",
     "pushed_at": "2026-06-29T06:19:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-03T03:46:41Z",
-    "pushed_at": "2026-07-03T03:46:38Z",
+    "updated_at": "2026-07-04T03:38:35Z",
+    "pushed_at": "2026-07-04T03:38:32Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-03T02:57:54Z",
-    "pushed_at": "2026-07-03T02:57:51Z",
+    "updated_at": "2026-07-04T02:54:20Z",
+    "pushed_at": "2026-07-04T02:54:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-03T02:39:31Z",
-    "pushed_at": "2026-07-03T02:39:27Z",
+    "updated_at": "2026-07-04T02:35:55Z",
+    "pushed_at": "2026-07-04T02:35:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-03T02:36:40Z",
-    "pushed_at": "2026-07-03T02:36:36Z",
+    "updated_at": "2026-07-04T02:33:28Z",
+    "pushed_at": "2026-07-04T02:33:25Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -1629,7 +1629,7 @@
     "name": "astrolicious/i18n",
     "url": "https://github.com/astrolicious/i18n",
     "description": "Yet another i18n integration for Astro with server and client utilities, type safety and translations built-in.",
-    "stars": 63,
+    "stars": 64,
     "forks": 8,
     "topics": [
       "astro",
@@ -1643,7 +1643,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-29T09:52:18Z",
-    "updated_at": "2026-02-04T10:49:45Z",
+    "updated_at": "2026-07-04T01:30:41Z",
     "pushed_at": "2025-10-27T10:54:57Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-06-28T11:54:07Z",
+    "pushed_at": "2026-07-04T03:02:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -2635,7 +2635,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-07-01T06:34:06Z",
+    "pushed_at": "2026-07-04T04:07:46Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-03T23:59:05Z",
-    "pushed_at": "2026-07-03T23:59:01Z",
+    "updated_at": "2026-07-04T05:23:26Z",
+    "pushed_at": "2026-07-04T05:23:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-03T22:47:07Z",
-    "pushed_at": "2026-07-03T22:47:04Z",
+    "updated_at": "2026-07-04T06:37:17Z",
+    "pushed_at": "2026-07-04T06:37:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-03T22:36:17Z",
-    "pushed_at": "2026-07-03T22:36:13Z",
+    "updated_at": "2026-07-04T06:27:10Z",
+    "pushed_at": "2026-07-04T06:27:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5928,7 +5928,7 @@
     "license": "MIT",
     "created_at": "2025-12-28T22:58:57Z",
     "updated_at": "2026-07-03T13:25:08Z",
-    "pushed_at": "2026-07-03T15:27:18Z",
+    "pushed_at": "2026-07-04T06:15:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zionfuo/astro-webstack": {
@@ -6434,7 +6434,7 @@
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
     "stars": 5,
-    "forks": 1,
+    "forks": 0,
     "topics": [
       "astro",
       "astro-theme",
@@ -6719,7 +6719,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 276,
+    "stars": 275,
     "forks": 73,
     "topics": [
       "astro",
@@ -6735,7 +6735,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-06-29T22:52:11Z",
+    "updated_at": "2026-07-04T01:29:23Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6991,7 +6991,7 @@
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
     "stars": 88,
-    "forks": 24,
+    "forks": 25,
     "topics": [
       "astro",
       "astro-starter",
@@ -7523,7 +7523,7 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 306,
+    "stars": 305,
     "forks": 126,
     "topics": [
       "astro",
@@ -7533,7 +7533,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-06-30T08:00:29Z",
+    "updated_at": "2026-07-04T01:29:21Z",
     "pushed_at": "2024-08-25T01:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7567,7 +7567,7 @@
     "name": "unfolding-io/StarFunnel",
     "url": "https://github.com/unfolding-io/StarFunnel",
     "description": "the Astro powered landing page builder",
-    "stars": 161,
+    "stars": 162,
     "forks": 75,
     "topics": [
       "astro",
@@ -7585,7 +7585,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2023-11-19T14:35:58Z",
-    "updated_at": "2026-06-04T11:59:33Z",
+    "updated_at": "2026-07-04T01:30:47Z",
     "pushed_at": "2024-07-08T10:42:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9730,8 +9730,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-07-02T06:07:44Z",
-    "pushed_at": "2026-06-22T13:57:13Z",
+    "updated_at": "2026-07-04T06:28:56Z",
+    "pushed_at": "2026-07-04T06:28:52Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
   "ebootheee/emdash-plugin-stl-viewer": {
@@ -9881,8 +9881,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-06-28T23:58:10Z",
-    "pushed_at": "2026-06-28T23:58:07Z",
+    "updated_at": "2026-07-04T01:10:48Z",
+    "pushed_at": "2026-07-04T04:45:36Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
