@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 522
-**Last updated:** 2026-07-03T18:36:01.046Z
+**Total packages tracked:** 523
+**Last updated:** 2026-07-04T00:55:35.187Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 1 | A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, l... |
 | [igorskyflyer/npm-astro-easynav-button](https://github.com/igorskyflyer/npm-astro-easynav-button) | 4 | 🧭 Add an easy-to-use navigational button (jump to top/bottom) to your Astro sit... |
 | [adrian-altner/astro-justified-gallery-layout](https://github.com/adrian-altner/astro-justified-gallery-layout) | 0 | Justified (Flickr-style) photo gallery for Astro with EXIF/IPTC/GPS extraction, ... |
 | [sansware/site-templates](https://github.com/sansware/site-templates) | 0 | Astro starter template for production small-business sites. The same skeleton I ... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [TrueWinter/astro-copy-prod-deps](https://github.com/TrueWinter/astro-copy-prod-deps) | 0 | Astro integration that copies only the dependencies needed in production for SSR... |
 | [achis-space/astro-justified-gallery-layout](https://github.com/achis-space/astro-justified-gallery-layout) | 0 | Justified (Flickr-style) photo gallery for Astro with EXIF/IPTC/GPS extraction, ... |
 | [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | Create a new top-notch astro boilerplate to kick of your next high-speed website... |
-| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | A curated collection of developer resources, tutorials, tools, and open-source p... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,15 +59,17 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [sudeep2003/AstroFlow](https://github.com/sudeep2003/AstroFlow) | 43 | 2026-07-03 | Modern Astro.js template for logistics and manufacturing com... |
+| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-04 | Astro starter template for Cloudflare Workers with Svelte, T... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-03 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-07-03 | Port of Split template by One Page Love to Astro 👨‍🚀 |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-03 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-03 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-03 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [sudeep2003/AstroFlow](https://github.com/sudeep2003/AstroFlow) | 43 | 2026-07-03 | Modern Astro.js template for logistics and manufacturing com... |
 | [GladTek/Cooper](https://github.com/GladTek/Cooper) | 28 | 2026-07-03 | production-ready Astro 7 boilerplate for blogging, documenta... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-03 | Documentation for Azion's services and features. |
 | [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-07-03 | Notro is Notion, Astro, Tailwind CSS based CMS. |
 | [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-07-03 | This package provides a YouTube video loader for the Astro L... |
-| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-03 | Astro starter template for Cloudflare Workers with Svelte, T... |
 | [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-07-03 | A minimal Astro blog theme |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-03 | An Astro Prometheus nodejs middleware integration for Astro |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-03 | Astro integration for loading fonts into build artifacts wit... |
@@ -76,9 +78,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-03 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-07-03 | Regular integration tests of Coordinated packages with astro... |
 | [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-03 | The Astro Quick Start package covers the basics of connectin... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-03 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-03 | Astro Integration to generate a customizable table of conten... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-03 | Convert 🫶🏻 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-04T00:55 | 1 | 510 | 523 |
 | 2026-07-03T18:36 | 0 | 510 | 522 |
 | 2026-07-03T12:48 | 0 | 510 | 522 |
 | 2026-07-03T09:40 | 0 | 510 | 522 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-02T18:38 | 2 | 508 | 521 |
 | 2026-07-02T12:49 | 0 | 509 | 519 |
 | 2026-07-02T07:20 | 0 | 510 | 519 |
-| 2026-07-02T01:13 | 1 | 509 | 519 |
 
 ---
 

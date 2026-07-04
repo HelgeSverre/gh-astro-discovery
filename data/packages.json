@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-07-03T05:41:34Z",
-    "pushed_at": "2026-07-03T05:42:52Z",
+    "pushed_at": "2026-07-03T22:06:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -3274,7 +3274,7 @@
     "name": "Rettend/starlight-plugin-icons",
     "url": "https://github.com/Rettend/starlight-plugin-icons",
     "description": "Add icons to Astro Starlight: sidebar, codeblocks, filetree",
-    "stars": 16,
+    "stars": 17,
     "forks": 3,
     "topics": [
       "astro",
@@ -3288,7 +3288,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-05T10:48:07Z",
-    "updated_at": "2026-06-27T16:06:30Z",
+    "updated_at": "2026-07-03T20:46:00Z",
     "pushed_at": "2026-02-24T13:09:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-03T18:27:30Z",
-    "pushed_at": "2026-07-03T18:27:26Z",
+    "updated_at": "2026-07-03T23:59:05Z",
+    "pushed_at": "2026-07-03T23:59:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-03T17:14:37Z",
-    "pushed_at": "2026-07-03T17:14:34Z",
+    "updated_at": "2026-07-03T22:47:07Z",
+    "pushed_at": "2026-07-03T22:47:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-03T17:03:31Z",
-    "pushed_at": "2026-07-03T17:03:28Z",
+    "updated_at": "2026-07-03T22:36:17Z",
+    "pushed_at": "2026-07-03T22:36:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5707,8 +5707,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
-    "updated_at": "2026-06-27T00:16:40Z",
-    "pushed_at": "2026-06-27T00:16:37Z",
+    "updated_at": "2026-07-03T22:58:18Z",
+    "pushed_at": "2026-07-03T22:58:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -6348,7 +6348,7 @@
     "name": "RATIU5/zaggonaut",
     "url": "https://github.com/RATIU5/zaggonaut",
     "description": "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and of course, Astro.",
-    "stars": 93,
+    "stars": 94,
     "forks": 25,
     "topics": [
       "astro",
@@ -6359,7 +6359,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-24T20:11:46Z",
-    "updated_at": "2026-06-25T12:05:37Z",
+    "updated_at": "2026-07-03T19:44:20Z",
     "pushed_at": "2026-06-22T18:47:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6990,7 +6990,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 87,
+    "stars": 88,
     "forks": 24,
     "topics": [
       "astro",
@@ -7008,7 +7008,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-07-03T14:04:03Z",
+    "updated_at": "2026-07-03T20:07:02Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7905,7 +7905,7 @@
     "name": "oxygenna-themes/mizu-light-astro-theme",
     "url": "https://github.com/oxygenna-themes/mizu-light-astro-theme",
     "description": "Mizu Light is a product launch template designed specifically for modern SaaS products, digital launches, and ambitious startups. ",
-    "stars": 27,
+    "stars": 28,
     "forks": 18,
     "topics": [
       "astro",
@@ -7927,7 +7927,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-07-01T11:51:23Z",
+    "updated_at": "2026-07-03T18:52:33Z",
     "pushed_at": "2026-06-24T07:11:45Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -10380,8 +10380,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-19T19:39:36Z",
-    "updated_at": "2026-07-03T12:04:31Z",
-    "pushed_at": "2026-07-03T12:04:27Z",
+    "updated_at": "2026-07-04T00:25:54Z",
+    "pushed_at": "2026-07-04T00:25:49Z",
     "discovered_at": "2026-06-16T01:26:04.668Z"
   },
   "meno-so/meno-astro": {
@@ -10531,7 +10531,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -10549,7 +10549,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-01T02:03:21Z",
+    "updated_at": "2026-07-03T22:21:53Z",
     "pushed_at": "2026-06-28T00:33:11Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
@@ -11119,5 +11119,30 @@
     "updated_at": "2026-07-02T23:58:31Z",
     "pushed_at": "2025-08-14T14:40:37Z",
     "discovered_at": "2026-07-03T00:56:59.971Z"
+  },
+  "kpab/astro-haze": {
+    "name": "kpab/astro-haze",
+    "url": "https://github.com/kpab/astro-haze",
+    "description": "A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, light/dark, and accessibility built in.",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "github-pages",
+      "glassmorphism",
+      "landing-page",
+      "mdx",
+      "portfolio",
+      "static-site",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-06-28T04:53:58Z",
+    "updated_at": "2026-07-03T22:27:24Z",
+    "pushed_at": "2026-06-30T03:43:15Z",
+    "discovered_at": "2026-07-04T00:55:35.184Z"
   }
 }
