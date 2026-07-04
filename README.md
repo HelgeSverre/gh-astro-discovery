@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 523
-**Last updated:** 2026-07-04T07:10:26.100Z
+**Last updated:** 2026-07-04T12:34:25.602Z
 
 ## 📦 Recently Discovered
 
@@ -60,10 +60,14 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-04 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 5 | 2026-07-04 | ⭐A simple, fast and powerful blog & document theme built by ... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-04 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [GladTek/Cooper](https://github.com/GladTek/Cooper) | 28 | 2026-07-04 | production-ready Astro 7 boilerplate for blogging, documenta... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-04 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 55 | 2026-07-04 | Render Elm modules as Astro components |
+| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 15 | 2026-07-04 | A integration for Astro adding a toolbar for users of astro-... |
+| [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 60 | 2026-07-04 | A content loader for Astro that uses the PocketBase API |
+| [IsTarrie/PaperTheme](https://github.com/IsTarrie/PaperTheme) | 3 | 2026-07-04 | 纸质Astro主题 |
+| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 5 | 2026-07-04 | ⭐A simple, fast and powerful blog & document theme built by ... |
+| [GladTek/Cooper](https://github.com/GladTek/Cooper) | 28 | 2026-07-04 | production-ready Astro 7 boilerplate for blogging, documenta... |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-07-04 | Astro integration that uses existing configuration to write ... |
 | [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-07-04 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-04 | Convert 🫶🏻 |
@@ -75,10 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-07-03 | Port of Split template by One Page Love to Astro 👨‍🚀 |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-03 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [sudeep2003/AstroFlow](https://github.com/sudeep2003/AstroFlow) | 43 | 2026-07-03 | Modern Astro.js template for logistics and manufacturing com... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-03 | Documentation for Azion's services and features. |
-| [mosugi/notro](https://github.com/mosugi/notro) | 19 | 2026-07-03 | Notro is Notion, Astro, Tailwind CSS based CMS. |
-| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-07-03 | This package provides a YouTube video loader for the Astro L... |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-07-03 | A minimal Astro blog theme |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-04T12:34 | 0 | 511 | 523 |
 | 2026-07-04T07:10 | 0 | 511 | 523 |
 | 2026-07-04T00:55 | 1 | 510 | 523 |
 | 2026-07-03T18:36 | 0 | 510 | 522 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-03T07:16 | 0 | 510 | 522 |
 | 2026-07-03T00:56 | 1 | 509 | 522 |
 | 2026-07-02T18:38 | 2 | 508 | 521 |
-| 2026-07-02T12:49 | 0 | 509 | 519 |
 
 ---
 

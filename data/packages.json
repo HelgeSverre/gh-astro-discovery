@@ -534,8 +534,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-09-22T12:11:49Z",
-    "updated_at": "2026-06-27T12:03:27Z",
-    "pushed_at": "2026-06-30T08:56:53Z",
+    "updated_at": "2026-07-04T09:52:33Z",
+    "pushed_at": "2026-07-04T09:52:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "pawcoding/astro-integration-pocketbase": {
@@ -554,8 +554,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-05T16:25:44Z",
-    "updated_at": "2026-06-27T08:42:03Z",
-    "pushed_at": "2026-06-27T12:16:10Z",
+    "updated_at": "2026-07-04T10:17:32Z",
+    "pushed_at": "2026-07-04T10:17:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "qwikdev/astro": {
@@ -1844,8 +1844,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-08-14T13:48:03Z",
-    "updated_at": "2026-01-16T02:55:25Z",
-    "pushed_at": "2025-08-14T14:16:22Z",
+    "updated_at": "2026-07-04T08:22:16Z",
+    "pushed_at": "2026-07-04T08:18:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jop-software/astro-posthog": {
@@ -2587,7 +2587,7 @@
     "license": "MIT",
     "created_at": "2025-02-25T20:43:07Z",
     "updated_at": "2026-06-23T17:59:57Z",
-    "pushed_at": "2026-06-23T19:31:55Z",
+    "pushed_at": "2026-07-04T10:39:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dodopayments/dualmark": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-04T05:23:26Z",
-    "pushed_at": "2026-07-04T05:23:22Z",
+    "updated_at": "2026-07-04T10:55:58Z",
+    "pushed_at": "2026-07-04T10:55:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-04T06:37:17Z",
-    "pushed_at": "2026-07-04T06:37:13Z",
+    "updated_at": "2026-07-04T12:10:35Z",
+    "pushed_at": "2026-07-04T12:10:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-04T06:27:10Z",
-    "pushed_at": "2026-07-04T06:27:07Z",
+    "updated_at": "2026-07-04T11:59:52Z",
+    "pushed_at": "2026-07-04T11:59:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -9819,7 +9819,7 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 17,
+    "stars": 18,
     "forks": 6,
     "topics": [
       "astro",
@@ -9835,7 +9835,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-07-03T07:35:23Z",
+    "updated_at": "2026-07-04T09:02:29Z",
     "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
@@ -10119,7 +10119,7 @@
     "name": "themefisher/automark-astro",
     "url": "https://github.com/themefisher/automark-astro",
     "description": "Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.",
-    "stars": 25,
+    "stars": 26,
     "forks": 13,
     "topics": [
       "astro",
@@ -10139,7 +10139,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-29T09:08:54Z",
-    "updated_at": "2026-07-01T04:40:57Z",
+    "updated_at": "2026-07-04T07:21:09Z",
     "pushed_at": "2026-06-27T06:48:23Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
@@ -10446,7 +10446,7 @@
     "name": "kpab/astro-darkness",
     "url": "https://github.com/kpab/astro-darkness",
     "description": "A stunning dark-themed portfolio template for Astro with interactive Three.js particle animations, blog system, and modern glassmorphism UI.",
-    "stars": 9,
+    "stars": 10,
     "forks": 5,
     "topics": [
       "astro",
@@ -10457,7 +10457,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-18T08:54:34Z",
-    "updated_at": "2026-06-18T23:51:18Z",
+    "updated_at": "2026-07-04T08:30:50Z",
     "pushed_at": "2026-06-18T23:51:14Z",
     "discovered_at": "2026-06-17T08:10:00.559Z"
   },
@@ -10488,7 +10488,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 11,
+    "stars": 12,
     "forks": 6,
     "topics": [
       "astro",
@@ -10501,7 +10501,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-07-03T07:39:21Z",
+    "updated_at": "2026-07-04T09:42:22Z",
     "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
@@ -10531,7 +10531,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro",
@@ -10549,7 +10549,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-03T22:21:53Z",
+    "updated_at": "2026-07-04T07:33:16Z",
     "pushed_at": "2026-06-28T00:33:11Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
