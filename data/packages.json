@@ -646,7 +646,7 @@
     "license": "MIT",
     "created_at": "2026-04-25T23:20:36Z",
     "updated_at": "2026-06-19T03:21:34Z",
-    "pushed_at": "2026-06-28T08:12:44Z",
+    "pushed_at": "2026-07-05T08:12:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "karesztrk/astro-svg-icon": {
@@ -752,8 +752,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
-    "updated_at": "2026-05-19T01:04:57Z",
-    "pushed_at": "2026-07-04T20:47:25Z",
+    "updated_at": "2026-07-05T12:08:20Z",
+    "pushed_at": "2026-07-05T12:09:49Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -1364,7 +1364,7 @@
     "license": "AGPL-3.0",
     "created_at": "2025-12-14T15:01:12Z",
     "updated_at": "2026-06-09T05:03:46Z",
-    "pushed_at": "2026-07-01T10:36:12Z",
+    "pushed_at": "2026-07-05T10:22:26Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "frostybee/expressive-code-typewriter": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-05T05:41:34Z",
-    "pushed_at": "2026-07-05T05:41:30Z",
+    "updated_at": "2026-07-05T11:09:45Z",
+    "pushed_at": "2026-07-05T11:09:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-05T04:32:27Z",
-    "pushed_at": "2026-07-05T04:32:24Z",
+    "updated_at": "2026-07-05T09:59:49Z",
+    "pushed_at": "2026-07-05T09:59:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-05T04:22:13Z",
-    "pushed_at": "2026-07-05T04:22:09Z",
+    "updated_at": "2026-07-05T09:49:17Z",
+    "pushed_at": "2026-07-05T09:49:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -6990,7 +6990,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 88,
+    "stars": 89,
     "forks": 25,
     "topics": [
       "astro",
@@ -7008,7 +7008,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-07-03T20:07:02Z",
+    "updated_at": "2026-07-05T07:30:35Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7524,7 +7524,7 @@
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
     "stars": 305,
-    "forks": 126,
+    "forks": 127,
     "topics": [
       "astro",
       "astro-theme",
@@ -8494,7 +8494,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-05-22T12:25:52Z",
-    "pushed_at": "2026-07-03T09:04:03Z",
+    "pushed_at": "2026-07-05T07:59:43Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
