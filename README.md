@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 526
-**Last updated:** 2026-07-04T18:28:30.249Z
+**Last updated:** 2026-07-05T01:01:31.563Z
 
 ## 📦 Recently Discovered
 
@@ -59,12 +59,18 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [arraypress/waveform-player-astro](https://github.com/arraypress/waveform-player-astro) | 0 | 2026-07-04 | Astro component wrapper for @arraypress/waveform-player — ty... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-05 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-04 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-04 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [AnjayGoel/astro-sienna](https://github.com/AnjayGoel/astro-sienna) | 23 | 2026-07-04 | A minimal writing focused Astro blog template |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-04 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-04 | Matomo integration for Astro |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-04 | An Astro Prometheus nodejs middleware integration for Astro |
+| [arraypress/waveform-bar-astro](https://github.com/arraypress/waveform-bar-astro) | 1 | 2026-07-04 | Astro components for @arraypress/waveform-bar — typed single... |
+| [arraypress/waveform-playlist-astro](https://github.com/arraypress/waveform-playlist-astro) | 0 | 2026-07-04 | Astro component wrapper for @arraypress/waveform-playlist — ... |
+| [arraypress/waveform-player-astro](https://github.com/arraypress/waveform-player-astro) | 0 | 2026-07-04 | Astro component wrapper for @arraypress/waveform-player — ty... |
+| [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-07-04 | This package provides a YouTube video loader for the Astro L... |
+| [AnjayGoel/astro-sienna](https://github.com/AnjayGoel/astro-sienna) | 24 | 2026-07-04 | A minimal writing focused Astro blog template |
 | [TechDocsStudio/astro-biel](https://github.com/TechDocsStudio/astro-biel) | 0 | 2026-07-04 | AI chatbot integration for Astro. |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-04 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [TechDocsStudio/starlight-biel](https://github.com/TechDocsStudio/starlight-biel) | 0 | 2026-07-04 | AI chatbot plugin for Starlight. |
 | [ddysiodev/ddys-astro](https://github.com/ddysiodev/ddys-astro) | 0 | 2026-07-04 | 低端影视 API 的官方 Astro 集成，提供自动页面、API endpoints、组件、Content Loader... |
 | [jdevalk/astro-markdown-alternate](https://github.com/jdevalk/astro-markdown-alternate) | 1 | 2026-07-04 | Astro integration that makes markdown sources discoverable v... |
@@ -73,12 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 15 | 2026-07-04 | A integration for Astro adding a toolbar for users of astro-... |
 | [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 60 | 2026-07-04 | A content loader for Astro that uses the PocketBase API |
 | [IsTarrie/PaperTheme](https://github.com/IsTarrie/PaperTheme) | 3 | 2026-07-04 | 纸质Astro主题 |
-| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 5 | 2026-07-04 | ⭐A simple, fast and powerful blog & document theme built by ... |
-| [GladTek/Cooper](https://github.com/GladTek/Cooper) | 28 | 2026-07-04 | production-ready Astro 7 boilerplate for blogging, documenta... |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-07-04 | Astro integration that uses existing configuration to write ... |
-| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-07-04 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-04 | Convert 🫶🏻 |
-| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-07-04 | BeamAnalytics integration for Astro |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T01:01 | 0 | 514 | 526 |
 | 2026-07-04T18:28 | 3 | 511 | 526 |
 | 2026-07-04T12:34 | 0 | 511 | 523 |
 | 2026-07-04T07:10 | 0 | 511 | 523 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-03T09:40 | 0 | 510 | 522 |
 | 2026-07-03T09:32 | 0 | 510 | 522 |
 | 2026-07-03T07:16 | 0 | 510 | 522 |
-| 2026-07-03T00:56 | 1 | 509 | 522 |
 
 ---
 
