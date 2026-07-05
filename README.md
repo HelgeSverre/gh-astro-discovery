@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 526
-**Last updated:** 2026-07-05T01:01:31.563Z
+**Last updated:** 2026-07-05T07:16:33.050Z
 
 ## 📦 Recently Discovered
 
@@ -41,7 +41,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 307 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
 | [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 305 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
 | [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | Qwik + Astro |
-| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 285 | Minimal blog theme built with Astro. |
+| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 286 | Minimal blog theme built with Astro. |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | Inline 🦔 |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 277 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 275 | Simple and Elegant Astro Blog Template. |
@@ -59,10 +59,17 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-05 | Simple and cute Standard.site integration for Astro |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-05 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-05 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-04 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-04 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-04 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-05 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-05 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-05 | Convert 🫶🏻 |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-05 | Astro integration for loading fonts into build artifacts wit... |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-05 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-05 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-05 | Format 🗻 |
+| [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 52 | 2026-07-05 | Astro Starter Pro: A free, production-ready Astro starter fo... |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-04 | Matomo integration for Astro |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-04 | An Astro Prometheus nodejs middleware integration for Astro |
 | [arraypress/waveform-bar-astro](https://github.com/arraypress/waveform-bar-astro) | 1 | 2026-07-04 | Astro components for @arraypress/waveform-bar — typed single... |
@@ -72,13 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [AnjayGoel/astro-sienna](https://github.com/AnjayGoel/astro-sienna) | 24 | 2026-07-04 | A minimal writing focused Astro blog template |
 | [TechDocsStudio/astro-biel](https://github.com/TechDocsStudio/astro-biel) | 0 | 2026-07-04 | AI chatbot integration for Astro. |
 | [TechDocsStudio/starlight-biel](https://github.com/TechDocsStudio/starlight-biel) | 0 | 2026-07-04 | AI chatbot plugin for Starlight. |
-| [ddysiodev/ddys-astro](https://github.com/ddysiodev/ddys-astro) | 0 | 2026-07-04 | 低端影视 API 的官方 Astro 集成，提供自动页面、API endpoints、组件、Content Loader... |
-| [jdevalk/astro-markdown-alternate](https://github.com/jdevalk/astro-markdown-alternate) | 1 | 2026-07-04 | Astro integration that makes markdown sources discoverable v... |
-| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-07-04 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
-| [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) | 55 | 2026-07-04 | Render Elm modules as Astro components |
-| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 15 | 2026-07-04 | A integration for Astro adding a toolbar for users of astro-... |
-| [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 60 | 2026-07-04 | A content loader for Astro that uses the PocketBase API |
-| [IsTarrie/PaperTheme](https://github.com/IsTarrie/PaperTheme) | 3 | 2026-07-04 | 纸质Astro主题 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T07:16 | 0 | 514 | 526 |
 | 2026-07-05T01:01 | 0 | 514 | 526 |
 | 2026-07-04T18:28 | 3 | 511 | 526 |
 | 2026-07-04T12:34 | 0 | 511 | 523 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-03T12:48 | 0 | 510 | 522 |
 | 2026-07-03T09:40 | 0 | 510 | 522 |
 | 2026-07-03T09:32 | 0 | 510 | 522 |
-| 2026-07-03T07:16 | 0 | 510 | 522 |
 
 ---
 

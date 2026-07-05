@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-04T03:38:35Z",
-    "pushed_at": "2026-07-04T03:38:32Z",
+    "updated_at": "2026-07-05T03:57:34Z",
+    "pushed_at": "2026-07-05T03:57:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-04T02:54:20Z",
-    "pushed_at": "2026-07-04T02:54:16Z",
+    "updated_at": "2026-07-05T03:24:16Z",
+    "pushed_at": "2026-07-05T03:24:13Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-04T02:35:55Z",
-    "pushed_at": "2026-07-04T02:35:51Z",
+    "updated_at": "2026-07-05T02:46:35Z",
+    "pushed_at": "2026-07-05T02:46:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-04T02:33:28Z",
-    "pushed_at": "2026-07-04T02:33:25Z",
+    "updated_at": "2026-07-05T02:43:40Z",
+    "pushed_at": "2026-07-05T02:43:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-03T05:41:34Z",
-    "pushed_at": "2026-07-04T21:07:21Z",
+    "updated_at": "2026-07-05T05:42:02Z",
+    "pushed_at": "2026-07-05T05:42:55Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -2895,7 +2895,7 @@
     "name": "pascal-brand38/astro-swiper",
     "url": "https://github.com/pascal-brand38/astro-swiper",
     "description": "Astro component for swiper, dedicated to slider / carousel / photo swiper / slide. ⭐️ Star to support",
-    "stars": 28,
+    "stars": 29,
     "forks": 2,
     "topics": [
       "astro",
@@ -2908,7 +2908,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-07-02T07:29:06Z",
+    "updated_at": "2026-07-05T04:26:15Z",
     "pushed_at": "2026-06-27T17:35:54Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4240,8 +4240,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-07-01T21:16:02Z",
-    "pushed_at": "2026-07-03T11:46:25Z",
+    "updated_at": "2026-07-05T03:38:53Z",
+    "pushed_at": "2026-07-05T03:38:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-05T00:21:59Z",
-    "pushed_at": "2026-07-05T00:21:55Z",
+    "updated_at": "2026-07-05T05:41:34Z",
+    "pushed_at": "2026-07-05T05:41:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-04T23:15:21Z",
-    "pushed_at": "2026-07-04T23:15:18Z",
+    "updated_at": "2026-07-05T04:32:27Z",
+    "pushed_at": "2026-07-05T04:32:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-04T23:04:54Z",
-    "pushed_at": "2026-07-04T23:04:51Z",
+    "updated_at": "2026-07-05T04:22:13Z",
+    "pushed_at": "2026-07-05T04:22:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5341,15 +5341,15 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-06-30T00:55:17Z",
-    "pushed_at": "2026-06-28T02:07:04Z",
+    "updated_at": "2026-07-05T01:47:31Z",
+    "pushed_at": "2026-07-05T01:47:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "nbakh16/career-portfolio-template": {
     "name": "nbakh16/career-portfolio-template",
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
-    "stars": 32,
+    "stars": 33,
     "forks": 23,
     "topics": [
       "astro-theme",
@@ -5367,7 +5367,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T09:13:08Z",
-    "updated_at": "2026-06-26T22:02:55Z",
+    "updated_at": "2026-07-05T05:52:46Z",
     "pushed_at": "2026-05-16T15:25:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5444,8 +5444,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 142,
-    "forks": 50,
+    "stars": 143,
+    "forks": 51,
     "topics": [
       "astro",
       "astro-theme",
@@ -5460,7 +5460,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-07-01T12:40:09Z",
+    "updated_at": "2026-07-05T06:23:31Z",
     "pushed_at": "2026-06-26T14:40:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5536,7 +5536,7 @@
     "name": "the3ash/astro-chiri",
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
-    "stars": 285,
+    "stars": 286,
     "forks": 97,
     "topics": [
       "astro",
@@ -5551,7 +5551,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-07-02T20:28:56Z",
+    "updated_at": "2026-07-05T06:42:33Z",
     "pushed_at": "2026-06-23T06:13:37Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6434,7 +6434,7 @@
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-theme",
@@ -10279,8 +10279,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-07-02T23:46:03Z",
-    "pushed_at": "2026-07-02T23:45:59Z",
+    "updated_at": "2026-07-05T05:51:29Z",
+    "pushed_at": "2026-07-05T05:51:25Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
@@ -10488,7 +10488,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 12,
+    "stars": 13,
     "forks": 6,
     "topics": [
       "astro",
@@ -10501,7 +10501,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-07-04T09:42:22Z",
+    "updated_at": "2026-07-05T07:07:28Z",
     "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
@@ -11125,7 +11125,7 @@
     "url": "https://github.com/kpab/astro-haze",
     "description": "A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, light/dark, and accessibility built in.",
     "stars": 1,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-theme",
