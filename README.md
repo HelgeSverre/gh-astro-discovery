@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 526
-**Last updated:** 2026-07-05T12:37:58.789Z
+**Last updated:** 2026-07-05T18:30:29.887Z
 
 ## 📦 Recently Discovered
 
@@ -59,11 +59,11 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-05 | Matomo integration for Astro |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-05 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-07-05 | Automatically add your parameters to external links and URLs... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-05 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-05 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-05 | Matomo integration for Astro |
+| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-07-05 | Automatically add your parameters to external links and URLs... |
 | [obaronai/astro-ai-readiness](https://github.com/obaronai/astro-ai-readiness) | 1 | 2026-07-05 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-07-05 | Regular integration tests of Coordinated packages with astro... |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-05 | Simple and cute Standard.site integration for Astro |
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T18:30 | 0 | 514 | 526 |
 | 2026-07-05T12:37 | 0 | 514 | 526 |
 | 2026-07-05T07:16 | 0 | 514 | 526 |
 | 2026-07-05T01:01 | 0 | 514 | 526 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-04T00:55 | 1 | 510 | 523 |
 | 2026-07-03T18:36 | 0 | 510 | 522 |
 | 2026-07-03T12:48 | 0 | 510 | 522 |
-| 2026-07-03T09:40 | 0 | 510 | 522 |
 
 ---
 
