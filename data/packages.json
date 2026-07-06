@@ -843,7 +843,7 @@
     "license": "MIT",
     "created_at": "2025-01-19T17:10:36Z",
     "updated_at": "2026-06-18T04:29:01Z",
-    "pushed_at": "2026-07-04T18:48:04Z",
+    "pushed_at": "2026-07-05T19:48:04Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-tags": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-05T16:45:06Z",
-    "pushed_at": "2026-07-05T16:45:02Z",
+    "updated_at": "2026-07-05T22:22:27Z",
+    "pushed_at": "2026-07-05T22:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-05T15:33:01Z",
-    "pushed_at": "2026-07-05T15:32:57Z",
+    "updated_at": "2026-07-06T00:16:42Z",
+    "pushed_at": "2026-07-06T00:16:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-05T15:21:55Z",
-    "pushed_at": "2026-07-05T15:21:51Z",
+    "updated_at": "2026-07-06T00:06:16Z",
+    "pushed_at": "2026-07-06T00:06:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5537,7 +5537,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 286,
-    "forks": 97,
+    "forks": 96,
     "topics": [
       "astro",
       "astro-theme",
@@ -5614,7 +5614,7 @@
     "name": "D-Sketon/astro-theme-reimu",
     "url": "https://github.com/D-Sketon/astro-theme-reimu",
     "description": "一款博丽灵梦风格的Astro主题 | A Hakurei Reimu style Astro theme. 💘Touhou💘",
-    "stars": 68,
+    "stars": 69,
     "forks": 10,
     "topics": [
       "astro",
@@ -5635,7 +5635,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-10T13:01:41Z",
-    "updated_at": "2026-06-30T06:18:22Z",
+    "updated_at": "2026-07-05T23:50:55Z",
     "pushed_at": "2026-05-13T15:14:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5808,7 +5808,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 208,
+    "stars": 209,
     "forks": 40,
     "topics": [
       "astro",
@@ -5822,7 +5822,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-06-30T08:11:01Z",
+    "updated_at": "2026-07-05T21:56:20Z",
     "pushed_at": "2026-06-22T22:08:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7936,7 +7936,7 @@
     "url": "https://github.com/netlify-templates/astro-supabase-starter",
     "description": "The Astro Supabase starter demonstrates how to integrate Supabase into an Astro project deployed on Netlify.",
     "stars": 27,
-    "forks": 57,
+    "forks": 56,
     "topics": [
       "astro",
       "astro-starter",
@@ -9881,8 +9881,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-07-04T01:10:48Z",
-    "pushed_at": "2026-07-04T04:45:36Z",
+    "updated_at": "2026-07-05T20:55:43Z",
+    "pushed_at": "2026-07-05T20:55:39Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10147,7 +10147,7 @@
     "name": "themefisher/bigspring-light-astro",
     "url": "https://github.com/themefisher/bigspring-light-astro",
     "description": "Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.  ",
-    "stars": 173,
+    "stars": 174,
     "forks": 147,
     "topics": [
       "astro-blog",
@@ -10166,7 +10166,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-03-11T08:41:01Z",
-    "updated_at": "2026-06-27T10:23:21Z",
+    "updated_at": "2026-07-05T22:25:19Z",
     "pushed_at": "2026-06-27T06:44:19Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
@@ -10287,7 +10287,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 13,
+    "stars": 14,
     "forks": 6,
     "topics": [
       "astro",
@@ -10304,7 +10304,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-02T16:13:36Z",
+    "updated_at": "2026-07-05T21:05:07Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10388,7 +10388,7 @@
     "name": "meno-so/meno-astro",
     "url": "https://github.com/meno-so/meno-astro",
     "description": "Runtime + round-trippable .astro dialect (emit/parse) that lets Meno use Astro files as a source-of-truth format. Public runtime-only mirror.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "topics": [
       "astro",
@@ -10404,7 +10404,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-16T13:26:03Z",
-    "updated_at": "2026-07-03T11:43:18Z",
+    "updated_at": "2026-07-05T20:51:57Z",
     "pushed_at": "2026-07-03T11:43:14Z",
     "discovered_at": "2026-06-16T19:21:28.686Z"
   },
