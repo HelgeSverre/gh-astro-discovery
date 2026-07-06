@@ -49,8 +49,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-01-18T16:32:38Z",
-    "updated_at": "2026-07-04T01:30:43Z",
-    "pushed_at": "2026-06-29T06:19:05Z",
+    "updated_at": "2026-07-06T06:28:01Z",
+    "pushed_at": "2026-07-06T06:27:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "florian-lefebvre/astro-loading-indicator": {
@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-05T03:57:34Z",
-    "pushed_at": "2026-07-05T03:57:31Z",
+    "updated_at": "2026-07-06T04:03:49Z",
+    "pushed_at": "2026-07-06T04:03:46Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-05T03:24:16Z",
-    "pushed_at": "2026-07-05T03:24:13Z",
+    "updated_at": "2026-07-06T03:32:15Z",
+    "pushed_at": "2026-07-06T03:32:11Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-05T02:46:35Z",
-    "pushed_at": "2026-07-05T02:46:31Z",
+    "updated_at": "2026-07-06T02:52:53Z",
+    "pushed_at": "2026-07-06T02:52:49Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-05T02:43:40Z",
-    "pushed_at": "2026-07-05T02:43:36Z",
+    "updated_at": "2026-07-06T02:49:31Z",
+    "pushed_at": "2026-07-06T02:49:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -1164,7 +1164,7 @@
     "name": "blackspike/blackspike-astro-landing-page",
     "url": "https://github.com/blackspike/blackspike-astro-landing-page",
     "description": "A free, modern, Astro landing page theme made with Tailwind to help kick start your next Astro project",
-    "stars": 72,
+    "stars": 73,
     "forks": 48,
     "topics": [
       "astro",
@@ -1179,7 +1179,7 @@
     "language": "Astro",
     "license": "CC-BY-4.0",
     "created_at": "2025-05-16T13:10:07Z",
-    "updated_at": "2026-06-18T08:44:52Z",
+    "updated_at": "2026-07-06T03:57:40Z",
     "pushed_at": "2026-03-19T09:59:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1412,7 +1412,7 @@
     "name": "theisel/astro-portabletext",
     "url": "https://github.com/theisel/astro-portabletext",
     "description": "A flexible and customizable library for rendering Portable Text content in your Astro projects",
-    "stars": 104,
+    "stars": 105,
     "forks": 8,
     "topics": [
       "astro",
@@ -1426,7 +1426,7 @@
     "language": "Astro",
     "license": "ISC",
     "created_at": "2022-04-27T04:55:20Z",
-    "updated_at": "2026-06-16T11:10:31Z",
+    "updated_at": "2026-07-06T06:24:35Z",
     "pushed_at": "2026-01-05T20:56:48Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1844,8 +1844,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-08-14T13:48:03Z",
-    "updated_at": "2026-07-04T08:22:16Z",
-    "pushed_at": "2026-07-04T08:18:59Z",
+    "updated_at": "2026-07-06T02:49:20Z",
+    "pushed_at": "2026-07-06T06:09:58Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jop-software/astro-posthog": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-05T22:22:27Z",
-    "pushed_at": "2026-07-05T22:22:24Z",
+    "updated_at": "2026-07-06T07:02:00Z",
+    "pushed_at": "2026-07-06T07:01:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-06T00:16:42Z",
-    "pushed_at": "2026-07-06T00:16:38Z",
+    "updated_at": "2026-07-06T05:51:37Z",
+    "pushed_at": "2026-07-06T05:51:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-06T00:06:16Z",
-    "pushed_at": "2026-07-06T00:06:12Z",
+    "updated_at": "2026-07-06T05:41:08Z",
+    "pushed_at": "2026-07-06T05:41:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5291,8 +5291,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-07-03T17:50:46Z",
-    "pushed_at": "2026-06-23T17:15:46Z",
+    "updated_at": "2026-07-06T06:12:19Z",
+    "pushed_at": "2026-07-06T06:12:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5317,8 +5317,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
-    "updated_at": "2026-06-15T07:54:42Z",
-    "pushed_at": "2026-07-03T09:53:41Z",
+    "updated_at": "2026-07-06T07:44:15Z",
+    "pushed_at": "2026-07-06T07:48:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -5614,7 +5614,7 @@
     "name": "D-Sketon/astro-theme-reimu",
     "url": "https://github.com/D-Sketon/astro-theme-reimu",
     "description": "一款博丽灵梦风格的Astro主题 | A Hakurei Reimu style Astro theme. 💘Touhou💘",
-    "stars": 69,
+    "stars": 68,
     "forks": 10,
     "topics": [
       "astro",
@@ -5635,7 +5635,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-02-10T13:01:41Z",
-    "updated_at": "2026-07-05T23:50:55Z",
+    "updated_at": "2026-07-06T04:14:34Z",
     "pushed_at": "2026-05-13T15:14:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6719,7 +6719,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 275,
+    "stars": 276,
     "forks": 73,
     "topics": [
       "astro",
@@ -6735,7 +6735,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-07-04T01:29:23Z",
+    "updated_at": "2026-07-06T06:37:00Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7948,7 +7948,7 @@
     "license": "MIT",
     "created_at": "2024-11-12T10:24:21Z",
     "updated_at": "2026-06-22T05:55:27Z",
-    "pushed_at": "2026-07-02T20:09:56Z",
+    "pushed_at": "2026-07-06T02:35:12Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "protomorph/astro-zero": {
@@ -9882,7 +9882,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-07-05T20:55:43Z",
-    "pushed_at": "2026-07-05T20:55:39Z",
+    "pushed_at": "2026-07-06T03:13:38Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10287,7 +10287,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 14,
+    "stars": 15,
     "forks": 6,
     "topics": [
       "astro",
@@ -10304,7 +10304,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-05T21:05:07Z",
+    "updated_at": "2026-07-06T02:06:47Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },

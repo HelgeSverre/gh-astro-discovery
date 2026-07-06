@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 526
-**Last updated:** 2026-07-06T01:01:58.801Z
+**Last updated:** 2026-07-06T07:48:45.480Z
 
 ## 📦 Recently Discovered
 
@@ -44,7 +44,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 286 | Minimal blog theme built with Astro. |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | Inline 🦔 |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 277 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
-| [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 275 | Simple and Elegant Astro Blog Template. |
+| [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 276 | Simple and Elegant Astro Blog Template. |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | A flexible and feature-rich Astro theme for developers and creators. |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 228 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
@@ -59,10 +59,19 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-06 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-06 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 70 | 2026-07-06 | Publish integrations within minutes. |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 151 | 2026-07-06 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [IsTarrie/PaperTheme](https://github.com/IsTarrie/PaperTheme) | 3 | 2026-07-06 | 纸质Astro主题 |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-06 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-06 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-05 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-07-05 | Astro integration that uses existing configuration to write ... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-06 | Convert 🫶🏻 |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-06 | Network 🚠 |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-07-06 | Astro integration that uses existing configuration to write ... |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-06 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-06 | Format 🗻 |
+| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-07-06 | The Astro Supabase starter demonstrates how to integrate Sup... |
 | [richardnbanks/astro-loader-youtube](https://github.com/richardnbanks/astro-loader-youtube) | 4 | 2026-07-05 | This package provides a YouTube video loader for the Astro L... |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-05 | Matomo integration for Astro |
 | [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-07-05 | Automatically add your parameters to external links and URLs... |
@@ -70,15 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-07-05 | Regular integration tests of Coordinated packages with astro... |
 | [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-05 | Simple and cute Standard.site integration for Astro |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-05 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-05 | Convert 🫶🏻 |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-05 | Astro integration for loading fonts into build artifacts wit... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-05 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-05 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-05 | Format 🗻 |
-| [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 52 | 2026-07-05 | Astro Starter Pro: A free, production-ready Astro starter fo... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-04 | An Astro Prometheus nodejs middleware integration for Astro |
-| [arraypress/waveform-bar-astro](https://github.com/arraypress/waveform-bar-astro) | 1 | 2026-07-04 | Astro components for @arraypress/waveform-bar — typed single... |
-| [arraypress/waveform-playlist-astro](https://github.com/arraypress/waveform-playlist-astro) | 0 | 2026-07-04 | Astro component wrapper for @arraypress/waveform-playlist — ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-06T07:48 | 0 | 514 | 526 |
 | 2026-07-06T01:01 | 0 | 514 | 526 |
 | 2026-07-05T18:30 | 0 | 514 | 526 |
 | 2026-07-05T12:37 | 0 | 514 | 526 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-04T12:34 | 0 | 511 | 523 |
 | 2026-07-04T07:10 | 0 | 511 | 523 |
 | 2026-07-04T00:55 | 1 | 510 | 523 |
-| 2026-07-03T18:36 | 0 | 510 | 522 |
 
 ---
 
