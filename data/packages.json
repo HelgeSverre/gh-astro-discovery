@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-03T14:40:01Z",
-    "pushed_at": "2026-07-03T14:39:59Z",
+    "pushed_at": "2026-07-06T13:54:45Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -1134,7 +1134,7 @@
     "name": "louisbrulenaudet/astro-markdown-export",
     "url": "https://github.com/louisbrulenaudet/astro-markdown-export",
     "description": "Enables content negotiation for your blog directly from Astro to make what truly matters available to AI agents 🪵",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "ai-agents",
@@ -1156,7 +1156,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-03-12T19:45:41Z",
-    "updated_at": "2026-04-08T18:36:45Z",
+    "updated_at": "2026-07-06T15:41:14Z",
     "pushed_at": "2026-03-21T09:08:08Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2751,7 +2751,7 @@
     "url": "https://github.com/jdevalk/seo-graph",
     "description": "Agent-ready SEO for JavaScript — schema.org JSON-LD graph builder with an Astro integration.",
     "stars": 40,
-    "forks": 8,
+    "forks": 9,
     "topics": [
       "agent-ready",
       "astro",
@@ -4241,7 +4241,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-07-05T03:38:53Z",
-    "pushed_at": "2026-07-05T03:38:50Z",
+    "pushed_at": "2026-07-06T17:07:06Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -4340,7 +4340,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-06-17T19:37:36Z",
-    "pushed_at": "2026-06-29T15:53:12Z",
+    "pushed_at": "2026-07-06T15:53:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -4460,8 +4460,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-04-13T11:38:01Z",
-    "updated_at": "2026-04-25T18:55:18Z",
-    "pushed_at": "2026-04-22T16:12:28Z",
+    "updated_at": "2026-07-06T16:47:06Z",
+    "pushed_at": "2026-07-06T16:47:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "jcoppede11/jc11-portfolio-dev": {
@@ -5095,8 +5095,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-06T09:30:26Z",
-    "pushed_at": "2026-07-06T09:30:17Z",
+    "updated_at": "2026-07-06T16:23:43Z",
+    "pushed_at": "2026-07-06T16:23:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5246,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-06T12:39:26Z",
-    "pushed_at": "2026-07-06T12:39:19Z",
+    "updated_at": "2026-07-06T18:24:01Z",
+    "pushed_at": "2026-07-06T18:23:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5270,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-06T12:28:50Z",
-    "pushed_at": "2026-07-06T12:28:32Z",
+    "updated_at": "2026-07-06T18:13:24Z",
+    "pushed_at": "2026-07-06T18:13:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -10304,7 +10304,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-06T02:06:47Z",
+    "updated_at": "2026-07-06T14:15:12Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10331,8 +10331,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-30T00:28:13Z",
-    "updated_at": "2026-07-03T10:47:31Z",
-    "pushed_at": "2026-07-03T10:48:00Z",
+    "updated_at": "2026-07-06T17:31:52Z",
+    "pushed_at": "2026-07-06T17:31:45Z",
     "discovered_at": "2026-06-16T01:26:04.667Z"
   },
   "brainweb/astro-payload-live-preview": {
@@ -10380,8 +10380,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-19T19:39:36Z",
-    "updated_at": "2026-07-04T00:25:54Z",
-    "pushed_at": "2026-07-04T00:25:49Z",
+    "updated_at": "2026-07-06T17:32:40Z",
+    "pushed_at": "2026-07-06T17:32:28Z",
     "discovered_at": "2026-06-16T01:26:04.668Z"
   },
   "meno-so/meno-astro": {
