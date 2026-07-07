@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-06T04:03:49Z",
-    "pushed_at": "2026-07-06T04:03:46Z",
+    "updated_at": "2026-07-07T03:54:53Z",
+    "pushed_at": "2026-07-07T03:54:49Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-06T03:32:15Z",
-    "pushed_at": "2026-07-06T03:32:11Z",
+    "updated_at": "2026-07-07T03:22:48Z",
+    "pushed_at": "2026-07-07T03:22:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-06T02:52:53Z",
-    "pushed_at": "2026-07-06T02:52:49Z",
+    "updated_at": "2026-07-07T02:47:19Z",
+    "pushed_at": "2026-07-07T02:47:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-06T02:49:31Z",
-    "pushed_at": "2026-07-06T02:49:27Z",
+    "updated_at": "2026-07-07T02:44:31Z",
+    "pushed_at": "2026-07-07T02:44:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -271,7 +271,7 @@
     "name": "HiDeoo/starlight-package-managers",
     "url": "https://github.com/HiDeoo/starlight-package-managers",
     "description": "Quickly display npm related commands for multiple package managers in your Starlight documentation site",
-    "stars": 41,
+    "stars": 42,
     "forks": 6,
     "topics": [
       "astro-component",
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-28T09:21:42Z",
-    "updated_at": "2026-05-14T09:37:52Z",
+    "updated_at": "2026-07-07T00:59:11Z",
     "pushed_at": "2026-05-14T09:37:48Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -889,7 +889,7 @@
     "name": "frostybee/starlight-announcement",
     "url": "https://github.com/frostybee/starlight-announcement",
     "description": "An Astro Starlight plugin to add custom announcement to your docs.",
-    "stars": 9,
+    "stars": 10,
     "forks": 1,
     "topics": [
       "starlight",
@@ -901,7 +901,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-11T18:13:04Z",
-    "updated_at": "2026-06-22T20:27:21Z",
+    "updated_at": "2026-07-07T01:02:37Z",
     "pushed_at": "2026-04-08T04:04:08Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2377,8 +2377,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-06-11T05:25:22Z",
-    "pushed_at": "2026-06-11T05:25:19Z",
+    "updated_at": "2026-07-07T06:39:51Z",
+    "pushed_at": "2026-07-07T06:39:48Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-html-kit": {
@@ -2399,8 +2399,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:48:36Z",
-    "updated_at": "2026-06-11T04:44:36Z",
-    "pushed_at": "2026-06-11T04:44:33Z",
+    "updated_at": "2026-07-07T05:34:50Z",
+    "pushed_at": "2026-07-07T05:34:48Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-feed-kit": {
@@ -2422,8 +2422,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:46:17Z",
-    "updated_at": "2026-06-11T05:21:52Z",
-    "pushed_at": "2026-06-11T05:21:49Z",
+    "updated_at": "2026-07-07T05:35:46Z",
+    "pushed_at": "2026-07-07T05:35:43Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-mdx-kit": {
@@ -2446,8 +2446,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-23T05:42:13Z",
-    "updated_at": "2026-06-11T04:42:14Z",
-    "pushed_at": "2026-06-11T04:42:12Z",
+    "updated_at": "2026-07-07T05:54:36Z",
+    "pushed_at": "2026-07-07T05:54:33Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-leaflet": {
@@ -3274,7 +3274,7 @@
     "name": "Rettend/starlight-plugin-icons",
     "url": "https://github.com/Rettend/starlight-plugin-icons",
     "description": "Add icons to Astro Starlight: sidebar, codeblocks, filetree",
-    "stars": 17,
+    "stars": 18,
     "forks": 4,
     "topics": [
       "astro",
@@ -3288,7 +3288,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-05T10:48:07Z",
-    "updated_at": "2026-07-03T20:46:00Z",
+    "updated_at": "2026-07-07T01:01:00Z",
     "pushed_at": "2026-02-24T13:09:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-06T22:08:06Z",
-    "pushed_at": "2026-07-06T22:07:59Z",
+    "updated_at": "2026-07-07T06:42:33Z",
+    "pushed_at": "2026-07-07T06:42:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-07T00:04:26Z",
-    "pushed_at": "2026-07-07T00:04:22Z",
+    "updated_at": "2026-07-07T05:32:24Z",
+    "pushed_at": "2026-07-07T05:32:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-06T23:54:14Z",
-    "pushed_at": "2026-07-06T23:54:10Z",
+    "updated_at": "2026-07-07T05:22:02Z",
+    "pushed_at": "2026-07-07T05:21:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5351,7 +5351,7 @@
     "name": "nbakh16/career-portfolio-template",
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
-    "stars": 33,
+    "stars": 34,
     "forks": 23,
     "topics": [
       "astro-theme",
@@ -5369,7 +5369,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T09:13:08Z",
-    "updated_at": "2026-07-05T05:52:46Z",
+    "updated_at": "2026-07-07T05:17:50Z",
     "pushed_at": "2026-05-16T15:25:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5670,8 +5670,8 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 277,
-    "forks": 81,
+    "stars": 278,
+    "forks": 82,
     "topics": [
       "astro",
       "astro-blog",
@@ -5689,7 +5689,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-06-30T20:33:51Z",
+    "updated_at": "2026-07-07T03:45:15Z",
     "pushed_at": "2026-06-24T05:40:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8402,7 +8402,7 @@
     "name": "dlcastillop/starlight-ui-tweaks",
     "url": "https://github.com/dlcastillop/starlight-ui-tweaks",
     "description": "A Starlight plugin that extends core UI components.",
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "topics": [
       "starlight-astro",
@@ -8411,7 +8411,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-14T15:13:45Z",
-    "updated_at": "2026-04-05T17:04:50Z",
+    "updated_at": "2026-07-07T01:02:09Z",
     "pushed_at": "2026-04-04T10:54:52Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -8438,7 +8438,7 @@
     "name": "WindMillCode/starlight-fullview-mode",
     "url": "https://github.com/WindMillCode/starlight-fullview-mode",
     "description": "A minimalist plugin that collapses Starlight's sidebars and expands the main content to full width, creating a distraction-free, fullscreen-like reading experience. Toggle with a single click to focus purely on your content.",
-    "stars": 28,
+    "stars": 29,
     "forks": 3,
     "topics": [
       "astro",
@@ -8453,7 +8453,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-04-05T16:14:59Z",
-    "updated_at": "2026-05-11T12:43:51Z",
+    "updated_at": "2026-07-07T00:59:48Z",
     "pushed_at": "2025-10-04T15:31:54Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -10289,7 +10289,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 15,
+    "stars": 17,
     "forks": 6,
     "topics": [
       "astro",
@@ -10306,7 +10306,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-06T14:15:12Z",
+    "updated_at": "2026-07-07T05:40:32Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -11126,7 +11126,7 @@
     "name": "kpab/astro-haze",
     "url": "https://github.com/kpab/astro-haze",
     "description": "A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, light/dark, and accessibility built in.",
-    "stars": 1,
+    "stars": 2,
     "forks": 2,
     "topics": [
       "astro",
@@ -11143,7 +11143,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
-    "updated_at": "2026-07-03T22:27:24Z",
+    "updated_at": "2026-07-07T07:06:21Z",
     "pushed_at": "2026-06-30T03:43:15Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
@@ -11214,5 +11214,25 @@
     "updated_at": "2026-07-04T16:11:16Z",
     "pushed_at": "2026-07-04T16:10:46Z",
     "discovered_at": "2026-07-04T18:28:30.245Z"
+  },
+  "ezqr-ca/ezqr-astro": {
+    "name": "EZQR-ca/ezqr-astro",
+    "url": "https://github.com/EZQR-ca/ezqr-astro",
+    "description": "Drop-in QR code generator for Astro",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "qr-code",
+      "qr-code-generator",
+      "qr-generator"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-05-15T05:18:40Z",
+    "updated_at": "2026-07-07T04:52:41Z",
+    "pushed_at": "2026-05-15T06:17:59Z",
+    "discovered_at": "2026-07-07T07:23:03.251Z"
   }
 }
