@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-07-02T16:26:25Z",
-    "pushed_at": "2026-07-03T04:46:29Z",
+    "pushed_at": "2026-07-07T12:38:17Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -2768,8 +2768,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-09T07:41:04Z",
-    "updated_at": "2026-06-30T20:46:15Z",
-    "pushed_at": "2026-06-22T11:06:55Z",
+    "updated_at": "2026-07-07T08:56:14Z",
+    "pushed_at": "2026-07-07T08:57:09Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "ezhuk/astro-hash": {
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-07T06:42:33Z",
-    "pushed_at": "2026-07-07T06:42:28Z",
+    "updated_at": "2026-07-07T12:20:50Z",
+    "pushed_at": "2026-07-07T12:20:25Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-07T05:32:24Z",
-    "pushed_at": "2026-07-07T05:32:20Z",
+    "updated_at": "2026-07-07T11:08:36Z",
+    "pushed_at": "2026-07-07T11:08:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-07T05:22:02Z",
-    "pushed_at": "2026-07-07T05:21:59Z",
+    "updated_at": "2026-07-07T10:57:58Z",
+    "pushed_at": "2026-07-07T10:57:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5446,8 +5446,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 143,
-    "forks": 51,
+    "stars": 144,
+    "forks": 52,
     "topics": [
       "astro",
       "astro-theme",
@@ -5462,7 +5462,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-07-05T06:23:31Z",
+    "updated_at": "2026-07-07T10:24:33Z",
     "pushed_at": "2026-06-26T14:40:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5810,7 +5810,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 209,
+    "stars": 210,
     "forks": 40,
     "topics": [
       "astro",
@@ -5824,7 +5824,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-07-05T21:56:20Z",
+    "updated_at": "2026-07-07T08:56:57Z",
     "pushed_at": "2026-06-22T22:08:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5901,7 +5901,7 @@
     "license": "MIT",
     "created_at": "2024-04-24T10:46:27Z",
     "updated_at": "2026-06-30T20:26:03Z",
-    "pushed_at": "2026-06-30T08:23:13Z",
+    "pushed_at": "2026-07-07T10:42:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "gladtek/cooper": {
@@ -10177,7 +10177,7 @@
     "url": "https://github.com/themefisher/dockit-astro",
     "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
     "stars": 53,
-    "forks": 38,
+    "forks": 39,
     "topics": [
       "astro",
       "astro-theme",
@@ -10482,7 +10482,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-06-29T09:11:32Z",
+    "updated_at": "2026-07-07T09:15:09Z",
     "pushed_at": "2026-06-29T09:11:30Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
@@ -10490,7 +10490,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 13,
+    "stars": 14,
     "forks": 6,
     "topics": [
       "astro",
@@ -10503,7 +10503,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-07-05T07:07:28Z",
+    "updated_at": "2026-07-07T09:37:23Z",
     "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
