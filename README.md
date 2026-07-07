@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 527
-**Last updated:** 2026-07-07T12:59:42.568Z
+**Total packages tracked:** 528
+**Last updated:** 2026-07-07T18:49:11.695Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Araluma/astro-font-preload](https://github.com/Araluma/astro-font-preload) | 0 | Astro integration: font + critical-CSS preloads in every built page, plus _heade... |
 | [EZQR-ca/ezqr-astro](https://github.com/EZQR-ca/ezqr-astro) | 0 | Drop-in QR code generator for Astro |
 | [TechDocsStudio/starlight-biel](https://github.com/TechDocsStudio/starlight-biel) | 0 | AI chatbot plugin for Starlight. |
 | [TechDocsStudio/astro-biel](https://github.com/TechDocsStudio/astro-biel) | 0 | AI chatbot integration for Astro. |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [theisel/astro-toc](https://github.com/theisel/astro-toc) | 25 | A flexible Table of Contents (ToC) generator component for Astro. Perfect for bl... |
 | [florian-lefebvre/qr-generator](https://github.com/florian-lefebvre/qr-generator) | 3 | Generate unlimited QR Codes with ease for free |
 | [ArifRabbaniIn/astro-package-template](https://github.com/ArifRabbaniIn/astro-package-template) | 1 | A ready to use template for developing Astro package |
-| [TheOtterlord/starlight-theme-template](https://github.com/TheOtterlord/starlight-theme-template) | 4 | Create and publish your own Starlight theme! |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -44,7 +44,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 286 | Minimal blog theme built with Astro. |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | Inline 🦔 |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 278 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
-| [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 276 | Simple and Elegant Astro Blog Template. |
+| [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 275 | Simple and Elegant Astro Blog Template. |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | A flexible and feature-rich Astro theme for developers and creators. |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 228 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-07 | Create a new top-notch astro boilerplate to kick of your nex... |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-07 | Astro Integration to generate a customizable table of conten... |
+| [adamhl8/astro-validate-env](https://github.com/adamhl8/astro-validate-env) | 3 | 2026-07-07 | A environment variable validation integration for Astro |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-07 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 6 | 2026-07-07 | A lightweight, zero-dependency cookie consent toolkit for GD... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-07 | Documentation for Azion's services and features. |
+| [Araluma/astro-font-preload](https://github.com/Araluma/astro-font-preload) | 0 | 2026-07-07 | Astro integration: font + critical-CSS preloads in every bui... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-07 | Astro integration for loading fonts into build artifacts wit... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-07 | An Astro Prometheus nodejs middleware integration for Astro |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-07 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-07 | Astro starter template for Cloudflare Workers with Svelte, T... |
+| [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-07-07 | Astro components and integration for managing page head meta... |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 151 | 2026-07-07 | Open-source Astro website template with TailwindCSS, Keystat... |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | 2026-07-07 | A flexible and feature-rich Astro theme for developers and c... |
 | [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 40 | 2026-07-07 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
 | [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 3 | 2026-07-07 | Astro components for images and video. |
 | [kitschpatrol/astro-mdx-kit](https://github.com/kitschpatrol/astro-mdx-kit) | 3 | 2026-07-07 | Astro integration for MDX directive-to-component mapping, el... |
 | [kitschpatrol/astro-feed-kit](https://github.com/kitschpatrol/astro-feed-kit) | 5 | 2026-07-07 | Astro integration for full-content RSS, Atom, and JSON feeds... |
 | [kitschpatrol/astro-html-kit](https://github.com/kitschpatrol/astro-html-kit) | 2 | 2026-07-07 | Astro integration and middleware to clean up your HTML. |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-07 | Convert 🫶🏻 |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-07 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-07 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-07 | Format 🗻 |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-07 | Astro integration for loading fonts into build artifacts wit... |
-| [nooniwa/nooniwa](https://github.com/nooniwa/nooniwa) | 0 | 2026-07-07 | nooniwa is an Astro theme (Astro integration) for digital ga... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-06 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-06 | Create a new top-notch astro boilerplate to kick of your nex... |
-| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 70 | 2026-07-06 | 📈 Astro integration to add Umami Analytics to your website |
-| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-07-06 | A simple, minimal style, framework free Astro blog starter t... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-07T18:49 | 1 | 514 | 528 |
 | 2026-07-07T12:59 | 0 | 514 | 527 |
 | 2026-07-07T07:23 | 1 | 513 | 527 |
 | 2026-07-07T00:59 | 0 | 513 | 526 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-06T01:01 | 0 | 514 | 526 |
 | 2026-07-05T18:30 | 0 | 514 | 526 |
 | 2026-07-05T12:37 | 0 | 514 | 526 |
-| 2026-07-05T07:16 | 0 | 514 | 526 |
 
 ---
 
