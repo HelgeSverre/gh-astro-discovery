@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 526
-**Last updated:** 2026-07-06T18:46:23.538Z
+**Last updated:** 2026-07-07T00:59:33.719Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-06 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-07 | Astro integration for loading fonts into build artifacts wit... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [nooniwa/nooniwa](https://github.com/nooniwa/nooniwa) | 0 | 2026-07-07 | nooniwa is an Astro theme (Astro integration) for digital ga... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-06 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-06 | Astro starter template for Cloudflare Workers with Svelte, T... |
-| [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-07-06 | Astro components and integration for managing page head meta... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-06 | Astro integration for loading fonts into build artifacts wit... |
-| [kovymun/astro-logo-ticker](https://github.com/kovymun/astro-logo-ticker) | 0 | 2026-07-06 | Astro | TypeScript | CSS: Responsive Logo Ticker component t... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-06 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-06 | Create a new top-notch astro boilerplate to kick of your nex... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-06 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-07-06 | in Astro - as a plugin - get the github api |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-06 | Documentation for Azion's services and features. |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-06 | An Astro Prometheus nodejs middleware integration for Astro |
+| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 70 | 2026-07-06 | 📈 Astro integration to add Umami Analytics to your website |
+| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-07-06 | A simple, minimal style, framework free Astro blog starter t... |
 | [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-07-06 | A framework free Astro starter template |
 | [protomorph/astro-zero](https://github.com/protomorph/astro-zero) | 8 | 2026-07-06 | A zero styling, simple, Astro blog starter template. |
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-06 | Documentation for Azion's services and features. |
+| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-06 | Astro starter template for Cloudflare Workers with Svelte, T... |
+| [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-07-06 | Astro components and integration for managing page head meta... |
+| [kovymun/astro-logo-ticker](https://github.com/kovymun/astro-logo-ticker) | 0 | 2026-07-06 | Astro | TypeScript | CSS: Responsive Logo Ticker component t... |
+| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-07-06 | in Astro - as a plugin - get the github api |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-06 | An Astro Prometheus nodejs middleware integration for Astro |
 | [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 151 | 2026-07-06 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-07-06 | A simple, minimal style, framework free Astro blog starter t... |
 | [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-06 | Matomo integration for Astro |
 | [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-07-06 | The Astro Supabase starter demonstrates how to integrate Sup... |
-| [IsTarrie/PaperTheme](https://github.com/IsTarrie/PaperTheme) | 3 | 2026-07-06 | 纸质Astro主题 |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-06 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 70 | 2026-07-06 | Publish integrations within minutes. |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-06 | Convert 🫶🏻 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-07T00:59 | 0 | 513 | 526 |
 | 2026-07-06T18:46 | 0 | 513 | 526 |
 | 2026-07-06T13:26 | 0 | 513 | 526 |
 | 2026-07-06T07:48 | 0 | 514 | 526 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-05T07:16 | 0 | 514 | 526 |
 | 2026-07-05T01:01 | 0 | 514 | 526 |
 | 2026-07-04T18:28 | 3 | 511 | 526 |
-| 2026-07-04T12:34 | 0 | 511 | 523 |
 
 ---
 

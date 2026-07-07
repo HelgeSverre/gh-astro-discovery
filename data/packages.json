@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-03T14:40:01Z",
-    "pushed_at": "2026-07-06T13:54:45Z",
+    "pushed_at": "2026-07-06T18:49:46Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-05T05:42:02Z",
-    "pushed_at": "2026-07-05T05:42:55Z",
+    "updated_at": "2026-07-06T23:26:29Z",
+    "pushed_at": "2026-07-06T23:26:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -850,7 +850,7 @@
     "name": "frostybee/starlight-tags",
     "url": "https://github.com/frostybee/starlight-tags",
     "description": "A plugin to add tags to your Starlight docs for content organization and discovery.",
-    "stars": 13,
+    "stars": 14,
     "forks": 1,
     "topics": [
       "astro",
@@ -861,7 +861,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-09-14T04:01:18Z",
-    "updated_at": "2026-04-09T04:01:55Z",
+    "updated_at": "2026-07-07T00:45:14Z",
     "pushed_at": "2026-04-09T04:02:13Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1134,7 +1134,7 @@
     "name": "louisbrulenaudet/astro-markdown-export",
     "url": "https://github.com/louisbrulenaudet/astro-markdown-export",
     "description": "Enables content negotiation for your blog directly from Astro to make what truly matters available to AI agents 🪵",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "ai-agents",
@@ -1156,7 +1156,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-03-12T19:45:41Z",
-    "updated_at": "2026-07-06T15:41:14Z",
+    "updated_at": "2026-07-06T23:38:08Z",
     "pushed_at": "2026-03-21T09:08:08Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2697,7 +2697,7 @@
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
     "updated_at": "2026-07-02T07:40:17Z",
-    "pushed_at": "2026-06-29T21:44:12Z",
+    "pushed_at": "2026-07-06T21:44:38Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/astro-i18n-aut": {
@@ -3562,15 +3562,17 @@
     "forks": 0,
     "topics": [
       "astro",
+      "astro-component",
       "astro-integration",
       "env",
-      "environment",
-      "environment-variables"
+      "environment-variables",
+      "utility",
+      "withastro"
     ],
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-11T22:28:10Z",
-    "updated_at": "2025-09-29T16:35:37Z",
+    "updated_at": "2026-07-06T20:22:14Z",
     "pushed_at": "2025-09-29T16:35:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4240,8 +4242,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-07-05T03:38:53Z",
-    "pushed_at": "2026-07-06T17:07:06Z",
+    "updated_at": "2026-07-07T00:17:53Z",
+    "pushed_at": "2026-07-07T00:18:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -4270,7 +4272,7 @@
     "name": "HiDeoo/starlight-showcases",
     "url": "https://github.com/HiDeoo/starlight-showcases",
     "description": "Set of Starlight components to author showcase pages",
-    "stars": 50,
+    "stars": 51,
     "forks": 2,
     "topics": [
       "astro",
@@ -4283,7 +4285,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-05-24T12:55:44Z",
-    "updated_at": "2026-05-22T19:11:12Z",
+    "updated_at": "2026-07-07T00:58:40Z",
     "pushed_at": "2026-05-13T14:02:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5095,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-06T16:23:43Z",
-    "pushed_at": "2026-07-06T16:23:38Z",
+    "updated_at": "2026-07-06T22:08:06Z",
+    "pushed_at": "2026-07-06T22:07:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5246,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-06T18:24:01Z",
-    "pushed_at": "2026-07-06T18:23:57Z",
+    "updated_at": "2026-07-07T00:04:26Z",
+    "pushed_at": "2026-07-07T00:04:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5270,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-06T18:13:24Z",
-    "pushed_at": "2026-07-06T18:13:21Z",
+    "updated_at": "2026-07-06T23:54:14Z",
+    "pushed_at": "2026-07-06T23:54:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5732,8 +5734,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-01-02T19:03:05Z",
-    "updated_at": "2026-06-03T13:12:02Z",
-    "pushed_at": "2026-07-06T11:06:27Z",
+    "updated_at": "2026-07-06T18:54:57Z",
+    "pushed_at": "2026-07-06T18:58:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astro-vanilla": {
@@ -5757,8 +5759,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-10-12T20:53:01Z",
-    "updated_at": "2026-05-04T12:50:37Z",
-    "pushed_at": "2026-07-06T10:05:19Z",
+    "updated_at": "2026-07-06T18:56:33Z",
+    "pushed_at": "2026-07-06T18:59:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "ziteh/astro-theme-jing": {
@@ -7971,8 +7973,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2024-07-15T00:42:36Z",
-    "updated_at": "2026-05-04T14:36:45Z",
-    "pushed_at": "2026-07-06T11:05:03Z",
+    "updated_at": "2026-07-06T18:55:26Z",
+    "pushed_at": "2026-07-06T18:58:01Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astrostarters/astro-blank": {
@@ -8362,7 +8364,7 @@
     "name": "dlcastillop/starlight-page-actions",
     "url": "https://github.com/dlcastillop/starlight-page-actions",
     "description": "A Starlight plugin that adds page action buttons to your documentation.",
-    "stars": 16,
+    "stars": 17,
     "forks": 0,
     "topics": [
       "starlight-astro",
@@ -8371,7 +8373,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-10-25T14:16:51Z",
-    "updated_at": "2026-06-27T11:23:49Z",
+    "updated_at": "2026-07-07T00:44:24Z",
     "pushed_at": "2026-06-30T15:07:07Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -10097,7 +10099,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 33,
-    "forks": 18,
+    "forks": 17,
     "topics": [
       "astro",
       "astro-template",
@@ -10531,7 +10533,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "astro",
@@ -10549,7 +10551,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-04T07:33:16Z",
+    "updated_at": "2026-07-06T20:45:59Z",
     "pushed_at": "2026-06-28T00:33:11Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
@@ -10576,8 +10578,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-30T10:07:29Z",
-    "updated_at": "2026-06-28T01:12:41Z",
-    "pushed_at": "2026-06-28T00:24:23Z",
+    "updated_at": "2026-07-07T00:04:18Z",
+    "pushed_at": "2026-07-07T00:04:14Z",
     "discovered_at": "2026-06-27T12:40:15.500Z"
   },
   "alex-on-ai/astroblog": {
@@ -10607,7 +10609,7 @@
     "name": "ewels/starlight-quiz",
     "url": "https://github.com/ewels/starlight-quiz",
     "description": "",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -10623,7 +10625,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-06-30T09:01:26Z",
+    "updated_at": "2026-07-06T20:18:42Z",
     "pushed_at": "2026-06-30T09:37:35Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
@@ -10699,8 +10701,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-07-02T18:45:46Z",
-    "pushed_at": "2026-07-02T18:45:39Z",
+    "updated_at": "2026-07-06T23:06:38Z",
+    "pushed_at": "2026-07-06T23:06:34Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
