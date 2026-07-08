@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 529
-**Last updated:** 2026-07-08T07:00:50.258Z
+**Total packages tracked:** 530
+**Last updated:** 2026-07-08T12:44:19.080Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 |  |
 | [skywalker23241/abo-astro-blog-theme](https://github.com/skywalker23241/abo-astro-blog-theme) | 0 | A simple Astro Blog temple/theme, enjoy. |
 | [Araluma/astro-font-preload](https://github.com/Araluma/astro-font-preload) | 0 | Astro integration: font + critical-CSS preloads in every built page, plus _heade... |
 | [EZQR-ca/ezqr-astro](https://github.com/EZQR-ca/ezqr-astro) | 0 | Drop-in QR code generator for Astro |
@@ -28,14 +29,13 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [pricci1/gh-discussions-astro](https://github.com/pricci1/gh-discussions-astro) | 1 |  |
 | [HeJimenez00/ButterUI](https://github.com/HeJimenez00/ButterUI) | 3 | Catalog of UI components as smooth as butter: soft, fluid, and designed for deve... |
 | [theisel/astro-toc](https://github.com/theisel/astro-toc) | 25 | A flexible Table of Contents (ToC) generator component for Astro. Perfect for bl... |
-| [florian-lefebvre/qr-generator](https://github.com/florian-lefebvre/qr-generator) | 3 | Generate unlimited QR Codes with ease for free |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 500 | Dante, a single-author blog and portfolio theme for Astro.js.  |
-| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 398 | Dark-themed website template built on Astro and Tailwind CSS |
+| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 399 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 382 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 310 | Zero-config PWA Integration for Astro |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 307 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-08 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-08 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-08 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | 2026-07-08 | A flexible and feature-rich Astro theme for developers and c... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-08 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-07-08 | The global variable integration for Astro 🌐 |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-08 | An Astro Prometheus nodejs middleware integration for Astro |
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-08 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-07-08 | The i18n integration for Astro 🧑‍🚀 |
+| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 | 2026-07-08 |  |
+| [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 41 | 2026-07-08 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
+| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-07-08 | Port of Split template by One Page Love to Astro 👨‍🚀 |
 | [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | 2026-07-08 | Astro integration for UniRate — build-time currency exchange... |
 | [EfrainTorres/mimsy-cms](https://github.com/EfrainTorres/mimsy-cms) | 1 | 2026-07-08 | Git-based CMS for Astro 5 — WYSIWYG editor, schema-driven fo... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-08 | An Astro Prometheus nodejs middleware integration for Astro |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-08 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-08 | Convert 🫶🏻 |
 | [TencentEdgeOne/astro-adapter](https://github.com/TencentEdgeOne/astro-adapter) | 2 | 2026-07-08 | Official Astro adapter for deploying SSR, SSG, and hybrid si... |
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-08 | Network 🚠 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-08 | Inline 🦔 |
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-08 | Format 🗻 |
 | [skywalker23241/abo-astro-blog-theme](https://github.com/skywalker23241/abo-astro-blog-theme) | 0 | 2026-07-08 | A simple Astro Blog temple/theme, enjoy. |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | 2026-07-08 | A flexible and feature-rich Astro theme for developers and c... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-08 | Documentation for Azion's services and features. |
-| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 3 | 2026-07-07 | Astro components for images and video. |
-| [kitschpatrol/astro-mdx-kit](https://github.com/kitschpatrol/astro-mdx-kit) | 3 | 2026-07-07 | Astro integration for MDX directive-to-component mapping, el... |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-07 | This Astro component simplifies the process of adding moneti... |
-| [CloudCannon/jetstream-astro-template](https://github.com/CloudCannon/jetstream-astro-template) | 9 | 2026-07-07 | A polished Astro template built on the Component Starter, de... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-07-07 | Loaders for Astro's Content Layer |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-08T12:44 | 1 | 516 | 530 |
 | 2026-07-08T07:00 | 1 | 515 | 529 |
 | 2026-07-08T00:50 | 0 | 515 | 528 |
 | 2026-07-07T18:49 | 1 | 514 | 528 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-06T18:46 | 0 | 513 | 526 |
 | 2026-07-06T13:26 | 0 | 513 | 526 |
 | 2026-07-06T07:48 | 0 | 514 | 526 |
-| 2026-07-06T01:01 | 0 | 514 | 526 |
 
 ---
 
