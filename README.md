@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 528
-**Last updated:** 2026-07-07T18:49:11.695Z
+**Last updated:** 2026-07-08T00:50:18.396Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-07 | Create a new top-notch astro boilerplate to kick of your nex... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-07 | Astro Integration to generate a customizable table of conten... |
-| [adamhl8/astro-validate-env](https://github.com/adamhl8/astro-validate-env) | 3 | 2026-07-07 | A environment variable validation integration for Astro |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-07 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 6 | 2026-07-07 | A lightweight, zero-dependency cookie consent toolkit for GD... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-07 | Documentation for Azion's services and features. |
-| [Araluma/astro-font-preload](https://github.com/Araluma/astro-font-preload) | 0 | 2026-07-07 | Astro integration: font + critical-CSS preloads in every bui... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-07 | Astro integration for loading fonts into build artifacts wit... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-07 | An Astro Prometheus nodejs middleware integration for Astro |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-07 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-07 | Astro starter template for Cloudflare Workers with Svelte, T... |
-| [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-07-07 | Astro components and integration for managing page head meta... |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 151 | 2026-07-07 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | 2026-07-07 | A flexible and feature-rich Astro theme for developers and c... |
-| [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 40 | 2026-07-07 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-08 | Documentation for Azion's services and features. |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-08 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 3 | 2026-07-07 | Astro components for images and video. |
 | [kitschpatrol/astro-mdx-kit](https://github.com/kitschpatrol/astro-mdx-kit) | 3 | 2026-07-07 | Astro integration for MDX directive-to-component mapping, el... |
-| [kitschpatrol/astro-feed-kit](https://github.com/kitschpatrol/astro-feed-kit) | 5 | 2026-07-07 | Astro integration for full-content RSS, Atom, and JSON feeds... |
-| [kitschpatrol/astro-html-kit](https://github.com/kitschpatrol/astro-html-kit) | 2 | 2026-07-07 | Astro integration and middleware to clean up your HTML. |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-07 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-07 | This Astro component simplifies the process of adding moneti... |
+| [CloudCannon/jetstream-astro-template](https://github.com/CloudCannon/jetstream-astro-template) | 9 | 2026-07-07 | A polished Astro template built on the Component Starter, de... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-07-07 | Loaders for Astro's Content Layer |
+| [adamhl8/astro-validate-env](https://github.com/adamhl8/astro-validate-env) | 3 | 2026-07-07 | A environment variable validation integration for Astro |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-07 | Simple and cute Standard.site integration for Astro |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-07-07 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [Peltmonger/create-stardrive](https://github.com/Peltmonger/create-stardrive) | 0 | 2026-07-07 | Create a new top-notch astro boilerplate to kick of your nex... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-07 | Astro Integration to generate a customizable table of conten... |
+| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 6 | 2026-07-07 | A lightweight, zero-dependency cookie consent toolkit for GD... |
+| [Araluma/astro-font-preload](https://github.com/Araluma/astro-font-preload) | 0 | 2026-07-07 | Astro integration: font + critical-CSS preloads in every bui... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-07 | Astro integration for loading fonts into build artifacts wit... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-07 | An Astro Prometheus nodejs middleware integration for Astro |
+| [Xeffen25/eminence-astro-starter](https://github.com/Xeffen25/eminence-astro-starter) | 1 | 2026-07-07 | Astro starter template for Cloudflare Workers with Svelte, T... |
+| [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-07-07 | Astro components and integration for managing page head meta... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-08T00:50 | 0 | 515 | 528 |
 | 2026-07-07T18:49 | 1 | 514 | 528 |
 | 2026-07-07T12:59 | 0 | 514 | 527 |
 | 2026-07-07T07:23 | 1 | 513 | 527 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-06T07:48 | 0 | 514 | 526 |
 | 2026-07-06T01:01 | 0 | 514 | 526 |
 | 2026-07-05T18:30 | 0 | 514 | 526 |
-| 2026-07-05T12:37 | 0 | 514 | 526 |
 
 ---
 

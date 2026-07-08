@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-07-07T13:39:24Z",
-    "pushed_at": "2026-07-07T17:48:22Z",
+    "updated_at": "2026-07-07T18:50:00Z",
+    "pushed_at": "2026-07-08T00:12:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-06-27T21:05:54Z",
+    "pushed_at": "2026-07-07T20:50:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 36,
+    "stars": 35,
     "forks": 4,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-07-02T14:37:44Z",
+    "updated_at": "2026-07-07T20:12:43Z",
     "pushed_at": "2026-06-23T05:40:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-06-23T01:45:36Z",
-    "pushed_at": "2026-07-04T14:07:29Z",
+    "pushed_at": "2026-07-07T19:59:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -1113,7 +1113,7 @@
     "url": "https://github.com/withstudiocms/ui",
     "description": "The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.",
     "stars": 67,
-    "forks": 8,
+    "forks": 9,
     "topics": [
       "astro",
       "hacktoberfest",
@@ -2377,8 +2377,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-07-07T06:39:51Z",
-    "pushed_at": "2026-07-07T06:39:48Z",
+    "updated_at": "2026-07-07T23:46:13Z",
+    "pushed_at": "2026-07-07T23:46:10Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-html-kit": {
@@ -2446,8 +2446,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-23T05:42:13Z",
-    "updated_at": "2026-07-07T05:54:36Z",
-    "pushed_at": "2026-07-07T05:54:33Z",
+    "updated_at": "2026-07-07T23:33:31Z",
+    "pushed_at": "2026-07-07T23:33:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-leaflet": {
@@ -2594,7 +2594,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 92,
+    "stars": 93,
     "forks": 27,
     "topics": [
       "aeo",
@@ -2616,7 +2616,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-07-06T07:49:18Z",
+    "updated_at": "2026-07-07T20:48:03Z",
     "pushed_at": "2026-06-26T10:32:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3572,8 +3572,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-11T22:28:10Z",
-    "updated_at": "2026-07-07T18:24:38Z",
-    "pushed_at": "2026-07-07T18:24:23Z",
+    "updated_at": "2026-07-07T20:40:32Z",
+    "pushed_at": "2026-07-07T20:40:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "bl4cky99/astro-create-portal": {
@@ -4361,7 +4361,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-01-09T23:55:15Z",
-    "pushed_at": "2026-07-02T22:12:31Z",
+    "pushed_at": "2026-07-07T22:17:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-07T18:22:48Z",
-    "pushed_at": "2026-07-07T18:22:41Z",
+    "updated_at": "2026-07-08T00:01:01Z",
+    "pushed_at": "2026-07-08T00:00:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-07T17:04:20Z",
-    "pushed_at": "2026-07-07T17:03:55Z",
+    "updated_at": "2026-07-07T22:52:58Z",
+    "pushed_at": "2026-07-07T22:52:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-07T16:52:19Z",
-    "pushed_at": "2026-07-07T16:52:09Z",
+    "updated_at": "2026-07-07T22:41:54Z",
+    "pushed_at": "2026-07-07T22:41:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5417,8 +5417,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
-    "updated_at": "2026-06-27T14:37:43Z",
-    "pushed_at": "2026-05-18T21:35:39Z",
+    "updated_at": "2026-07-07T21:21:55Z",
+    "pushed_at": "2026-07-07T21:21:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "louisescher/spectre": {
@@ -5671,7 +5671,7 @@
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
     "stars": 278,
-    "forks": 82,
+    "forks": 81,
     "topics": [
       "astro",
       "astro-blog",
@@ -6304,7 +6304,7 @@
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
     "stars": 166,
-    "forks": 30,
+    "forks": 31,
     "topics": [
       "astro",
       "astro-template",
@@ -6436,7 +6436,7 @@
     "url": "https://github.com/IMMINJU/astro-theme-chapterlog",
     "description": "An Astro theme for building your personal bookshelf — organize books by chapter with a clean wiki-style layout.",
     "stars": 5,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-theme",
@@ -10281,15 +10281,15 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-07-05T05:51:29Z",
-    "pushed_at": "2026-07-05T05:51:25Z",
+    "updated_at": "2026-07-07T20:08:26Z",
+    "pushed_at": "2026-07-07T20:08:23Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 17,
+    "stars": 18,
     "forks": 6,
     "topics": [
       "astro",
@@ -10306,7 +10306,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-07T05:40:32Z",
+    "updated_at": "2026-07-07T20:40:07Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10428,7 +10428,7 @@
     "name": "elstron/astro-search",
     "url": "https://github.com/elstron/astro-search",
     "description": "astro-search is an Astro integration that generates a static search index at build time and exposes a ready-to-use search component for static sites.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -10440,7 +10440,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T19:29:55Z",
-    "updated_at": "2026-07-02T12:10:24Z",
+    "updated_at": "2026-07-07T23:39:52Z",
     "pushed_at": "2026-06-16T21:00:45Z",
     "discovered_at": "2026-06-17T01:22:34.060Z"
   },
@@ -10533,7 +10533,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "astro",
@@ -10551,7 +10551,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-06T20:45:59Z",
+    "updated_at": "2026-07-07T19:55:07Z",
     "pushed_at": "2026-06-28T00:33:11Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
@@ -10701,8 +10701,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-07-07T18:47:43Z",
-    "pushed_at": "2026-07-07T18:48:31Z",
+    "updated_at": "2026-07-07T19:56:55Z",
+    "pushed_at": "2026-07-07T19:56:50Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
