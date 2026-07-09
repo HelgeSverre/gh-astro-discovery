@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-08T21:59:17Z",
-    "pushed_at": "2026-07-09T12:49:37Z",
+    "pushed_at": "2026-07-09T17:42:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -2616,8 +2616,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-07-08T14:47:59Z",
-    "pushed_at": "2026-06-26T10:32:20Z",
+    "updated_at": "2026-07-09T17:56:19Z",
+    "pushed_at": "2026-07-09T17:55:42Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "avgvstvs96/astro-fouc-killer": {
@@ -2895,7 +2895,7 @@
     "name": "pascal-brand38/astro-swiper",
     "url": "https://github.com/pascal-brand38/astro-swiper",
     "description": "Astro component for swiper, dedicated to slider / carousel / photo swiper / slide. ⭐️ Star to support",
-    "stars": 29,
+    "stars": 30,
     "forks": 2,
     "topics": [
       "astro",
@@ -2908,7 +2908,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-07-05T04:26:15Z",
+    "updated_at": "2026-07-09T13:34:32Z",
     "pushed_at": "2026-06-27T17:35:54Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4242,8 +4242,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-07-07T00:17:53Z",
-    "pushed_at": "2026-07-07T17:11:10Z",
+    "updated_at": "2026-07-09T13:22:51Z",
+    "pushed_at": "2026-07-09T13:22:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-09T10:18:04Z",
-    "pushed_at": "2026-07-09T10:17:57Z",
+    "updated_at": "2026-07-09T15:46:54Z",
+    "pushed_at": "2026-07-09T15:46:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,15 +5272,15 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-09T13:14:04Z",
-    "pushed_at": "2026-07-09T13:13:43Z",
+    "updated_at": "2026-07-09T15:37:48Z",
+    "pushed_at": "2026-07-09T15:35:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
     "name": "netlify-templates/astro-platform-starter",
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
-    "stars": 151,
+    "stars": 152,
     "forks": 533,
     "topics": [
       "astro-template",
@@ -5293,7 +5293,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-07-06T10:49:59Z",
+    "updated_at": "2026-07-09T13:49:30Z",
     "pushed_at": "2026-07-06T10:49:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5352,7 +5352,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 34,
-    "forks": 23,
+    "forks": 24,
     "topics": [
       "astro-theme",
       "contribute",
@@ -5538,7 +5538,7 @@
     "name": "the3ash/astro-chiri",
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
-    "stars": 289,
+    "stars": 290,
     "forks": 96,
     "topics": [
       "astro",
@@ -5553,7 +5553,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-07-09T09:13:14Z",
+    "updated_at": "2026-07-09T15:40:54Z",
     "pushed_at": "2026-06-23T06:13:37Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5710,7 +5710,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-07-03T22:58:18Z",
-    "pushed_at": "2026-07-08T17:03:11Z",
+    "pushed_at": "2026-07-09T18:33:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5851,7 +5851,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2025-08-20T04:14:02Z",
-    "pushed_at": "2026-07-08T16:39:08Z",
+    "pushed_at": "2026-07-09T18:36:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -9821,8 +9821,8 @@
     "name": "hanityx/astro-tone",
     "url": "https://github.com/hanityx/astro-tone",
     "description": "A minimal Astro theme for blogs, notes, and quiet publishing.",
-    "stars": 18,
-    "forks": 6,
+    "stars": 19,
+    "forks": 7,
     "topics": [
       "astro",
       "astro-blog",
@@ -9837,7 +9837,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-02-14T14:50:50Z",
-    "updated_at": "2026-07-04T09:02:29Z",
+    "updated_at": "2026-07-09T13:56:21Z",
     "pushed_at": "2026-06-16T17:53:36Z",
     "discovered_at": "2026-05-25T01:15:28.608Z"
   },
@@ -10099,7 +10099,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 35,
-    "forks": 18,
+    "forks": 19,
     "topics": [
       "astro",
       "astro-template",
@@ -10281,15 +10281,15 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-07-09T00:45:28Z",
-    "pushed_at": "2026-07-09T00:45:36Z",
+    "updated_at": "2026-07-09T18:21:30Z",
+    "pushed_at": "2026-07-09T18:26:02Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 20,
+    "stars": 21,
     "forks": 7,
     "topics": [
       "astro",
@@ -10306,7 +10306,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-08T23:21:05Z",
+    "updated_at": "2026-07-09T16:23:44Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10490,7 +10490,7 @@
     "name": "andreialba/quietpages",
     "url": "https://github.com/andreialba/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 14,
+    "stars": 15,
     "forks": 6,
     "topics": [
       "astro",
@@ -10503,7 +10503,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-07-07T09:37:23Z",
+    "updated_at": "2026-07-09T14:34:11Z",
     "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-06-19T18:48:07.904Z"
   },
@@ -10701,8 +10701,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-07-09T09:41:46Z",
-    "pushed_at": "2026-07-09T09:56:20Z",
+    "updated_at": "2026-07-09T17:38:00Z",
+    "pushed_at": "2026-07-09T17:38:28Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
@@ -11346,8 +11346,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-23T08:52:41Z",
-    "updated_at": "2026-07-09T10:37:57Z",
-    "pushed_at": "2026-07-09T09:20:55Z",
+    "updated_at": "2026-07-09T13:17:01Z",
+    "pushed_at": "2026-07-09T13:16:37Z",
     "discovered_at": "2026-07-09T13:16:41.894Z"
   }
 }
