@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 530
-**Last updated:** 2026-07-08T18:37:42.393Z
+**Total packages tracked:** 532
+**Last updated:** 2026-07-09T00:55:22.686Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [adkinn/astro-ai-readiness](https://github.com/adkinn/astro-ai-readiness) | 1 | AI Readiness toolkit for Astro — generates llms.txt, agents.md, .well-known/mcp.... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 3 | Framework-agnostic interactive component anatomy for design system docs — annota... |
 | [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 |  |
 | [skywalker23241/abo-astro-blog-theme](https://github.com/skywalker23241/abo-astro-blog-theme) | 0 | A simple Astro Blog temple/theme, enjoy. |
 | [Araluma/astro-font-preload](https://github.com/Araluma/astro-font-preload) | 0 | Astro integration: font + critical-CSS preloads in every built page, plus _heade... |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Zastinian/astro-bun](https://github.com/Zastinian/astro-bun) | 11 | Supercharge your Astro projects with the power of Bun! 🌟 - Bun Adapter |
 | [maxnatamo/maxnatamo](https://github.com/maxnatamo/maxnatamo) | 2 | Just my own little place on the internet. |
 | [pricci1/gh-discussions-astro](https://github.com/pricci1/gh-discussions-astro) | 1 |  |
-| [HeJimenez00/ButterUI](https://github.com/HeJimenez00/ButterUI) | 3 | Catalog of UI components as smooth as butter: soft, fluid, and designed for deve... |
-| [theisel/astro-toc](https://github.com/theisel/astro-toc) | 25 | A flexible Table of Contents (ToC) generator component for Astro. Perfect for bl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-07-08 | The global variable integration for Astro 🌐 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-08 | Format 🗻 |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-09 | Simple and cute Standard.site integration for Astro |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-09 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-08 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-08 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [EfrainTorres/mimsy-cms](https://github.com/EfrainTorres/mimsy-cms) | 1 | 2026-07-08 | Git-based CMS for Astro 5 — WYSIWYG editor, schema-driven fo... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-08 | Documentation for Azion's services and features. |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 3 | 2026-07-08 | Framework-agnostic interactive component anatomy for design ... |
+| [adkinn/astro-ai-readiness](https://github.com/adkinn/astro-ai-readiness) | 1 | 2026-07-08 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
+| [jonasfroeller/astro.image.lightbox](https://github.com/jonasfroeller/astro.image.lightbox) | 4 | 2026-07-08 | An Astro component for photoswipe's lightbox. |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-08 | This Astro component simplifies the process of adding moneti... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-08 | An Astro Prometheus nodejs middleware integration for Astro |
+| [jonasfroeller/astro.async.loader](https://github.com/jonasfroeller/astro.async.loader) | 0 | 2026-07-08 | An Astro component that shows a loader while iframe is loadi... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-08 | Astro Integration to generate a customizable table of conten... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-08 | Matomo integration for Astro |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-07-08 | The global variable integration for Astro 🌐 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-08 | Format 🗻 |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-07-08 | The i18n integration for Astro 🧑‍🚀 |
 | [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-07-08 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 0 | 2026-07-08 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-08 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-08 | Documentation for Azion's services and features. |
 | [velohost/astro-indexnow](https://github.com/velohost/astro-indexnow) | 11 | 2026-07-08 | Astro integration that submits all built pages to IndexNow a... |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 259 | 2026-07-08 | A flexible and feature-rich Astro theme for developers and c... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-08 | An Astro Prometheus nodejs middleware integration for Astro |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-08 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 | 2026-07-08 |  |
-| [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 41 | 2026-07-08 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
-| [UniRate-API/astro-unirate](https://github.com/UniRate-API/astro-unirate) | 0 | 2026-07-08 | Astro integration for UniRate — build-time currency exchange... |
-| [EfrainTorres/mimsy-cms](https://github.com/EfrainTorres/mimsy-cms) | 1 | 2026-07-08 | Git-based CMS for Astro 5 — WYSIWYG editor, schema-driven fo... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-08 | Convert 🫶🏻 |
-| [TencentEdgeOne/astro-adapter](https://github.com/TencentEdgeOne/astro-adapter) | 2 | 2026-07-08 | Official Astro adapter for deploying SSR, SSG, and hybrid si... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-08 | Network 🚠 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-09T00:55 | 2 | 515 | 532 |
 | 2026-07-08T18:37 | 0 | 516 | 530 |
 | 2026-07-08T12:44 | 1 | 516 | 530 |
 | 2026-07-08T07:00 | 1 | 515 | 529 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-07T07:23 | 1 | 513 | 527 |
 | 2026-07-07T00:59 | 0 | 513 | 526 |
 | 2026-07-06T18:46 | 0 | 513 | 526 |
-| 2026-07-06T13:26 | 0 | 513 | 526 |
 
 ---
 
