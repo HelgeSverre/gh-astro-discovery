@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-09T03:48:40Z",
-    "pushed_at": "2026-07-09T03:48:36Z",
+    "updated_at": "2026-07-10T03:49:56Z",
+    "pushed_at": "2026-07-10T03:49:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-09T03:16:39Z",
-    "pushed_at": "2026-07-09T03:16:36Z",
+    "updated_at": "2026-07-10T03:18:36Z",
+    "pushed_at": "2026-07-10T03:18:33Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-09T02:39:18Z",
-    "pushed_at": "2026-07-09T02:39:15Z",
+    "updated_at": "2026-07-10T02:41:55Z",
+    "pushed_at": "2026-07-10T02:41:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-09T02:36:30Z",
-    "pushed_at": "2026-07-09T02:36:26Z",
+    "updated_at": "2026-07-10T02:38:51Z",
+    "pushed_at": "2026-07-10T02:38:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-09T22:54:41Z",
-    "pushed_at": "2026-07-09T22:55:39Z",
+    "updated_at": "2026-07-10T06:12:47Z",
+    "pushed_at": "2026-07-10T06:13:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -2635,7 +2635,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-07-04T04:07:46Z",
+    "pushed_at": "2026-07-10T04:06:44Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-10T00:37:23Z",
-    "pushed_at": "2026-07-10T00:37:20Z",
+    "updated_at": "2026-07-10T06:00:09Z",
+    "pushed_at": "2026-07-10T06:00:03Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-09T23:29:26Z",
-    "pushed_at": "2026-07-09T23:29:22Z",
+    "updated_at": "2026-07-10T04:50:59Z",
+    "pushed_at": "2026-07-10T04:50:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-09T23:19:14Z",
-    "pushed_at": "2026-07-09T23:19:09Z",
+    "updated_at": "2026-07-10T04:40:36Z",
+    "pushed_at": "2026-07-10T04:40:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5352,7 +5352,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 34,
-    "forks": 24,
+    "forks": 25,
     "topics": [
       "astro-theme",
       "contribute",
@@ -5377,7 +5377,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 27,
+    "stars": 28,
     "forks": 9,
     "topics": [
       "astro",
@@ -5393,7 +5393,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-09T13:12:42Z",
+    "updated_at": "2026-07-10T02:07:16Z",
     "pushed_at": "2026-07-04T17:01:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6303,7 +6303,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 166,
+    "stars": 167,
     "forks": 31,
     "topics": [
       "astro",
@@ -6321,7 +6321,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-07-02T12:15:42Z",
+    "updated_at": "2026-07-10T06:07:59Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10289,7 +10289,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 21,
+    "stars": 22,
     "forks": 7,
     "topics": [
       "astro",
@@ -10306,7 +10306,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-09T16:23:44Z",
+    "updated_at": "2026-07-10T03:57:52Z",
     "pushed_at": "2026-06-15T01:07:33Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10533,7 +10533,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "topics": [
       "astro",
@@ -10551,8 +10551,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-08T22:25:19Z",
-    "pushed_at": "2026-06-28T00:33:11Z",
+    "updated_at": "2026-07-10T05:39:04Z",
+    "pushed_at": "2026-07-10T05:39:03Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
   "nooniwa/nooniwa": {
