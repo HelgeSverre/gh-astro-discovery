@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-09T21:12:44Z",
-    "pushed_at": "2026-07-09T21:12:38Z",
+    "pushed_at": "2026-07-10T12:53:11Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-10T06:12:47Z",
-    "pushed_at": "2026-07-10T06:13:53Z",
+    "updated_at": "2026-07-10T10:08:07Z",
+    "pushed_at": "2026-07-10T10:07:11Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -3202,7 +3202,7 @@
     "license": "MIT",
     "created_at": "2024-07-03T07:23:01Z",
     "updated_at": "2026-06-30T12:59:44Z",
-    "pushed_at": "2026-06-24T14:14:07Z",
+    "pushed_at": "2026-07-10T11:24:42Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "patrick91/astro-meta-tags": {
@@ -3494,7 +3494,7 @@
     "name": "sijad/astro-wordpress",
     "url": "https://github.com/sijad/astro-wordpress",
     "description": "Generate headful WordPress theme using Astro",
-    "stars": 38,
+    "stars": 39,
     "forks": 1,
     "topics": [
       "astro",
@@ -3504,7 +3504,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-01-14T16:06:06Z",
-    "updated_at": "2026-07-01T02:35:00Z",
+    "updated_at": "2026-07-10T11:54:08Z",
     "pushed_at": "2026-06-08T12:29:58Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5070,7 +5070,7 @@
     "name": "dorle5803/zag",
     "url": "https://github.com/dorle5803/zag",
     "description": "Unify and control AI coding agents from one CLI for Claude, Codex, Gemini, Copilot, and more",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "agnostic",
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-10T06:00:09Z",
-    "pushed_at": "2026-07-10T06:00:03Z",
+    "updated_at": "2026-07-10T11:29:00Z",
+    "pushed_at": "2026-07-10T11:28:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-10T04:50:59Z",
-    "pushed_at": "2026-07-10T04:50:56Z",
+    "updated_at": "2026-07-10T10:17:55Z",
+    "pushed_at": "2026-07-10T10:17:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-10T04:40:36Z",
-    "pushed_at": "2026-07-10T04:40:32Z",
+    "updated_at": "2026-07-10T10:09:04Z",
+    "pushed_at": "2026-07-10T10:07:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5377,7 +5377,7 @@
     "name": "AnjayGoel/astro-sienna",
     "url": "https://github.com/AnjayGoel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 28,
+    "stars": 29,
     "forks": 9,
     "topics": [
       "astro",
@@ -5393,7 +5393,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-10T02:07:16Z",
+    "updated_at": "2026-07-10T09:19:24Z",
     "pushed_at": "2026-07-04T17:01:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6044,7 +6044,7 @@
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
     "stars": 382,
-    "forks": 133,
+    "forks": 132,
     "topics": [
       "astro-build",
       "astro-template",
@@ -6303,7 +6303,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 167,
+    "stars": 168,
     "forks": 31,
     "topics": [
       "astro",
@@ -6321,7 +6321,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-07-10T06:07:59Z",
+    "updated_at": "2026-07-10T11:41:02Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6386,8 +6386,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-12-29T12:04:25Z",
-    "updated_at": "2026-06-16T15:30:11Z",
-    "pushed_at": "2026-06-16T15:28:33Z",
+    "updated_at": "2026-07-10T11:58:37Z",
+    "pushed_at": "2026-07-10T11:58:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "fabformhub/paperastro": {
@@ -7938,7 +7938,7 @@
     "url": "https://github.com/netlify-templates/astro-supabase-starter",
     "description": "The Astro Supabase starter demonstrates how to integrate Supabase into an Astro project deployed on Netlify.",
     "stars": 27,
-    "forks": 56,
+    "forks": 57,
     "topics": [
       "astro",
       "astro-starter",
@@ -10533,7 +10533,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "topics": [
       "astro",
@@ -10551,7 +10551,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-10T05:39:04Z",
+    "updated_at": "2026-07-10T08:35:11Z",
     "pushed_at": "2026-07-10T05:39:03Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
@@ -11127,7 +11127,7 @@
     "url": "https://github.com/kpab/astro-haze",
     "description": "A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, light/dark, and accessibility built in.",
     "stars": 2,
-    "forks": 2,
+    "forks": 3,
     "topics": [
       "astro",
       "astro-theme",
@@ -11251,8 +11251,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-07T17:14:31Z",
-    "updated_at": "2026-07-09T23:55:02Z",
-    "pushed_at": "2026-07-09T19:54:59Z",
+    "updated_at": "2026-07-10T11:51:55Z",
+    "pushed_at": "2026-07-10T11:51:47Z",
     "discovered_at": "2026-07-07T18:49:11.690Z"
   },
   "skywalker23241/abo-astro-blog-theme": {
