@@ -243,7 +243,7 @@
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 211,
+    "stars": 212,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,7 +263,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-10T15:03:26Z",
+    "updated_at": "2026-07-11T15:44:41Z",
     "pushed_at": "2026-07-11T02:42:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -685,7 +685,7 @@
     "license": "MIT",
     "created_at": "2026-05-02T09:18:16Z",
     "updated_at": "2026-06-06T19:57:45Z",
-    "pushed_at": "2026-07-04T15:03:05Z",
+    "pushed_at": "2026-07-11T15:02:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "freshjuice-dev/astro-search-plugin": {
@@ -3572,8 +3572,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-06-11T22:28:10Z",
-    "updated_at": "2026-07-07T20:40:32Z",
-    "pushed_at": "2026-07-07T20:40:28Z",
+    "updated_at": "2026-07-11T18:13:08Z",
+    "pushed_at": "2026-07-11T18:13:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "bl4cky99/astro-create-portal": {
@@ -4242,8 +4242,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-07-10T20:19:02Z",
-    "pushed_at": "2026-07-11T11:05:58Z",
+    "updated_at": "2026-07-11T15:08:57Z",
+    "pushed_at": "2026-07-11T15:08:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-11T10:57:37Z",
-    "pushed_at": "2026-07-11T10:57:33Z",
+    "updated_at": "2026-07-11T16:47:48Z",
+    "pushed_at": "2026-07-11T16:47:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-11T08:17:43Z",
-    "pushed_at": "2026-07-11T08:17:40Z",
+    "updated_at": "2026-07-11T15:34:49Z",
+    "pushed_at": "2026-07-11T15:34:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,15 +5272,15 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-11T08:06:29Z",
-    "pushed_at": "2026-07-11T08:06:21Z",
+    "updated_at": "2026-07-11T15:23:52Z",
+    "pushed_at": "2026-07-11T15:23:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
     "name": "netlify-templates/astro-platform-starter",
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
-    "stars": 152,
+    "stars": 153,
     "forks": 533,
     "topics": [
       "astro-template",
@@ -5293,7 +5293,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-07-09T13:49:30Z",
+    "updated_at": "2026-07-11T14:35:16Z",
     "pushed_at": "2026-07-06T10:49:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5987,7 +5987,7 @@
     "name": "psephopaiktes/astro-i18n-starter",
     "url": "https://github.com/psephopaiktes/astro-i18n-starter",
     "description": "A minimal i18n astro theme",
-    "stars": 147,
+    "stars": 148,
     "forks": 22,
     "topics": [
       "astro",
@@ -6000,7 +6000,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2024-05-25T06:35:35Z",
-    "updated_at": "2026-06-24T03:57:15Z",
+    "updated_at": "2026-07-11T13:39:05Z",
     "pushed_at": "2026-06-24T03:57:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6669,7 +6669,7 @@
     "name": "Liksium/astro-theme-sora",
     "url": "https://github.com/Liksium/astro-theme-sora",
     "description": "A blog theme built with Astro",
-    "stars": 6,
+    "stars": 7,
     "forks": 0,
     "topics": [
       "astro",
@@ -6679,7 +6679,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-05-23T15:22:48Z",
-    "updated_at": "2026-02-11T08:02:21Z",
+    "updated_at": "2026-07-11T12:29:29Z",
     "pushed_at": "2026-02-01T03:49:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7950,7 +7950,7 @@
     "license": "MIT",
     "created_at": "2024-11-12T10:24:21Z",
     "updated_at": "2026-07-06T08:37:27Z",
-    "pushed_at": "2026-07-06T08:37:24Z",
+    "pushed_at": "2026-07-11T17:07:47Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "protomorph/astro-zero": {
@@ -9884,7 +9884,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-07-11T10:35:47Z",
-    "pushed_at": "2026-07-11T10:35:31Z",
+    "pushed_at": "2026-07-11T12:56:58Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10406,8 +10406,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-16T13:26:03Z",
-    "updated_at": "2026-07-05T20:51:57Z",
-    "pushed_at": "2026-07-03T11:43:14Z",
+    "updated_at": "2026-07-11T17:42:57Z",
+    "pushed_at": "2026-07-11T17:42:35Z",
     "discovered_at": "2026-06-16T19:21:28.686Z"
   },
   "opsydyn/astro-azure-integration": {
@@ -10679,8 +10679,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-21T17:11:16Z",
-    "updated_at": "2026-06-29T14:54:17Z",
-    "pushed_at": "2026-06-29T14:52:33Z",
+    "updated_at": "2026-07-11T16:32:51Z",
+    "pushed_at": "2026-07-11T16:32:44Z",
     "discovered_at": "2026-06-28T12:40:37.423Z"
   },
   "peltmonger/create-stardrive": {
@@ -11428,8 +11428,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-29T13:48:31Z",
-    "updated_at": "2026-07-10T23:55:11Z",
-    "pushed_at": "2026-07-10T23:55:08Z",
+    "updated_at": "2026-07-11T14:15:26Z",
+    "pushed_at": "2026-07-11T14:15:08Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "kajir-009/kajir-009.github.io": {
@@ -11642,7 +11642,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-11T11:41:59Z",
+    "pushed_at": "2026-07-11T17:44:04Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11829,8 +11829,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-07-09T18:43:50Z",
-    "pushed_at": "2026-07-10T00:14:46Z",
+    "updated_at": "2026-07-11T17:48:20Z",
+    "pushed_at": "2026-07-11T17:48:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -12007,13 +12007,13 @@
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "A production-ready Astro 7 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.",
     "stars": 79,
-    "forks": 35,
+    "forks": 36,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-07-11T09:54:16Z",
-    "pushed_at": "2026-07-11T10:38:54Z",
+    "updated_at": "2026-07-11T18:17:00Z",
+    "pushed_at": "2026-07-11T18:16:54Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -12513,8 +12513,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-28T22:17:29Z",
-    "updated_at": "2026-07-03T00:01:16Z",
-    "pushed_at": "2026-07-03T00:01:12Z",
+    "updated_at": "2026-07-11T18:14:33Z",
+    "pushed_at": "2026-07-11T18:13:58Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "omaraymanbarakat/personal-website": {
@@ -12527,8 +12527,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-30T23:02:23Z",
-    "updated_at": "2026-07-02T22:56:50Z",
-    "pushed_at": "2026-07-02T22:56:45Z",
+    "updated_at": "2026-07-11T17:54:06Z",
+    "pushed_at": "2026-07-11T17:53:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "inakicalvo/astro-ataraxia-theme": {
@@ -13571,7 +13571,7 @@
     "url": "https://github.com/sitepins/powerai-astro",
     "description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes. Pre-configured Sitepins CMS. Ready to deploy on Cloudflare Workers, Vercel, Netlify, or Docker.",
     "stars": 50,
-    "forks": 58,
+    "forks": 57,
     "topics": [
       "astro",
       "astrojs",
@@ -15594,7 +15594,7 @@
     "name": "bkspace/starlight-mcp",
     "url": "https://github.com/bkspace/starlight-mcp",
     "description": "MCP server for your Astro/Starlight docs — search_docs, get_doc, list_docs over stateless streamable HTTP. Astro integration + pure handler + Cloudflare glue.",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -15609,15 +15609,15 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T11:19:33Z",
-    "updated_at": "2026-07-11T11:46:43Z",
-    "pushed_at": "2026-07-11T11:46:39Z",
+    "updated_at": "2026-07-11T16:43:32Z",
+    "pushed_at": "2026-07-11T12:54:51Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
   "anjay-goel/astro-sienna": {
     "name": "anjay-goel/astro-sienna",
     "url": "https://github.com/anjay-goel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 30,
+    "stars": 31,
     "forks": 9,
     "topics": [
       "astro",
@@ -15633,7 +15633,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-11T09:17:07Z",
+    "updated_at": "2026-07-11T14:12:02Z",
     "pushed_at": "2026-07-11T09:16:45Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -15683,5 +15683,116 @@
     "updated_at": "2026-07-11T08:08:44Z",
     "pushed_at": "2026-07-07T11:47:12Z",
     "discovered_at": "2026-07-11T12:26:55.823Z"
+  },
+  "joshruggles/astro-palette": {
+    "name": "joshruggles/astro-palette",
+    "url": "https://github.com/joshruggles/astro-palette",
+    "description": "A blog and personal site theme for Astro with a terminal look and 18 switchable color palettes. The build output is fully static, with no client-side framework and no analytics.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "static-site",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "AGPL-3.0",
+    "created_at": "2026-07-11T14:29:23Z",
+    "updated_at": "2026-07-11T18:23:50Z",
+    "pushed_at": "2026-07-11T18:23:42Z",
+    "discovered_at": "2026-07-11T18:24:26.083Z"
+  },
+  "kpab/astro-kepler": {
+    "name": "kpab/astro-kepler",
+    "url": "https://github.com/kpab/astro-kepler",
+    "description": "Kepler — a versatile Astro 7 theme for blogs, portfolios, and landing pages. Navy × orange, one design system.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "blog",
+      "landing-page",
+      "mdx",
+      "portfolio",
+      "starter",
+      "tailwindcss",
+      "theme",
+      "typescript",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-07-10T06:32:58Z",
+    "updated_at": "2026-07-11T13:12:01Z",
+    "pushed_at": "2026-07-11T13:11:51Z",
+    "discovered_at": "2026-07-11T18:24:26.084Z"
+  },
+  "relative23/payload-live-preview": {
+    "name": "relative23/payload-live-preview",
+    "url": "https://github.com/relative23/payload-live-preview",
+    "description": "Astro-first live preview for Payload CMS — also SvelteKit, Nuxt, Next.js & plain HTML. Patches the DOM live as you edit, no rebuild.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-cms",
+      "astro-integration",
+      "cms",
+      "headless",
+      "headless-cms",
+      "lexical",
+      "live-preview",
+      "nextjs",
+      "nuxt",
+      "payload-cms",
+      "payload-plugin",
+      "preview",
+      "sveltekit",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-07-11T12:37:55Z",
+    "updated_at": "2026-07-11T18:03:15Z",
+    "pushed_at": "2026-07-11T18:03:05Z",
+    "discovered_at": "2026-07-11T18:24:26.084Z"
+  },
+  "marcelofpfelix/papyrus": {
+    "name": "marcelofpfelix/papyrus",
+    "url": "https://github.com/marcelofpfelix/papyrus",
+    "description": "Astro theme",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2026-07-10T21:37:40Z",
+    "updated_at": "2026-07-11T15:07:16Z",
+    "pushed_at": "2026-07-11T17:10:05Z",
+    "discovered_at": "2026-07-11T18:24:26.084Z"
+  },
+  "sri-nivas1227/astro-portfolio": {
+    "name": "sri-nivas1227/Astro-Portfolio",
+    "url": "https://github.com/sri-nivas1227/Astro-Portfolio",
+    "description": "A Terminal Nerdy Themed Portfolio, built with AstroJS, TailwindCSS",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "portfolio-website"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-03-16T16:09:53Z",
+    "updated_at": "2026-07-11T16:49:27Z",
+    "pushed_at": "2026-07-11T16:17:00Z",
+    "discovered_at": "2026-07-11T18:24:26.085Z"
   }
 }
