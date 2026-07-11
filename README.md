@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 796
-**Last updated:** 2026-07-11T00:48:16.029Z
+**Total packages tracked:** 797
+**Last updated:** 2026-07-11T06:55:31.415Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Welcomewrl/Yoru](https://github.com/Welcomewrl/Yoru) | 0 | A Astro Blog Theme  |
 | [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | A fast and minimalist personal website and blog powered by Astro. Features clean... |
 | [vikas5914/kapadiya.net](https://github.com/vikas5914/kapadiya.net) | 0 | My useless Blog  |
 | [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter ... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [oe-parks/owenparks-garden](https://github.com/oe-parks/owenparks-garden) | 0 | Personal digital garden — Astro + Cloudflare Pages (e-ink theme, ambient graph).... |
 | [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | A modern, responsive and lightweight theme for freelancing, portfolio, and blog.... |
 | [Arsh-Pathan/Portfolio](https://github.com/Arsh-Pathan/Portfolio) | 0 | A modern, animated portfolio website built with Astro, Three.js, Tailwind CSS, a... |
-| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 1 | Dracula theme porfolio/blog built with Astro + TypeScript. Now publicly availabl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [wsjz/vergil-astro-theme](https://github.com/wsjz/vergil-astro-theme) | 1 | 2026-07-11 | 一个多视图设计的 Astro 个人网站主题 |
+| [Gutta09/dev.gutta](https://github.com/Gutta09/dev.gutta) | 0 | 2026-07-11 | Personal portfolio — Astro + Tailwind, light/dark themes, Gi... |
+| [sudeep2003/astro-iconset](https://github.com/sudeep2003/astro-iconset) | 8 | 2026-07-11 | SVG icon integration for Astro — local icons, Iconify sets, ... |
+| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-07-11 | A modern, responsive and lightweight theme for freelancing, ... |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 79 | 2026-07-11 | A production-ready Astro 7 starter with 12 beautiful themes,... |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-11 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-11 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | 2026-07-11 | A fast and minimalist personal website and blog powered by A... |
+| [Welcomewrl/Yoru](https://github.com/Welcomewrl/Yoru) | 0 | 2026-07-11 | A Astro Blog Theme  |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-07-11 | Astro integration that uses existing configuration to write ... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-11 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-11 | Simple and cute Standard.site integration for Astro |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-11 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-11 | Astro Integration to generate a customizable table of conten... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-11 | Convert 🫶🏻 |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-11 | Matomo integration for Astro |
 | [vikas5914/kapadiya.net](https://github.com/vikas5914/kapadiya.net) | 0 | 2026-07-11 | My useless Blog  |
-| [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | 2026-07-10 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CS... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-10 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [sudeep2003/astro-iconset](https://github.com/sudeep2003/astro-iconset) | 8 | 2026-07-10 | SVG icon integration for Astro — local icons, Iconify sets, ... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-07-10 | My astro static blog use theme Firefly. |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-07-10 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 12 | 2026-07-10 | Documentation for Azion's services and features. |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-10 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [Kajir-009/Kajir-009.github.io](https://github.com/Kajir-009/Kajir-009.github.io) | 1 | 2026-07-10 | Spectre is a terminal-inspired theme for Astro, built using ... |
-| [AnjayGoel/astro-sienna](https://github.com/AnjayGoel/astro-sienna) | 30 | 2026-07-10 | A minimal writing focused Astro blog template |
-| [mahshidgh96/astro-paper-persian](https://github.com/mahshidgh96/astro-paper-persian) | 0 | 2026-07-10 | astro paper theme in Persian language (RTL) |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-10 | Astro integration for loading fonts into build artifacts wit... |
-| [adkinn/astro-ai-readiness](https://github.com/adkinn/astro-ai-readiness) | 1 | 2026-07-10 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
-| [Gutta09/dev.gutta](https://github.com/Gutta09/dev.gutta) | 0 | 2026-07-10 | Personal portfolio — Astro + Tailwind, light/dark themes, Gi... |
-| [kannansuresh/chirping-astro-starter](https://github.com/kannansuresh/chirping-astro-starter) | 3 | 2026-07-10 | Starter template for Chirping Astro theme. |
-| [kannansuresh/chirping-astro](https://github.com/kannansuresh/chirping-astro) | 36 | 2026-07-10 | Chirping Astro. An astro theme inspired from the famous Jeky... |
-| [n-yokomachi/vivibio](https://github.com/n-yokomachi/vivibio) | 1 | 2026-07-10 | vivid × vivere × bio — a theme-switching digital business ca... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 211 | 2026-07-11 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 11 | 2026-07-11 | A modern, clean and bloat-free Astro starter template. Acces... |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-11 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 280 | 2026-07-11 | Inline 🦔 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-11T06:55 | 1 | 779 | 797 |
 | 2026-07-11T00:48 | 262 | 518 | 796 |
 | 2026-07-10T18:37 | 0 | 518 | 534 |
 | 2026-07-10T12:53 | 0 | 518 | 534 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-09T13:16 | 1 | 517 | 533 |
 | 2026-07-09T07:23 | 0 | 517 | 532 |
 | 2026-07-09T00:55 | 2 | 515 | 532 |
-| 2026-07-08T18:37 | 0 | 516 | 530 |
 
 ---
 
