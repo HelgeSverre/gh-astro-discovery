@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 827
-**Last updated:** 2026-07-14T06:54:36.789Z
+**Last updated:** 2026-07-14T12:37:06.123Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [vhscom/emdash-theme-bravada](https://github.com/vhscom/emdash-theme-bravada) | 0 | 2026-07-14 | Bravada for Astro — a port of the Bravada WordPress theme (C... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-14 | The Astro Quick Start package covers the basics of connectin... |
-| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-07-14 | Fetch data from the Stripe API and use it in Astro collectio... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-14 | Convert 🫶🏻 |
-| [xxy1103/ulbo-astro-theme-template](https://github.com/xxy1103/ulbo-astro-theme-template) | 0 | 2026-07-14 |  |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-14 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-07-14 | The i18n integration for Astro 🧑‍🚀 |
-| [ZCHIT/Fire-fly](https://github.com/ZCHIT/Fire-fly) | 0 | 2026-07-14 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-14 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-14 | Astro Integration to generate a customizable table of conten... |
-| [adrian-ub/starlight-theme-black](https://github.com/adrian-ub/starlight-theme-black) | 41 | 2026-07-14 | Starlight theme inspired by @shadcn docs |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-07-14 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-07-14 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-07-14 | The global variable integration for Astro 🌐 |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-07-14 | Loaders for Astro's Content Layer |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-14 | An Astro Prometheus nodejs middleware integration for Astro |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-14 | This Astro component simplifies the process of adding moneti... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-14 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [nxtgencoders/swg-theme](https://github.com/nxtgencoders/swg-theme) | 0 | 2026-07-14 | Official Astro Theme Starter for Static Website Generator (S... |
+| [kannansuresh/chirping-astro](https://github.com/kannansuresh/chirping-astro) | 36 | 2026-07-14 | Chirping Astro. An astro theme inspired from the famous Jeky... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-14 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [ezzty/krya-en](https://github.com/ezzty/krya-en) | 0 | 2026-07-14 | A simple Astro theme, optimized single-column layout mobile/... |
+| [kannansuresh/chirping-astro-starter](https://github.com/kannansuresh/chirping-astro-starter) | 3 | 2026-07-14 | Starter template for Chirping Astro theme. |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-07-14 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [chinaz-max/blog](https://github.com/chinaz-max/blog) | 0 | 2026-07-14 | My personal blog built with Fuwari Astro theme |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 79 | 2026-07-14 | Lightning-fast Astro 7 starter theme to build anything on: 5... |
+| [wangjacks/capsule-x](https://github.com/wangjacks/capsule-x) | 3 | 2026-07-14 | A minimal blog theme for Astro with capsule floating navigat... |
+| [nagameTW/astro-flipside](https://github.com/nagameTW/astro-flipside) | 1 | 2026-07-14 | Two sides, one site. A minimal, Chinese-optimized Astro blog... |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-14 | The Astro Quick Start package covers the basics of connectin... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-14 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-14 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-14 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-07-14 | A minimal Astro blog theme |
+| [bkspace/starlight-mcp](https://github.com/bkspace/starlight-mcp) | 8 | 2026-07-14 | MCP server for your Astro/Starlight docs — search_docs, get_... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-07-14 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-14 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [Gutta09/dev.gutta](https://github.com/Gutta09/dev.gutta) | 0 | 2026-07-14 | Personal portfolio — Astro + Tailwind, light/dark themes, Gi... |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-14 | Network 🚠 |
+| [florian-lefebvre/astro-loading-indicator](https://github.com/florian-lefebvre/astro-loading-indicator) | 112 | 2026-07-14 | Display a progress bar between page navigations when using V... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-14T12:37 | 0 | 787 | 827 |
 | 2026-07-14T06:54 | 4 | 783 | 827 |
 | 2026-07-14T00:46 | 1 | 786 | 823 |
 | 2026-07-13T18:40 | 1 | 786 | 822 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-12T18:25 | 5 | 781 | 817 |
 | 2026-07-12T12:27 | 2 | 783 | 812 |
 | 2026-07-12T07:02 | 3 | 783 | 810 |
-| 2026-07-12T00:53 | 0 | 784 | 807 |
 
 ---
 
