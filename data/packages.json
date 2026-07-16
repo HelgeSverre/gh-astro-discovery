@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-15T02:03:43Z",
-    "pushed_at": "2026-07-15T18:23:39Z",
+    "updated_at": "2026-07-15T22:01:56Z",
+    "pushed_at": "2026-07-15T22:03:29Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-15T12:53:13Z",
-    "pushed_at": "2026-07-15T14:32:45Z",
+    "pushed_at": "2026-07-15T23:26:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-07-02T16:26:25Z",
-    "pushed_at": "2026-07-14T06:03:16Z",
+    "pushed_at": "2026-07-15T19:36:48Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -4242,8 +4242,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-07-14T21:30:52Z",
-    "pushed_at": "2026-07-15T18:31:12Z",
+    "updated_at": "2026-07-15T18:45:59Z",
+    "pushed_at": "2026-07-15T18:45:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -4393,7 +4393,7 @@
     "name": "mcp-tool-shop-org/site-theme",
     "url": "https://github.com/mcp-tool-shop-org/site-theme",
     "description": "Multi-template Astro toolkit for landing pages, docs, product sites, and SaaS dashboards. Dark palette, Tailwind CSS v4, GitHub Pages ready.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -4412,7 +4412,7 @@
     "language": "HTML",
     "license": "MIT",
     "created_at": "2026-02-22T11:15:22Z",
-    "updated_at": "2026-06-16T10:55:44Z",
+    "updated_at": "2026-07-15T18:38:25Z",
     "pushed_at": "2026-06-16T10:57:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-15T15:04:24Z",
-    "pushed_at": "2026-07-15T15:01:58Z",
+    "updated_at": "2026-07-15T23:00:22Z",
+    "pushed_at": "2026-07-15T23:00:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-15T13:49:08Z",
-    "pushed_at": "2026-07-15T13:47:46Z",
+    "updated_at": "2026-07-16T00:15:23Z",
+    "pushed_at": "2026-07-16T00:15:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-15T13:37:19Z",
-    "pushed_at": "2026-07-15T13:36:44Z",
+    "updated_at": "2026-07-16T00:05:21Z",
+    "pushed_at": "2026-07-16T00:05:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5850,8 +5850,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
-    "updated_at": "2026-07-15T03:30:35Z",
-    "pushed_at": "2026-07-15T17:37:40Z",
+    "updated_at": "2026-07-15T23:27:59Z",
+    "pushed_at": "2026-07-15T23:29:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -11383,8 +11383,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
-    "updated_at": "2026-07-15T01:21:11Z",
-    "pushed_at": "2026-07-15T01:21:07Z",
+    "updated_at": "2026-07-16T00:13:37Z",
+    "pushed_at": "2026-07-16T00:13:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -11646,7 +11646,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-15T17:02:42Z",
+    "pushed_at": "2026-07-15T23:47:29Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11833,8 +11833,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-07-14T19:07:19Z",
-    "pushed_at": "2026-07-15T00:12:46Z",
+    "updated_at": "2026-07-15T18:51:44Z",
+    "pushed_at": "2026-07-16T00:12:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -11887,7 +11887,7 @@
     "name": "2u841r/starlight-theme-mdbook",
     "url": "https://github.com/2u841r/starlight-theme-mdbook",
     "description": "A Starlight theme that looks and feels like rust-lang's mdBook ",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -11896,7 +11896,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-04T00:51:47Z",
-    "updated_at": "2026-07-09T10:18:29Z",
+    "updated_at": "2026-07-15T19:31:01Z",
     "pushed_at": "2026-07-09T10:18:23Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12016,8 +12016,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-07-15T18:28:22Z",
-    "pushed_at": "2026-07-15T18:28:16Z",
+    "updated_at": "2026-07-15T22:05:25Z",
+    "pushed_at": "2026-07-15T22:05:18Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -14324,7 +14324,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-05-31T14:46:57Z",
-    "pushed_at": "2026-07-14T22:55:11Z",
+    "pushed_at": "2026-07-15T22:56:22Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -14430,7 +14430,7 @@
     "url": "https://github.com/tuyuritio/astro-theme-thought-lite",
     "description": "A modern Astro theme, focused on content creation.",
     "stars": 162,
-    "forks": 20,
+    "forks": 19,
     "topics": [
       "astro",
       "blog",
@@ -15010,7 +15010,7 @@
     "name": "nearmelab/3dinterior",
     "url": "https://github.com/nearmelab/3dinterior",
     "description": "Free Astro theme built for architects and design studios. ⭐️ Star to support our work!",
-    "stars": 9,
+    "stars": 10,
     "forks": 7,
     "topics": [
       "architecture",
@@ -15023,7 +15023,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T17:47:03Z",
-    "updated_at": "2026-07-15T12:24:56Z",
+    "updated_at": "2026-07-15T21:11:20Z",
     "pushed_at": "2026-07-15T12:25:40Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -15667,13 +15667,13 @@
     "name": "Mystic-Stars/acorn-theme",
     "url": "https://github.com/Mystic-Stars/acorn-theme",
     "description": "Acorn — an Astro blog theme with a warm Animal Island visual style",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-11T10:14:56Z",
-    "updated_at": "2026-07-11T11:28:53Z",
+    "updated_at": "2026-07-15T23:24:58Z",
     "pushed_at": "2026-07-11T11:28:48Z",
     "discovered_at": "2026-07-11T12:26:55.823Z"
   },
@@ -15871,8 +15871,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-12T13:00:57Z",
-    "updated_at": "2026-07-12T23:25:59Z",
-    "pushed_at": "2026-07-12T23:25:56Z",
+    "updated_at": "2026-07-16T00:28:41Z",
+    "pushed_at": "2026-07-16T00:28:51Z",
     "discovered_at": "2026-07-12T07:02:40.569Z"
   },
   "kevynf/logflow-theme": {
@@ -16169,7 +16169,7 @@
     "license": "MIT",
     "created_at": "2024-12-26T17:43:47Z",
     "updated_at": "2026-07-15T09:49:38Z",
-    "pushed_at": "2026-07-15T05:11:44Z",
+    "pushed_at": "2026-07-15T18:33:47Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
   "zhanyihui06/avalon": {
@@ -16229,7 +16229,7 @@
     "name": "kydecker/astro-lilypond",
     "url": "https://github.com/kydecker/astro-lilypond",
     "description": "An Astro integration for rendering LilyPond music notation to images.",
-    "stars": 7,
+    "stars": 12,
     "forks": 0,
     "topics": [
       "astro",
@@ -16241,8 +16241,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-07-15T18:09:37Z",
-    "pushed_at": "2026-07-15T18:08:40Z",
+    "updated_at": "2026-07-16T00:01:00Z",
+    "pushed_at": "2026-07-16T00:01:20Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -16298,8 +16298,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-15T04:34:08Z",
-    "updated_at": "2026-07-15T06:27:58Z",
-    "pushed_at": "2026-07-15T04:45:35Z",
+    "updated_at": "2026-07-15T22:41:07Z",
+    "pushed_at": "2026-07-15T22:41:03Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
   "xocothemes/maria": {
