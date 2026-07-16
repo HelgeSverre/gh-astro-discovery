@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 842
-**Last updated:** 2026-07-16T12:43:23.226Z
+**Total packages tracked:** 844
+**Last updated:** 2026-07-16T18:32:45.410Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [M4xKey/astro-chalet](https://github.com/M4xKey/astro-chalet) | 0 | The Astro theme for local businesses — one config file, local SEO built in, GDPR... |
+| [JulyFire365/thermaline-lite](https://github.com/JulyFire365/thermaline-lite) | 0 | Free HVAC contractor website template — Astro 5 + Tailwind CSS 4. The first HVAC... |
 | [automann/astro-kami](https://github.com/automann/astro-kami) | 0 | An internationalized, writing-focused Astro blog template with editorial typogra... |
 | [lycia324/astropunk](https://github.com/lycia324/astropunk) | 0 | A NASA Punk style astro theme |
 | [web-stacked/healthcare-astro-theme](https://github.com/web-stacked/healthcare-astro-theme) | 0 |  |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [xxy1103/ulbo-astro-theme-template](https://github.com/xxy1103/ulbo-astro-theme-template) | 0 |  |
 | [ZCHIT/Fire-fly](https://github.com/ZCHIT/Fire-fly) | 0 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  templat... |
 | [adrian-ub/starlight-theme-black](https://github.com/adrian-ub/starlight-theme-black) | 42 | Starlight theme inspired by @shadcn docs |
-| [ZhanYiHui06/Avalon](https://github.com/ZhanYiHui06/Avalon) | 5 | A modern, dark-themed website template based on Astro. |
-| [bastaramus/astro-theme-scrapbook](https://github.com/bastaramus/astro-theme-scrapbook) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 79 | 2026-07-16 | Lightning-fast Astro 7 starter theme to build anything on: 5... |
-| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 | 2026-07-16 |  |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-16 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-07-16 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-16 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-16 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-07-16 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [JulyFire365/ridgeline-lite](https://github.com/JulyFire365/ridgeline-lite) | 0 | 2026-07-16 | Free roofing contractor website template — Astro 5 + Tailwin... |
-| [vhscom/emdash-theme-bravada](https://github.com/vhscom/emdash-theme-bravada) | 1 | 2026-07-16 | Bravada for Astro — a port of the Bravada WordPress theme (C... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-16 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [kannansuresh/chirping-astro-starter](https://github.com/kannansuresh/chirping-astro-starter) | 5 | 2026-07-16 | Starter template for Chirping Astro theme. |
-| [kannansuresh/chirping-astro](https://github.com/kannansuresh/chirping-astro) | 42 | 2026-07-16 | Chirping Astro. An astro theme inspired from the famous Jeky... |
+| [M4xKey/astro-chalet](https://github.com/M4xKey/astro-chalet) | 0 | 2026-07-16 | The Astro theme for local businesses — one config file, loca... |
+| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-07-16 | Fetch data from the Stripe API and use it in Astro collectio... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-07-16 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [GeauxWeisbeck4/andrewweisbeck-portfolio](https://github.com/GeauxWeisbeck4/andrewweisbeck-portfolio) | 0 | 2026-07-16 | My portfolio website - for now. Using the astro-theme-cody b... |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-16 | Simple and cute Standard.site integration for Astro |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-07-16 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-07-16 | The i18n integration for Astro 🧑‍🚀 |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-07-16 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-16 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-16 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [Gutta09/dev.gutta](https://github.com/Gutta09/dev.gutta) | 0 | 2026-07-16 | Personal portfolio — Astro + Tailwind, light/dark themes, Gi... |
+| [AntonyLeons/casper](https://github.com/AntonyLeons/casper) | 6 | 2026-07-16 | Casper theme for Astro with Algolia Search and Decap CMS, fu... |
 | [automann/astro-kami](https://github.com/automann/astro-kami) | 0 | 2026-07-16 | An internationalized, writing-focused Astro blog template wi... |
-| [2u841r/starlight-theme-mdbook](https://github.com/2u841r/starlight-theme-mdbook) | 1 | 2026-07-16 | A Starlight theme that looks and feels like rust-lang's mdBo... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-07-16 | Loaders for Astro's Content Layer |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-16 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [anatolykoptev/astro-landing-kit](https://github.com/anatolykoptev/astro-landing-kit) | 0 | 2026-07-16 | Composable landing-page primitives for Astro — independent l... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-16 | An Astro Prometheus nodejs middleware integration for Astro |
-| [openscript/astro-theme-international](https://github.com/openscript/astro-theme-international) | 40 | 2026-07-16 | An Astro theme demonstrating internationalization. |
+| [JulyFire365/thermaline-lite](https://github.com/JulyFire365/thermaline-lite) | 0 | 2026-07-16 | Free HVAC contractor website template — Astro 5 + Tailwind C... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-16 | Astro Integration to generate a customizable table of conten... |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-07-16 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 79 | 2026-07-16 | Lightning-fast Astro 7 starter theme to build anything on: 5... |
+| [vhscom/emdash-theme-bravada](https://github.com/vhscom/emdash-theme-bravada) | 1 | 2026-07-16 | Bravada for Astro — a port of the Bravada WordPress theme (C... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-16T18:32 | 2 | 790 | 844 |
 | 2026-07-16T12:43 | 2 | 790 | 842 |
 | 2026-07-16T06:59 | 2 | 789 | 840 |
 | 2026-07-16T00:47 | 0 | 790 | 838 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-15T00:44 | 1 | 788 | 830 |
 | 2026-07-14T18:31 | 2 | 786 | 829 |
 | 2026-07-14T12:37 | 0 | 787 | 827 |
-| 2026-07-14T06:54 | 4 | 783 | 827 |
 
 ---
 
