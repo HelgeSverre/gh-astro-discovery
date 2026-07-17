@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-16T03:12:13Z",
-    "pushed_at": "2026-07-16T03:12:10Z",
+    "updated_at": "2026-07-17T03:15:22Z",
+    "pushed_at": "2026-07-17T03:15:18Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-16T02:34:21Z",
-    "pushed_at": "2026-07-16T02:34:17Z",
+    "updated_at": "2026-07-17T02:36:55Z",
+    "pushed_at": "2026-07-17T02:36:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-16T04:52:17Z",
-    "pushed_at": "2026-07-16T04:52:09Z",
+    "updated_at": "2026-07-17T02:23:02Z",
+    "pushed_at": "2026-07-17T02:22:58Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-16T04:46:53Z",
-    "pushed_at": "2026-07-16T04:46:50Z",
+    "updated_at": "2026-07-17T02:20:46Z",
+    "pushed_at": "2026-07-17T02:20:42Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -3274,7 +3274,7 @@
     "name": "Rettend/starlight-plugin-icons",
     "url": "https://github.com/Rettend/starlight-plugin-icons",
     "description": "Add icons to Astro Starlight: sidebar, codeblocks, filetree",
-    "stars": 18,
+    "stars": 17,
     "forks": 4,
     "topics": [
       "astro",
@@ -3288,7 +3288,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-05T10:48:07Z",
-    "updated_at": "2026-07-07T01:01:00Z",
+    "updated_at": "2026-07-17T03:13:33Z",
     "pushed_at": "2026-02-24T13:09:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-16T21:41:59Z",
-    "pushed_at": "2026-07-16T21:41:54Z",
+    "updated_at": "2026-07-17T06:28:54Z",
+    "pushed_at": "2026-07-17T06:28:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-16T23:49:16Z",
-    "pushed_at": "2026-07-16T23:49:12Z",
+    "updated_at": "2026-07-17T05:20:25Z",
+    "pushed_at": "2026-07-17T05:20:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-16T20:21:54Z",
-    "pushed_at": "2026-07-16T20:21:43Z",
+    "updated_at": "2026-07-17T05:09:59Z",
+    "pushed_at": "2026-07-17T05:09:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5446,7 +5446,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 147,
+    "stars": 148,
     "forks": 55,
     "topics": [
       "astro",
@@ -5462,7 +5462,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-07-12T16:55:38Z",
+    "updated_at": "2026-07-17T06:25:15Z",
     "pushed_at": "2026-07-12T16:56:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5850,8 +5850,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
-    "updated_at": "2026-07-16T11:45:05Z",
-    "pushed_at": "2026-07-16T11:45:50Z",
+    "updated_at": "2026-07-17T03:46:58Z",
+    "pushed_at": "2026-07-17T03:47:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6992,8 +6992,8 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 91,
-    "forks": 25,
+    "stars": 92,
+    "forks": 26,
     "topics": [
       "astro",
       "astro-starter",
@@ -7010,7 +7010,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-07-12T02:36:40Z",
+    "updated_at": "2026-07-17T04:27:22Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7525,8 +7525,8 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 306,
-    "forks": 127,
+    "stars": 307,
+    "forks": 126,
     "topics": [
       "astro",
       "astro-theme",
@@ -7535,7 +7535,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-07-10T18:30:20Z",
+    "updated_at": "2026-07-17T05:16:10Z",
     "pushed_at": "2024-08-25T01:22:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7877,7 +7877,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-07-14T11:20:31Z",
-    "pushed_at": "2026-07-14T11:20:26Z",
+    "pushed_at": "2026-07-17T06:43:13Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -9710,7 +9710,7 @@
     "name": "LemonAdorable/astro-theme-iris",
     "url": "https://github.com/LemonAdorable/astro-theme-iris",
     "description": "⭐A simple, fast and powerful blog & document theme built by Astro to build you own knowledge base",
-    "stars": 6,
+    "stars": 8,
     "forks": 0,
     "topics": [
       "astro",
@@ -9732,7 +9732,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-28T14:11:14Z",
-    "updated_at": "2026-07-06T11:53:12Z",
+    "updated_at": "2026-07-17T05:23:30Z",
     "pushed_at": "2026-07-04T06:28:52Z",
     "discovered_at": "2026-05-21T13:24:03.425Z"
   },
@@ -11143,8 +11143,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
-    "updated_at": "2026-07-16T18:41:04Z",
-    "pushed_at": "2026-07-15T01:54:16Z",
+    "updated_at": "2026-07-17T04:59:58Z",
+    "pushed_at": "2026-07-17T05:45:30Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
   "techdocsstudio/astro-biel": {
@@ -11314,7 +11314,7 @@
     "name": "julien-deramond/component-anatomy",
     "url": "https://github.com/julien-deramond/component-anatomy",
     "description": "Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights.",
-    "stars": 11,
+    "stars": 12,
     "forks": 0,
     "topics": [
       "astro",
@@ -11328,7 +11328,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-07-13T06:28:30Z",
+    "updated_at": "2026-07-17T06:34:22Z",
     "pushed_at": "2026-07-13T06:28:31Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
@@ -11646,7 +11646,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-16T21:53:40Z",
+    "pushed_at": "2026-07-17T04:51:32Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12002,8 +12002,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-04-27T14:12:53Z",
-    "updated_at": "2026-07-16T03:30:05Z",
-    "pushed_at": "2026-07-16T03:30:01Z",
+    "updated_at": "2026-07-17T05:34:22Z",
+    "pushed_at": "2026-07-17T05:34:16Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hansmartensdev/astro-rocket": {
@@ -12239,7 +12239,7 @@
     "license": "MIT",
     "created_at": "2025-01-09T23:22:23Z",
     "updated_at": "2026-07-14T18:32:53Z",
-    "pushed_at": "2026-07-15T01:37:34Z",
+    "pushed_at": "2026-07-17T01:38:15Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "xxy9468615/blog-with-retypeset-and-contentful": {
@@ -12464,8 +12464,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-03T17:58:14Z",
-    "updated_at": "2026-07-16T19:21:33Z",
-    "pushed_at": "2026-07-14T11:35:29Z",
+    "updated_at": "2026-07-17T05:28:19Z",
+    "pushed_at": "2026-07-17T05:28:15Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "marcusholtz/marcusholtz.com": {
@@ -12693,7 +12693,7 @@
     "url": "https://github.com/bitdoze/bitdoze-astro-theme",
     "description": "Astro blog theme by bitdoze.com",
     "stars": 27,
-    "forks": 51,
+    "forks": 52,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -13124,7 +13124,7 @@
     "license": "MIT",
     "created_at": "2026-04-17T15:31:18Z",
     "updated_at": "2026-06-24T17:32:50Z",
-    "pushed_at": "2026-07-03T01:33:30Z",
+    "pushed_at": "2026-07-17T01:33:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mindfulnessinc/website-base": {
@@ -13325,7 +13325,7 @@
     "url": "https://github.com/MarcusHoltz/astro-portfolio-theme",
     "description": "Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. ",
     "stars": 12,
-    "forks": 22,
+    "forks": 23,
     "topics": [],
     "language": "Astro",
     "license": null,
@@ -15659,7 +15659,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-06-28T03:13:19Z",
-    "updated_at": "2026-07-15T11:28:39Z",
+    "updated_at": "2026-07-17T04:07:36Z",
     "pushed_at": "2026-07-12T03:41:59Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -16169,7 +16169,7 @@
     "license": "MIT",
     "created_at": "2024-12-26T17:43:47Z",
     "updated_at": "2026-07-15T09:49:38Z",
-    "pushed_at": "2026-07-15T18:33:47Z",
+    "pushed_at": "2026-07-17T04:16:41Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
   "zhanyihui06/avalon": {
@@ -16229,7 +16229,7 @@
     "name": "kydecker/astro-lilypond",
     "url": "https://github.com/kydecker/astro-lilypond",
     "description": "An Astro integration for rendering LilyPond music notation.",
-    "stars": 20,
+    "stars": 22,
     "forks": 1,
     "topics": [
       "astro",
@@ -16241,8 +16241,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-07-16T23:34:12Z",
-    "pushed_at": "2026-07-16T23:21:09Z",
+    "updated_at": "2026-07-17T05:16:39Z",
+    "pushed_at": "2026-07-17T01:50:51Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -16298,8 +16298,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-15T04:34:08Z",
-    "updated_at": "2026-07-15T22:41:07Z",
-    "pushed_at": "2026-07-15T22:41:03Z",
+    "updated_at": "2026-07-17T06:09:40Z",
+    "pushed_at": "2026-07-17T06:09:29Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
   "xocothemes/maria": {
@@ -16530,8 +16530,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-30T21:12:58Z",
-    "updated_at": "2026-07-17T00:49:46Z",
-    "pushed_at": "2026-07-17T00:49:41Z",
+    "updated_at": "2026-07-17T02:52:02Z",
+    "pushed_at": "2026-07-17T02:51:58Z",
     "discovered_at": "2026-07-17T00:50:02.705Z"
   },
   "cerebralblue/ns-docs": {
