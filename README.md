@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 852
-**Last updated:** 2026-07-17T18:29:34.577Z
+**Last updated:** 2026-07-18T00:45:56.220Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 0 | 2026-07-17 | An installable documentation theme for Astro. |
-| [adrian-ub/starlight-theme-black](https://github.com/adrian-ub/starlight-theme-black) | 42 | 2026-07-17 | Starlight theme inspired by @shadcn docs |
-| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 0 | 2026-07-17 | Reusable Astro components for MDX content. |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-17 | Matomo integration for Astro |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 214 | 2026-07-18 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [adrian-ub/starlight-theme-black](https://github.com/adrian-ub/starlight-theme-black) | 42 | 2026-07-18 | Starlight theme inspired by @shadcn docs |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | 2026-07-18 | A fast and minimalist personal website and blog powered by A... |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-17 | Unify and control AI coding agents from one CLI for Claude, ... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-17 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [jonasfroeller/astro.async.loader](https://github.com/jonasfroeller/astro.async.loader) | 0 | 2026-07-17 | An Astro component that shows a loader while iframe is loadi... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-07-17 | My astro static blog use theme Firefly. |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-17 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-17 | Matomo integration for Astro |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-17 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-07-17 | ✨A static blog template built with Astro. |
+| [ZCHIT/Fire-fly](https://github.com/ZCHIT/Fire-fly) | 0 | 2026-07-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 23 | 2026-07-17 | An Astro integration for rendering LilyPond music notation. |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-17 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 0 | 2026-07-17 | An installable documentation theme for Astro. |
+| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 0 | 2026-07-17 | Reusable Astro components for MDX content. |
 | [yashjawale/saral-theme-astro](https://github.com/yashjawale/saral-theme-astro) | 62 | 2026-07-17 | A simple theme for personal blog sites, created for Astro fr... |
 | [kannansuresh/chirping-astro-starter](https://github.com/kannansuresh/chirping-astro-starter) | 5 | 2026-07-17 | Starter template for Chirping Astro theme. |
 | [kannansuresh/chirping-astro](https://github.com/kannansuresh/chirping-astro) | 43 | 2026-07-17 | Chirping Astro. An astro theme inspired from the famous Jeky... |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-17 | An Astro Prometheus nodejs middleware integration for Astro |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 214 | 2026-07-17 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-17 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-17 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 13 | 2026-07-17 | Documentation for Azion's services and features. |
-| [owlmosaic/bookworm-light-astro](https://github.com/owlmosaic/bookworm-light-astro) | 0 | 2026-07-17 | Bookworm Light is a feature-rich, minimal, highly customizab... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-17 | Astro integration for loading fonts into build artifacts wit... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-07-17 | Modern static blog theme with distinctive anime-style featur... |
-| [MatChaLab/Quasar-Astro-Theme](https://github.com/MatChaLab/Quasar-Astro-Theme) | 1 | 2026-07-17 | A cosmic-inspired Astro theme, grounded in terrestrial stabi... |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-07-17 | The global variable integration for Astro 🌐 |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 201 | 2026-07-17 | The i18n integration for Astro 🧑‍🚀 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-18T00:45 | 0 | 795 | 852 |
 | 2026-07-17T18:29 | 5 | 790 | 852 |
 | 2026-07-17T12:35 | 1 | 792 | 847 |
 | 2026-07-17T06:57 | 0 | 793 | 846 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-16T06:59 | 2 | 789 | 840 |
 | 2026-07-16T00:47 | 0 | 790 | 838 |
 | 2026-07-15T18:32 | 1 | 789 | 838 |
-| 2026-07-15T12:38 | 1 | 788 | 837 |
 
 ---
 
