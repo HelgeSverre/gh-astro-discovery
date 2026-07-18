@@ -209,8 +209,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
-    "updated_at": "2026-07-18T04:54:13Z",
-    "pushed_at": "2026-07-18T04:55:39Z",
+    "updated_at": "2026-07-18T08:28:27Z",
+    "pushed_at": "2026-07-18T08:29:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-07-17T10:12:21Z",
+    "pushed_at": "2026-07-18T08:56:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -4361,7 +4361,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-01-09T23:55:15Z",
-    "pushed_at": "2026-07-16T12:56:19Z",
+    "pushed_at": "2026-07-18T12:14:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -4697,7 +4697,7 @@
     "name": "Matb85/components-pack",
     "url": "https://github.com/Matb85/components-pack",
     "description": "Photos-related UI components for Svelte 5, Vue 3, Astro 5 and vanilla JS",
-    "stars": 15,
+    "stars": 16,
     "forks": 0,
     "topics": [
       "astro",
@@ -4724,7 +4724,7 @@
     "language": "TypeScript",
     "license": "ISC",
     "created_at": "2025-02-09T20:34:58Z",
-    "updated_at": "2026-06-09T15:27:02Z",
+    "updated_at": "2026-07-18T07:49:35Z",
     "pushed_at": "2025-07-11T14:18:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5097,8 +5097,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-18T05:26:50Z",
-    "pushed_at": "2026-07-18T05:26:44Z",
+    "updated_at": "2026-07-18T11:15:38Z",
+    "pushed_at": "2026-07-18T11:15:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5248,8 +5248,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-18T06:45:34Z",
-    "pushed_at": "2026-07-18T06:45:28Z",
+    "updated_at": "2026-07-18T10:04:25Z",
+    "pushed_at": "2026-07-18T10:04:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5272,8 +5272,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-18T06:35:01Z",
-    "pushed_at": "2026-07-18T06:34:57Z",
+    "updated_at": "2026-07-18T12:25:28Z",
+    "pushed_at": "2026-07-18T12:25:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5462,7 +5462,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-07-17T06:25:15Z",
+    "updated_at": "2026-07-18T10:38:20Z",
     "pushed_at": "2026-07-12T16:56:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5938,7 +5938,7 @@
     "url": "https://github.com/zionfuo/astro-webstack",
     "description": "A astro theme based on webstack. | 一个基于webstack的astro主题。",
     "stars": 1,
-    "forks": 3,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-template",
@@ -8338,28 +8338,6 @@
     "pushed_at": "2023-04-14T04:34:13Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
-  "spinalcms/astro-docs-template": {
-    "name": "SpinalCMS/astro-docs-template",
-    "url": "https://github.com/SpinalCMS/astro-docs-template",
-    "description": "An Astro + Tailwind CSS theme for your documentation site ",
-    "stars": 20,
-    "forks": 8,
-    "topics": [
-      "astro",
-      "astro-build",
-      "astro-build-template",
-      "astro-js",
-      "astro-starter",
-      "docs-template",
-      "tailwindcss"
-    ],
-    "language": "Astro",
-    "license": "MIT",
-    "created_at": "2022-10-23T16:02:11Z",
-    "updated_at": "2024-12-17T11:01:24Z",
-    "pushed_at": "2023-01-24T13:47:32Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
   "dlcastillop/starlight-page-actions": {
     "name": "dlcastillop/starlight-page-actions",
     "url": "https://github.com/dlcastillop/starlight-page-actions",
@@ -10467,8 +10445,8 @@
     "name": "freshjuice-dev/zest",
     "url": "https://github.com/freshjuice-dev/zest",
     "description": "A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance.",
-    "stars": 7,
-    "forks": 2,
+    "stars": 10,
+    "forks": 5,
     "topics": [
       "11ty",
       "11ty-plugin",
@@ -10482,7 +10460,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-07-13T16:00:42Z",
+    "updated_at": "2026-07-18T10:40:38Z",
     "pushed_at": "2026-07-07T18:08:33Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
@@ -11314,7 +11292,7 @@
     "name": "julien-deramond/component-anatomy",
     "url": "https://github.com/julien-deramond/component-anatomy",
     "description": "Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights.",
-    "stars": 13,
+    "stars": 14,
     "forks": 0,
     "topics": [
       "astro",
@@ -11328,7 +11306,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-07-17T13:51:03Z",
+    "updated_at": "2026-07-18T11:12:19Z",
     "pushed_at": "2026-07-13T06:28:31Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
@@ -11646,7 +11624,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-18T04:36:35Z",
+    "pushed_at": "2026-07-18T11:42:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12002,8 +11980,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-04-27T14:12:53Z",
-    "updated_at": "2026-07-17T05:34:22Z",
-    "pushed_at": "2026-07-17T05:34:16Z",
+    "updated_at": "2026-07-18T11:09:31Z",
+    "pushed_at": "2026-07-18T11:09:27Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hansmartensdev/astro-rocket": {
@@ -12656,8 +12634,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2017-06-14T16:16:41Z",
-    "updated_at": "2026-07-18T05:51:08Z",
-    "pushed_at": "2026-07-18T05:51:05Z",
+    "updated_at": "2026-07-18T08:09:08Z",
+    "pushed_at": "2026-07-18T08:08:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "marquisdesac/ceofolio": {
@@ -12848,7 +12826,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-06-28T16:30:26Z",
     "updated_at": "2026-06-28T17:42:27Z",
-    "pushed_at": "2026-07-15T12:53:34Z",
+    "pushed_at": "2026-07-18T11:28:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "foxmoe/korikura-theme": {
@@ -15023,8 +15001,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T17:47:03Z",
-    "updated_at": "2026-07-15T21:11:20Z",
-    "pushed_at": "2026-07-15T12:25:40Z",
+    "updated_at": "2026-07-18T08:43:01Z",
+    "pushed_at": "2026-07-18T08:44:42Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "tamakiruri/tamakiruri.github.io": {
@@ -15943,8 +15921,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-12T01:04:26Z",
-    "updated_at": "2026-07-18T05:22:50Z",
-    "pushed_at": "2026-07-18T05:22:47Z",
+    "updated_at": "2026-07-18T08:47:59Z",
+    "pushed_at": "2026-07-18T08:47:54Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "carlosulisesochoa/astro-i18n-multilanguage-blog": {
@@ -16479,7 +16457,7 @@
     "name": "M4xKey/astro-chalet",
     "url": "https://github.com/M4xKey/astro-chalet",
     "description": "The Astro theme for local businesses — one config file, local SEO built in, GDPR-ready.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro-template",
@@ -16493,7 +16471,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-16T14:30:05Z",
-    "updated_at": "2026-07-16T18:10:55Z",
+    "updated_at": "2026-07-18T09:47:17Z",
     "pushed_at": "2026-07-16T18:10:39Z",
     "discovered_at": "2026-07-16T18:32:45.402Z"
   },
@@ -16591,15 +16569,15 @@
     "language": "Astro",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-17T13:15:24Z",
-    "updated_at": "2026-07-18T05:59:24Z",
-    "pushed_at": "2026-07-18T06:04:02Z",
+    "updated_at": "2026-07-18T11:12:35Z",
+    "pushed_at": "2026-07-18T11:12:28Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "prosefly/astro-theme-lotus": {
     "name": "prosefly/astro-theme-lotus",
     "url": "https://github.com/prosefly/astro-theme-lotus",
     "description": "An installable documentation theme for Astro.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -16610,8 +16588,8 @@
     "language": "Astro",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-16T13:54:39Z",
-    "updated_at": "2026-07-18T05:17:55Z",
-    "pushed_at": "2026-07-18T05:17:48Z",
+    "updated_at": "2026-07-18T11:29:09Z",
+    "pushed_at": "2026-07-18T11:29:02Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "matchalab/quasar-astro-theme": {
@@ -16666,8 +16644,50 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-18T04:46:45Z",
-    "updated_at": "2026-07-18T04:46:59Z",
+    "updated_at": "2026-07-18T07:39:52Z",
     "pushed_at": "2026-07-18T04:46:55Z",
     "discovered_at": "2026-07-18T06:47:54.450Z"
+  },
+  "nipun-arora/cool-astro-forms": {
+    "name": "nipun-arora/cool-astro-forms",
+    "url": "https://github.com/nipun-arora/cool-astro-forms",
+    "description": "Capture abandoned form leads on Astro — plus recovery emails, payments, and a self-hosted admin. Zero deps, MIT.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "astro-integration",
+      "form-abandonment",
+      "forms",
+      "lead-generation",
+      "self-hosted",
+      "sqlite",
+      "stripe",
+      "turso",
+      "typescript",
+      "webhooks",
+      "wordpress-alternative"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-07-18T09:42:31Z",
+    "updated_at": "2026-07-18T11:13:44Z",
+    "pushed_at": "2026-07-18T11:13:40Z",
+    "discovered_at": "2026-07-18T12:26:12.442Z"
+  },
+  "fabienniel/manifold": {
+    "name": "FabienNiel/manifold",
+    "url": "https://github.com/FabienNiel/manifold",
+    "description": "A minimal, reading-first ML blog built with Astro (Journal theme, KaTeX math).",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-07-18T10:34:05Z",
+    "updated_at": "2026-07-18T10:48:59Z",
+    "pushed_at": "2026-07-18T10:48:51Z",
+    "discovered_at": "2026-07-18T12:26:12.443Z"
   }
 }
