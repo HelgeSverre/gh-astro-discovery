@@ -2,13 +2,16 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 854
-**Last updated:** 2026-07-18T12:26:12.450Z
+**Total packages tracked:** 857
+**Last updated:** 2026-07-18T18:25:20.745Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [devLythen/astro-endfield-theme](https://github.com/devLythen/astro-endfield-theme) | 0 |  |
+| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
+| [ascalotoru/s3-photo-gallery](https://github.com/ascalotoru/s3-photo-gallery) | 0 | Configurable photo gallery powered by Astro and any S3-compatible bucket. Infini... |
 | [FabienNiel/manifold](https://github.com/FabienNiel/manifold) | 0 | A minimal, reading-first ML blog built with Astro (Journal theme, KaTeX math). |
 | [nipun-arora/cool-astro-forms](https://github.com/nipun-arora/cool-astro-forms) | 0 | Capture abandoned form leads on Astro — plus recovery emails, payments, and a se... |
 | [FannyDevz/astro-portofolio](https://github.com/FannyDevz/astro-portofolio) | 0 | Single-screen bilingual portfolio built with Astro — Apple Liquid Glass UI, them... |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [lycia324/astropunk](https://github.com/lycia324/astropunk) | 0 | A NASA Punk style astro theme |
 | [web-stacked/healthcare-astro-theme](https://github.com/web-stacked/healthcare-astro-theme) | 0 |  |
 | [JulyFire365/ridgeline-lite](https://github.com/JulyFire365/ridgeline-lite) | 0 | Free roofing contractor website template — Astro 5 + Tailwind CSS 4. Lighthouse ... |
-| [xMuelsysex/Firefly-legacy-elysia](https://github.com/xMuelsysex/Firefly-legacy-elysia) | 0 | 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, fresh and aesthetic A... |
-| [Mapleawaa/Cyrene](https://github.com/Mapleawaa/Cyrene) | 0 | Cyrene — A clean and immersive blogging theme for Astro, designed for long-form ... |
-| [xocothemes/maria](https://github.com/xocothemes/maria) | 6 | Modern Astro theme for UI/UX and product designers. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-18 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-18 | This Astro component simplifies the process of adding moneti... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-18 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 1 | 2026-07-18 | An installable documentation theme for Astro. |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-07-18 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-18 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [nipun-arora/cool-astro-forms](https://github.com/nipun-arora/cool-astro-forms) | 0 | 2026-07-18 | Capture abandoned form leads on Astro — plus recovery emails... |
-| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 0 | 2026-07-18 | Reusable Astro components for MDX content. |
-| [ezzty/krya-en](https://github.com/ezzty/krya-en) | 0 | 2026-07-18 | A simple Astro theme, optimized single-column layout mobile/... |
-| [FabienNiel/manifold](https://github.com/FabienNiel/manifold) | 0 | 2026-07-18 | A minimal, reading-first ML blog built with Astro (Journal t... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-18 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-07-18 | Loaders for Astro's Content Layer |
-| [nagameTW/astro-flipside](https://github.com/nagameTW/astro-flipside) | 2 | 2026-07-18 | Two sides, one site. A minimal, Chinese-optimized Astro blog... |
-| [nearmelab/3dinterior](https://github.com/nearmelab/3dinterior) | 10 | 2026-07-18 | Free Astro theme built for architects and design studios. ⭐️... |
-| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-07-18 | Support AsciiDoc pages in Astro |
-| [encoreshao/blog](https://github.com/encoreshao/blog) | 2 | 2026-07-18 | Encore's Blog - Built with Astro 6, Tailwind CSS 4, and a Gl... |
-| [adrian-ub/starlight-theme-black](https://github.com/adrian-ub/starlight-theme-black) | 42 | 2026-07-18 | Starlight theme inspired by @shadcn docs |
-| [Sekinal/irvingernesto.com](https://github.com/Sekinal/irvingernesto.com) | 0 | 2026-07-18 | Personal site of Irving Ernesto Quezada Ramírez (ieqr). Astr... |
+| [devLythen/astro-endfield-theme](https://github.com/devLythen/astro-endfield-theme) | 0 | 2026-07-18 |  |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 1 | 2026-07-18 | Astro integration that uses existing configuration to write ... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-07-18 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 1 | 2026-07-18 | An installable documentation theme for Astro. |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-18 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | 2026-07-18 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 45 | 2026-07-18 | Support AsciiDoc pages in Astro |
+| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 32 | 2026-07-18 | Astro component for swiper, dedicated to slider / carousel /... |
+| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 1 | 2026-07-18 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-18 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-18 | An Astro Prometheus nodejs middleware integration for Astro |
+| [ascalotoru/s3-photo-gallery](https://github.com/ascalotoru/s3-photo-gallery) | 0 | 2026-07-18 | Configurable photo gallery powered by Astro and any S3-compa... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-07-18 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 | 2026-07-18 |  |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-18 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [FannyDevz/astro-portofolio](https://github.com/FannyDevz/astro-portofolio) | 0 | 2026-07-18 | Single-screen bilingual portfolio built with Astro — Apple L... |
+| [jdevalk/astro-markdown-alternate](https://github.com/jdevalk/astro-markdown-alternate) | 1 | 2026-07-18 | Astro integration that makes markdown sources discoverable v... |
+| [ezzty/krya-en](https://github.com/ezzty/krya-en) | 0 | 2026-07-18 | A simple Astro theme, optimized single-column layout mobile/... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 26 | 2026-07-18 | An Astro integration for rendering LilyPond music notation. |
+| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-07-18 | A minimal Astro blog theme |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-18T18:25 | 3 | 793 | 857 |
 | 2026-07-18T12:26 | 2 | 793 | 854 |
 | 2026-07-18T06:47 | 1 | 794 | 853 |
 | 2026-07-18T00:45 | 0 | 795 | 852 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-17T00:50 | 2 | 791 | 846 |
 | 2026-07-16T18:32 | 2 | 790 | 844 |
 | 2026-07-16T12:43 | 2 | 790 | 842 |
-| 2026-07-16T06:59 | 2 | 789 | 840 |
 
 ---
 
