@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-22T02:22:00Z",
-    "pushed_at": "2026-07-22T02:21:56Z",
+    "updated_at": "2026-07-22T10:37:36Z",
+    "pushed_at": "2026-07-22T10:38:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-07-21T18:57:41Z",
-    "pushed_at": "2026-07-21T20:07:39Z",
+    "updated_at": "2026-07-22T11:52:36Z",
+    "pushed_at": "2026-07-22T11:51:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -881,8 +881,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-11-03T21:15:44Z",
-    "updated_at": "2026-06-02T10:07:28Z",
-    "pushed_at": "2026-06-02T10:07:27Z",
+    "updated_at": "2026-07-22T07:22:36Z",
+    "pushed_at": "2026-07-22T07:21:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-announcement": {
@@ -4243,7 +4243,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-07-21T14:37:22Z",
-    "pushed_at": "2026-07-21T14:32:14Z",
+    "pushed_at": "2026-07-22T07:41:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5447,7 +5447,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 150,
-    "forks": 54,
+    "forks": 55,
     "topics": [
       "astro",
       "astro-theme",
@@ -5538,7 +5538,7 @@
     "name": "the3ash/astro-chiri",
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
-    "stars": 299,
+    "stars": 300,
     "forks": 96,
     "topics": [
       "astro",
@@ -5553,7 +5553,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-07-21T01:53:36Z",
+    "updated_at": "2026-07-22T07:12:45Z",
     "pushed_at": "2026-07-21T01:53:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5851,7 +5851,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2026-07-21T15:09:55Z",
-    "pushed_at": "2026-07-21T15:07:10Z",
+    "pushed_at": "2026-07-22T08:49:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -8460,7 +8460,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-07-21T06:40:49Z",
-    "pushed_at": "2026-07-21T21:29:09Z",
+    "pushed_at": "2026-07-22T07:44:05Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10445,8 +10445,8 @@
     "name": "freshjuice-dev/zest",
     "url": "https://github.com/freshjuice-dev/zest",
     "description": "A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance.",
-    "stars": 10,
-    "forks": 5,
+    "stars": 54,
+    "forks": 47,
     "topics": [
       "11ty",
       "11ty-plugin",
@@ -10460,7 +10460,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-07-18T10:40:38Z",
+    "updated_at": "2026-07-22T10:13:25Z",
     "pushed_at": "2026-07-07T18:08:33Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
@@ -11624,7 +11624,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-22T05:32:46Z",
+    "pushed_at": "2026-07-22T12:19:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11994,8 +11994,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-07-22T00:14:51Z",
-    "pushed_at": "2026-07-22T03:29:09Z",
+    "updated_at": "2026-07-22T11:34:18Z",
+    "pushed_at": "2026-07-22T12:21:19Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -12244,8 +12244,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-29T10:07:48Z",
-    "updated_at": "2026-07-20T20:09:34Z",
-    "pushed_at": "2026-07-20T14:20:50Z",
+    "updated_at": "2026-07-22T07:24:45Z",
+    "pushed_at": "2026-07-22T07:24:17Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "denis23x/denis-iakimenko": {
@@ -13063,7 +13063,7 @@
     "license": null,
     "created_at": "2026-06-11T23:20:14Z",
     "updated_at": "2026-07-16T13:02:25Z",
-    "pushed_at": "2026-07-16T13:01:23Z",
+    "pushed_at": "2026-07-22T08:35:40Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "schalkneethling/anchor-positioning-in-space": {
@@ -15001,8 +15001,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T17:47:03Z",
-    "updated_at": "2026-07-18T08:43:01Z",
-    "pushed_at": "2026-07-18T08:44:42Z",
+    "updated_at": "2026-07-22T07:47:44Z",
+    "pushed_at": "2026-07-22T07:47:47Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "tamakiruri/tamakiruri.github.io": {
@@ -16508,8 +16508,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-30T21:12:58Z",
-    "updated_at": "2026-07-19T20:46:56Z",
-    "pushed_at": "2026-07-19T20:46:52Z",
+    "updated_at": "2026-07-22T12:39:27Z",
+    "pushed_at": "2026-07-22T12:34:56Z",
     "discovered_at": "2026-07-17T00:50:02.705Z"
   },
   "cerebralblue/ns-docs": {
@@ -16602,8 +16602,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-17T15:53:19Z",
-    "updated_at": "2026-07-21T10:36:06Z",
-    "pushed_at": "2026-07-21T10:36:00Z",
+    "updated_at": "2026-07-22T07:22:09Z",
+    "pushed_at": "2026-07-22T07:21:31Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "zkonikishi/sakurairo-astro-theme": {
@@ -16631,7 +16631,7 @@
     "license": "MIT",
     "created_at": "2026-07-07T12:32:22Z",
     "updated_at": "2026-07-17T14:28:51Z",
-    "pushed_at": "2026-07-20T17:37:49Z",
+    "pushed_at": "2026-07-22T10:28:04Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "fannydevz/astro-portofolio": {
@@ -16672,8 +16672,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-07-21T12:56:45Z",
-    "pushed_at": "2026-07-21T12:57:08Z",
+    "updated_at": "2026-07-22T09:30:25Z",
+    "pushed_at": "2026-07-22T09:38:56Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
   "fabienniel/manifold": {
@@ -16742,7 +16742,7 @@
     "name": "dodolalorc/astro-navfolio",
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
-    "stars": 74,
+    "stars": 75,
     "forks": 15,
     "topics": [
       "astro",
@@ -16751,7 +16751,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-11T11:29:52Z",
-    "updated_at": "2026-07-22T03:28:03Z",
+    "updated_at": "2026-07-22T10:08:06Z",
     "pushed_at": "2026-07-21T13:07:57Z",
     "discovered_at": "2026-07-19T18:25:09.650Z"
   },
@@ -17027,8 +17027,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-21T12:34:19Z",
-    "updated_at": "2026-07-21T15:18:48Z",
-    "pushed_at": "2026-07-21T15:18:36Z",
+    "updated_at": "2026-07-22T09:09:40Z",
+    "pushed_at": "2026-07-22T09:06:56Z",
     "discovered_at": "2026-07-21T18:36:44.186Z"
   },
   "tower1229/refined-x": {
@@ -17063,5 +17063,76 @@
     "updated_at": "2026-07-22T02:42:40Z",
     "pushed_at": "2026-07-22T02:42:29Z",
     "discovered_at": "2026-07-22T07:03:08.718Z"
+  },
+  "martinsa04/studycompanion": {
+    "name": "MartinSA04/StudyCompanion",
+    "url": "https://github.com/MartinSA04/StudyCompanion",
+    "description": "Framework for creating study companion webpages.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "course-notes",
+      "education",
+      "flashcards",
+      "katex",
+      "mdx",
+      "norwegian",
+      "ntnu",
+      "open-educational-resources",
+      "quiz",
+      "study-guide",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-05-25T20:56:11Z",
+    "updated_at": "2026-07-22T08:26:27Z",
+    "pushed_at": "2026-07-22T08:25:42Z",
+    "discovered_at": "2026-07-22T12:41:39.306Z"
+  },
+  "yickminglee/astro-notion-theme": {
+    "name": "yickminglee/astro-notion-theme",
+    "url": "https://github.com/yickminglee/astro-notion-theme",
+    "description": "An Astro starter that looks like a Notion page. Notion's typography, callouts, columns and block colours — static HTML, no JavaScript. Unofficial.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "notion",
+      "static-site",
+      "theme"
+    ],
+    "language": "CSS",
+    "license": "MIT",
+    "created_at": "2026-07-22T10:04:36Z",
+    "updated_at": "2026-07-22T10:06:11Z",
+    "pushed_at": "2026-07-22T10:04:40Z",
+    "discovered_at": "2026-07-22T12:41:39.307Z"
+  },
+  "munzevihq/astrom": {
+    "name": "munzevihq/astroM",
+    "url": "https://github.com/munzevihq/astroM",
+    "description": "A minimalist, ultra-fast, and developer-focused Astro blog theme with a 'Terminal' aesthetic.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog-theme",
+      "developer-portfolio",
+      "developer-portfolio-template",
+      "tailwind-css",
+      "terminal-theme"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-07-22T08:17:36Z",
+    "updated_at": "2026-07-22T09:58:16Z",
+    "pushed_at": "2026-07-22T09:51:31Z",
+    "discovered_at": "2026-07-22T12:41:39.307Z"
   }
 }
