@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 872
-**Last updated:** 2026-07-21T18:36:44.194Z
+**Last updated:** 2026-07-22T00:48:10.771Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 154 | 2026-07-21 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 13 | 2026-07-21 | Documentation for Azion's services and features. |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-21 | Format 🗻 |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 81 | 2026-07-22 | Lightning-fast Astro 7 starter theme to build anything on: 5... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-07-22 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | 2026-07-22 | A fast and minimalist personal website and blog powered by A... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-21 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [arraypress/waveform-bar-astro](https://github.com/arraypress/waveform-bar-astro) | 1 | 2026-07-21 | Astro components for @arraypress/waveform-bar — typed single... |
-| [arraypress/waveform-player-astro](https://github.com/arraypress/waveform-player-astro) | 0 | 2026-07-21 | Astro component wrapper for @arraypress/waveform-player — ty... |
-| [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 499 | 2026-07-21 | Dante, a single-author blog and portfolio theme for Astro.js... |
-| [JustGoodUI/ovidius-astro-theme](https://github.com/JustGoodUI/ovidius-astro-theme) | 115 | 2026-07-21 | Ovidius - a single-author blog theme for Astro.js. |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 151 | 2026-07-21 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [ykocaman/astro-medium-loader](https://github.com/ykocaman/astro-medium-loader) | 4 | 2026-07-21 | An Astro loader that fetches and parses Medium RSS feeds by ... |
-| [creativepointz/zylo-astro-theme](https://github.com/creativepointz/zylo-astro-theme) | 0 | 2026-07-21 | A polished, multi-page documentation & SaaS marketing theme ... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-07-21 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-07-21 | My astro static blog use theme Firefly. |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 8 | 2026-07-21 | An Astro Prometheus nodejs middleware integration for Astro |
+| [elstron/astro-search](https://github.com/elstron/astro-search) | 2 | 2026-07-21 | astro-search is an Astro integration that generates a static... |
+| [GrassBlock1/mercury](https://github.com/GrassBlock1/mercury) | 4 | 2026-07-21 | Terminal-like blog theme built from Astro. |
+| [aziontech/docs](https://github.com/aziontech/docs) | 13 | 2026-07-21 | Documentation for Azion's services and features. |
+| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | 2026-07-21 | A curated collection of developer resources, tutorials, tool... |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-07-21 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 | [Mariatta/astro-theme-popular](https://github.com/Mariatta/astro-theme-popular) | 0 | 2026-07-21 | Popular: a warm, community-first Astro theme for meetups, cl... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-07-21 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 214 | 2026-07-21 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [passwordgloo/astro-theme-starread](https://github.com/passwordgloo/astro-theme-starread) | 2 | 2026-07-21 | Astro Star Read Theme （星阅主题） |
-| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | 2026-07-21 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
-| [nhedger/astro-downgrade-heading](https://github.com/nhedger/astro-downgrade-heading) | 0 | 2026-07-21 | Downgrade Markdown Headings in Astro |
-| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 0 | 2026-07-21 | Reusable Astro components for MDX content. |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-21 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [telexintegrations/NASA-Astronomy-Picture-of-the-Day-Integration](https://github.com/telexintegrations/NASA-Astronomy-Picture-of-the-Day-Integration) | 0 | 2026-07-21 | An integration that fetches NASA's Astronomy Picture of the ... |
+| [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-07-21 | A framework free Astro starter template |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-07-21 | Loaders for Astro's Content Layer |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-21 | This Astro component simplifies the process of adding moneti... |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 154 | 2026-07-21 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-21 | Format 🗻 |
+| [arraypress/waveform-bar-astro](https://github.com/arraypress/waveform-bar-astro) | 1 | 2026-07-21 | Astro components for @arraypress/waveform-bar — typed single... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-22T00:48 | 0 | 797 | 872 |
 | 2026-07-21T18:36 | 1 | 796 | 872 |
 | 2026-07-21T12:40 | 3 | 793 | 871 |
 | 2026-07-21T07:02 | 0 | 795 | 868 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-20T07:18 | 3 | 793 | 866 |
 | 2026-07-20T00:52 | 3 | 792 | 863 |
 | 2026-07-19T18:25 | 3 | 792 | 860 |
-| 2026-07-19T12:26 | 0 | 795 | 857 |
 
 ---
 
