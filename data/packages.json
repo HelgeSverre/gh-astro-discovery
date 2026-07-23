@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-07-22T20:27:29Z",
-    "pushed_at": "2026-07-22T20:27:22Z",
+    "updated_at": "2026-07-23T12:29:41Z",
+    "pushed_at": "2026-07-23T12:29:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -534,8 +534,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-09-22T12:11:49Z",
-    "updated_at": "2026-07-04T09:52:33Z",
-    "pushed_at": "2026-07-21T09:17:56Z",
+    "updated_at": "2026-07-23T10:08:28Z",
+    "pushed_at": "2026-07-23T08:09:25Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "pawcoding/astro-integration-pocketbase": {
@@ -554,8 +554,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-05T16:25:44Z",
-    "updated_at": "2026-07-18T21:31:44Z",
-    "pushed_at": "2026-07-04T10:17:30Z",
+    "updated_at": "2026-07-23T08:50:12Z",
+    "pushed_at": "2026-07-23T09:36:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "qwikdev/astro": {
@@ -2616,7 +2616,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-07-23T01:08:51Z",
+    "updated_at": "2026-07-23T09:27:51Z",
     "pushed_at": "2026-07-19T19:58:53Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5281,7 +5281,7 @@
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
     "stars": 154,
-    "forks": 533,
+    "forks": 534,
     "topics": [
       "astro-template",
       "astro-theme",
@@ -5489,8 +5489,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-07-23T04:54:03Z",
-    "pushed_at": "2026-07-23T00:20:34Z",
+    "updated_at": "2026-07-23T08:46:20Z",
+    "pushed_at": "2026-07-23T08:47:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -5539,7 +5539,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 300,
-    "forks": 96,
+    "forks": 97,
     "topics": [
       "astro",
       "astro-theme",
@@ -5670,7 +5670,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 278,
+    "stars": 277,
     "forks": 81,
     "topics": [
       "astro",
@@ -5689,7 +5689,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-07-07T03:45:15Z",
+    "updated_at": "2026-07-23T11:18:16Z",
     "pushed_at": "2026-06-24T05:40:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7877,7 +7877,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-07-14T11:20:31Z",
-    "pushed_at": "2026-07-21T09:43:58Z",
+    "pushed_at": "2026-07-23T08:05:00Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -9689,7 +9689,7 @@
     "url": "https://github.com/LemonAdorable/astro-theme-iris",
     "description": "⭐A simple, fast and powerful blog & document theme built by Astro to build you own knowledge base",
     "stars": 9,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "astro",
       "astro-blog",
@@ -11472,8 +11472,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-02T06:50:25Z",
-    "updated_at": "2026-07-18T02:47:38Z",
-    "pushed_at": "2026-07-17T17:39:43Z",
+    "updated_at": "2026-07-23T10:33:21Z",
+    "pushed_at": "2026-07-23T10:33:17Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "kannansuresh/chirping-astro": {
@@ -11492,8 +11492,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-28T12:45:05Z",
-    "updated_at": "2026-07-22T17:52:33Z",
-    "pushed_at": "2026-07-17T17:38:56Z",
+    "updated_at": "2026-07-23T10:32:29Z",
+    "pushed_at": "2026-07-23T10:32:31Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "n-yokomachi/vivibio": {
@@ -11577,8 +11577,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-12-30T06:54:53Z",
-    "updated_at": "2026-07-22T15:24:55Z",
-    "pushed_at": "2026-07-22T15:20:04Z",
+    "updated_at": "2026-07-23T11:31:50Z",
+    "pushed_at": "2026-07-23T11:31:47Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mapineda48/mapineda48.github.io": {
@@ -11624,7 +11624,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-23T05:13:04Z",
+    "pushed_at": "2026-07-23T12:20:07Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11994,8 +11994,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-07-22T19:59:46Z",
-    "pushed_at": "2026-07-22T12:21:19Z",
+    "updated_at": "2026-07-23T12:40:04Z",
+    "pushed_at": "2026-07-23T12:17:06Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -12305,7 +12305,7 @@
     "name": "thomasKn/astro-shopify",
     "url": "https://github.com/thomasKn/astro-shopify",
     "description": "A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.",
-    "stars": 499,
+    "stars": 498,
     "forks": 147,
     "topics": [
       "astro",
@@ -12316,7 +12316,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-01-18T19:23:55Z",
-    "updated_at": "2026-07-23T04:15:46Z",
+    "updated_at": "2026-07-23T11:18:18Z",
     "pushed_at": "2026-07-20T09:35:03Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12671,7 +12671,7 @@
     "url": "https://github.com/bitdoze/bitdoze-astro-theme",
     "description": "Astro blog theme by bitdoze.com",
     "stars": 27,
-    "forks": 52,
+    "forks": 51,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -14329,8 +14329,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-10-23T16:24:30Z",
-    "updated_at": "2026-07-21T10:08:00Z",
-    "pushed_at": "2026-07-21T10:06:32Z",
+    "updated_at": "2026-07-23T11:53:34Z",
+    "pushed_at": "2026-07-23T11:53:29Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mkljczk/mkljczk-astro-theme": {
@@ -15571,8 +15571,8 @@
     "language": "Astro",
     "license": "MPL-2.0",
     "created_at": "2026-07-10T16:16:09Z",
-    "updated_at": "2026-07-23T05:44:57Z",
-    "pushed_at": "2026-07-23T05:44:51Z",
+    "updated_at": "2026-07-23T09:34:35Z",
+    "pushed_at": "2026-07-23T07:58:08Z",
     "discovered_at": "2026-07-11T06:55:31.409Z"
   },
   "bkspace/starlight-mcp": {
@@ -16111,8 +16111,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-10T10:04:48Z",
-    "updated_at": "2026-07-22T04:31:40Z",
-    "pushed_at": "2026-07-22T04:31:33Z",
+    "updated_at": "2026-07-23T11:23:06Z",
+    "pushed_at": "2026-07-23T11:22:41Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
   "zchit/fire-fly": {
@@ -16227,7 +16227,7 @@
     "name": "xocothemes/quietpages",
     "url": "https://github.com/xocothemes/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 18,
+    "stars": 19,
     "forks": 7,
     "topics": [
       "astro",
@@ -16240,7 +16240,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-07-22T18:05:31Z",
+    "updated_at": "2026-07-23T10:41:17Z",
     "pushed_at": "2026-07-01T07:47:40Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
@@ -16569,7 +16569,7 @@
     "language": "Astro",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-17T13:15:24Z",
-    "updated_at": "2026-07-22T04:44:49Z",
+    "updated_at": "2026-07-23T09:03:31Z",
     "pushed_at": "2026-07-22T04:44:44Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
@@ -16588,8 +16588,8 @@
     "language": "MDX",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-16T13:54:39Z",
-    "updated_at": "2026-07-23T01:24:43Z",
-    "pushed_at": "2026-07-23T01:24:38Z",
+    "updated_at": "2026-07-23T12:20:36Z",
+    "pushed_at": "2026-07-23T12:20:29Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "matchalab/quasar-astro-theme": {
@@ -16631,7 +16631,7 @@
     "license": "MIT",
     "created_at": "2026-07-07T12:32:22Z",
     "updated_at": "2026-07-17T14:28:51Z",
-    "pushed_at": "2026-07-22T16:33:09Z",
+    "pushed_at": "2026-07-23T10:32:23Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "fannydevz/astro-portofolio": {
@@ -16743,7 +16743,7 @@
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
     "stars": 76,
-    "forks": 15,
+    "forks": 16,
     "topics": [
       "astro",
       "blog-theme"
