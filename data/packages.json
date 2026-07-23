@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-22T03:16:20Z",
-    "pushed_at": "2026-07-22T03:16:15Z",
+    "updated_at": "2026-07-23T03:23:26Z",
+    "pushed_at": "2026-07-23T03:23:10Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-22T02:37:17Z",
-    "pushed_at": "2026-07-22T02:37:11Z",
+    "updated_at": "2026-07-23T02:42:56Z",
+    "pushed_at": "2026-07-23T02:42:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-22T10:37:36Z",
-    "pushed_at": "2026-07-22T10:38:37Z",
+    "updated_at": "2026-07-23T02:27:10Z",
+    "pushed_at": "2026-07-23T02:27:06Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-22T14:32:16Z",
-    "pushed_at": "2026-07-22T14:31:18Z",
+    "updated_at": "2026-07-23T02:24:41Z",
+    "pushed_at": "2026-07-23T02:24:38Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -243,7 +243,7 @@
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 214,
+    "stars": 215,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,7 +263,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-21T19:06:19Z",
+    "updated_at": "2026-07-23T06:23:04Z",
     "pushed_at": "2026-07-21T19:05:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -753,7 +753,7 @@
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
     "updated_at": "2026-07-19T08:29:34Z",
-    "pushed_at": "2026-07-20T22:15:44Z",
+    "pushed_at": "2026-07-23T03:26:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-07-21T19:30:31Z",
+    "pushed_at": "2026-07-23T03:10:25Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2543,7 +2543,7 @@
     "license": "MIT",
     "created_at": "2025-06-29T23:36:28Z",
     "updated_at": "2026-06-20T16:40:28Z",
-    "pushed_at": "2026-07-16T06:04:13Z",
+    "pushed_at": "2026-07-23T06:09:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "virtuslab-open-source/astro-strapi-loader": {
@@ -2594,7 +2594,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 96,
+    "stars": 97,
     "forks": 27,
     "topics": [
       "aeo",
@@ -2616,7 +2616,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-07-21T02:55:06Z",
+    "updated_at": "2026-07-23T01:08:51Z",
     "pushed_at": "2026-07-19T19:58:53Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3335,7 +3335,7 @@
     "url": "https://github.com/erlandv/writenex",
     "description": "A collection of tools for modern markdown editing and content management.",
     "stars": 9,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-integration",
@@ -5470,7 +5470,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 152,
+    "stars": 153,
     "forks": 27,
     "topics": [
       "astro",
@@ -5489,7 +5489,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-07-22T17:53:41Z",
+    "updated_at": "2026-07-23T04:54:03Z",
     "pushed_at": "2026-07-23T00:20:34Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6851,7 +6851,7 @@
     "name": "erlandv/virex",
     "url": "https://github.com/erlandv/virex",
     "description": "A sleek, ready-to-go Astro theme to help you launch your SaaS product without the layout headache.",
-    "stars": 42,
+    "stars": 43,
     "forks": 15,
     "topics": [
       "astro",
@@ -6865,7 +6865,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-17T04:25:58Z",
-    "updated_at": "2026-07-15T08:47:27Z",
+    "updated_at": "2026-07-23T03:30:05Z",
     "pushed_at": "2025-12-28T05:27:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7526,7 +7526,7 @@
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
     "stars": 307,
-    "forks": 127,
+    "forks": 126,
     "topics": [
       "astro",
       "astro-theme",
@@ -9890,7 +9890,7 @@
     "name": "jomorespi/manduca",
     "url": "https://github.com/jomorespi/manduca",
     "description": "Fast, lightweight and self-hosted \"Link in Bio\" solution based in Astro",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "astro",
@@ -9902,7 +9902,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T08:08:29Z",
-    "updated_at": "2026-07-15T09:22:26Z",
+    "updated_at": "2026-07-23T04:43:45Z",
     "pushed_at": "2026-06-21T10:05:26Z",
     "discovered_at": "2026-05-30T18:33:17.098Z"
   },
@@ -11532,7 +11532,7 @@
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
     "updated_at": "2026-07-21T19:23:14Z",
-    "pushed_at": "2026-07-21T19:23:00Z",
+    "pushed_at": "2026-07-23T05:49:07Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11624,7 +11624,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-22T23:52:44Z",
+    "pushed_at": "2026-07-23T05:13:04Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11989,7 +11989,7 @@
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 57+ designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
     "stars": 81,
-    "forks": 40,
+    "forks": 41,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -12305,7 +12305,7 @@
     "name": "thomasKn/astro-shopify",
     "url": "https://github.com/thomasKn/astro-shopify",
     "description": "A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.",
-    "stars": 498,
+    "stars": 499,
     "forks": 147,
     "topics": [
       "astro",
@@ -12316,7 +12316,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-01-18T19:23:55Z",
-    "updated_at": "2026-07-19T15:54:13Z",
+    "updated_at": "2026-07-23T04:15:46Z",
     "pushed_at": "2026-07-20T09:35:03Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -15571,8 +15571,8 @@
     "language": "Astro",
     "license": "MPL-2.0",
     "created_at": "2026-07-10T16:16:09Z",
-    "updated_at": "2026-07-21T07:25:36Z",
-    "pushed_at": "2026-07-21T07:25:13Z",
+    "updated_at": "2026-07-23T05:44:57Z",
+    "pushed_at": "2026-07-23T05:44:51Z",
     "discovered_at": "2026-07-11T06:55:31.409Z"
   },
   "bkspace/starlight-mcp": {
@@ -16147,7 +16147,7 @@
     "license": "MIT",
     "created_at": "2024-12-26T17:43:47Z",
     "updated_at": "2026-07-22T18:34:44Z",
-    "pushed_at": "2026-07-22T18:32:18Z",
+    "pushed_at": "2026-07-23T04:04:46Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
   "zhanyihui06/avalon": {
@@ -16219,8 +16219,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-07-22T17:51:27Z",
-    "pushed_at": "2026-07-22T22:24:59Z",
+    "updated_at": "2026-07-23T03:51:22Z",
+    "pushed_at": "2026-07-23T04:40:15Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -16328,7 +16328,7 @@
     "name": "xocothemes/atelier-ko",
     "url": "https://github.com/xocothemes/atelier-ko",
     "description": "Atelier Kō is a modern, minimalist ecommerce theme with a built-in checkout experience.",
-    "stars": 7,
+    "stars": 8,
     "forks": 3,
     "topics": [
       "astro",
@@ -16341,7 +16341,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-18T05:14:32Z",
-    "updated_at": "2026-07-22T03:18:33Z",
+    "updated_at": "2026-07-23T05:05:57Z",
     "pushed_at": "2026-06-18T11:59:49Z",
     "discovered_at": "2026-07-15T06:56:07.225Z"
   },
@@ -16400,7 +16400,7 @@
     "url": "https://github.com/web-stacked/healthcare-astro-theme",
     "description": "",
     "stars": 0,
-    "forks": 1,
+    "forks": 2,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -16508,8 +16508,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-30T21:12:58Z",
-    "updated_at": "2026-07-22T12:44:17Z",
-    "pushed_at": "2026-07-22T14:23:09Z",
+    "updated_at": "2026-07-23T04:46:57Z",
+    "pushed_at": "2026-07-23T04:46:36Z",
     "discovered_at": "2026-07-17T00:50:02.705Z"
   },
   "cerebralblue/ns-docs": {
@@ -16588,8 +16588,8 @@
     "language": "MDX",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-16T13:54:39Z",
-    "updated_at": "2026-07-21T08:10:15Z",
-    "pushed_at": "2026-07-21T08:08:44Z",
+    "updated_at": "2026-07-23T01:24:43Z",
+    "pushed_at": "2026-07-23T01:24:38Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "matchalab/quasar-astro-theme": {
@@ -16652,7 +16652,7 @@
     "name": "nipun-arora/cool-astro-forms",
     "url": "https://github.com/nipun-arora/cool-astro-forms",
     "description": "Capture abandoned form leads on Astro — plus recovery emails, payments, and a self-hosted admin. Zero deps, MIT.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -16672,7 +16672,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-07-22T09:30:25Z",
+    "updated_at": "2026-07-23T01:06:39Z",
     "pushed_at": "2026-07-22T09:38:56Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
