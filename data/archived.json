@@ -257,5 +257,27 @@
     "discovered_at": "2026-05-18T10:54:54.926Z",
     "archived_at": "2026-07-18T12:26:12.443Z",
     "archive_reason": "Stale: not seen in search results and last pushed 1270 days ago"
+  },
+  "parceiroti/parceiroti.github.io": {
+    "name": "parceiroti/parceiroti.github.io",
+    "url": "https://github.com/parceiroti/parceiroti.github.io",
+    "description": "O redesign do website da Parceiro T.I.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "brasil",
+      "empresa",
+      "tecnologia",
+      "website",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "GPL-3.0",
+    "created_at": "2024-03-24T17:53:21Z",
+    "updated_at": "2024-07-09T23:50:07Z",
+    "pushed_at": "2024-07-09T23:50:03Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-07-24T18:38:12.244Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 744 days ago"
   }
 }
