@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-25T03:15:46Z",
-    "pushed_at": "2026-07-25T03:15:38Z",
+    "updated_at": "2026-07-26T03:29:33Z",
+    "pushed_at": "2026-07-26T03:29:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-25T02:37:03Z",
-    "pushed_at": "2026-07-25T02:36:59Z",
+    "updated_at": "2026-07-26T02:45:39Z",
+    "pushed_at": "2026-07-26T02:45:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-25T02:22:47Z",
-    "pushed_at": "2026-07-25T02:22:44Z",
+    "updated_at": "2026-07-26T02:28:56Z",
+    "pushed_at": "2026-07-26T02:28:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-25T02:20:20Z",
-    "pushed_at": "2026-07-25T02:20:17Z",
+    "updated_at": "2026-07-26T02:26:31Z",
+    "pushed_at": "2026-07-26T02:26:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-07-25T22:16:30Z",
+    "pushed_at": "2026-07-26T05:51:56Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -2171,7 +2171,7 @@
     "name": "advanced-astro/min",
     "url": "https://github.com/advanced-astro/min",
     "description": "Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification",
-    "stars": 59,
+    "stars": 60,
     "forks": 2,
     "topics": [
       "astro",
@@ -2188,7 +2188,7 @@
     "language": "TypeScript",
     "license": "ISC",
     "created_at": "2024-01-13T12:32:16Z",
-    "updated_at": "2026-04-22T02:09:17Z",
+    "updated_at": "2026-07-26T01:33:28Z",
     "pushed_at": "2024-04-24T04:14:09Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-07-24T06:47:51Z",
-    "pushed_at": "2026-07-25T21:11:42Z",
+    "pushed_at": "2026-07-26T06:02:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2702,8 +2702,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
-    "updated_at": "2026-07-24T05:19:01Z",
-    "pushed_at": "2026-07-24T22:08:14Z",
+    "updated_at": "2026-07-26T01:50:37Z",
+    "pushed_at": "2026-07-26T01:50:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5077,8 +5077,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-26T00:07:31Z",
-    "pushed_at": "2026-07-26T00:07:26Z",
+    "updated_at": "2026-07-26T05:44:10Z",
+    "pushed_at": "2026-07-26T05:43:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5228,8 +5228,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-25T23:01:49Z",
-    "pushed_at": "2026-07-25T23:01:45Z",
+    "updated_at": "2026-07-26T04:36:33Z",
+    "pushed_at": "2026-07-26T04:36:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5252,8 +5252,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-25T22:50:47Z",
-    "pushed_at": "2026-07-25T22:50:44Z",
+    "updated_at": "2026-07-26T04:26:30Z",
+    "pushed_at": "2026-07-26T04:26:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -8439,8 +8439,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-07-24T20:36:35Z",
-    "pushed_at": "2026-07-25T01:50:55Z",
+    "updated_at": "2026-07-26T05:15:29Z",
+    "pushed_at": "2026-07-26T05:16:46Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -8482,7 +8482,7 @@
     "license": null,
     "created_at": "2026-05-11T13:16:51Z",
     "updated_at": "2026-05-11T14:02:49Z",
-    "pushed_at": "2026-07-24T00:59:10Z",
+    "pushed_at": "2026-07-26T04:49:33Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "telexintegrations/nasa-astronomy-picture-of-the-day-integration": {
@@ -11046,7 +11046,7 @@
     "license": "MIT",
     "created_at": "2026-06-25T22:39:20Z",
     "updated_at": "2026-07-02T15:49:23Z",
-    "pushed_at": "2026-07-19T05:02:54Z",
+    "pushed_at": "2026-07-26T05:02:47Z",
     "discovered_at": "2026-07-02T18:38:39.142Z"
   },
   "igorskyflyer/npm-astro-easynav-button": {
@@ -11085,7 +11085,7 @@
     "url": "https://github.com/kpab/astro-haze",
     "description": "A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, light/dark, and accessibility built in.",
     "stars": 10,
-    "forks": 7,
+    "forks": 8,
     "topics": [
       "astro",
       "astro-theme",
@@ -11101,8 +11101,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
-    "updated_at": "2026-07-24T14:57:19Z",
-    "pushed_at": "2026-07-17T05:45:30Z",
+    "updated_at": "2026-07-26T05:41:13Z",
+    "pushed_at": "2026-07-26T05:35:30Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
   "techdocsstudio/astro-biel": {
@@ -11557,8 +11557,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-12-30T06:54:53Z",
-    "updated_at": "2026-07-26T00:33:01Z",
-    "pushed_at": "2026-07-26T00:32:57Z",
+    "updated_at": "2026-07-26T06:14:58Z",
+    "pushed_at": "2026-07-26T06:14:55Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mapineda48/mapineda48.github.io": {
@@ -11604,7 +11604,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-25T23:49:01Z",
+    "pushed_at": "2026-07-26T05:44:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11708,8 +11708,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-07-25T01:50:02Z",
-    "pushed_at": "2026-07-25T01:49:59Z",
+    "updated_at": "2026-07-26T06:29:35Z",
+    "pushed_at": "2026-07-26T06:29:32Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -11977,7 +11977,7 @@
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
     "updated_at": "2026-07-25T22:46:48Z",
-    "pushed_at": "2026-07-25T22:46:44Z",
+    "pushed_at": "2026-07-26T01:05:14Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -14390,7 +14390,7 @@
     "url": "https://github.com/tuyuritio/astro-theme-thought-lite",
     "description": "A modern Astro theme, focused on content creation.",
     "stars": 162,
-    "forks": 19,
+    "forks": 20,
     "topics": [
       "astro",
       "blog",
@@ -15715,8 +15715,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-10T06:32:58Z",
-    "updated_at": "2026-07-21T02:56:37Z",
-    "pushed_at": "2026-07-11T13:11:51Z",
+    "updated_at": "2026-07-26T02:40:22Z",
+    "pushed_at": "2026-07-26T02:40:19Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "relative23/payload-live-preview": {
@@ -15991,7 +15991,7 @@
     "license": null,
     "created_at": "2025-07-20T17:58:01Z",
     "updated_at": "2026-07-13T14:47:57Z",
-    "pushed_at": "2026-07-25T12:52:25Z",
+    "pushed_at": "2026-07-26T02:04:37Z",
     "discovered_at": "2026-07-13T07:21:37.088Z"
   },
   "oe-parks/owenparks.com": {
@@ -17241,7 +17241,7 @@
   "aibotflix/astro-store-lite": {
     "name": "Aibotflix/astro-store-lite",
     "url": "https://github.com/Aibotflix/astro-store-lite",
-    "description": "Only free Astro theme with built-in Stripe checkout. No Shopify, no React, no database. Add products in JSON and deploy to Netlify.",
+    "description": "Clean, minimalist Astro store with built-in Stripe checkout. Live demo: https://astro-store-lite.aibotflix.workers.dev/",
     "stars": 0,
     "forks": 0,
     "topics": [
@@ -17255,8 +17255,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-07-25T09:56:44Z",
-    "updated_at": "2026-07-25T19:21:46Z",
-    "pushed_at": "2026-07-25T19:21:43Z",
+    "updated_at": "2026-07-26T06:54:35Z",
+    "pushed_at": "2026-07-26T06:56:01Z",
     "discovered_at": "2026-07-25T12:28:07.801Z"
   },
   "respectevery01/pale-demo": {
@@ -17311,8 +17311,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-26T00:39:36Z",
-    "updated_at": "2026-07-26T00:39:44Z",
-    "pushed_at": "2026-07-26T00:39:40Z",
+    "updated_at": "2026-07-26T02:57:20Z",
+    "pushed_at": "2026-07-26T02:57:16Z",
     "discovered_at": "2026-07-26T00:54:31.960Z"
   },
   "mathieubaffoigne/mathieubaffoigne.github.io": {
@@ -17334,5 +17334,19 @@
     "updated_at": "2026-07-25T22:29:49Z",
     "pushed_at": "2026-07-25T21:15:33Z",
     "discovered_at": "2026-07-26T00:54:31.960Z"
+  },
+  "dsl114514/firefly": {
+    "name": "Dsl114514/Firefly",
+    "url": "https://github.com/Dsl114514/Firefly",
+    "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-07-23T00:31:36Z",
+    "updated_at": "2026-07-26T05:02:59Z",
+    "pushed_at": "2026-07-26T05:02:36Z",
+    "discovered_at": "2026-07-26T07:04:19.834Z"
   }
 }
