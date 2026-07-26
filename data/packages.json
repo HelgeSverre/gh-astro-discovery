@@ -210,7 +210,7 @@
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
     "updated_at": "2026-07-19T02:31:09Z",
-    "pushed_at": "2026-07-22T03:29:09Z",
+    "pushed_at": "2026-07-25T21:15:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-07-24T23:45:05Z",
+    "pushed_at": "2026-07-25T22:16:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-07-02T16:26:25Z",
-    "pushed_at": "2026-07-24T23:45:48Z",
+    "pushed_at": "2026-07-25T22:03:07Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-07-25T00:40:06Z",
+    "pushed_at": "2026-07-25T20:52:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-07-18T03:41:53Z",
+    "pushed_at": "2026-07-25T19:01:15Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-07-24T06:47:51Z",
-    "pushed_at": "2026-07-25T17:17:11Z",
+    "pushed_at": "2026-07-25T21:11:42Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -4322,7 +4322,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-07-21T05:55:45Z",
-    "pushed_at": "2026-07-24T01:10:36Z",
+    "pushed_at": "2026-07-25T20:06:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5077,8 +5077,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-07-25T18:22:16Z",
-    "pushed_at": "2026-07-25T18:22:11Z",
+    "updated_at": "2026-07-26T00:07:31Z",
+    "pushed_at": "2026-07-26T00:07:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5228,8 +5228,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-07-25T17:10:42Z",
-    "pushed_at": "2026-07-25T17:10:31Z",
+    "updated_at": "2026-07-25T23:01:49Z",
+    "pushed_at": "2026-07-25T23:01:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5252,8 +5252,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-07-25T16:59:38Z",
-    "pushed_at": "2026-07-25T16:59:35Z",
+    "updated_at": "2026-07-25T22:50:47Z",
+    "pushed_at": "2026-07-25T22:50:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5443,7 +5443,7 @@
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
     "updated_at": "2026-07-25T14:14:10Z",
-    "pushed_at": "2026-07-25T10:34:55Z",
+    "pushed_at": "2026-07-26T00:37:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mearashadowfax/datanova": {
@@ -6236,7 +6236,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 499,
-    "forks": 322,
+    "forks": 321,
     "topics": [
       "astro",
       "astro-template",
@@ -11341,8 +11341,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
-    "updated_at": "2026-07-24T00:07:15Z",
-    "pushed_at": "2026-07-24T00:07:18Z",
+    "updated_at": "2026-07-26T00:03:54Z",
+    "pushed_at": "2026-07-26T00:03:50Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -11557,8 +11557,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-12-30T06:54:53Z",
-    "updated_at": "2026-07-24T11:16:10Z",
-    "pushed_at": "2026-07-24T11:15:31Z",
+    "updated_at": "2026-07-26T00:33:01Z",
+    "pushed_at": "2026-07-26T00:32:57Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mapineda48/mapineda48.github.io": {
@@ -11604,7 +11604,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-25T17:47:40Z",
+    "pushed_at": "2026-07-25T23:49:01Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11976,8 +11976,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-07-25T16:23:05Z",
-    "pushed_at": "2026-07-25T16:22:57Z",
+    "updated_at": "2026-07-25T22:46:48Z",
+    "pushed_at": "2026-07-25T22:46:44Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -12595,7 +12595,7 @@
     "license": "MIT",
     "created_at": "2019-07-20T23:13:35Z",
     "updated_at": "2026-07-01T09:34:05Z",
-    "pushed_at": "2026-07-24T23:02:05Z",
+    "pushed_at": "2026-07-25T20:34:05Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "encoreshao/blog": {
@@ -13228,7 +13228,7 @@
     "license": "AGPL-3.0",
     "created_at": "2025-05-03T14:20:06Z",
     "updated_at": "2026-07-21T20:33:05Z",
-    "pushed_at": "2026-07-25T03:21:14Z",
+    "pushed_at": "2026-07-25T21:12:05Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "c-4-c-4/astro-theme-pure": {
@@ -13477,7 +13477,7 @@
     "license": null,
     "created_at": "2019-10-11T12:15:22Z",
     "updated_at": "2026-06-15T11:42:35Z",
-    "pushed_at": "2026-07-23T23:32:36Z",
+    "pushed_at": "2026-07-25T19:42:23Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "oberfly/tenon": {
@@ -14284,7 +14284,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-07-23T14:25:37Z",
-    "pushed_at": "2026-07-24T22:58:42Z",
+    "pushed_at": "2026-07-25T22:52:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -14554,8 +14554,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-23T13:12:07Z",
-    "updated_at": "2026-07-25T14:36:47Z",
-    "pushed_at": "2026-07-25T14:36:36Z",
+    "updated_at": "2026-07-25T19:19:43Z",
+    "pushed_at": "2026-07-25T19:19:35Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "backstabslash/portfolio": {
@@ -15584,7 +15584,7 @@
     "name": "anjay-goel/astro-sienna",
     "url": "https://github.com/anjay-goel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 35,
+    "stars": 36,
     "forks": 11,
     "topics": [
       "astro",
@@ -15600,7 +15600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-25T14:53:08Z",
+    "updated_at": "2026-07-25T23:54:23Z",
     "pushed_at": "2026-07-25T17:45:57Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -15689,7 +15689,7 @@
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
     "updated_at": "2026-07-12T21:29:37Z",
-    "pushed_at": "2026-07-24T13:58:23Z",
+    "pushed_at": "2026-07-25T20:44:09Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
   "kpab/astro-kepler": {
@@ -16115,7 +16115,7 @@
     "name": "adrian-ub/starlight-theme-black",
     "url": "https://github.com/adrian-ub/starlight-theme-black",
     "description": "Starlight theme inspired by @shadcn docs",
-    "stars": 42,
+    "stars": 43,
     "forks": 9,
     "topics": [
       "astro",
@@ -16128,7 +16128,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-12-26T17:43:47Z",
-    "updated_at": "2026-07-22T18:34:44Z",
+    "updated_at": "2026-07-25T18:25:55Z",
     "pushed_at": "2026-07-23T04:04:46Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
@@ -16584,8 +16584,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-17T15:53:19Z",
-    "updated_at": "2026-07-24T18:52:52Z",
-    "pushed_at": "2026-07-24T18:52:15Z",
+    "updated_at": "2026-07-25T22:01:32Z",
+    "pushed_at": "2026-07-25T22:01:22Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "zkonikishi/sakurairo-astro-theme": {
@@ -17255,8 +17255,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-07-25T09:56:44Z",
-    "updated_at": "2026-07-25T10:08:45Z",
-    "pushed_at": "2026-07-25T10:07:21Z",
+    "updated_at": "2026-07-25T19:21:46Z",
+    "pushed_at": "2026-07-25T19:21:43Z",
     "discovered_at": "2026-07-25T12:28:07.801Z"
   },
   "respectevery01/pale-demo": {
@@ -17300,5 +17300,39 @@
     "updated_at": "2026-07-25T17:40:33Z",
     "pushed_at": "2026-07-25T17:40:29Z",
     "discovered_at": "2026-07-25T18:25:24.058Z"
+  },
+  "dahyeong-yun/theme-astro": {
+    "name": "dahyeong-yun/theme-astro",
+    "url": "https://github.com/dahyeong-yun/theme-astro",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-07-26T00:39:36Z",
+    "updated_at": "2026-07-26T00:39:44Z",
+    "pushed_at": "2026-07-26T00:39:40Z",
+    "discovered_at": "2026-07-26T00:54:31.960Z"
+  },
+  "mathieubaffoigne/mathieubaffoigne.github.io": {
+    "name": "MathieuBaffoigne/mathieubaffoigne.github.io",
+    "url": "https://github.com/MathieuBaffoigne/mathieubaffoigne.github.io",
+    "description": "Bilingual (FR/EN) personal portfolio — Astro, Tailwind CSS, static rendering with light/dark theme and language auto-detection",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "i18n",
+      "portfolio",
+      "tailwindcss",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-07-21T23:25:59Z",
+    "updated_at": "2026-07-25T22:29:49Z",
+    "pushed_at": "2026-07-25T21:15:33Z",
+    "discovered_at": "2026-07-26T00:54:31.960Z"
   }
 }
