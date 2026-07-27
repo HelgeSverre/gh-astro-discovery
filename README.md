@@ -2,23 +2,24 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 896
-**Last updated:** 2026-07-27T07:23:03.510Z
+**Total packages tracked:** 897
+**Last updated:** 2026-07-27T13:13:31.305Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [DanielZhangyc/astro-pure-halo](https://github.com/DanielZhangyc/astro-pure-halo) | 0 | A Halo blog theme ported from https://github.com/cworld1/astro-theme-pure. |
+| [Jack-Huang037/astro-tone](https://github.com/Jack-Huang037/astro-tone) | 0 | Synced Astro Tone theme from hanityx/astro-tone |
+| [DanielZhangyc/astro-pure-halo](https://github.com/DanielZhangyc/astro-pure-halo) | 1 | A Halo blog theme ported from https://github.com/cworld1/astro-theme-pure. |
 | [s1oopX/narrow-x](https://github.com/s1oopX/narrow-x) | 0 | Narrow-X — a quiet, content-first Astro blog theme. 安静的内容优先 Astro 博客主题。 |
 | [bucabay/dev-blog](https://github.com/bucabay/dev-blog) | 0 | My personal dev blog — Astro + Cactus theme |
-| [anoopsmn/pinefold](https://github.com/anoopsmn/pinefold) | 0 | A minimal Astro portfolio theme — six palettes, dark mode, content collections |
-| [Aibotflix/Astro-Commercial-real-estate-lite](https://github.com/Aibotflix/Astro-Commercial-real-estate-lite) | 1 | Astro 7 + Tailwind CSS v4 commercial real estate theme. Office, retail, industri... |
+| [anoopsmn/pinefold](https://github.com/anoopsmn/pinefold) | 1 | A minimal Astro portfolio theme — six palettes, dark mode, content collections |
+| [Aibotflix/Astro-Commercial-real-estate-lite](https://github.com/Aibotflix/Astro-Commercial-real-estate-lite) | 1 | Astro 7 + Tailwind v4 commercial real estate theme — lite version |
 | [Dsl114514/Firefly](https://github.com/Dsl114514/Firefly) | 0 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  templat... |
 | [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 |  |
 | [MathieuBaffoigne/mathieubaffoigne.github.io](https://github.com/MathieuBaffoigne/mathieubaffoigne.github.io) | 0 | Bilingual (FR/EN) personal portfolio — Astro, Tailwind CSS, static rendering wit... |
 | [GoGo-Ye/gogo-ye.github.io](https://github.com/GoGo-Ye/gogo-ye.github.io) | 0 | 基于Astro-Theme-Pure搭建的的个人博客。 |
-| [Aibotflix/astro-store-lite](https://github.com/Aibotflix/astro-store-lite) | 1 | Clean, minimalist Astro store with built-in Stripe checkout. Live demo: https://... |
+| [Aibotflix/astro-store-lite](https://github.com/Aibotflix/astro-store-lite) | 1 | The only free Astro 7 theme with built-in Stripe checkout — no Shopify, no React... |
 | [respectevery01/pale-demo](https://github.com/respectevery01/pale-demo) | 0 | PALE — A cold-modern magazine-editorial Astro theme. Free. |
 | [respectevery01/astro-themagazinenews-theme](https://github.com/respectevery01/astro-themagazinenews-theme) | 0 | The Magazine News — An earth-tone news-magazine Astro theme. Free. |
 | [mychiffonn/astro-scholar](https://github.com/mychiffonn/astro-scholar) | 0 | Static-first Astro theme for academic portfolios, research blogs, projects, and ... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [luhgit/personal-website](https://github.com/luhgit/personal-website) | 0 | This repository consists the code for portfolio website hosted on Cloudflare and... |
 | [Sycolee78/NewAstro](https://github.com/Sycolee78/NewAstro) | 0 | A minimal, accessible and SEO-friendly Astro blog theme |
 | [haierr1/saas-landing-kit](https://github.com/haierr1/saas-landing-kit) | 0 | Free Astro + Tailwind SaaS landing template — dark mode, one-file theming, acces... |
-| [ozuijoy/astrowind](https://github.com/ozuijoy/astrowind) | 0 | astrowind theme |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [DanielZhangyc/astro-pure-halo](https://github.com/DanielZhangyc/astro-pure-halo) | 0 | 2026-07-27 | A Halo blog theme ported from https://github.com/cworld1/ast... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-27 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 1 | 2026-07-27 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
+| [theme-memories/theme-memories](https://github.com/theme-memories/theme-memories) | 0 | 2026-07-27 | Astro framework blog theme |
+| [Aibotflix/Astro-Commercial-real-estate-lite](https://github.com/Aibotflix/Astro-Commercial-real-estate-lite) | 1 | 2026-07-27 | Astro 7 + Tailwind v4 commercial real estate theme — lite ve... |
+| [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-07-27 | A framework free Astro starter template |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-27 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 16 | 2026-07-27 | Framework-agnostic interactive component anatomy for design ... |
+| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-07-27 | A simple, minimal style, framework free Astro blog starter t... |
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-27 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [Jack-Huang037/astro-tone](https://github.com/Jack-Huang037/astro-tone) | 0 | 2026-07-27 | Synced Astro Tone theme from hanityx/astro-tone |
 | [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-07-27 | 🚀 Create your professional blog quickly with this SEO-optim... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-07-27 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [thomasKn/astro-shopify](https://github.com/thomasKn/astro-shopify) | 498 | 2026-07-27 | A lightweight and powerful ecommerce starter theme to build ... |
+| [Aibotflix/astro-store-lite](https://github.com/Aibotflix/astro-store-lite) | 1 | 2026-07-27 | The only free Astro 7 theme with built-in Stripe checkout — ... |
+| [anoopsmn/pinefold](https://github.com/anoopsmn/pinefold) | 1 | 2026-07-27 | A minimal Astro portfolio theme — six palettes, dark mode, c... |
+| [TimeLyr1c/TimeLyr1c_blog_Momo](https://github.com/TimeLyr1c/TimeLyr1c_blog_Momo) | 0 | 2026-07-27 | This is the Momo theme blog based on Astro for TimeLyr1c.  |
+| [SolitudeRA/Solitude-Interface](https://github.com/SolitudeRA/Solitude-Interface) | 3 | 2026-07-27 | A modern, high-performance personal blog interface built wit... |
+| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 70 | 2026-07-27 | Publish integrations within minutes. |
+| [DanielZhangyc/astro-pure-halo](https://github.com/DanielZhangyc/astro-pure-halo) | 1 | 2026-07-27 | A Halo blog theme ported from https://github.com/cworld1/ast... |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-27 | Astro integration for loading fonts into build artifacts wit... |
-| [simoboldrini/dante-astro-theme](https://github.com/simoboldrini/dante-astro-theme) | 0 | 2026-07-27 |  |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-07-27 | Universal Analytics Engines Integration |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-27 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [khamudom/kham-token-website](https://github.com/khamudom/kham-token-website) | 0 | 2026-07-27 | Portfolio site for Kham Udom, UX engineer — built on Charm U... |
-| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 16 | 2026-07-27 | Integration of Astro with Strapi CMS that enables easy data ... |
-| [FrostyCloudSolutions/udon-photography-clay-astro-theme](https://github.com/FrostyCloudSolutions/udon-photography-clay-astro-theme) | 0 | 2026-07-27 | udonphoto.com clay astro theme |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-07-27 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-07-27 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 154 | 2026-07-27 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [anoopsmn/pinefold](https://github.com/anoopsmn/pinefold) | 0 | 2026-07-27 | A minimal Astro portfolio theme — six palettes, dark mode, c... |
-| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-07-27 | The Astro Supabase starter demonstrates how to integrate Sup... |
-| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-27 | Convert 🫶🏻 |
-| [ezzty/krya-en](https://github.com/ezzty/krya-en) | 0 | 2026-07-27 | A simple Astro theme, optimized single-column layout mobile/... |
-| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 16 | 2026-07-27 | Framework-agnostic interactive component anatomy for design ... |
-| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-27 | Network 🚠 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 281 | 2026-07-27 | Inline 🦔 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-27T13:13 | 1 | 797 | 897 |
 | 2026-07-27T07:23 | 1 | 798 | 896 |
 | 2026-07-27T00:54 | 0 | 799 | 895 |
 | 2026-07-26T18:28 | 2 | 797 | 895 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-25T18:25 | 1 | 797 | 888 |
 | 2026-07-25T12:28 | 3 | 795 | 887 |
 | 2026-07-25T06:56 | 2 | 796 | 884 |
-| 2026-07-25T00:50 | 0 | 799 | 882 |
 
 ---
 
