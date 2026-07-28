@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-27T03:37:40Z",
-    "pushed_at": "2026-07-27T03:37:33Z",
+    "updated_at": "2026-07-28T02:54:12Z",
+    "pushed_at": "2026-07-28T02:54:09Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-27T02:53:47Z",
-    "pushed_at": "2026-07-27T02:53:43Z",
+    "updated_at": "2026-07-28T02:30:52Z",
+    "pushed_at": "2026-07-28T02:30:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-27T02:36:40Z",
-    "pushed_at": "2026-07-27T02:36:36Z",
+    "updated_at": "2026-07-28T02:11:05Z",
+    "pushed_at": "2026-07-28T02:11:02Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-27T02:34:04Z",
-    "pushed_at": "2026-07-27T02:34:00Z",
+    "updated_at": "2026-07-28T02:08:46Z",
+    "pushed_at": "2026-07-28T02:08:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -1250,7 +1250,7 @@
     "name": "withstudiocms/project-board",
     "url": "https://github.com/withstudiocms/project-board",
     "description": "Unified view of GitHub issues, pull requests, and discussions for any GitHub organization, with a dedicated roadmap page!",
-    "stars": 3,
+    "stars": 4,
     "forks": 2,
     "topics": [
       "astro",
@@ -1263,7 +1263,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-13T18:37:36Z",
-    "updated_at": "2026-04-07T14:48:06Z",
+    "updated_at": "2026-07-28T04:39:52Z",
     "pushed_at": "2026-03-10T10:39:46Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2615,7 +2615,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-07-25T03:31:36Z",
+    "pushed_at": "2026-07-28T04:15:08Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -5518,8 +5518,8 @@
     "name": "the3ash/astro-chiri",
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
-    "stars": 302,
-    "forks": 97,
+    "stars": 303,
+    "forks": 98,
     "topics": [
       "astro",
       "astro-theme",
@@ -5533,7 +5533,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-07-27T13:57:13Z",
+    "updated_at": "2026-07-28T06:02:55Z",
     "pushed_at": "2026-07-27T15:29:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6024,7 +6024,7 @@
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
     "stars": 384,
-    "forks": 131,
+    "forks": 130,
     "topics": [
       "astro-build",
       "astro-template",
@@ -7857,7 +7857,7 @@
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
     "updated_at": "2026-07-24T14:33:17Z",
-    "pushed_at": "2026-07-24T14:32:17Z",
+    "pushed_at": "2026-07-28T06:42:57Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -10417,8 +10417,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-18T08:54:34Z",
-    "updated_at": "2026-07-14T19:49:36Z",
-    "pushed_at": "2026-06-18T23:51:14Z",
+    "updated_at": "2026-07-28T06:48:23Z",
+    "pushed_at": "2026-07-28T06:47:56Z",
     "discovered_at": "2026-06-17T08:10:00.559Z"
   },
   "freshjuice-dev/zest": {
@@ -10509,8 +10509,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-26T18:17:18Z",
-    "pushed_at": "2026-07-10T05:39:03Z",
+    "updated_at": "2026-07-28T06:48:43Z",
+    "pushed_at": "2026-07-28T06:47:50Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
   "nooniwa/nooniwa": {
@@ -11101,8 +11101,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
-    "updated_at": "2026-07-26T18:12:33Z",
-    "pushed_at": "2026-07-26T12:28:56Z",
+    "updated_at": "2026-07-28T06:48:46Z",
+    "pushed_at": "2026-07-28T06:48:18Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
   "techdocsstudio/astro-biel": {
@@ -11604,7 +11604,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-10T09:51:05Z",
-    "pushed_at": "2026-07-27T23:53:20Z",
+    "pushed_at": "2026-07-28T04:51:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11791,8 +11791,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-07-27T19:29:11Z",
-    "pushed_at": "2026-07-28T00:12:26Z",
+    "updated_at": "2026-07-28T02:25:23Z",
+    "pushed_at": "2026-07-28T02:25:20Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -12105,8 +12105,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-02T01:55:57Z",
-    "updated_at": "2026-07-27T20:30:22Z",
-    "pushed_at": "2026-07-27T20:29:34Z",
+    "updated_at": "2026-07-28T05:50:02Z",
+    "pushed_at": "2026-07-28T05:49:12Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "andreialba/maria": {
@@ -12199,7 +12199,7 @@
     "license": "MIT",
     "created_at": "2025-01-09T23:22:23Z",
     "updated_at": "2026-07-14T18:32:53Z",
-    "pushed_at": "2026-07-20T01:38:51Z",
+    "pushed_at": "2026-07-28T01:36:12Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "xxy9468615/blog-with-retypeset-and-contentful": {
@@ -13154,7 +13154,7 @@
     "license": "GPL-3.0",
     "created_at": "2024-09-26T16:25:57Z",
     "updated_at": "2026-07-16T20:37:08Z",
-    "pushed_at": "2026-07-27T06:35:26Z",
+    "pushed_at": "2026-07-28T06:57:52Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "owlmosaic/bookworm-light-astro": {
@@ -15584,7 +15584,7 @@
     "name": "anjay-goel/astro-sienna",
     "url": "https://github.com/anjay-goel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 37,
+    "stars": 38,
     "forks": 12,
     "topics": [
       "astro",
@@ -15600,7 +15600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-27T14:07:11Z",
+    "updated_at": "2026-07-28T04:41:29Z",
     "pushed_at": "2026-07-25T17:45:57Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -15608,7 +15608,7 @@
     "name": "tom2almighty/astro-narrow",
     "url": "https://github.com/tom2almighty/astro-narrow",
     "description": "",
-    "stars": 13,
+    "stars": 14,
     "forks": 7,
     "topics": [
       "astro",
@@ -15619,7 +15619,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-06-28T03:13:19Z",
-    "updated_at": "2026-07-23T12:53:32Z",
+    "updated_at": "2026-07-28T03:33:12Z",
     "pushed_at": "2026-07-12T03:41:59Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -15715,8 +15715,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-10T06:32:58Z",
-    "updated_at": "2026-07-27T08:02:39Z",
-    "pushed_at": "2026-07-26T02:40:19Z",
+    "updated_at": "2026-07-28T06:49:14Z",
+    "pushed_at": "2026-07-28T06:48:44Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "relative23/payload-live-preview": {
@@ -17397,8 +17397,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-26T10:34:50Z",
-    "updated_at": "2026-07-27T13:49:39Z",
-    "pushed_at": "2026-07-27T09:21:30Z",
+    "updated_at": "2026-07-28T04:26:11Z",
+    "pushed_at": "2026-07-28T04:25:41Z",
     "discovered_at": "2026-07-26T12:32:10.262Z"
   },
   "s1oopx/narrow-x": {
@@ -17472,5 +17472,44 @@
     "updated_at": "2026-07-27T20:07:58Z",
     "pushed_at": "2026-07-27T20:06:26Z",
     "discovered_at": "2026-07-28T00:47:43.468Z"
+  },
+  "miguemat4/teve-globo": {
+    "name": "MigueMat4/teve-globo",
+    "url": "https://github.com/MigueMat4/teve-globo",
+    "description": "SPA website for online media. Based on astro-moon-landing theme.",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "astro-website",
+      "spa-website",
+      "tv-online"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2024-07-02T02:08:25Z",
+    "updated_at": "2026-07-28T03:58:15Z",
+    "pushed_at": "2026-07-28T03:57:56Z",
+    "discovered_at": "2026-07-28T07:03:44.900Z"
+  },
+  "davidciro-333/ciro-bio-link-page": {
+    "name": "Davidciro-333/ciro-bio-link-page",
+    "url": "https://github.com/Davidciro-333/ciro-bio-link-page",
+    "description": "Personal bio-link page with live Spotify, GitHub and PlayStation widgets. Astro, fully themeable from a single JSON design system.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "bio-link",
+      "graphql",
+      "spotify-api",
+      "typescript",
+      "vercel"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2025-09-22T07:28:24Z",
+    "updated_at": "2026-07-28T06:35:03Z",
+    "pushed_at": "2026-07-25T15:46:57Z",
+    "discovered_at": "2026-07-28T07:03:44.900Z"
   }
 }
