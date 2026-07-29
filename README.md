@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 907
-**Last updated:** 2026-07-29T00:48:06.881Z
+**Last updated:** 2026-07-29T07:05:32.726Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [encoreshao/blog](https://github.com/encoreshao/blog) | 2 | 2026-07-29 | Encore's Blog - Built with Astro 6, Tailwind CSS 4, and a Gl... |
+| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 1 | 2026-07-29 | Agent-ready personal publish starter |
+| [xxy1103/ulbo-astro-theme-template](https://github.com/xxy1103/ulbo-astro-theme-template) | 1 | 2026-07-29 |  |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-29 | The Astro Quick Start package covers the basics of connectin... |
+| [FrostyCloudSolutions/udon-photography-clay-astro-theme](https://github.com/FrostyCloudSolutions/udon-photography-clay-astro-theme) | 0 | 2026-07-29 | udonphoto.com clay astro theme |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-29 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [hammadxcm/fyniti](https://github.com/hammadxcm/fyniti) | 3 | 2026-07-29 | FYNITI — IT Solutions & Digital Innovation | Astro 6 + Tailw... |
+| [LemonAdorable/astro-theme-iris](https://github.com/LemonAdorable/astro-theme-iris) | 10 | 2026-07-29 | ⭐A simple, fast and powerful blog & document theme built by ... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-07-29 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-07-29 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-07-29 | Convert 🫶🏻 |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-07-29 | Network 🚠 |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-07-29 | Universal Analytics Engines Integration |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 281 | 2026-07-29 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-07-29 | Format 🗻 |
+| [Mr-Sunglasses/blog.kanishkk.xyz](https://github.com/Mr-Sunglasses/blog.kanishkk.xyz) | 0 | 2026-07-29 | Kanishk's personal blog powered by astro and fuwari theme |
+| [foxmoe/korikura-theme](https://github.com/foxmoe/korikura-theme) | 1 | 2026-07-29 | A cute theme based on astro. |
 | [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 30 | 2026-07-29 | An Astro integration for rendering LilyPond music notation. |
 | [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek) | 281 | 2026-07-29 | A theme for Astro |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-07-29 | Astro integration for loading fonts into build artifacts wit... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-07-29 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | 2026-07-29 | A fast and minimalist personal website and blog powered by A... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-28 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-07-28 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [foxmoe/korikura-theme](https://github.com/foxmoe/korikura-theme) | 1 | 2026-07-28 | A cute theme based on astro. |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-07-28 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-07-28 | My astro static blog use theme Firefly. |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-07-28 | Universal Analytics Engines Integration |
-| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-07-28 | ✨A static blog template built with Astro. |
-| [Mariatta/astro-theme-popular](https://github.com/Mariatta/astro-theme-popular) | 0 | 2026-07-28 | Popular: a warm, community-first Astro theme for meetups, cl... |
-| [ZCHIT/Fire-fly](https://github.com/ZCHIT/Fire-fly) | 0 | 2026-07-28 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 4 | 2026-07-28 | Simple and cute Standard.site integration for Astro |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-28 | Matomo integration for Astro |
-| [tangtt666-dotcom/tangtt666-dotcom.github.io](https://github.com/tangtt666-dotcom/tangtt666-dotcom.github.io) | 0 | 2026-07-28 | Personal site built with Astro Theme Reay |
-| [alekblom/c00d-astro-directory](https://github.com/alekblom/c00d-astro-directory) | 0 | 2026-07-28 | A ranked link directory as a static Astro site — category bo... |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-28 | This Astro component simplifies the process of adding moneti... |
-| [mitchelltrout/portfolio2](https://github.com/mitchelltrout/portfolio2) | 0 | 2026-07-28 | Personal portfolio site — Astro 5, cinematic dark theme |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-29T07:05 | 0 | 799 | 907 |
 | 2026-07-29T00:48 | 3 | 796 | 907 |
 | 2026-07-28T18:37 | 2 | 796 | 904 |
 | 2026-07-28T12:46 | 3 | 796 | 903 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-27T13:13 | 1 | 797 | 897 |
 | 2026-07-27T07:23 | 1 | 798 | 896 |
 | 2026-07-27T00:54 | 0 | 799 | 895 |
-| 2026-07-26T18:28 | 2 | 797 | 895 |
 
 ---
 
