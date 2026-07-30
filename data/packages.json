@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 36,
+    "stars": 39,
     "forks": 4,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-07-16T16:51:55Z",
+    "updated_at": "2026-07-30T11:09:56Z",
     "pushed_at": "2026-06-23T05:40:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1746,7 +1746,7 @@
     "license": "MIT",
     "created_at": "2023-11-13T08:02:58Z",
     "updated_at": "2023-11-24T13:17:33Z",
-    "pushed_at": "2026-07-25T19:01:15Z",
+    "pushed_at": "2026-07-30T07:37:21Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/mr-world": {
@@ -2639,8 +2639,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
-    "updated_at": "2026-07-26T19:44:48Z",
-    "pushed_at": "2026-07-30T06:33:46Z",
+    "updated_at": "2026-07-30T11:36:37Z",
+    "pushed_at": "2026-07-30T11:37:24Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -5300,7 +5300,7 @@
     "license": null,
     "created_at": "2025-06-29T06:20:56Z",
     "updated_at": "2026-07-08T06:55:28Z",
-    "pushed_at": "2026-07-29T09:53:48Z",
+    "pushed_at": "2026-07-30T09:53:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devgelo-labs/astro-starter-pro": {
@@ -7044,8 +7044,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-07-30T06:19:43Z",
-    "pushed_at": "2026-07-30T06:19:08Z",
+    "updated_at": "2026-07-30T09:16:09Z",
+    "pushed_at": "2026-07-30T09:14:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -8023,8 +8023,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-23T10:18:01Z",
-    "updated_at": "2026-06-23T00:37:40Z",
-    "pushed_at": "2026-06-23T00:37:34Z",
+    "updated_at": "2026-07-30T07:13:02Z",
+    "pushed_at": "2026-07-30T07:12:15Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "pcamarajr/astro-template": {
@@ -10250,8 +10250,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-07-28T22:23:42Z",
-    "pushed_at": "2026-06-15T01:07:33Z",
+    "updated_at": "2026-07-30T09:04:52Z",
+    "pushed_at": "2026-07-30T09:03:19Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
   "xeffen25/eminence-astro-suite": {
@@ -10477,7 +10477,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 14,
+    "stars": 15,
     "forks": 1,
     "topics": [
       "astro",
@@ -10495,7 +10495,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-07-28T06:48:43Z",
+    "updated_at": "2026-07-30T11:06:17Z",
     "pushed_at": "2026-07-28T06:47:50Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
@@ -11543,8 +11543,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-12-30T06:54:53Z",
-    "updated_at": "2026-07-29T15:01:42Z",
-    "pushed_at": "2026-07-29T14:58:09Z",
+    "updated_at": "2026-07-30T11:59:51Z",
+    "pushed_at": "2026-07-30T11:59:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mapineda48/mapineda48.github.io": {
@@ -11590,7 +11590,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-28T14:56:32Z",
-    "pushed_at": "2026-07-30T04:45:10Z",
+    "pushed_at": "2026-07-30T12:21:28Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11650,8 +11650,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
-    "updated_at": "2026-07-29T12:36:38Z",
-    "pushed_at": "2026-07-29T12:37:08Z",
+    "updated_at": "2026-07-30T12:15:49Z",
+    "pushed_at": "2026-07-30T12:13:53Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -11674,7 +11674,7 @@
     "name": "Sieep-Coding/sieep-coding.github.io",
     "url": "https://github.com/Sieep-Coding/sieep-coding.github.io",
     "description": "Dracula theme porfolio/blog built with Astro + TypeScript. Now publicly available.",
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
     "topics": [
       "astro",
@@ -11694,7 +11694,7 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-07-30T01:55:25Z",
+    "updated_at": "2026-07-30T12:24:04Z",
     "pushed_at": "2026-07-30T01:55:21Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12031,8 +12031,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-04-29T19:42:04Z",
-    "updated_at": "2026-07-29T19:13:45Z",
-    "pushed_at": "2026-07-29T19:10:25Z",
+    "updated_at": "2026-07-30T10:15:44Z",
+    "pushed_at": "2026-07-30T10:14:59Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "passwordgloo/astro-theme-starread": {
@@ -12327,7 +12327,7 @@
     "license": "MIT",
     "created_at": "2025-11-08T03:37:25Z",
     "updated_at": "2026-07-19T02:18:04Z",
-    "pushed_at": "2026-07-29T09:30:51Z",
+    "pushed_at": "2026-07-30T09:29:54Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ctrimm/astro-link-in-bio-theme": {
@@ -13523,8 +13523,8 @@
     "name": "sitepins/powerai-astro",
     "url": "https://github.com/sitepins/powerai-astro",
     "description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes. Pre-configured Sitepins CMS. Ready to deploy on Cloudflare Workers, Vercel, Netlify, or Docker.",
-    "stars": 55,
-    "forks": 57,
+    "stars": 56,
+    "forks": 58,
     "topics": [
       "astro",
       "astrojs",
@@ -13542,7 +13542,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-06T07:56:31Z",
-    "updated_at": "2026-07-29T06:56:32Z",
+    "updated_at": "2026-07-30T10:06:53Z",
     "pushed_at": "2026-06-14T04:37:57Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -14957,7 +14957,7 @@
     "url": "https://github.com/nearmelab/3dinterior",
     "description": "Free Astro theme built for architects and design studios. ⭐️ Star to support our work!",
     "stars": 10,
-    "forks": 7,
+    "forks": 8,
     "topics": [
       "architecture",
       "astro",
@@ -15539,8 +15539,8 @@
     "language": "Astro",
     "license": "MPL-2.0",
     "created_at": "2026-07-10T16:16:09Z",
-    "updated_at": "2026-07-23T09:34:35Z",
-    "pushed_at": "2026-07-23T07:58:08Z",
+    "updated_at": "2026-07-30T09:30:46Z",
+    "pushed_at": "2026-07-30T09:30:07Z",
     "discovered_at": "2026-07-11T06:55:31.409Z"
   },
   "bkspace/starlight-mcp": {
@@ -16267,8 +16267,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-28T14:12:22Z",
-    "updated_at": "2026-07-25T06:28:23Z",
-    "pushed_at": "2026-07-08T07:33:12Z",
+    "updated_at": "2026-07-30T08:37:33Z",
+    "pushed_at": "2026-07-30T08:36:59Z",
     "discovered_at": "2026-07-15T06:56:07.225Z"
   },
   "xocothemes/compass": {
@@ -17649,5 +17649,33 @@
     "updated_at": "2026-07-29T12:26:20Z",
     "pushed_at": "2026-07-29T12:26:13Z",
     "discovered_at": "2026-07-29T12:50:31.704Z"
+  },
+  "buyi06/blog-firefly": {
+    "name": "buyi06/blog-firefly",
+    "url": "https://github.com/buyi06/blog-firefly",
+    "description": "My Blog - Built with Astro & Firefly theme",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-07-30T10:02:52Z",
+    "updated_at": "2026-07-30T10:06:20Z",
+    "pushed_at": "2026-07-30T10:11:53Z",
+    "discovered_at": "2026-07-30T12:43:41.226Z"
+  },
+  "octopus-bo/astro-theme-pure-burger": {
+    "name": "Octopus-bo/Astro-theme-pure-burger",
+    "url": "https://github.com/Octopus-bo/Astro-theme-pure-burger",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "Apache-2.0",
+    "created_at": "2026-07-30T08:27:29Z",
+    "updated_at": "2026-07-30T08:28:28Z",
+    "pushed_at": "2026-07-30T08:27:34Z",
+    "discovered_at": "2026-07-30T12:43:41.226Z"
   }
 }
