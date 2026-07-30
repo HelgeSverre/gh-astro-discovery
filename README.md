@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 910
-**Last updated:** 2026-07-30T12:43:41.232Z
+**Total packages tracked:** 912
+**Last updated:** 2026-07-30T18:37:49.549Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Liteink/margin](https://github.com/Liteink/margin) | 0 | Margin — Free agent-native Astro blog theme with MCP server |
+| [Liteink/pale](https://github.com/Liteink/pale) | 0 | PALE — Free editorial Astro theme |
 | [buyi06/blog-firefly](https://github.com/buyi06/blog-firefly) | 0 | My Blog - Built with Astro & Firefly theme |
 | [Octopus-bo/Astro-theme-pure-burger](https://github.com/Octopus-bo/Astro-theme-pure-burger) | 0 |  |
 | [Sheyiyuan/astro-theme-kirari](https://github.com/Sheyiyuan/astro-theme-kirari) | 2 | 一个基于 Astro/Fuwari 的博客主题 |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [DanielZhangyc/astro-pure-halo](https://github.com/DanielZhangyc/astro-pure-halo) | 1 | A Halo blog theme ported from https://github.com/cworld1/astro-theme-pure. |
 | [s1oopX/narrow-x](https://github.com/s1oopX/narrow-x) | 0 | Narrow-X — a quiet, content-first Astro blog theme. 安静的内容优先 Astro 博客主题。 |
 | [bucabay/dev-blog](https://github.com/bucabay/dev-blog) | 0 | My personal dev blog — Astro + Cactus theme |
-| [anoopsmn/pinefold](https://github.com/anoopsmn/pinefold) | 0 | A minimal Astro portfolio theme — six palettes, dark mode, content collections |
-| [Aibotflix/Astro-Commercial-real-estate-lite](https://github.com/Aibotflix/Astro-Commercial-real-estate-lite) | 1 | Astro 7 + Tailwind v4 commercial real estate theme — lite version |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [ACHUX21/blog.achux.xyz](https://github.com/ACHUX21/blog.achux.xyz) | 0 | 2026-07-30 | Personal security & CTF writeups blog built with Astro (Fire... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 30 | 2026-07-30 | An Astro integration for rendering LilyPond music notation. |
+| [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) | 0 | 2026-07-30 | A customized blogging theme based on astro-erudite v2.0. |
+| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-07-30 | Fetch data from the Stripe API and use it in Astro collectio... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 20 | 2026-07-30 | Matomo integration for Astro |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-07-30 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-07-30 | A modern, responsive and lightweight theme for freelancing, ... |
-| [reashal/astro-theme-reashal](https://github.com/reashal/astro-theme-reashal) | 2 | 2026-07-30 | Markdown can be used for posting Moments and Docs on my Astr... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-07-30 | Universal Analytics Engines Integration |
-| [klokie/klokie-theme](https://github.com/klokie/klokie-theme) | 1 | 2026-07-30 | Shared design tokens, presets, and Astro components for klok... |
-| [buyi06/blog-firefly](https://github.com/buyi06/blog-firefly) | 0 | 2026-07-30 | My Blog - Built with Astro & Firefly theme |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-07-30 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [Welcomewrl/Yoru](https://github.com/Welcomewrl/Yoru) | 0 | 2026-07-30 | A Astro Blog Theme  |
-| [Leilei332/blog2](https://github.com/Leilei332/blog2) | 0 | 2026-07-30 | Blog based on astro retypeset theme |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 15 | 2026-07-30 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 25 | 2026-07-30 | A simple, minimalistic personal blog theme built with Astro ... |
-| [xocothemes/maria](https://github.com/xocothemes/maria) | 7 | 2026-07-30 | Modern Astro theme for UI/UX and product designers. |
-| [Octopus-bo/Astro-theme-pure-burger](https://github.com/Octopus-bo/Astro-theme-pure-burger) | 0 | 2026-07-30 |  |
-| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-07-30 | BeamAnalytics integration for Astro |
-| [adydetra/astro-starter](https://github.com/adydetra/astro-starter) | 0 | 2026-07-30 | 🔴 Astro starter template built with Vite and Tailwind CSS  |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-07-30 | The Astro Quick Start package covers the basics of connectin... |
-| [webmilmind1/astro-deskcrew](https://github.com/webmilmind1/astro-deskcrew) | 0 | 2026-07-30 | Astro integration for AI live chat, help center and ticketin... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-07-30 | Astro Integration to generate a customizable table of conten... |
+| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 32 | 2026-07-30 | Astro component for swiper, dedicated to slider / carousel /... |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-07-30 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-07-30 | This Astro component simplifies the process of adding moneti... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-07-30 | The i18n integration for Astro 🧑‍🚀 |
+| [openscript/astro-theme-international](https://github.com/openscript/astro-theme-international) | 40 | 2026-07-30 | An Astro theme demonstrating internationalization. |
+| [Mariatta/astro-theme-popular](https://github.com/Mariatta/astro-theme-popular) | 0 | 2026-07-30 | Popular: a warm, community-first Astro theme for meetups, cl... |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-07-30 | An Astro Prometheus nodejs middleware integration for Astro |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-07-30 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [Sycolee78/NewAstro](https://github.com/Sycolee78/NewAstro) | 0 | 2026-07-30 | A minimal, accessible and SEO-friendly Astro blog theme |
+| [FrostyCloudSolutions/udon-photography-clay-astro-theme](https://github.com/FrostyCloudSolutions/udon-photography-clay-astro-theme) | 0 | 2026-07-30 | udonphoto.com clay astro theme |
 | [EthanLebowitz/portfolio](https://github.com/EthanLebowitz/portfolio) | 0 | 2026-07-30 | A personal astro portfolio site based on the Minimalistic Ca... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-07-30 | Universal Analytics Engines Integration |
+| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 54 | 2026-07-30 | A lightweight, zero-dependency cookie consent toolkit for GD... |
+| [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | 2026-07-30 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CS... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-30T18:37 | 2 | 796 | 912 |
 | 2026-07-30T12:43 | 2 | 796 | 910 |
 | 2026-07-30T07:04 | 0 | 799 | 908 |
 | 2026-07-30T00:46 | 0 | 799 | 908 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-29T00:48 | 3 | 796 | 907 |
 | 2026-07-28T18:37 | 2 | 796 | 904 |
 | 2026-07-28T12:46 | 3 | 796 | 903 |
-| 2026-07-28T07:03 | 2 | 797 | 900 |
 
 ---
 
