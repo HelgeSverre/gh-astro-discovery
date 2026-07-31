@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-07-30T02:46:05Z",
-    "pushed_at": "2026-07-30T02:46:01Z",
+    "updated_at": "2026-07-31T03:28:48Z",
+    "pushed_at": "2026-07-31T03:28:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-07-30T02:23:02Z",
-    "pushed_at": "2026-07-30T02:22:58Z",
+    "updated_at": "2026-07-31T02:47:55Z",
+    "pushed_at": "2026-07-31T02:47:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-07-30T02:03:24Z",
-    "pushed_at": "2026-07-30T02:03:20Z",
+    "updated_at": "2026-07-31T02:30:17Z",
+    "pushed_at": "2026-07-31T02:30:02Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-07-30T02:01:15Z",
-    "pushed_at": "2026-07-30T02:01:10Z",
+    "updated_at": "2026-07-31T02:27:29Z",
+    "pushed_at": "2026-07-31T02:27:10Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -236,14 +236,14 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-07-29T19:41:45Z",
-    "pushed_at": "2026-07-29T15:13:36Z",
+    "pushed_at": "2026-07-31T01:55:14Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 215,
+    "stars": 216,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,8 +263,8 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-07-25T10:06:02Z",
-    "pushed_at": "2026-07-30T22:54:35Z",
+    "updated_at": "2026-07-31T06:46:40Z",
+    "pushed_at": "2026-07-31T03:15:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -5426,7 +5426,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 153,
+    "stars": 152,
     "forks": 55,
     "topics": [
       "astro",
@@ -5442,7 +5442,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-07-30T19:55:55Z",
+    "updated_at": "2026-07-31T06:45:44Z",
     "pushed_at": "2026-07-26T00:37:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6236,7 +6236,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 500,
-    "forks": 324,
+    "forks": 323,
     "topics": [
       "astro",
       "astro-template",
@@ -7044,8 +7044,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-07-30T22:05:18Z",
-    "pushed_at": "2026-07-30T22:05:10Z",
+    "updated_at": "2026-07-31T05:33:43Z",
+    "pushed_at": "2026-07-31T05:33:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -8439,8 +8439,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-07-29T19:06:10Z",
-    "pushed_at": "2026-07-30T21:14:16Z",
+    "updated_at": "2026-07-31T02:42:35Z",
+    "pushed_at": "2026-07-31T02:44:02Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -9900,7 +9900,7 @@
     "name": "A58361/Ryze",
     "url": "https://github.com/A58361/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 43,
+    "stars": 44,
     "forks": 6,
     "topics": [
       "astro",
@@ -9927,7 +9927,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-07-20T07:06:52Z",
+    "updated_at": "2026-07-31T05:49:44Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -11447,7 +11447,7 @@
     "url": "https://github.com/kannansuresh/chirping-astro",
     "description": "Chirping Astro. An astro theme inspired from the famous Jekyll Theme Chirpy",
     "stars": 44,
-    "forks": 12,
+    "forks": 13,
     "topics": [
       "astrojs",
       "daisyui",
@@ -11590,7 +11590,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-28T14:56:32Z",
-    "pushed_at": "2026-07-30T23:58:54Z",
+    "pushed_at": "2026-07-31T05:54:35Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12185,7 +12185,7 @@
     "license": "MIT",
     "created_at": "2025-01-09T23:22:23Z",
     "updated_at": "2026-07-14T18:32:53Z",
-    "pushed_at": "2026-07-29T01:36:41Z",
+    "pushed_at": "2026-07-31T01:36:31Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "xxy9468615/blog-with-retypeset-and-contentful": {
@@ -12548,8 +12548,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-14T11:38:48Z",
-    "updated_at": "2026-07-30T18:48:17Z",
-    "pushed_at": "2026-07-30T18:45:48Z",
+    "updated_at": "2026-07-31T02:42:09Z",
+    "pushed_at": "2026-07-31T02:42:02Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "yx-l147/yujok-s-blog": {
@@ -12814,8 +12814,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-21T07:21:26Z",
-    "updated_at": "2026-07-29T01:08:58Z",
-    "pushed_at": "2026-07-29T01:08:41Z",
+    "updated_at": "2026-07-31T03:07:41Z",
+    "pushed_at": "2026-07-31T03:07:19Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "chinaz-max/blog": {
@@ -13153,8 +13153,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-15T04:44:12Z",
-    "updated_at": "2026-07-22T15:08:06Z",
-    "pushed_at": "2026-07-22T15:05:13Z",
+    "updated_at": "2026-07-31T05:42:36Z",
+    "pushed_at": "2026-07-31T05:42:17Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "louis17782/landing-pagemusic": {
@@ -13994,8 +13994,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-08T15:12:11Z",
-    "updated_at": "2026-06-04T09:05:35Z",
-    "pushed_at": "2026-06-04T09:06:22Z",
+    "updated_at": "2026-07-31T02:36:47Z",
+    "pushed_at": "2026-07-31T02:37:23Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "yeguoz/blog_theme": {
@@ -14039,7 +14039,7 @@
     "name": "kuscadev/Zahit",
     "url": "https://github.com/kuscadev/Zahit",
     "description": "A raw, flat minimalist theme built on the philosophy that simplicity is depth.",
-    "stars": 3,
+    "stars": 2,
     "forks": 1,
     "topics": [
       "astro",
@@ -14050,7 +14050,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-16T19:39:54Z",
-    "updated_at": "2026-07-28T23:58:23Z",
+    "updated_at": "2026-07-31T06:06:36Z",
     "pushed_at": "2026-06-03T19:22:05Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -17014,8 +17014,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-22T01:57:42Z",
-    "updated_at": "2026-07-30T01:09:31Z",
-    "pushed_at": "2026-07-30T01:09:27Z",
+    "updated_at": "2026-07-31T06:20:51Z",
+    "pushed_at": "2026-07-31T06:20:46Z",
     "discovered_at": "2026-07-22T07:03:08.716Z"
   },
   "kevinzeratul/my-astro-blog": {
@@ -17726,8 +17726,39 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-25T04:21:45Z",
-    "updated_at": "2026-07-30T20:01:45Z",
-    "pushed_at": "2026-07-30T20:01:13Z",
+    "updated_at": "2026-07-31T02:41:09Z",
+    "pushed_at": "2026-07-31T02:41:02Z",
     "discovered_at": "2026-07-31T00:52:03.092Z"
+  },
+  "astro-craft-theme/8-bitquest": {
+    "name": "Astro-Craft-Theme/8-BitQuest",
+    "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
+    "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "astrojs",
+      "developer-portfolio",
+      "developer-portfolio-site",
+      "developer-portfolio-template",
+      "developer-portfolio-website",
+      "pixel-art",
+      "portfolio-template",
+      "portfolio-template-free",
+      "portfolio-templates",
+      "tailwindcss",
+      "tailwindcss-template",
+      "tailwindcss-v4"
+    ],
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "created_at": "2026-07-22T02:27:41Z",
+    "updated_at": "2026-07-31T04:32:39Z",
+    "pushed_at": "2026-07-30T05:44:58Z",
+    "discovered_at": "2026-07-31T07:10:13.665Z"
   }
 }
