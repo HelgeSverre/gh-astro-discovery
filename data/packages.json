@@ -534,8 +534,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-09-22T12:11:49Z",
-    "updated_at": "2026-08-01T09:46:51Z",
-    "pushed_at": "2026-08-01T09:46:43Z",
+    "updated_at": "2026-08-01T13:23:56Z",
+    "pushed_at": "2026-08-01T13:23:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "pawcoding/astro-integration-pocketbase": {
@@ -554,8 +554,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-05T16:25:44Z",
-    "updated_at": "2026-08-01T09:48:00Z",
-    "pushed_at": "2026-08-01T09:47:46Z",
+    "updated_at": "2026-08-01T14:22:12Z",
+    "pushed_at": "2026-08-01T14:21:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "qwikdev/astro": {
@@ -685,7 +685,7 @@
     "license": "MIT",
     "created_at": "2026-05-02T09:18:16Z",
     "updated_at": "2026-06-06T19:57:45Z",
-    "pushed_at": "2026-07-25T15:02:56Z",
+    "pushed_at": "2026-08-01T15:06:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "freshjuice-dev/astro-search-plugin": {
@@ -2888,8 +2888,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-06-08T15:15:06Z",
-    "updated_at": "2026-07-30T17:08:16Z",
-    "pushed_at": "2026-07-30T17:04:55Z",
+    "updated_at": "2026-08-01T16:27:26Z",
+    "pushed_at": "2026-08-01T16:27:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "dorukgezici/astro-decap-cms-oauth": {
@@ -6235,7 +6235,7 @@
     "name": "JustGoodUI/dante-astro-theme",
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
-    "stars": 500,
+    "stars": 499,
     "forks": 324,
     "topics": [
       "astro",
@@ -6252,7 +6252,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-01-11T15:23:14Z",
-    "updated_at": "2026-07-30T03:26:44Z",
+    "updated_at": "2026-08-01T14:16:36Z",
     "pushed_at": "2026-07-21T17:43:04Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7049,8 +7049,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-07-31T22:09:16Z",
-    "pushed_at": "2026-07-31T22:09:12Z",
+    "updated_at": "2026-08-01T16:02:39Z",
+    "pushed_at": "2026-08-01T16:01:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -8444,8 +8444,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-08-01T12:25:49Z",
-    "pushed_at": "2026-08-01T12:27:28Z",
+    "updated_at": "2026-08-01T17:57:09Z",
+    "pushed_at": "2026-08-01T17:59:13Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -9762,8 +9762,8 @@
     "language": "HTML",
     "license": "MIT",
     "created_at": "2026-02-01T12:27:25Z",
-    "updated_at": "2026-06-19T13:15:29Z",
-    "pushed_at": "2026-06-19T13:15:24Z",
+    "updated_at": "2026-08-01T17:39:45Z",
+    "pushed_at": "2026-08-01T17:39:42Z",
     "discovered_at": "2026-05-23T18:30:51.236Z"
   },
   "hanityx/astro-tone": {
@@ -11548,8 +11548,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-12-30T06:54:53Z",
-    "updated_at": "2026-08-01T01:49:48Z",
-    "pushed_at": "2026-08-01T01:49:45Z",
+    "updated_at": "2026-08-01T15:08:27Z",
+    "pushed_at": "2026-08-01T15:08:19Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mapineda48/mapineda48.github.io": {
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-28T14:56:32Z",
-    "pushed_at": "2026-08-01T11:15:34Z",
+    "pushed_at": "2026-08-01T17:49:54Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11699,8 +11699,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-07-30T12:24:04Z",
-    "pushed_at": "2026-07-30T01:55:21Z",
+    "updated_at": "2026-08-01T18:18:20Z",
+    "pushed_at": "2026-08-01T18:18:16Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -11762,8 +11762,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-27T16:37:42Z",
-    "updated_at": "2026-08-01T11:57:04Z",
-    "pushed_at": "2026-08-01T11:59:17Z",
+    "updated_at": "2026-08-01T18:09:40Z",
+    "pushed_at": "2026-08-01T18:09:37Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "zureeallv/blog": {
@@ -11782,8 +11782,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-07-31T17:37:57Z",
-    "pushed_at": "2026-07-31T17:35:44Z",
+    "updated_at": "2026-08-01T16:44:28Z",
+    "pushed_at": "2026-08-01T16:44:24Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -11936,8 +11936,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
-    "updated_at": "2026-07-31T18:15:04Z",
-    "pushed_at": "2026-07-31T21:13:46Z",
+    "updated_at": "2026-08-01T17:40:42Z",
+    "pushed_at": "2026-08-01T17:40:37Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -13529,7 +13529,7 @@
     "url": "https://github.com/sitepins/powerai-astro",
     "description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes. Pre-configured Sitepins CMS. Ready to deploy on Cloudflare Workers, Vercel, Netlify, or Docker.",
     "stars": 56,
-    "forks": 58,
+    "forks": 59,
     "topics": [
       "astro",
       "astrojs",
@@ -13944,7 +13944,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-06-05T09:50:03Z",
     "updated_at": "2026-06-05T10:31:57Z",
-    "pushed_at": "2026-07-01T17:13:16Z",
+    "pushed_at": "2026-08-01T17:11:41Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "airbreak400/viio-astro": {
@@ -14112,7 +14112,7 @@
     "license": "MIT",
     "created_at": "2026-06-02T05:06:04Z",
     "updated_at": "2026-06-03T06:52:13Z",
-    "pushed_at": "2026-07-01T14:49:51Z",
+    "pushed_at": "2026-08-01T14:48:11Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "prcchina/contentfulblog": {
@@ -15575,7 +15575,7 @@
     "name": "anjay-goel/astro-sienna",
     "url": "https://github.com/anjay-goel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 38,
+    "stars": 39,
     "forks": 11,
     "topics": [
       "astro",
@@ -15591,7 +15591,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-07-28T04:41:29Z",
+    "updated_at": "2026-08-01T18:13:09Z",
     "pushed_at": "2026-07-25T17:45:57Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -16624,17 +16624,24 @@
   "nipun-arora/cool-astro-forms": {
     "name": "nipun-arora/cool-astro-forms",
     "url": "https://github.com/nipun-arora/cool-astro-forms",
-    "description": "Capture abandoned form leads on Astro — plus recovery emails, payments, and a self-hosted admin. Zero deps, MIT.",
+    "description": "The lead-ops platform for Astro forms: abandonment capture, recovery emails, quote payments, and a self-hosted admin. No external services, just SQLite and SMTP. MIT.",
     "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
       "astro-component",
       "astro-integration",
+      "email",
       "form-abandonment",
       "forms",
+      "gdpr",
+      "lead-capture",
       "lead-generation",
+      "lead-recovery",
+      "payments",
+      "paypal",
       "self-hosted",
+      "serverless",
       "sqlite",
       "stripe",
       "turso",
@@ -16645,7 +16652,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-07-31T12:57:58Z",
+    "updated_at": "2026-08-01T12:55:56Z",
     "pushed_at": "2026-07-22T09:38:56Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
@@ -17938,5 +17945,61 @@
     "updated_at": "2026-08-01T09:17:36Z",
     "pushed_at": "2026-08-01T10:00:54Z",
     "discovered_at": "2026-08-01T12:30:07.516Z"
+  },
+  "basobox/astron": {
+    "name": "basobox/astron",
+    "url": "https://github.com/basobox/astron",
+    "description": "by ASTRO PAPER - A minimal, accessible and SEO-friendly Astro blog theme.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-01T16:55:37Z",
+    "updated_at": "2026-08-01T18:07:02Z",
+    "pushed_at": "2026-08-01T17:53:01Z",
+    "discovered_at": "2026-08-01T18:26:35.613Z"
+  },
+  "simkne/astrovite": {
+    "name": "simkne/astrovite",
+    "url": "https://github.com/simkne/astrovite",
+    "description": "forked from astro-theme-vitesse",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2025-07-03T13:10:06Z",
+    "updated_at": "2026-08-01T17:26:57Z",
+    "pushed_at": "2026-08-01T17:26:53Z",
+    "discovered_at": "2026-08-01T18:26:35.613Z"
+  },
+  "tazmi-asdes/myastrowind": {
+    "name": "Tazmi-Asdes/myAstrowind",
+    "url": "https://github.com/Tazmi-Asdes/myAstrowind",
+    "description": "AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-07-14T13:27:26Z",
+    "updated_at": "2026-08-01T15:51:35Z",
+    "pushed_at": "2026-08-01T15:44:27Z",
+    "discovered_at": "2026-08-01T18:26:35.613Z"
+  },
+  "basobox/astronx": {
+    "name": "basobox/astronX",
+    "url": "https://github.com/basobox/astronX",
+    "description": "ASTRO PAPER - A minimal, accessible and SEO-friendly Astro blog theme.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-01T06:19:15Z",
+    "updated_at": "2026-08-01T18:03:54Z",
+    "pushed_at": "2026-08-01T11:28:31Z",
+    "discovered_at": "2026-08-01T18:26:35.613Z"
   }
 }
