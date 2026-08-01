@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-07-31T09:10:28Z",
-    "pushed_at": "2026-07-31T09:09:51Z",
+    "pushed_at": "2026-07-31T22:07:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -382,8 +382,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-05T07:53:49Z",
-    "updated_at": "2026-07-28T20:00:49Z",
-    "pushed_at": "2026-07-11T09:21:40Z",
+    "updated_at": "2026-07-31T23:09:04Z",
+    "pushed_at": "2026-07-31T23:08:26Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "jonasgeiler/astro-html-minifier-next": {
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-07-30T11:36:37Z",
-    "pushed_at": "2026-07-31T16:32:47Z",
+    "pushed_at": "2026-07-31T22:05:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -4222,8 +4222,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-07-29T00:32:17Z",
-    "pushed_at": "2026-07-31T15:54:38Z",
+    "updated_at": "2026-07-31T21:47:31Z",
+    "pushed_at": "2026-07-31T21:47:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5133,7 +5133,7 @@
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
     "updated_at": "2026-07-02T13:47:50Z",
-    "pushed_at": "2026-07-30T22:08:38Z",
+    "pushed_at": "2026-07-31T22:08:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -6236,7 +6236,7 @@
     "url": "https://github.com/JustGoodUI/dante-astro-theme",
     "description": "Dante, a single-author blog and portfolio theme for Astro.js. ",
     "stars": 500,
-    "forks": 323,
+    "forks": 324,
     "topics": [
       "astro",
       "astro-template",
@@ -7037,15 +7037,20 @@
       "astro-template",
       "astro-theme",
       "astrojs",
+      "blog",
+      "blog-engine",
+      "blog-template",
+      "blogging",
       "css",
       "html",
+      "markdown",
       "template"
     ],
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-07-31T16:10:50Z",
-    "pushed_at": "2026-07-31T16:10:15Z",
+    "updated_at": "2026-07-31T22:09:16Z",
+    "pushed_at": "2026-07-31T22:09:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -9827,8 +9832,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-07-27T00:50:48Z",
-    "pushed_at": "2026-07-27T00:50:43Z",
+    "updated_at": "2026-07-31T22:10:58Z",
+    "pushed_at": "2026-07-31T22:10:34Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -11183,7 +11188,7 @@
     "name": "Araluma/astro-font-preload",
     "url": "https://github.com/Araluma/astro-font-preload",
     "description": "Astro integration: font + critical-CSS preloads in every built page, plus _headers Link lines that fuel Early Hints (103). Fails loud instead of shipping a FOIT regression",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -11195,7 +11200,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-07T17:14:31Z",
-    "updated_at": "2026-07-10T11:51:55Z",
+    "updated_at": "2026-07-31T20:06:35Z",
     "pushed_at": "2026-07-10T11:51:47Z",
     "discovered_at": "2026-07-07T18:49:11.690Z"
   },
@@ -11258,7 +11263,7 @@
     "name": "julien-deramond/component-anatomy",
     "url": "https://github.com/julien-deramond/component-anatomy",
     "description": "Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights.",
-    "stars": 16,
+    "stars": 18,
     "forks": 0,
     "topics": [
       "astro",
@@ -11272,7 +11277,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-07-27T10:42:38Z",
+    "updated_at": "2026-08-01T00:16:53Z",
     "pushed_at": "2026-07-27T10:42:08Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
@@ -11511,8 +11516,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-06T19:54:53Z",
-    "updated_at": "2026-07-31T15:36:37Z",
-    "pushed_at": "2026-07-31T18:23:09Z",
+    "updated_at": "2026-08-01T00:00:00Z",
+    "pushed_at": "2026-08-01T00:33:14Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wxyim/projectcraft.dev": {
@@ -11590,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-07-28T14:56:32Z",
-    "pushed_at": "2026-07-31T17:16:23Z",
+    "pushed_at": "2026-07-31T23:51:27Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11757,8 +11762,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-27T16:37:42Z",
-    "updated_at": "2026-07-31T07:20:53Z",
-    "pushed_at": "2026-07-31T07:23:24Z",
+    "updated_at": "2026-07-31T19:58:13Z",
+    "pushed_at": "2026-07-31T20:00:48Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "zureeallv/blog": {
@@ -11932,7 +11937,7 @@
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
     "updated_at": "2026-07-31T18:15:04Z",
-    "pushed_at": "2026-07-31T18:13:50Z",
+    "pushed_at": "2026-07-31T21:13:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -11962,8 +11967,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-07-31T13:21:51Z",
-    "pushed_at": "2026-07-31T14:30:25Z",
+    "updated_at": "2026-07-31T21:17:38Z",
+    "pushed_at": "2026-07-31T21:33:32Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -14270,7 +14275,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-07-23T14:25:37Z",
-    "pushed_at": "2026-07-30T23:02:47Z",
+    "pushed_at": "2026-07-31T22:57:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15547,7 +15552,7 @@
     "name": "bkspace/starlight-mcp",
     "url": "https://github.com/bkspace/starlight-mcp",
     "description": "MCP server for your Astro/Starlight docs — search_docs, get_doc, list_docs over stateless streamable HTTP. Astro integration + pure handler + Cloudflare glue.",
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "topics": [
       "astro",
@@ -15562,7 +15567,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T11:19:33Z",
-    "updated_at": "2026-07-28T16:30:01Z",
+    "updated_at": "2026-07-31T20:09:33Z",
     "pushed_at": "2026-07-14T10:34:52Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -15773,7 +15778,7 @@
     "name": "eeegoloauq/astro-chat-widget",
     "url": "https://github.com/eeegoloauq/astro-chat-widget",
     "description": "Self-contained AI chat widget for Astro sites: streaming SSE answers, native <dialog>, iOS-keyboard-proof mobile sheet, zero framework runtime.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "ai-chat",
@@ -15794,7 +15799,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-10T21:05:21Z",
-    "updated_at": "2026-07-14T16:09:37Z",
+    "updated_at": "2026-07-31T20:03:35Z",
     "pushed_at": "2026-07-14T16:09:33Z",
     "discovered_at": "2026-07-12T07:02:40.569Z"
   },
@@ -15983,15 +15988,15 @@
   "oe-parks/owenparks.com": {
     "name": "oe-parks/owenparks.com",
     "url": "https://github.com/oe-parks/owenparks.com",
-    "description": "Personal digital garden — Astro + Cloudflare Pages (e-ink theme, ambient graph). Will become owenparks.com.",
+    "description": "Personal digital garden — Astro + Cloudflare Workers (e-ink theme, ambient graph). Live at owenparks.com.",
     "stars": 0,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-07T12:35:11Z",
-    "updated_at": "2026-07-13T06:41:20Z",
-    "pushed_at": "2026-07-13T06:41:14Z",
+    "updated_at": "2026-07-31T20:53:38Z",
+    "pushed_at": "2026-07-31T20:53:33Z",
     "discovered_at": "2026-07-13T07:21:37.088Z"
   },
   "vhscom/emdash-theme-bravada": {
@@ -16094,7 +16099,7 @@
     "license": "MIT",
     "created_at": "2026-07-14T06:05:54Z",
     "updated_at": "2026-07-14T06:06:05Z",
-    "pushed_at": "2026-07-30T20:59:45Z",
+    "pushed_at": "2026-07-31T20:59:52Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
   "adrian-ub/starlight-theme-black": {
@@ -16175,7 +16180,7 @@
     "name": "kydecker/astro-lilypond",
     "url": "https://github.com/kydecker/astro-lilypond",
     "description": "An Astro integration for rendering LilyPond music notation.",
-    "stars": 30,
+    "stars": 31,
     "forks": 1,
     "topics": [
       "astro",
@@ -16187,7 +16192,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-07-31T17:57:33Z",
+    "updated_at": "2026-07-31T19:06:19Z",
     "pushed_at": "2026-07-31T17:56:44Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
@@ -16275,7 +16280,7 @@
     "name": "xocothemes/compass",
     "url": "https://github.com/xocothemes/compass",
     "description": "Compass is an Astro documentation theme built for product docs, support centers, and internal knowledge bases.",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "topics": [
       "astro",
@@ -16288,7 +16293,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-03T17:55:49Z",
-    "updated_at": "2026-07-29T06:56:33Z",
+    "updated_at": "2026-07-31T21:46:12Z",
     "pushed_at": "2026-07-15T13:10:10Z",
     "discovered_at": "2026-07-15T06:56:07.225Z"
   },
@@ -17827,5 +17832,27 @@
     "updated_at": "2026-07-31T14:17:31Z",
     "pushed_at": "2026-07-31T14:16:43Z",
     "discovered_at": "2026-07-31T18:38:28.130Z"
+  },
+  "mohamed3042/god-mode-portfolio": {
+    "name": "Mohamed3042/god-mode-portfolio",
+    "url": "https://github.com/Mohamed3042/god-mode-portfolio",
+    "description": "God Mode Portfolio — one Astro codebase, seven distinct brand-identity studies plus a themed hub.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "accessibility",
+      "astro",
+      "github-pages",
+      "portfolio",
+      "responsive-design",
+      "theming",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-07-05T21:55:29Z",
+    "updated_at": "2026-07-31T19:50:53Z",
+    "pushed_at": "2026-07-31T19:31:07Z",
+    "discovered_at": "2026-08-01T00:52:24.331Z"
   }
 }
