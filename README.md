@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 928
-**Last updated:** 2026-08-02T00:53:10.303Z
+**Total packages tracked:** 929
+**Last updated:** 2026-08-02T07:02:40.586Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jabud/resoluble-astro-theme](https://github.com/jabud/resoluble-astro-theme) | 0 |  |
 | [basobox/astron](https://github.com/basobox/astron) | 0 | by ASTRO PAPER - A minimal, accessible and SEO-friendly Astro blog theme. |
 | [simkne/astrovite](https://github.com/simkne/astrovite) | 0 | forked from astro-theme-vitesse |
 | [Tazmi-Asdes/myAstrowind](https://github.com/Tazmi-Asdes/myAstrowind) | 0 | AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter the... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Liteink/margin](https://github.com/Liteink/margin) | 0 | Margin — Free agent-native Astro blog theme with MCP server |
 | [Liteink/pale](https://github.com/Liteink/pale) | 0 | PALE — Free editorial Astro theme |
 | [buyi06/blog-firefly](https://github.com/buyi06/blog-firefly) | 0 | My Blog - Built with Astro & Firefly theme |
-| [Octopus-bo/Astro-theme-pure-burger](https://github.com/Octopus-bo/Astro-theme-pure-burger) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Davidciro-333/ciro-bio-link-page](https://github.com/Davidciro-333/ciro-bio-link-page) | 1 | 2026-08-02 | Personal bio-link page with live Spotify, GitHub and PlaySta... |
+| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | 2026-08-02 | A curated collection of developer resources, tutorials, tool... |
+| [kannansuresh/chirping-astro-starter](https://github.com/kannansuresh/chirping-astro-starter) | 6 | 2026-08-02 | Starter template for Chirping Astro theme. |
+| [kannansuresh/chirping-astro](https://github.com/kannansuresh/chirping-astro) | 44 | 2026-08-02 | Chirping Astro. An astro theme inspired from the famous Jeky... |
+| [pascal-brand38/astro-dev](https://github.com/pascal-brand38/astro-dev) | 10 | 2026-08-02 | Astro package and site development doc |
+| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 32 | 2026-08-02 | Astro component for swiper, dedicated to slider / carousel /... |
+| [theme-memories/theme-memories](https://github.com/theme-memories/theme-memories) | 0 | 2026-08-02 | Astro framework blog theme |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-08-02 | Astro Integration to generate a customizable table of conten... |
+| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 153 | 2026-08-02 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-02 | My personal slice of the web. Built with Astro, wrapped in a... |
 | [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-08-02 |  |
+| [sijad/astro-wordpress](https://github.com/sijad/astro-wordpress) | 41 | 2026-08-02 | Generate headful WordPress theme using Astro |
+| [jabud/resoluble-astro-theme](https://github.com/jabud/resoluble-astro-theme) | 0 | 2026-08-02 |  |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-08-02 | Convert 🫶🏻 |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-08-02 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 281 | 2026-08-02 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-02 | Format 🗻 |
+| [caoergou/caoergou.github.io](https://github.com/caoergou/caoergou.github.io) | 5 | 2026-08-02 | Minimalist dark-theme personal portfolio & blog, built with ... |
 | [reashal/astro-theme-reashal](https://github.com/reashal/astro-theme-reashal) | 2 | 2026-08-02 | Markdown can be used for posting Moments and Docs on my Astr... |
 | [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-08-02 | Umbrella landing page for the wicked-* family of local-first... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-01 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [porsche-design-system/sample-integration-astro-offline](https://github.com/porsche-design-system/sample-integration-astro-offline) | 0 | 2026-08-01 | This repository demonstrates how to integrate the Porsche De... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-01 | My astro static blog use theme Firefly. |
-| [theme-memories/theme-memories](https://github.com/theme-memories/theme-memories) | 0 | 2026-08-01 | Astro framework blog theme |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-01 | Universal Analytics Engines Integration |
-| [sijad/astro-wordpress](https://github.com/sijad/astro-wordpress) | 41 | 2026-08-01 | Generate headful WordPress theme using Astro |
-| [Mariatta/astro-theme-popular](https://github.com/Mariatta/astro-theme-popular) | 0 | 2026-08-01 | Popular: a warm, community-first Astro theme for meetups, cl... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-01 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 0 | 2026-08-01 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-08-01 | An Astro Prometheus nodejs middleware integration for Astro |
-| [basobox/astron](https://github.com/basobox/astron) | 0 | 2026-08-01 | by ASTRO PAPER - A minimal, accessible and SEO-friendly Astr... |
-| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 1 | 2026-08-01 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
-| [simkne/astrovite](https://github.com/simkne/astrovite) | 0 | 2026-08-01 | forked from astro-theme-vitesse |
-| [Wtzrpo/Wtzrpo.github.io](https://github.com/Wtzrpo/Wtzrpo.github.io) | 0 | 2026-08-01 | blog website belongs to Wtzrpo, Astro Structure with Mizuki ... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-01 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 32 | 2026-08-01 | Astro component for swiper, dedicated to slider / carousel /... |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 15 | 2026-08-01 | A modern, clean and bloat-free Astro starter template. Acces... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-02T07:02 | 1 | 801 | 929 |
 | 2026-08-02T00:53 | 0 | 802 | 928 |
 | 2026-08-01T18:26 | 4 | 798 | 928 |
 | 2026-08-01T12:30 | 3 | 798 | 924 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-07-31T12:47 | 0 | 799 | 914 |
 | 2026-07-31T07:10 | 1 | 798 | 914 |
 | 2026-07-31T00:52 | 1 | 797 | 913 |
-| 2026-07-30T18:37 | 2 | 796 | 912 |
 
 ---
 
