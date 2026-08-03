@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 937
-**Last updated:** 2026-08-02T18:27:14.284Z
+**Last updated:** 2026-08-03T00:52:43.684Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-03 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 31 | 2026-08-03 | An Astro integration for rendering LilyPond music notation. |
+| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-08-03 | The Astro Supabase starter demonstrates how to integrate Sup... |
+| [simkne/astrovite](https://github.com/simkne/astrovite) | 0 | 2026-08-03 | forked from astro-theme-vitesse |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-03 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 54 | 2026-08-03 | A lightweight, zero-dependency cookie consent toolkit for GD... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-02 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [sp-night/sp-night.github.io](https://github.com/sp-night/sp-night.github.io) | 0 | 2026-08-02 | A dark colour scheme with São Paulo as its reference — three... |
+| [nagameTW/astro-flipside](https://github.com/nagameTW/astro-flipside) | 2 | 2026-08-02 | Two sides, one site. A minimal, Chinese-optimized Astro blog... |
+| [FrostyCloudSolutions/udon-photography-clay-astro-theme](https://github.com/FrostyCloudSolutions/udon-photography-clay-astro-theme) | 0 | 2026-08-02 | udonphoto.com clay astro theme |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-02 | My astro static blog use theme Firefly. |
+| [matt-nolan11/matt-nolan11.github.io](https://github.com/matt-nolan11/matt-nolan11.github.io) | 0 | 2026-08-02 | Personal project portfolio / blog built with Astro and the S... |
+| [edgardo001/astrojs-blog-integration-cms-decapcms](https://github.com/edgardo001/astrojs-blog-integration-cms-decapcms) | 0 | 2026-08-02 |  |
 | [YU030X/astro-theme-serene](https://github.com/YU030X/astro-theme-serene) | 0 | 2026-08-02 | An Astro theme for quiet reading. |
 | [kpab/astro-kepler](https://github.com/kpab/astro-kepler) | 7 | 2026-08-02 | Kepler — a versatile Astro 7 theme for blogs, portfolios, an... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-02 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-02 | My personal slice of the web. Built with Astro, wrapped in a... |
 | [t128n/starlight-ai-label](https://github.com/t128n/starlight-ai-label) | 0 | 2026-08-02 | Starlight plugin that adds EU AI Act–style AI content-disclo... |
-| [sp-night/sp-night.github.io](https://github.com/sp-night/sp-night.github.io) | 0 | 2026-08-02 | A dark colour scheme with São Paulo as its reference — three... |
 | [theme-memories/theme-memories](https://github.com/theme-memories/theme-memories) | 0 | 2026-08-02 | Astro framework blog theme |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-02 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
 | [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 15 | 2026-08-02 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [edgardo001/astrojs-blog-integration-cms-decapcms](https://github.com/edgardo001/astrojs-blog-integration-cms-decapcms) | 0 | 2026-08-02 |  |
 | [Qiufengluoyes/Feng](https://github.com/Qiufengluoyes/Feng) | 0 | 2026-08-02 | Firefly 一款清新美观的 Astro 博客主题模板，基于Fuwari二次开发。Firefly is a fresh... |
 | [zero201913/zero-fuwari](https://github.com/zero201913/zero-fuwari) | 0 | 2026-08-02 | Astro fuwari theme |
-| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 11 | 2026-08-02 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-02 | Format 🗻 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 281 | 2026-08-02 | Inline 🦔 |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-02 | Universal Analytics Engines Integration |
-| [Bytestring0/Bytestring0.github.io](https://github.com/Bytestring0/Bytestring0.github.io) | 0 | 2026-08-02 | Astro Blog Theme |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-08-02 | The Astro Quick Start package covers the basics of connectin... |
-| [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-08-02 |  |
-| [foxmoe/korikura-theme](https://github.com/foxmoe/korikura-theme) | 1 | 2026-08-02 | A cute theme based on astro. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-03T00:52 | 0 | 808 | 937 |
 | 2026-08-02T18:27 | 4 | 804 | 937 |
 | 2026-08-02T12:30 | 4 | 802 | 933 |
 | 2026-08-02T07:02 | 1 | 801 | 929 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-01T06:59 | 2 | 799 | 921 |
 | 2026-08-01T00:52 | 1 | 800 | 919 |
 | 2026-07-31T18:38 | 4 | 797 | 918 |
-| 2026-07-31T12:47 | 0 | 799 | 914 |
 
 ---
 
