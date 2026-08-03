@@ -2,17 +2,21 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 939
-**Last updated:** 2026-08-03T13:13:01.400Z
+**Total packages tracked:** 943
+**Last updated:** 2026-08-03T18:41:51.362Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [seanrobmerriam/astro-theme-challenge-gpt-5.6-sol](https://github.com/seanrobmerriam/astro-theme-challenge-gpt-5.6-sol) | 0 |  |
+| [bugmarkey/portfolio](https://github.com/bugmarkey/portfolio) | 0 | Personal site — Astro, 8-bit pixel theme |
+| [miyamo2/astro-loader-blogapi-miyamo-today](https://github.com/miyamo2/astro-loader-blogapi-miyamo-today) | 0 |  |
+| [miyamo2/astro-recommend-article](https://github.com/miyamo2/astro-recommend-article) | 0 | Astro integration to recommend articles based on OpenAI embeddings API and Qdran... |
 | [seanrobmerriam/astro-theme-challenge-minimax-m3](https://github.com/seanrobmerriam/astro-theme-challenge-minimax-m3) | 0 |  |
 | [Inkstudioagency/Proventa-Astro-Theme](https://github.com/Inkstudioagency/Proventa-Astro-Theme) | 0 |  |
 | [edgardo001/astrojs-blog-integration-cms-decapcms](https://github.com/edgardo001/astrojs-blog-integration-cms-decapcms) | 0 |  |
-| [sp-night/sp-night.github.io](https://github.com/sp-night/sp-night.github.io) | 0 | A dark colour scheme with São Paulo as its reference — three flavours, 22 colour... |
+| [sp-night/sp-night.github.io](https://github.com/sp-night/sp-night.github.io) | 1 | A dark colour scheme with São Paulo as its reference — three flavours, 22 colour... |
 | [Qiufengluoyes/Feng](https://github.com/Qiufengluoyes/Feng) | 0 | Firefly 一款清新美观的 Astro 博客主题模板，基于Fuwari二次开发。Firefly is a fresh and visually appeal... |
 | [t128n/starlight-ai-label](https://github.com/t128n/starlight-ai-label) | 0 | Starlight plugin that adds EU AI Act–style AI content-disclosure badges (basic /... |
 | [arraypress/llms-txt-astro](https://github.com/arraypress/llms-txt-astro) | 0 | Idiomatic /llms.txt route for Astro — resolves the site origin and serves the fi... |
@@ -25,10 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Tazmi-Asdes/myAstrowind](https://github.com/Tazmi-Asdes/myAstrowind) | 0 | AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter the... |
 | [basobox/astronX](https://github.com/basobox/astronX) | 0 | ASTRO PAPER - A minimal, accessible and SEO-friendly Astro blog theme. |
 | [basobox/astropaper](https://github.com/basobox/astropaper) | 0 | ASTRO PAPER - A minimal, accessible and SEO-friendly Astro blog theme. |
-| [CoderFrish/astro-theme-mio](https://github.com/CoderFrish/astro-theme-mio) | 0 | Astro主题 - 澪 , 努力成为一个功能强大且美观的Astro博客主题 |
-| [R007demo/Astro-Cactus](https://github.com/R007demo/Astro-Cactus) | 0 | An Astro static blog template suitable for any topic. |
-| [basobox/u-i.github.io](https://github.com/basobox/u-i.github.io) | 0 | ASTRO PAPER - A minimal, accessible and SEO-friendly Astro blog theme. |
-| [littlebugged/devtoolkit](https://github.com/littlebugged/devtoolkit) | 0 | CatToolKit — Cat-themed developer tools that run in your browser. JSON formatter... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | 2026-08-03 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-08-03 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-03 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 90 | 2026-08-03 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
-| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 1 | 2026-08-03 | Agent-ready personal publish starter |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 32 | 2026-08-03 | An Astro integration for rendering LilyPond music notation. |
+| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 70 | 2026-08-03 | Publish integrations within minutes. |
+| [ACHUX21/blog.achux.xyz](https://github.com/ACHUX21/blog.achux.xyz) | 0 | 2026-08-03 | Personal security & CTF writeups blog built with Astro (Fire... |
+| [MathieuBaffoigne/mathieubaffoigne.github.io](https://github.com/MathieuBaffoigne/mathieubaffoigne.github.io) | 0 | 2026-08-03 | Bilingual (FR/EN) personal portfolio — Astro, Tailwind CSS, ... |
 | [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 54 | 2026-08-03 | A lightweight, zero-dependency cookie consent toolkit for GD... |
-| [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-08-03 | A framework free Astro starter template |
-| [protomorph/astro-zero](https://github.com/protomorph/astro-zero) | 8 | 2026-08-03 | A zero styling, simple, Astro blog starter template. |
-| [buyi06/blog-firefly](https://github.com/buyi06/blog-firefly) | 0 | 2026-08-03 | My Blog - Built with Astro & Firefly theme |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 90 | 2026-08-03 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-03 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [AllsVoid/sorapaper](https://github.com/AllsVoid/sorapaper) | 1 | 2026-08-03 | A soft, content-first Astro blog theme for long-form writing... |
 | [seanrobmerriam/astro-theme-challenge-minimax-m3](https://github.com/seanrobmerriam/astro-theme-challenge-minimax-m3) | 0 | 2026-08-03 |  |
-| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-08-03 | A simple, minimal style, framework free Astro blog starter t... |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 155 | 2026-08-03 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | 2026-08-03 | A fast and minimalist personal website and blog powered by A... |
-| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-08-03 | Astro integration for the Carve markup language |
-| [xxy1103/ulbo-astro-theme-template](https://github.com/xxy1103/ulbo-astro-theme-template) | 3 | 2026-08-03 |  |
-| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 11 | 2026-08-03 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
-| [mikegabyte/portfolio](https://github.com/mikegabyte/portfolio) | 0 | 2026-08-03 | Personal portfolio — Astro 6 + Tailwind 4, static, i18n (en/... |
+| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-08-03 | A modern, responsive and lightweight theme for freelancing, ... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-03 | Astro integration for loading fonts into build artifacts wit... |
+| [seanrobmerriam/astro-theme-challenge-gpt-5.6-sol](https://github.com/seanrobmerriam/astro-theme-challenge-gpt-5.6-sol) | 0 | 2026-08-03 |  |
+| [simkne/astrovite](https://github.com/simkne/astrovite) | 1 | 2026-08-03 | forked from astro-theme-vitesse |
+| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-08-03 | in Astro - as a plugin - get the github api |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-08-03 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-08-03 | An Astro Prometheus nodejs middleware integration for Astro |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-08-03 | A minimal Astro blog theme |
-| [Qiufengluoyes/Feng](https://github.com/Qiufengluoyes/Feng) | 0 | 2026-08-03 | Firefly 一款清新美观的 Astro 博客主题模板，基于Fuwari二次开发。Firefly is a fresh... |
+| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | 2026-08-03 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
+| [caoergou/caoergou.github.io](https://github.com/caoergou/caoergou.github.io) | 5 | 2026-08-03 | Minimalist dark-theme personal portfolio & blog, built with ... |
+| [miyamo2/astro-loader-blogapi-miyamo-today](https://github.com/miyamo2/astro-loader-blogapi-miyamo-today) | 0 | 2026-08-03 |  |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-08-03 | Loaders for Astro's Content Layer |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-03T18:41 | 4 | 806 | 943 |
 | 2026-08-03T13:13 | 1 | 807 | 939 |
 | 2026-08-03T07:21 | 1 | 807 | 938 |
 | 2026-08-03T00:52 | 0 | 808 | 937 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-02T00:53 | 0 | 802 | 928 |
 | 2026-08-01T18:26 | 4 | 798 | 928 |
 | 2026-08-01T12:30 | 3 | 798 | 924 |
-| 2026-08-01T06:59 | 2 | 799 | 921 |
 
 ---
 
