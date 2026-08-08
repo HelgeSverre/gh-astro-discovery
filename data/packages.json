@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-08-07T02:52:46Z",
-    "pushed_at": "2026-08-07T02:52:41Z",
+    "updated_at": "2026-08-08T01:57:43Z",
+    "pushed_at": "2026-08-08T01:57:39Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-08-07T02:38:32Z",
-    "pushed_at": "2026-08-07T02:38:26Z",
+    "updated_at": "2026-08-08T01:37:20Z",
+    "pushed_at": "2026-08-08T01:37:15Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-08-07T02:29:26Z",
-    "pushed_at": "2026-08-07T19:03:30Z",
+    "updated_at": "2026-08-08T01:17:39Z",
+    "pushed_at": "2026-08-08T01:17:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-08-07T02:28:00Z",
-    "pushed_at": "2026-08-07T18:23:51Z",
+    "updated_at": "2026-08-08T01:16:09Z",
+    "pushed_at": "2026-08-08T01:16:06Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-08-04T15:07:55Z",
-    "pushed_at": "2026-08-07T17:41:02Z",
+    "pushed_at": "2026-08-08T05:02:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -5650,7 +5650,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 280,
+    "stars": 281,
     "forks": 81,
     "topics": [
       "astro",
@@ -5669,7 +5669,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-08-05T19:36:31Z",
+    "updated_at": "2026-08-08T03:09:36Z",
     "pushed_at": "2026-06-24T05:40:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5837,7 +5837,7 @@
   "crrashh1542/astro-theme-rudeus": {
     "name": "crrashh1542/astro-theme-rudeus",
     "url": "https://github.com/crrashh1542/astro-theme-rudeus",
-    "description": "[WIP] 一个简洁明亮的 Astro 博客主题 / A light blog theme built with Astro.",
+    "description": "一个简洁明亮的 Astro 博客主题 / A light blog theme built with Astro.",
     "stars": 3,
     "forks": 0,
     "topics": [
@@ -5851,7 +5851,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-02-07T12:22:21Z",
-    "updated_at": "2026-05-03T16:22:44Z",
+    "updated_at": "2026-08-08T03:27:25Z",
     "pushed_at": "2026-05-03T16:22:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9833,7 +9833,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-08-07T22:32:22Z",
-    "pushed_at": "2026-08-07T22:32:16Z",
+    "pushed_at": "2026-08-08T01:15:08Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -11377,8 +11377,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-29T13:48:31Z",
-    "updated_at": "2026-07-31T13:39:51Z",
-    "pushed_at": "2026-07-31T13:39:16Z",
+    "updated_at": "2026-08-08T00:56:27Z",
+    "pushed_at": "2026-08-08T00:56:24Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "kajir-009/kajir-009.github.io": {
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-05T11:05:02Z",
-    "pushed_at": "2026-08-07T23:22:49Z",
+    "pushed_at": "2026-08-08T05:33:27Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11656,7 +11656,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-07-30T12:15:49Z",
-    "pushed_at": "2026-08-03T17:03:51Z",
+    "pushed_at": "2026-08-08T04:34:49Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -11699,8 +11699,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-08-07T18:33:06Z",
-    "pushed_at": "2026-08-07T18:32:44Z",
+    "updated_at": "2026-08-08T06:02:25Z",
+    "pushed_at": "2026-08-08T06:02:21Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -12410,7 +12410,7 @@
     "url": "https://github.com/wangjacks/capsule-x",
     "description": "A minimal blog theme for Astro with capsule floating navigation and modern design.",
     "stars": 8,
-    "forks": 3,
+    "forks": 4,
     "topics": [],
     "language": "Astro",
     "license": "Apache-2.0",
@@ -12607,8 +12607,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2017-06-14T16:16:41Z",
-    "updated_at": "2026-07-29T15:07:32Z",
-    "pushed_at": "2026-07-29T15:02:15Z",
+    "updated_at": "2026-08-08T05:13:14Z",
+    "pushed_at": "2026-08-08T05:13:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "marquisdesac/ceofolio": {
@@ -12759,13 +12759,13 @@
     "name": "hetw24/astro-theme-pure",
     "url": "https://github.com/hetw24/astro-theme-pure",
     "description": "",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-06-29T07:29:28Z",
-    "updated_at": "2026-06-29T07:29:37Z",
+    "updated_at": "2026-08-08T01:02:13Z",
     "pushed_at": "2026-06-29T07:29:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -13529,7 +13529,7 @@
     "url": "https://github.com/sitepins/powerai-astro",
     "description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes. Pre-configured Sitepins CMS. Ready to deploy on Cloudflare Workers, Vercel, Netlify, or Docker.",
     "stars": 57,
-    "forks": 59,
+    "forks": 58,
     "topics": [
       "astro",
       "astrojs",
@@ -14297,7 +14297,7 @@
     "url": "https://github.com/jxpeng98/astro-theme-scholars",
     "description": "Customisable Astro theme for academic portfolios",
     "stars": 4,
-    "forks": 1,
+    "forks": 2,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -15633,7 +15633,7 @@
     "url": "https://github.com/getastrothemes/techlo-lite-astro",
     "description": "Techlo Lite is a free Astro theme for IT firms, software teams, and technology consultancies.",
     "stars": 4,
-    "forks": 6,
+    "forks": 5,
     "topics": [
       "astro",
       "astro-template",
@@ -15687,7 +15687,7 @@
     "name": "kpab/astro-kepler",
     "url": "https://github.com/kpab/astro-kepler",
     "description": "Kepler — a versatile Astro 7 theme for blogs, portfolios, and landing pages. Navy × orange, one design system.",
-    "stars": 8,
+    "stars": 9,
     "forks": 3,
     "topics": [
       "astro",
@@ -15706,7 +15706,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-10T06:32:58Z",
-    "updated_at": "2026-08-05T09:29:40Z",
+    "updated_at": "2026-08-08T04:22:05Z",
     "pushed_at": "2026-08-04T20:25:56Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
@@ -16031,7 +16031,7 @@
     "name": "EFEELE/NeonMint",
     "url": "https://github.com/EFEELE/NeonMint",
     "description": "is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.",
-    "stars": 144,
+    "stars": 143,
     "forks": 98,
     "topics": [
       "astro",
@@ -16056,7 +16056,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-04-07T20:41:27Z",
-    "updated_at": "2026-07-13T16:31:18Z",
+    "updated_at": "2026-08-08T01:06:10Z",
     "pushed_at": "2026-07-13T16:35:13Z",
     "discovered_at": "2026-07-13T18:40:05.195Z"
   },
@@ -16193,7 +16193,7 @@
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
     "updated_at": "2026-08-07T23:02:25Z",
-    "pushed_at": "2026-08-07T23:02:51Z",
+    "pushed_at": "2026-08-08T03:29:26Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -16302,7 +16302,7 @@
     "url": "https://github.com/xocothemes/atelier-ko",
     "description": "Atelier Kō is a modern, minimalist ecommerce theme with a built-in checkout experience.",
     "stars": 10,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "astro",
       "astrojs",
@@ -17754,7 +17754,7 @@
     "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
     "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
     "stars": 0,
-    "forks": 1,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-template",
@@ -18682,8 +18682,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-30T21:12:58Z",
-    "updated_at": "2026-08-07T23:55:02Z",
-    "pushed_at": "2026-08-07T23:54:58Z",
+    "updated_at": "2026-08-08T03:31:28Z",
+    "pushed_at": "2026-08-08T03:31:24Z",
     "discovered_at": "2026-08-07T01:24:34.668Z"
   },
   "mohambs/open-portfolio": {
@@ -18758,8 +18758,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-07T08:11:59Z",
-    "updated_at": "2026-08-07T22:57:13Z",
-    "pushed_at": "2026-08-07T22:58:02Z",
+    "updated_at": "2026-08-08T05:09:27Z",
+    "pushed_at": "2026-08-08T05:59:10Z",
     "discovered_at": "2026-08-07T18:21:56.937Z"
   },
   "yunxinz/ac-site-template": {
@@ -18775,5 +18775,19 @@
     "updated_at": "2026-08-07T12:50:03Z",
     "pushed_at": "2026-08-07T12:49:53Z",
     "discovered_at": "2026-08-07T18:21:56.938Z"
+  },
+  "slepoh/firefly": {
+    "name": "slepoh/Firefly",
+    "url": "https://github.com/slepoh/Firefly",
+    "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-05T02:17:53Z",
+    "updated_at": "2026-08-08T06:14:03Z",
+    "pushed_at": "2026-08-08T06:14:00Z",
+    "discovered_at": "2026-08-08T06:21:44.071Z"
   }
 }
