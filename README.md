@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 976
-**Last updated:** 2026-08-09T06:22:05.231Z
+**Total packages tracked:** 977
+**Last updated:** 2026-08-09T12:14:19.276Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [miyamo2/astro-jsonld](https://github.com/miyamo2/astro-jsonld) | 0 | JSON-LD structured data for Astro sites |
 | [dcarrero/Astro-Acumbamail-Component](https://github.com/dcarrero/Astro-Acumbamail-Component) | 0 | Newsletter signup for Astro backed by Acumbamail: platform-agnostic core, access... |
 | [John10240/bluesy-astro-theme](https://github.com/John10240/bluesy-astro-theme) | 0 | An Astro blog theme for Cloudflare Workers.   一个 Astro 博客模板，面向 Cloudflare Worker... |
 | [rennerdo30/docs-template](https://github.com/rennerdo30/docs-template) | 0 | Luminous Void: a dark-first theme plugin for Astro Starlight docs sites - near-b... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [rasrc78/astro-nameless-blog](https://github.com/rasrc78/astro-nameless-blog) | 1 |  |
 | [Ri-Nai/astro-theme-kago](https://github.com/Ri-Nai/astro-theme-kago) | 1 |  |
 | [cirry/astro-yi](https://github.com/cirry/astro-yi) | 154 | Astro Theme YI. A simple and lightweight blog theme for Astro. |
-| [nrtedesco/nrtedesco.github.io](https://github.com/nrtedesco/nrtedesco.github.io) | 0 | Portfolio website built using astro-narrow theme for Astro web framework.  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,11 +59,19 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-08-09 |  |
+| [CogappLabs/cogapp-slides-template](https://github.com/CogappLabs/cogapp-slides-template) | 0 | 2026-08-09 | Astro + MDX presentation deck starter, themed with the Cogap... |
+| [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-08-09 |  |
+| [Mystery-Coder/blog](https://github.com/Mystery-Coder/blog) | 0 | 2026-08-09 | My blog, made with Astro Sienna theme |
+| [miyamo2/astro-jsonld](https://github.com/miyamo2/astro-jsonld) | 0 | 2026-08-09 | JSON-LD structured data for Astro sites |
+| [wutongyuonce/wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) | 26 | 2026-08-09 | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro b... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-09 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | 2026-08-09 | A curated collection of developer resources, tutorials, tool... |
 | [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-08-09 | Support AsciiDoc pages in Astro |
-| [sansware/site-templates](https://github.com/sansware/site-templates) | 0 | 2026-08-09 | Astro starter template for production small-business sites. ... |
 | [slepoh/Firefly](https://github.com/slepoh/Firefly) | 0 | 2026-08-09 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-08-09 |  |
+| [javas-repo/astron](https://github.com/javas-repo/astron) | 0 | 2026-08-09 | A minimal, accessible and SEO-friendly Astro blog theme. htt... |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-08-09 | Regular integration tests of Coordinated packages with astro... |
+| [sansware/site-templates](https://github.com/sansware/site-templates) | 0 | 2026-08-09 | Astro starter template for production small-business sites. ... |
 | [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | 2026-08-09 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CS... |
 | [Leilei332/blog2](https://github.com/Leilei332/blog2) | 0 | 2026-08-09 | Blog based on astro retypeset theme |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-09 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
@@ -71,14 +79,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-08-09 | Network 🚠 |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | 2026-08-09 | Inline 🦔 |
 | [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-09 | Format 🗻 |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-09 | Universal Analytics Engines Integration |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-08 | My astro static blog use theme Firefly. |
-| [freshjuice-dev/astro-search-plugin](https://github.com/freshjuice-dev/astro-search-plugin) | 0 | 2026-08-08 | Framework-agnostic, type-safe search for Astro 5+ powered by... |
-| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 54 | 2026-08-08 | A lightweight, zero-dependency cookie consent toolkit for GD... |
-| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 45 | 2026-08-08 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
-| [rasrc78/astro-nameless-blog](https://github.com/rasrc78/astro-nameless-blog) | 1 | 2026-08-08 |  |
-| [mahshidgh96/astro-narrow-final](https://github.com/mahshidgh96/astro-narrow-final) | 1 | 2026-08-08 | astro blog narrow theme  |
-| [OpaceDigitalAgency/astro-visual-editor](https://github.com/OpaceDigitalAgency/astro-visual-editor) | 0 | 2026-08-08 | Astro Visual Editor for front-end text and SEO editing, drag... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-09T12:14 | 1 | 817 | 977 |
 | 2026-08-09T06:22 | 0 | 817 | 976 |
 | 2026-08-09T00:30 | 0 | 817 | 976 |
 | 2026-08-08T18:12 | 2 | 815 | 976 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-07T18:21 | 2 | 813 | 972 |
 | 2026-08-07T12:23 | 1 | 814 | 970 |
 | 2026-08-07T06:32 | 0 | 815 | 969 |
-| 2026-08-07T01:24 | 7 | 808 | 969 |
 
 ---
 
