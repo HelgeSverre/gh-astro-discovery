@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 976
-**Last updated:** 2026-08-09T00:30:48.209Z
+**Last updated:** 2026-08-09T06:22:05.231Z
 
 ## 📦 Recently Discovered
 
@@ -48,7 +48,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek) | 282 | A theme for Astro |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 281 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | 280 | Simple and Elegant Astro Blog Template. |
-| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 264 | A flexible and feature-rich Astro theme for developers and creators. |
+| [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 265 | A flexible and feature-rich Astro theme for developers and creators. |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 228 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 216 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 215 | A flexible Astro blog theme designed for Obsidian users. |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-08-09 |  |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-09 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-08-09 | Support AsciiDoc pages in Astro |
+| [sansware/site-templates](https://github.com/sansware/site-templates) | 0 | 2026-08-09 | Astro starter template for production small-business sites. ... |
+| [slepoh/Firefly](https://github.com/slepoh/Firefly) | 0 | 2026-08-09 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | 2026-08-09 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CS... |
+| [Leilei332/blog2](https://github.com/Leilei332/blog2) | 0 | 2026-08-09 | Blog based on astro retypeset theme |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-09 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [PlayForm/Convert](https://github.com/PlayForm/Convert) | 1 | 2026-08-09 | Convert 🫶🏻 |
+| [PlayForm/Network](https://github.com/PlayForm/Network) | 1 | 2026-08-09 | Network 🚠 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | 2026-08-09 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-09 | Format 🗻 |
 | [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-09 | Universal Analytics Engines Integration |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-08 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-08 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
 | [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-08 | My astro static blog use theme Firefly. |
 | [freshjuice-dev/astro-search-plugin](https://github.com/freshjuice-dev/astro-search-plugin) | 0 | 2026-08-08 | Framework-agnostic, type-safe search for Astro 5+ powered by... |
 | [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 54 | 2026-08-08 | A lightweight, zero-dependency cookie consent toolkit for GD... |
 | [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 45 | 2026-08-08 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
-| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-08-08 |  |
 | [rasrc78/astro-nameless-blog](https://github.com/rasrc78/astro-nameless-blog) | 1 | 2026-08-08 |  |
 | [mahshidgh96/astro-narrow-final](https://github.com/mahshidgh96/astro-narrow-final) | 1 | 2026-08-08 | astro blog narrow theme  |
-| [slepoh/Firefly](https://github.com/slepoh/Firefly) | 0 | 2026-08-08 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
 | [OpaceDigitalAgency/astro-visual-editor](https://github.com/OpaceDigitalAgency/astro-visual-editor) | 0 | 2026-08-08 | Astro Visual Editor for front-end text and SEO editing, drag... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-08 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [CogappLabs/cogapp-slides-template](https://github.com/CogappLabs/cogapp-slides-template) | 0 | 2026-08-08 | Astro + MDX presentation deck starter, themed with the Cogap... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-08-08 | Modern static blog theme with distinctive anime-style featur... |
-| [dcarrero/Astro-Acumbamail-Component](https://github.com/dcarrero/Astro-Acumbamail-Component) | 0 | 2026-08-08 | Newsletter signup for Astro backed by Acumbamail: platform-a... |
-| [yunxinz/ac-site-template](https://github.com/yunxinz/ac-site-template) | 51 | 2026-08-08 | A cozy, Animal Crossing-themed personal website built with A... |
-| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 0 | 2026-08-08 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
-| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 95 | 2026-08-08 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
-| [Jack-Liang/resume-jack-liang](https://github.com/Jack-Liang/resume-jack-liang) | 0 | 2026-08-08 | Ovidius - a single-author blog theme for Astro.js. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-09T06:22 | 0 | 817 | 976 |
 | 2026-08-09T00:30 | 0 | 817 | 976 |
 | 2026-08-08T18:12 | 2 | 815 | 976 |
 | 2026-08-08T12:14 | 1 | 815 | 974 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-07T12:23 | 1 | 814 | 970 |
 | 2026-08-07T06:32 | 0 | 815 | 969 |
 | 2026-08-07T01:24 | 7 | 808 | 969 |
-| 2026-08-06T12:46 | 1 | 814 | 962 |
 
 ---
 
