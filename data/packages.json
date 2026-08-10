@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-08-09T02:05:16Z",
-    "pushed_at": "2026-08-09T02:05:12Z",
+    "updated_at": "2026-08-10T02:09:46Z",
+    "pushed_at": "2026-08-10T06:34:37Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -133,8 +133,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:29Z",
-    "updated_at": "2026-08-09T01:42:19Z",
-    "pushed_at": "2026-08-09T01:42:15Z",
+    "updated_at": "2026-08-10T01:45:48Z",
+    "pushed_at": "2026-08-10T01:45:44Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/inline": {
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-08-09T01:23:04Z",
-    "pushed_at": "2026-08-09T01:23:01Z",
+    "updated_at": "2026-08-10T01:24:39Z",
+    "pushed_at": "2026-08-10T01:24:35Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-08-09T01:21:08Z",
-    "pushed_at": "2026-08-09T01:21:05Z",
+    "updated_at": "2026-08-10T01:22:54Z",
+    "pushed_at": "2026-08-10T01:22:49Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -209,8 +209,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
-    "updated_at": "2026-08-09T21:29:49Z",
-    "pushed_at": "2026-08-09T21:30:47Z",
+    "updated_at": "2026-08-10T02:25:18Z",
+    "pushed_at": "2026-08-10T02:26:04Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -521,7 +521,7 @@
     "name": "pawcoding/astro-loader-pocketbase",
     "url": "https://github.com/pawcoding/astro-loader-pocketbase",
     "description": "A content loader for Astro that uses the PocketBase API",
-    "stars": 62,
+    "stars": 63,
     "forks": 4,
     "topics": [
       "astro",
@@ -534,7 +534,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-09-22T12:11:49Z",
-    "updated_at": "2026-08-03T09:12:42Z",
+    "updated_at": "2026-08-10T04:54:20Z",
     "pushed_at": "2026-08-01T13:23:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-08-04T15:07:55Z",
-    "pushed_at": "2026-08-09T20:41:26Z",
+    "pushed_at": "2026-08-10T05:03:40Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -5273,8 +5273,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-08-04T21:40:53Z",
-    "pushed_at": "2026-08-04T21:40:47Z",
+    "updated_at": "2026-08-10T05:57:13Z",
+    "pushed_at": "2026-08-10T05:57:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -6023,7 +6023,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 384,
+    "stars": 385,
     "forks": 131,
     "topics": [
       "astro-build",
@@ -6043,7 +6043,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-07-26T13:06:10Z",
+    "updated_at": "2026-08-10T02:02:06Z",
     "pushed_at": "2026-06-27T06:45:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7934,8 +7934,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-12T10:24:21Z",
-    "updated_at": "2026-08-03T06:00:46Z",
-    "pushed_at": "2026-08-03T06:00:18Z",
+    "updated_at": "2026-08-10T04:45:30Z",
+    "pushed_at": "2026-08-10T04:45:27Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "protomorph/astro-zero": {
@@ -9832,8 +9832,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-08-07T22:32:22Z",
-    "pushed_at": "2026-08-08T01:15:08Z",
+    "updated_at": "2026-08-10T00:53:06Z",
+    "pushed_at": "2026-08-10T00:53:02Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -11278,7 +11278,7 @@
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
     "updated_at": "2026-08-07T10:52:48Z",
-    "pushed_at": "2026-08-03T03:18:22Z",
+    "pushed_at": "2026-08-10T03:17:36Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
   "markup-carve/astro-carve": {
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-05T11:05:02Z",
-    "pushed_at": "2026-08-09T23:18:29Z",
+    "pushed_at": "2026-08-10T05:14:01Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11699,8 +11699,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-08-10T00:28:30Z",
-    "pushed_at": "2026-08-10T00:28:27Z",
+    "updated_at": "2026-08-10T01:11:48Z",
+    "pushed_at": "2026-08-10T01:11:35Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -11796,8 +11796,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-09T14:46:22Z",
-    "updated_at": "2026-08-09T18:07:14Z",
-    "pushed_at": "2026-08-09T18:07:01Z",
+    "updated_at": "2026-08-10T06:16:09Z",
+    "pushed_at": "2026-08-10T06:15:42Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "riceball-tw/dong": {
@@ -11936,8 +11936,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
-    "updated_at": "2026-08-09T17:36:20Z",
-    "pushed_at": "2026-08-09T20:34:12Z",
+    "updated_at": "2026-08-10T00:43:33Z",
+    "pushed_at": "2026-08-10T04:50:56Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -12155,8 +12155,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-04-26T13:02:08Z",
-    "updated_at": "2026-08-09T14:35:07Z",
-    "pushed_at": "2026-08-09T14:34:52Z",
+    "updated_at": "2026-08-10T02:21:58Z",
+    "pushed_at": "2026-08-10T02:21:54Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "alanywu/alanywu.github.io": {
@@ -12289,7 +12289,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-01-18T19:23:55Z",
-    "updated_at": "2026-08-07T16:09:04Z",
+    "updated_at": "2026-08-10T04:14:45Z",
     "pushed_at": "2026-07-27T09:38:15Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12799,7 +12799,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-06-28T16:30:26Z",
     "updated_at": "2026-08-05T22:02:21Z",
-    "pushed_at": "2026-08-10T00:29:50Z",
+    "pushed_at": "2026-08-10T04:54:57Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "foxmoe/korikura-theme": {
@@ -14962,7 +14962,7 @@
     "url": "https://github.com/nearmelab/3dinterior",
     "description": "Free Astro theme built for architects and design studios. ⭐️ Star to support our work!",
     "stars": 10,
-    "forks": 8,
+    "forks": 9,
     "topics": [
       "architecture",
       "astro",
@@ -15007,8 +15007,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-03-02T22:20:44Z",
-    "updated_at": "2026-08-03T05:54:44Z",
-    "pushed_at": "2026-08-03T05:53:39Z",
+    "updated_at": "2026-08-10T05:10:50Z",
+    "pushed_at": "2026-08-10T05:10:53Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "praxispoetica/chiri-pp": {
@@ -15600,7 +15600,7 @@
     "url": "https://github.com/tom2almighty/astro-narrow",
     "description": "",
     "stars": 14,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "astro",
       "astro-theme",
@@ -16180,7 +16180,7 @@
     "name": "kydecker/astro-lilypond",
     "url": "https://github.com/kydecker/astro-lilypond",
     "description": "An Astro integration for rendering LilyPond music notation.",
-    "stars": 43,
+    "stars": 44,
     "forks": 2,
     "topics": [
       "astro",
@@ -16192,7 +16192,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-08-09T08:25:36Z",
+    "updated_at": "2026-08-10T03:21:11Z",
     "pushed_at": "2026-08-08T08:23:43Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
@@ -17322,7 +17322,7 @@
     "license": null,
     "created_at": "2026-07-26T00:39:36Z",
     "updated_at": "2026-08-02T11:14:35Z",
-    "pushed_at": "2026-08-09T11:46:54Z",
+    "pushed_at": "2026-08-10T01:55:29Z",
     "discovered_at": "2026-07-26T00:54:31.960Z"
   },
   "mathieubaffoigne/mathieubaffoigne.github.io": {
@@ -17754,7 +17754,7 @@
     "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
     "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
     "stars": 0,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "astro",
       "astro-template",
@@ -18618,8 +18618,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-04T07:03:48Z",
-    "updated_at": "2026-08-07T07:26:33Z",
-    "pushed_at": "2026-08-06T11:00:47Z",
+    "updated_at": "2026-08-10T06:21:42Z",
+    "pushed_at": "2026-08-10T06:22:26Z",
     "discovered_at": "2026-08-06T12:46:10.039Z"
   },
   "leevikopakkala/astro-cookie-consent": {
@@ -18786,8 +18786,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-05T02:17:53Z",
-    "updated_at": "2026-08-09T15:23:49Z",
-    "pushed_at": "2026-08-09T15:23:38Z",
+    "updated_at": "2026-08-10T00:54:59Z",
+    "pushed_at": "2026-08-10T00:54:54Z",
     "discovered_at": "2026-08-08T06:21:44.071Z"
   },
   "rennerdo30/docs-template": {
