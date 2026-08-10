@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-08-10T11:04:00Z",
-    "pushed_at": "2026-08-10T11:03:37Z",
+    "pushed_at": "2026-08-10T18:06:02Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-07-02T16:26:25Z",
-    "pushed_at": "2026-08-07T21:08:08Z",
+    "pushed_at": "2026-08-10T15:36:51Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -974,7 +974,7 @@
     "name": "velohost/astro-canonical",
     "url": "https://github.com/velohost/astro-canonical",
     "description": "Build-time canonical URL validation for Astro. Enforces site origin and trailing-slash rules and fails builds on SEO mistakes.",
-    "stars": 0,
+    "stars": 1,
     "forks": 2,
     "topics": [
       "astro",
@@ -996,7 +996,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-04T23:25:05Z",
-    "updated_at": "2026-04-01T00:50:34Z",
+    "updated_at": "2026-08-10T13:04:07Z",
     "pushed_at": "2026-04-01T00:50:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1363,8 +1363,8 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "created_at": "2025-12-14T15:01:12Z",
-    "updated_at": "2026-08-10T12:21:59Z",
-    "pushed_at": "2026-08-10T12:23:19Z",
+    "updated_at": "2026-08-10T12:58:49Z",
+    "pushed_at": "2026-08-10T12:56:02Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "frostybee/expressive-code-typewriter": {
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-08-04T15:07:55Z",
-    "pushed_at": "2026-08-10T05:03:40Z",
+    "pushed_at": "2026-08-10T15:51:07Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -3780,7 +3780,7 @@
     "name": "ACP-CODE/astro-robots",
     "url": "https://github.com/ACP-CODE/astro-robots",
     "description": "A reliable robots.txt generator for Astro projects, offering zero-config setup and Verified Bots support.",
-    "stars": 19,
+    "stars": 20,
     "forks": 5,
     "topics": [
       "astro-integration",
@@ -3790,7 +3790,7 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2023-09-04T11:10:01Z",
-    "updated_at": "2026-03-08T00:30:57Z",
+    "updated_at": "2026-08-10T12:47:53Z",
     "pushed_at": "2024-12-16T10:31:41Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4222,8 +4222,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-08-07T20:53:30Z",
-    "pushed_at": "2026-08-07T20:53:25Z",
+    "updated_at": "2026-08-10T17:34:08Z",
+    "pushed_at": "2026-08-10T17:31:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -4300,8 +4300,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-08-27T18:25:16Z",
-    "updated_at": "2026-07-14T17:07:19Z",
-    "pushed_at": "2026-08-06T14:02:44Z",
+    "updated_at": "2026-08-10T15:23:59Z",
+    "pushed_at": "2026-08-10T15:19:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "roebi/astro-github-api-plugin": {
@@ -4322,7 +4322,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-07-21T05:55:45Z",
-    "pushed_at": "2026-08-03T15:53:14Z",
+    "pushed_at": "2026-08-10T15:53:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5252,8 +5252,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-10T11:56:41Z",
-    "pushed_at": "2026-08-10T11:55:57Z",
+    "updated_at": "2026-08-10T16:02:25Z",
+    "pushed_at": "2026-08-10T15:59:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5442,8 +5442,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-08-07T20:05:19Z",
-    "pushed_at": "2026-08-05T17:09:13Z",
+    "updated_at": "2026-08-10T16:14:05Z",
+    "pushed_at": "2026-08-10T16:13:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mearashadowfax/datanova": {
@@ -5533,8 +5533,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-08-08T13:38:00Z",
-    "pushed_at": "2026-08-03T13:47:13Z",
+    "updated_at": "2026-08-10T13:51:41Z",
+    "pushed_at": "2026-08-10T13:50:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
@@ -5939,7 +5939,7 @@
     "url": "https://github.com/getastrothemes/folex-lite-astro",
     "description": "A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!",
     "stars": 39,
-    "forks": 24,
+    "forks": 23,
     "topics": [
       "agency-template",
       "astro",
@@ -6024,7 +6024,7 @@
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
     "stars": 385,
-    "forks": 131,
+    "forks": 130,
     "topics": [
       "astro-build",
       "astro-template",
@@ -6283,7 +6283,7 @@
     "name": "0xdres/astro-devosfera",
     "url": "https://github.com/0xdres/astro-devosfera",
     "description": "Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI",
-    "stars": 176,
+    "stars": 177,
     "forks": 32,
     "topics": [
       "astro",
@@ -6301,7 +6301,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-16T04:33:38Z",
-    "updated_at": "2026-08-09T01:22:28Z",
+    "updated_at": "2026-08-10T17:28:52Z",
     "pushed_at": "2026-06-09T22:10:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7105,7 +7105,7 @@
     "name": "ChurchTao/PlainPage",
     "url": "https://github.com/ChurchTao/PlainPage",
     "description": "A fast, text-focused, minimalist blog",
-    "stars": 44,
+    "stars": 43,
     "forks": 0,
     "topics": [
       "astro",
@@ -7118,7 +7118,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-12-20T08:05:12Z",
-    "updated_at": "2026-08-02T08:16:39Z",
+    "updated_at": "2026-08-10T13:35:27Z",
     "pushed_at": "2025-07-24T02:16:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10048,7 +10048,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 45,
-    "forks": 30,
+    "forks": 31,
     "topics": [
       "astro",
       "astro-template",
@@ -10339,7 +10339,7 @@
     "name": "meno-so/meno-astro",
     "url": "https://github.com/meno-so/meno-astro",
     "description": "Runtime + round-trippable .astro dialect (emit/parse) that lets Meno use Astro files as a source-of-truth format. Public runtime-only mirror.",
-    "stars": 8,
+    "stars": 9,
     "forks": 1,
     "topics": [
       "astro",
@@ -10355,7 +10355,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-16T13:26:03Z",
-    "updated_at": "2026-08-05T16:19:34Z",
+    "updated_at": "2026-08-10T18:12:44Z",
     "pushed_at": "2026-07-13T14:27:20Z",
     "discovered_at": "2026-06-16T19:21:28.686Z"
   },
@@ -11516,8 +11516,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-06T19:54:53Z",
-    "updated_at": "2026-08-07T19:52:58Z",
-    "pushed_at": "2026-08-07T19:52:39Z",
+    "updated_at": "2026-08-10T15:53:50Z",
+    "pushed_at": "2026-08-10T15:54:05Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wxyim/projectcraft.dev": {
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-05T11:05:02Z",
-    "pushed_at": "2026-08-10T11:40:40Z",
+    "pushed_at": "2026-08-10T17:41:55Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11796,8 +11796,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-09T14:46:22Z",
-    "updated_at": "2026-08-10T10:37:54Z",
-    "pushed_at": "2026-08-10T10:37:08Z",
+    "updated_at": "2026-08-10T16:56:44Z",
+    "pushed_at": "2026-08-10T16:56:39Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "riceball-tw/dong": {
@@ -11967,7 +11967,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-08-09T18:38:18Z",
+    "updated_at": "2026-08-10T12:36:20Z",
     "pushed_at": "2026-08-08T12:56:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12368,7 +12368,7 @@
     "url": "https://github.com/Just-Passersby/astro-biluo",
     "description": "Open-source Astro themes",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -12567,8 +12567,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-08-10T11:31:17Z",
-    "pushed_at": "2026-08-10T11:31:02Z",
+    "updated_at": "2026-08-10T12:49:10Z",
+    "pushed_at": "2026-08-10T12:48:53Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -14297,7 +14297,7 @@
     "url": "https://github.com/jxpeng98/astro-theme-scholars",
     "description": "Customisable Astro theme for academic portfolios",
     "stars": 4,
-    "forks": 2,
+    "forks": 3,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -14345,7 +14345,7 @@
     "license": "MIT",
     "created_at": "2025-09-13T11:52:58Z",
     "updated_at": "2026-07-24T07:04:18Z",
-    "pushed_at": "2026-07-27T13:54:36Z",
+    "pushed_at": "2026-08-10T13:54:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wooreay/astro-theme-reay": {
@@ -15755,7 +15755,7 @@
     "license": "MIT",
     "created_at": "2026-07-10T21:37:40Z",
     "updated_at": "2026-07-13T02:19:29Z",
-    "pushed_at": "2026-07-13T02:19:25Z",
+    "pushed_at": "2026-08-10T18:19:50Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "sri-nivas1227/astro-portfolio": {
@@ -15930,8 +15930,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T19:07:15Z",
-    "updated_at": "2026-07-13T15:39:47Z",
-    "pushed_at": "2026-08-10T11:47:20Z",
+    "updated_at": "2026-08-10T14:07:14Z",
+    "pushed_at": "2026-08-10T14:08:02Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "mikeparcewski/wicked-web": {
@@ -15944,8 +15944,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T21:05:59Z",
-    "updated_at": "2026-07-13T15:33:24Z",
-    "pushed_at": "2026-08-10T11:48:14Z",
+    "updated_at": "2026-08-10T13:54:40Z",
+    "pushed_at": "2026-08-10T13:53:12Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "wowayou/bilingual-blog-template": {
@@ -16604,7 +16604,7 @@
     "license": "MIT",
     "created_at": "2026-07-07T12:32:22Z",
     "updated_at": "2026-07-17T14:28:51Z",
-    "pushed_at": "2026-08-03T17:36:37Z",
+    "pushed_at": "2026-08-10T17:38:13Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "fannydevz/astro-portofolio": {
@@ -16625,7 +16625,7 @@
     "name": "nipun-arora/cool-astro-forms",
     "url": "https://github.com/nipun-arora/cool-astro-forms",
     "description": "The lead-ops platform for Astro forms: abandonment capture, recovery emails, quote payments, and a self-hosted admin. No external services, just SQLite and SMTP. MIT.",
-    "stars": 5,
+    "stars": 6,
     "forks": 2,
     "topics": [
       "astro",
@@ -16652,7 +16652,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-08-08T12:27:49Z",
+    "updated_at": "2026-08-10T12:53:31Z",
     "pushed_at": "2026-07-22T09:38:56Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
@@ -16949,8 +16949,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-07-21T08:48:46Z",
-    "updated_at": "2026-07-30T06:39:34Z",
-    "pushed_at": "2026-07-30T06:39:17Z",
+    "updated_at": "2026-08-10T17:30:41Z",
+    "pushed_at": "2026-08-10T17:27:26Z",
     "discovered_at": "2026-07-21T12:40:21.998Z"
   },
   "tarasenko-by/florin": {
@@ -17536,8 +17536,8 @@
     "name": "mychiffonn/myscholar",
     "url": "https://github.com/mychiffonn/myscholar",
     "description": "Astro theme for academic portfolios (or labs), research blogs, projects, and BibTeX publications",
-    "stars": 5,
-    "forks": 2,
+    "stars": 7,
+    "forks": 3,
     "topics": [
       "academic-theme",
       "al-folio",
@@ -17549,7 +17549,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-25T06:45:58Z",
-    "updated_at": "2026-08-08T22:07:49Z",
+    "updated_at": "2026-08-10T17:28:11Z",
     "pushed_at": "2026-08-04T10:00:34Z",
     "discovered_at": "2026-07-28T12:46:50.330Z"
   },
@@ -17931,8 +17931,8 @@
     "language": "Astro",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-31T10:59:10Z",
-    "updated_at": "2026-08-06T05:31:25Z",
-    "pushed_at": "2026-08-06T05:30:21Z",
+    "updated_at": "2026-08-10T15:41:29Z",
+    "pushed_at": "2026-08-10T15:37:51Z",
     "discovered_at": "2026-08-01T12:30:07.516Z"
   },
   "r007demo/astro-cactus": {
@@ -18117,7 +18117,7 @@
     "name": "t128n/starlight-ai-label",
     "url": "https://github.com/t128n/starlight-ai-label",
     "description": "Starlight plugin that adds EU AI Act–style AI content-disclosure badges (basic / generated / modified) to your docs pages, with per-page frontmatter, an expandable scope breakdown, and static SVG badge images.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "ai",
@@ -18133,7 +18133,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-02T15:47:20Z",
-    "updated_at": "2026-08-02T17:42:27Z",
+    "updated_at": "2026-08-10T13:18:25Z",
     "pushed_at": "2026-08-09T14:05:09Z",
     "discovered_at": "2026-08-02T18:27:14.276Z"
   },
@@ -18657,7 +18657,7 @@
     "license": "MIT",
     "created_at": "2026-08-06T22:25:47Z",
     "updated_at": "2026-08-10T08:04:58Z",
-    "pushed_at": "2026-08-10T08:04:36Z",
+    "pushed_at": "2026-08-10T13:02:38Z",
     "discovered_at": "2026-08-07T01:24:34.668Z"
   },
   "mikemedoro/baseline-theme": {
@@ -18944,8 +18944,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-10T04:49:24Z",
-    "updated_at": "2026-08-10T10:23:32Z",
-    "pushed_at": "2026-08-10T10:04:20Z",
+    "updated_at": "2026-08-10T16:13:48Z",
+    "pushed_at": "2026-08-10T16:12:49Z",
     "discovered_at": "2026-08-10T12:24:06.722Z"
   },
   "vincentheimann/astro-swiss-free-starter-theme": {
@@ -18961,5 +18961,74 @@
     "updated_at": "2026-08-10T09:50:12Z",
     "pushed_at": "2026-08-10T09:48:28Z",
     "discovered_at": "2026-08-10T12:24:06.723Z"
+  },
+  "bnomei/emdash-mika": {
+    "name": "bnomei/emdash-mika",
+    "url": "https://github.com/bnomei/emdash-mika",
+    "description": "EmDash CMS agent-ready commerce primitives for content-led storefronts.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "agent-ready-commerce",
+      "agentic-commerce",
+      "astro",
+      "astro-integration",
+      "cart",
+      "checkout",
+      "commerce",
+      "content-commerce",
+      "digital-downloads",
+      "ecommerce",
+      "emdash",
+      "emdash-plugin",
+      "headless-commerce",
+      "json-ld",
+      "license-keys",
+      "storefront",
+      "stripe",
+      "subscriptions",
+      "typescript",
+      "wishlist"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-06-18T11:20:57Z",
+    "updated_at": "2026-08-10T17:53:41Z",
+    "pushed_at": "2026-08-10T17:50:29Z",
+    "discovered_at": "2026-08-10T18:22:56.908Z"
+  },
+  "wenujacodes/astro-minimal-portfolio-template": {
+    "name": "wenujacodes/astro-minimal-portfolio-template",
+    "url": "https://github.com/wenujacodes/astro-minimal-portfolio-template",
+    "description": "A minimalist developer portfolio & blog template built with Astro 7, featuring time-of-day bases theming, Zod-validated collections, and clean vanilla CSS.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "blog",
+      "minimalist",
+      "portfolio",
+      "template"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-07-06T17:34:32Z",
+    "updated_at": "2026-08-10T17:24:39Z",
+    "pushed_at": "2026-08-10T17:21:10Z",
+    "discovered_at": "2026-08-10T18:22:56.909Z"
+  },
+  "ddavejjackson/basic-starter-astro-theme": {
+    "name": "ddavejjackson/basic-starter-astro-theme",
+    "url": "https://github.com/ddavejjackson/basic-starter-astro-theme",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-08-10T13:42:26Z",
+    "updated_at": "2026-08-10T13:47:53Z",
+    "pushed_at": "2026-08-10T13:46:06Z",
+    "discovered_at": "2026-08-10T18:22:56.909Z"
   }
 }
