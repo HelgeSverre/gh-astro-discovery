@@ -58,7 +58,7 @@
     "url": "https://github.com/florian-lefebvre/astro-loading-indicator",
     "description": "Display a progress bar between page navigations when using View Transitions",
     "stars": 112,
-    "forks": 10,
+    "forks": 9,
     "topics": [
       "astro",
       "astro-component",
@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-08-10T01:24:39Z",
-    "pushed_at": "2026-08-10T19:03:47Z",
+    "updated_at": "2026-08-11T01:22:30Z",
+    "pushed_at": "2026-08-11T01:22:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-08-10T01:22:54Z",
-    "pushed_at": "2026-08-10T18:23:41Z",
+    "updated_at": "2026-08-11T01:20:48Z",
+    "pushed_at": "2026-08-11T01:20:42Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 41,
+    "stars": 40,
     "forks": 4,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-08-05T06:19:19Z",
+    "updated_at": "2026-08-11T04:11:05Z",
     "pushed_at": "2026-06-23T05:40:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2615,7 +2615,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-08-07T03:52:41Z",
+    "pushed_at": "2026-08-11T03:39:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-08-04T15:07:55Z",
-    "pushed_at": "2026-08-10T18:32:50Z",
+    "pushed_at": "2026-08-11T06:09:17Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -3416,7 +3416,7 @@
     "name": "vite-pwa/astro",
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
-    "stars": 318,
+    "stars": 319,
     "forks": 14,
     "topics": [
       "astro",
@@ -3429,7 +3429,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-08-06T21:49:19Z",
+    "updated_at": "2026-08-11T00:53:24Z",
     "pushed_at": "2025-11-27T22:14:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4223,7 +4223,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-08-10T17:34:08Z",
-    "pushed_at": "2026-08-10T17:31:23Z",
+    "pushed_at": "2026-08-11T01:49:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5252,8 +5252,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-10T22:32:04Z",
-    "pushed_at": "2026-08-10T22:31:58Z",
+    "updated_at": "2026-08-11T05:24:06Z",
+    "pushed_at": "2026-08-11T05:23:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5398,7 +5398,7 @@
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
     "updated_at": "2026-08-08T13:02:35Z",
-    "pushed_at": "2026-08-10T23:50:53Z",
+    "pushed_at": "2026-08-11T06:00:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "louisescher/spectre": {
@@ -5533,8 +5533,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
-    "updated_at": "2026-08-10T13:51:41Z",
-    "pushed_at": "2026-08-10T13:50:57Z",
+    "updated_at": "2026-08-11T02:29:38Z",
+    "pushed_at": "2026-08-11T02:29:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
@@ -6853,7 +6853,7 @@
     "name": "sudeep2003/AstroFlow",
     "url": "https://github.com/sudeep2003/AstroFlow",
     "description": "Modern Astro.js template for logistics and manufacturing companies. Built with React, Tailwind CSS, and TypeScript.",
-    "stars": 43,
+    "stars": 44,
     "forks": 24,
     "topics": [
       "astro",
@@ -6874,7 +6874,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-25T16:05:58Z",
-    "updated_at": "2026-07-03T18:32:11Z",
+    "updated_at": "2026-08-11T04:24:15Z",
     "pushed_at": "2026-07-03T18:30:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8444,8 +8444,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-08-07T21:33:13Z",
-    "pushed_at": "2026-08-09T18:09:46Z",
+    "updated_at": "2026-08-11T01:45:03Z",
+    "pushed_at": "2026-08-11T01:46:53Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10230,8 +10230,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-11T21:58:43Z",
-    "updated_at": "2026-07-28T18:53:21Z",
-    "pushed_at": "2026-07-28T20:24:44Z",
+    "updated_at": "2026-08-11T04:13:38Z",
+    "pushed_at": "2026-08-11T04:13:32Z",
     "discovered_at": "2026-06-12T07:53:55.809Z"
   },
   "odhyp/astro-sidey": {
@@ -10483,7 +10483,7 @@
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
     "stars": 17,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "astro",
       "astro-blog",
@@ -11075,7 +11075,7 @@
     "name": "kpab/astro-haze",
     "url": "https://github.com/kpab/astro-haze",
     "description": "A glassmorphism Astro 7 theme with blog, portfolio & landing pages — SEO, RSS, light/dark, and accessibility built in.",
-    "stars": 14,
+    "stars": 15,
     "forks": 11,
     "topics": [
       "astro",
@@ -11092,7 +11092,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
-    "updated_at": "2026-08-10T18:29:37Z",
+    "updated_at": "2026-08-11T05:06:48Z",
     "pushed_at": "2026-08-10T11:39:25Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-05T11:05:02Z",
-    "pushed_at": "2026-08-10T23:23:36Z",
+    "pushed_at": "2026-08-11T05:44:52Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -13318,7 +13318,7 @@
     "url": "https://github.com/farrosfr/zenix",
     "description": "A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.",
     "stars": 16,
-    "forks": 4,
+    "forks": 5,
     "topics": [],
     "language": "Astro",
     "license": null,
@@ -15576,7 +15576,7 @@
     "url": "https://github.com/anjay-goel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
     "stars": 42,
-    "forks": 11,
+    "forks": 12,
     "topics": [
       "astro",
       "astro-blog",
@@ -15930,8 +15930,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T19:07:15Z",
-    "updated_at": "2026-08-10T21:01:47Z",
-    "pushed_at": "2026-08-10T21:01:24Z",
+    "updated_at": "2026-08-11T01:50:56Z",
+    "pushed_at": "2026-08-11T01:50:50Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "mikeparcewski/wicked-web": {
@@ -15945,7 +15945,7 @@
     "license": null,
     "created_at": "2026-06-16T21:05:59Z",
     "updated_at": "2026-08-10T13:54:40Z",
-    "pushed_at": "2026-08-10T13:53:12Z",
+    "pushed_at": "2026-08-11T01:05:31Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "wowayou/bilingual-blog-template": {
@@ -16079,7 +16079,7 @@
     "url": "https://github.com/xxy1103/ulbo-astro-theme-template",
     "description": "",
     "stars": 5,
-    "forks": 3,
+    "forks": 4,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -16192,8 +16192,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-08-10T20:07:11Z",
-    "pushed_at": "2026-08-10T20:06:47Z",
+    "updated_at": "2026-08-11T04:11:51Z",
+    "pushed_at": "2026-08-11T04:11:48Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -17717,8 +17717,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-27T08:49:11Z",
-    "updated_at": "2026-07-30T16:45:30Z",
-    "pushed_at": "2026-07-29T14:48:50Z",
+    "updated_at": "2026-08-11T05:32:23Z",
+    "pushed_at": "2026-08-11T05:32:19Z",
     "discovered_at": "2026-07-30T18:37:49.543Z"
   },
   "liteink/pale": {
@@ -17731,8 +17731,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-25T12:08:00Z",
-    "updated_at": "2026-07-30T16:45:31Z",
-    "pushed_at": "2026-07-25T12:08:12Z",
+    "updated_at": "2026-08-11T05:25:29Z",
+    "pushed_at": "2026-08-11T05:25:23Z",
     "discovered_at": "2026-07-30T18:37:49.543Z"
   },
   "matt-nolan11/matt-nolan11.github.io": {
@@ -17754,7 +17754,7 @@
     "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
     "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
     "stars": 0,
-    "forks": 8,
+    "forks": 9,
     "topics": [
       "astro",
       "astro-template",
@@ -17931,8 +17931,8 @@
     "language": "Astro",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-31T10:59:10Z",
-    "updated_at": "2026-08-10T15:41:29Z",
-    "pushed_at": "2026-08-10T15:37:51Z",
+    "updated_at": "2026-08-11T05:40:20Z",
+    "pushed_at": "2026-08-11T05:40:09Z",
     "discovered_at": "2026-08-01T12:30:07.516Z"
   },
   "r007demo/astro-cactus": {
@@ -18893,7 +18893,7 @@
     "license": "MIT",
     "created_at": "2026-04-19T19:38:57Z",
     "updated_at": "2026-08-11T00:25:06Z",
-    "pushed_at": "2026-08-11T00:25:02Z",
+    "pushed_at": "2026-08-11T00:51:45Z",
     "discovered_at": "2026-08-09T18:13:38.744Z"
   },
   "singu9/singu9.github.io": {
@@ -19035,7 +19035,7 @@
     "name": "productdevbook/kadraj",
     "url": "https://github.com/productdevbook/kadraj",
     "description": "The HTML-aware image optimizer — responsive AVIF for the images your built site actually uses, in Rust.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro-integration",
@@ -19052,8 +19052,55 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-08-10T23:12:31Z",
-    "updated_at": "2026-08-10T23:30:32Z",
+    "updated_at": "2026-08-11T02:22:15Z",
     "pushed_at": "2026-08-10T23:30:13Z",
     "discovered_at": "2026-08-11T00:29:42.705Z"
+  },
+  "zhao-leo/su-astro-theme": {
+    "name": "zhao-leo/su-astro-theme",
+    "url": "https://github.com/zhao-leo/su-astro-theme",
+    "description": "ABCD",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-08-11T05:00:12Z",
+    "updated_at": "2026-08-11T05:31:34Z",
+    "pushed_at": "2026-08-11T05:31:26Z",
+    "discovered_at": "2026-08-11T06:26:18.305Z"
+  },
+  "poltergejst-me/ovidius-astro-theme": {
+    "name": "poltergejst-me/ovidius-astro-theme",
+    "url": "https://github.com/poltergejst-me/ovidius-astro-theme",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "GPL-3.0",
+    "created_at": "2026-08-11T03:30:28Z",
+    "updated_at": "2026-08-11T03:30:51Z",
+    "pushed_at": "2026-08-11T03:30:41Z",
+    "discovered_at": "2026-08-11T06:26:18.305Z"
+  },
+  "ux-fotisp/fotisp-edge": {
+    "name": "ux-fotisp/fotisp-edge",
+    "url": "https://github.com/ux-fotisp/fotisp-edge",
+    "description": "EDGE is an open-source, high-performance theme for emdash designed and engineered by Fotis Pastrakis for free usage. You may use it as a template for your next project, by setting up workers in Cloudflare and AI-assist your front end development.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "css",
+      "emdash-cms",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-08-04T07:11:01Z",
+    "updated_at": "2026-08-11T06:02:53Z",
+    "pushed_at": "2026-08-10T06:12:15Z",
+    "discovered_at": "2026-08-11T06:26:18.305Z"
   }
 }
