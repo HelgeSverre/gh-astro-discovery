@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 998
-**Last updated:** 2026-08-12T18:24:01.780Z
+**Last updated:** 2026-08-13T00:36:04.177Z
 
 ## 📦 Recently Discovered
 
@@ -21,7 +21,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [zhao-leo/su-astro-theme](https://github.com/zhao-leo/su-astro-theme) | 0 | ABCD |
 | [poltergejst-me/ovidius-astro-theme](https://github.com/poltergejst-me/ovidius-astro-theme) | 0 |  |
 | [ux-fotisp/fotisp-edge](https://github.com/ux-fotisp/fotisp-edge) | 0 | EDGE is an open-source, high-performance theme for emdash designed and engineere... |
-| [productdevbook/kadraj](https://github.com/productdevbook/kadraj) | 7 | The HTML-aware image optimizer — responsive AVIF for the images your built site ... |
+| [productdevbook/kadraj](https://github.com/productdevbook/kadraj) | 8 | The HTML-aware image optimizer — responsive AVIF for the images your built site ... |
 | [wenujacodes/astro-minimal-portfolio-template](https://github.com/wenujacodes/astro-minimal-portfolio-template) | 0 | A minimalist developer portfolio & blog template built with Astro 7, featuring t... |
 | [ddavejjackson/basic-starter-astro-theme](https://github.com/ddavejjackson/basic-starter-astro-theme) | 0 |  |
 | [bnomei/emdash-mika](https://github.com/bnomei/emdash-mika) | 0 | EmDash CMS agent-ready commerce primitives for content-led storefronts. |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [risukisu/blog](https://github.com/risukisu/blog) | 1 | 2026-08-12 | Personal blog — a dark terminal/roguelike-themed site built ... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-08-12 | Loaders for Astro's Content Layer |
-| [mikeparcewski/wicked-web](https://github.com/mikeparcewski/wicked-web) | 0 | 2026-08-12 | Shared chrome for the wicked-* family sites — layouts, topba... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-13 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [ctrimm/astro-link-in-bio-theme](https://github.com/ctrimm/astro-link-in-bio-theme) | 18 | 2026-08-12 | Link In Bio Theme for Astro |
+| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 0 | 2026-08-12 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-12 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-08-12 | Umbrella landing page for the wicked-* family of local-first... |
-| [louisescher/.dev](https://github.com/louisescher/.dev) | 3 | 2026-08-12 | My personal website |
-| [lguima/rota-marcia-prado](https://github.com/lguima/rota-marcia-prado) | 0 | 2026-08-12 | Rota cicloturística Márcia Prado |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-12 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [Jack-Liang/resume-jack-liang](https://github.com/Jack-Liang/resume-jack-liang) | 0 | 2026-08-12 | Ovidius - a single-author blog theme for Astro.js. |
-| [virelyx258/Astro-Theme-Eidolon](https://github.com/virelyx258/Astro-Theme-Eidolon) | 0 | 2026-08-12 | An aesthetic theme that built with Astro. |
-| [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-08-12 | Astro theme |
-| [izmttk/astro-mecure](https://github.com/izmttk/astro-mecure) | 78 | 2026-08-12 | My personal blog built with Astro, React and Tailwindcss. |
-| [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template) | 36 | 2026-08-12 | Showcase your career, skills and projects highlights with th... |
-| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 45 | 2026-08-12 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
-| [tom2almighty/astro-narrow](https://github.com/tom2almighty/astro-narrow) | 14 | 2026-08-12 |  |
-| [YU030X/astro-theme-serene](https://github.com/YU030X/astro-theme-serene) | 0 | 2026-08-12 | An Astro theme for quiet reading. |
-| [jxpeng98/astro-theme-scholars](https://github.com/jxpeng98/astro-theme-scholars) | 4 | 2026-08-12 | Customisable Astro theme for academic portfolios |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-08-12 | A personal blog built with Astro, based on the Fuwari theme ... |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-12 | Astro integration for loading fonts into build artifacts wit... |
-| [CoderFrish/astro-theme-mio](https://github.com/CoderFrish/astro-theme-mio) | 1 | 2026-08-12 | Astro主题 - 澪 , 努力成为一个功能强大且美观的Astro博客主题 |
+| [martinmilani/rEFInd-theme-collection](https://github.com/martinmilani/rEFInd-theme-collection) | 194 | 2026-08-12 | A small collection of refind themes from github's that allow... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-12 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-12 | My astro static blog use theme Firefly. |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-08-12 | Astro Integration to generate a customizable table of conten... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-12 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [risukisu/blog](https://github.com/risukisu/blog) | 1 | 2026-08-12 | Personal blog — a dark terminal/roguelike-themed site built ... |
+| [owlmosaic/bookworm-light-astro](https://github.com/owlmosaic/bookworm-light-astro) | 0 | 2026-08-12 | Bookworm Light is a feature-rich, minimal, highly customizab... |
+| [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-08-12 | Umbrella landing page for the wicked-* family of local-first... |
+| [muhammad-fiaz/awesome](https://github.com/muhammad-fiaz/awesome) | 1 | 2026-08-12 | A curated collection of developer resources, tutorials, tool... |
+| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 32 | 2026-08-12 | Astro component for swiper, dedicated to slider / carousel /... |
+| [lguima/rota-marcia-prado](https://github.com/lguima/rota-marcia-prado) | 0 | 2026-08-12 | Rota cicloturística Márcia Prado |
+| [pascal-brand38/astro-dev](https://github.com/pascal-brand38/astro-dev) | 11 | 2026-08-12 | Astro package and site development doc |
+| [FrostyCloudSolutions/frosty-astro-still-udonphoto](https://github.com/FrostyCloudSolutions/frosty-astro-still-udonphoto) | 0 | 2026-08-12 | udonphoto.com clay astro theme |
+| [xocothemes/quietpages](https://github.com/xocothemes/quietpages) | 24 | 2026-08-12 | QuietPages is a calm Astro theme for independent magazines, ... |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-08-12 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-13T00:36 | 0 | 823 | 998 |
 | 2026-08-12T18:24 | 1 | 822 | 998 |
 | 2026-08-12T12:24 | 4 | 819 | 997 |
 | 2026-08-12T06:37 | 0 | 824 | 993 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-11T06:26 | 3 | 820 | 989 |
 | 2026-08-11T00:29 | 1 | 821 | 986 |
 | 2026-08-10T18:22 | 3 | 818 | 985 |
-| 2026-08-10T12:24 | 2 | 818 | 982 |
 
 ---
 
