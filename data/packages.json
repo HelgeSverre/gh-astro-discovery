@@ -513,8 +513,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-05-07T19:49:33Z",
-    "updated_at": "2026-08-13T14:46:28Z",
-    "pushed_at": "2026-05-22T12:03:03Z",
+    "updated_at": "2026-08-14T07:26:51Z",
+    "pushed_at": "2026-08-14T07:26:22Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "pawcoding/astro-loader-pocketbase": {
@@ -889,7 +889,7 @@
     "name": "frostybee/starlight-announcement",
     "url": "https://github.com/frostybee/starlight-announcement",
     "description": "An Astro Starlight plugin to add custom announcement to your docs.",
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "topics": [
       "starlight",
@@ -901,7 +901,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-11T18:13:04Z",
-    "updated_at": "2026-07-07T01:02:37Z",
+    "updated_at": "2026-08-14T07:42:04Z",
     "pushed_at": "2026-04-08T04:04:08Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1179,8 +1179,8 @@
     "language": "Astro",
     "license": "CC-BY-4.0",
     "created_at": "2025-05-16T13:10:07Z",
-    "updated_at": "2026-07-25T15:49:47Z",
-    "pushed_at": "2026-03-19T09:59:04Z",
+    "updated_at": "2026-08-14T09:25:34Z",
+    "pushed_at": "2026-08-14T09:25:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "theotterlord/starlight-theme-gruvbox": {
@@ -1427,7 +1427,7 @@
     "license": "ISC",
     "created_at": "2022-04-27T04:55:20Z",
     "updated_at": "2026-07-06T06:24:35Z",
-    "pushed_at": "2026-08-14T03:35:26Z",
+    "pushed_at": "2026-08-14T07:16:39Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jeremyxgo/astro-react-i18next": {
@@ -2640,7 +2640,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-08-04T15:07:55Z",
-    "pushed_at": "2026-08-11T10:13:21Z",
+    "pushed_at": "2026-08-14T07:04:42Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -5307,8 +5307,8 @@
     "name": "devgelo-labs/astro-starter-pro",
     "url": "https://github.com/devgelo-labs/astro-starter-pro",
     "description": "Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.",
-    "stars": 54,
-    "forks": 27,
+    "stars": 55,
+    "forks": 28,
     "topics": [
       "astro-starter",
       "astro-template",
@@ -5323,7 +5323,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-07-28T08:08:35Z",
+    "updated_at": "2026-08-14T12:17:34Z",
     "pushed_at": "2026-07-05T01:47:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5427,7 +5427,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 158,
-    "forks": 58,
+    "forks": 59,
     "topics": [
       "astro",
       "astro-theme",
@@ -5782,8 +5782,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-08-05T08:00:12Z",
-    "pushed_at": "2026-08-13T21:28:26Z",
+    "updated_at": "2026-08-14T08:25:37Z",
+    "pushed_at": "2026-08-14T08:25:19Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -9905,7 +9905,7 @@
     "name": "A58361/Ryze",
     "url": "https://github.com/A58361/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 44,
+    "stars": 43,
     "forks": 6,
     "topics": [
       "astro",
@@ -9932,7 +9932,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-07-31T05:49:44Z",
+    "updated_at": "2026-08-14T09:51:01Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-06-01T14:18:04.320Z"
   },
@@ -10048,7 +10048,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 45,
-    "forks": 31,
+    "forks": 30,
     "topics": [
       "astro",
       "astro-template",
@@ -10416,7 +10416,7 @@
     "name": "freshjuice-dev/zest",
     "url": "https://github.com/freshjuice-dev/zest",
     "description": "A lightweight, zero-dependency cookie consent toolkit for GDPR/CCPA compliance.",
-    "stars": 54,
+    "stars": 55,
     "forks": 47,
     "topics": [
       "11ty",
@@ -10431,7 +10431,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-08-03T17:58:07Z",
+    "updated_at": "2026-08-14T09:52:28Z",
     "pushed_at": "2026-08-08T22:22:55Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-13T11:04:09Z",
-    "pushed_at": "2026-08-14T05:22:41Z",
+    "pushed_at": "2026-08-14T11:35:07Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11782,8 +11782,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-08-12T21:02:14Z",
-    "pushed_at": "2026-08-13T00:10:22Z",
+    "updated_at": "2026-08-14T12:08:38Z",
+    "pushed_at": "2026-08-14T12:08:22Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -11868,8 +11868,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-08T08:28:23Z",
-    "updated_at": "2026-08-11T07:59:06Z",
-    "pushed_at": "2026-08-11T07:59:02Z",
+    "updated_at": "2026-08-14T06:44:09Z",
+    "pushed_at": "2026-08-14T06:43:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mychiffonn/website": {
@@ -11967,8 +11967,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-08-13T12:58:26Z",
-    "pushed_at": "2026-08-13T12:58:00Z",
+    "updated_at": "2026-08-14T11:47:27Z",
+    "pushed_at": "2026-08-14T11:54:41Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "austin-thesing/te-sm-blog": {
@@ -12096,8 +12096,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-02T01:55:57Z",
-    "updated_at": "2026-08-12T08:18:40Z",
-    "pushed_at": "2026-08-12T08:17:53Z",
+    "updated_at": "2026-08-14T10:06:58Z",
+    "pushed_at": "2026-08-14T12:23:21Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "andreialba/maria": {
@@ -12332,7 +12332,7 @@
     "license": "MIT",
     "created_at": "2025-11-08T03:37:25Z",
     "updated_at": "2026-08-14T02:58:50Z",
-    "pushed_at": "2026-08-14T02:58:46Z",
+    "pushed_at": "2026-08-14T11:38:27Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ctrimm/astro-link-in-bio-theme": {
@@ -12373,7 +12373,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-29T09:48:00Z",
-    "updated_at": "2026-08-12T16:01:17Z",
+    "updated_at": "2026-08-14T11:48:26Z",
     "pushed_at": "2026-08-01T08:03:04Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12567,8 +12567,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-08-13T09:35:47Z",
-    "pushed_at": "2026-08-13T09:35:22Z",
+    "updated_at": "2026-08-14T09:22:57Z",
+    "pushed_at": "2026-08-14T09:22:40Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -15668,7 +15668,7 @@
     "url": "https://github.com/joshruggles/astro-palette",
     "description": "A blog and personal site theme for Astro with a terminal look and 18 switchable color palettes. The build output is fully static, with no client-side framework and no analytics.",
     "stars": 7,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-theme",
@@ -16022,7 +16022,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-07-13T12:57:51Z",
     "updated_at": "2026-08-01T11:57:34Z",
-    "pushed_at": "2026-08-01T12:04:24Z",
+    "pushed_at": "2026-08-14T09:09:08Z",
     "discovered_at": "2026-07-13T12:58:46.226Z"
   },
   "xiaozhiyee/xzhiyee-firefly": {
@@ -16212,7 +16212,7 @@
     "name": "xocothemes/quietpages",
     "url": "https://github.com/xocothemes/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 24,
+    "stars": 25,
     "forks": 9,
     "topics": [
       "astro",
@@ -16225,7 +16225,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-08-12T19:53:46Z",
+    "updated_at": "2026-08-14T08:58:21Z",
     "pushed_at": "2026-08-12T19:52:51Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
@@ -16744,7 +16744,7 @@
     "license": "MIT",
     "created_at": "2026-05-11T11:29:52Z",
     "updated_at": "2026-08-14T05:17:15Z",
-    "pushed_at": "2026-08-07T10:35:36Z",
+    "pushed_at": "2026-08-14T10:35:24Z",
     "discovered_at": "2026-07-19T18:25:09.650Z"
   },
   "creativepointz/zylo-astro-theme": {
@@ -19047,7 +19047,7 @@
     "name": "productdevbook/kadraj",
     "url": "https://github.com/productdevbook/kadraj",
     "description": "The HTML-aware image optimizer — responsive AVIF for the images your built site actually uses, in Rust.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "topics": [
       "astro-integration",
@@ -19064,7 +19064,7 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-08-10T23:12:31Z",
-    "updated_at": "2026-08-12T21:28:17Z",
+    "updated_at": "2026-08-14T11:59:14Z",
     "pushed_at": "2026-08-12T11:11:14Z",
     "discovered_at": "2026-08-11T00:29:42.705Z"
   },
@@ -19373,8 +19373,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-13T12:17:47Z",
-    "updated_at": "2026-08-13T13:53:01Z",
-    "pushed_at": "2026-08-13T13:50:55Z",
+    "updated_at": "2026-08-14T08:03:11Z",
+    "pushed_at": "2026-08-14T08:02:42Z",
     "discovered_at": "2026-08-13T18:24:50.248Z"
   },
   "michael-andreuzza/microstore": {
@@ -19481,5 +19481,19 @@
     "updated_at": "2026-08-14T01:46:24Z",
     "pushed_at": "2026-08-13T12:14:55Z",
     "discovered_at": "2026-08-14T06:37:52.276Z"
+  },
+  "sschen09/firefly": {
+    "name": "SSChen09/Firefly",
+    "url": "https://github.com/SSChen09/Firefly",
+    "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": null,
+    "license": "MIT",
+    "created_at": "2026-07-27T11:44:40Z",
+    "updated_at": "2026-08-14T09:06:24Z",
+    "pushed_at": "2026-08-07T04:01:13Z",
+    "discovered_at": "2026-08-14T12:23:31.067Z"
   }
 }
