@@ -50,7 +50,7 @@
     "license": "MIT",
     "created_at": "2024-01-18T16:32:38Z",
     "updated_at": "2026-08-06T16:34:14Z",
-    "pushed_at": "2026-08-11T21:30:23Z",
+    "pushed_at": "2026-08-13T22:32:48Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "florian-lefebvre/astro-loading-indicator": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-08-11T13:32:29Z",
-    "pushed_at": "2026-08-11T13:29:57Z",
+    "pushed_at": "2026-08-13T20:08:43Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -1589,7 +1589,7 @@
     "name": "tsriram/astro-tweet",
     "url": "https://github.com/tsriram/astro-tweet",
     "description": "Astro component to embed tweets as static HTML without any client side JS.",
-    "stars": 24,
+    "stars": 25,
     "forks": 9,
     "topics": [
       "astro",
@@ -1600,7 +1600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-11-02T08:11:08Z",
-    "updated_at": "2026-07-29T07:24:23Z",
+    "updated_at": "2026-08-13T18:37:39Z",
     "pushed_at": "2025-11-12T14:08:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-08-12T00:09:46Z",
+    "pushed_at": "2026-08-13T22:49:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2703,7 +2703,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-08-13T13:45:00Z",
-    "pushed_at": "2026-08-13T13:44:26Z",
+    "pushed_at": "2026-08-13T23:36:52Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -4341,7 +4341,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-08-11T21:33:56Z",
-    "pushed_at": "2026-08-11T22:03:30Z",
+    "pushed_at": "2026-08-13T21:51:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5252,8 +5252,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-13T12:08:42Z",
-    "pushed_at": "2026-08-13T12:07:57Z",
+    "updated_at": "2026-08-13T18:58:07Z",
+    "pushed_at": "2026-08-13T18:58:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5426,8 +5426,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 157,
-    "forks": 58,
+    "stars": 158,
+    "forks": 59,
     "topics": [
       "astro",
       "astro-theme",
@@ -5442,7 +5442,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-08-13T07:32:48Z",
+    "updated_at": "2026-08-13T22:46:52Z",
     "pushed_at": "2026-08-13T08:00:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5783,7 +5783,7 @@
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
     "updated_at": "2026-08-05T08:00:12Z",
-    "pushed_at": "2026-08-05T07:59:45Z",
+    "pushed_at": "2026-08-13T21:28:26Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -8445,7 +8445,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-08-13T09:45:52Z",
-    "pushed_at": "2026-08-13T16:36:10Z",
+    "pushed_at": "2026-08-13T22:58:48Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -11093,7 +11093,7 @@
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
     "updated_at": "2026-08-11T05:06:48Z",
-    "pushed_at": "2026-08-10T11:39:25Z",
+    "pushed_at": "2026-08-14T00:23:29Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
   "techdocsstudio/astro-biel": {
@@ -11332,8 +11332,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
-    "updated_at": "2026-08-12T00:04:46Z",
-    "pushed_at": "2026-08-12T00:04:43Z",
+    "updated_at": "2026-08-14T00:03:14Z",
+    "pushed_at": "2026-08-14T00:03:11Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -11517,7 +11517,7 @@
     "license": "MIT",
     "created_at": "2026-07-06T19:54:53Z",
     "updated_at": "2026-08-10T15:53:50Z",
-    "pushed_at": "2026-08-10T15:54:05Z",
+    "pushed_at": "2026-08-13T23:43:23Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wxyim/projectcraft.dev": {
@@ -11595,7 +11595,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-13T11:04:09Z",
-    "pushed_at": "2026-08-13T17:47:26Z",
+    "pushed_at": "2026-08-13T23:29:00Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11699,8 +11699,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-08-13T05:03:49Z",
-    "pushed_at": "2026-08-13T05:03:42Z",
+    "updated_at": "2026-08-13T23:40:42Z",
+    "pushed_at": "2026-08-13T23:40:38Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -14275,7 +14275,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-07-23T14:25:37Z",
-    "pushed_at": "2026-08-12T22:36:56Z",
+    "pushed_at": "2026-08-13T22:37:29Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15667,7 +15667,7 @@
     "name": "joshruggles/astro-palette",
     "url": "https://github.com/joshruggles/astro-palette",
     "description": "A blog and personal site theme for Astro with a terminal look and 18 switchable color palettes. The build output is fully static, with no client-side framework and no analytics.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "astro",
@@ -15679,7 +15679,7 @@
     "language": "CSS",
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
-    "updated_at": "2026-08-13T17:35:34Z",
+    "updated_at": "2026-08-13T19:08:08Z",
     "pushed_at": "2026-08-11T21:50:10Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
@@ -15737,7 +15737,7 @@
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
     "updated_at": "2026-08-09T14:01:36Z",
-    "pushed_at": "2026-07-11T20:38:37Z",
+    "pushed_at": "2026-08-13T22:00:04Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -16261,8 +16261,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-15T04:34:08Z",
-    "updated_at": "2026-08-12T06:26:45Z",
-    "pushed_at": "2026-08-12T06:26:41Z",
+    "updated_at": "2026-08-13T21:36:48Z",
+    "pushed_at": "2026-08-13T21:36:43Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
   "xocothemes/maria": {
@@ -18867,7 +18867,7 @@
     "license": "MIT",
     "created_at": "2026-08-07T11:42:20Z",
     "updated_at": "2026-08-08T12:35:26Z",
-    "pushed_at": "2026-08-11T23:01:39Z",
+    "pushed_at": "2026-08-13T23:01:59Z",
     "discovered_at": "2026-08-08T18:12:02.452Z"
   },
   "miyamo2/astro-jsonld": {
@@ -18978,7 +18978,7 @@
     "name": "bnomei/emdash-mika",
     "url": "https://github.com/bnomei/emdash-mika",
     "description": "EmDash CMS agent-ready commerce primitives for content-led storefronts.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "agent-ready-commerce",
@@ -19005,7 +19005,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-18T11:20:57Z",
-    "updated_at": "2026-08-10T17:53:41Z",
+    "updated_at": "2026-08-13T20:29:14Z",
     "pushed_at": "2026-08-10T17:50:29Z",
     "discovered_at": "2026-08-10T18:22:56.908Z"
   },
@@ -19315,7 +19315,7 @@
     "url": "https://github.com/ayo-run/astro-sw",
     "description": "Use service workers with Astro",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-integration",
@@ -19326,8 +19326,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-08-03T08:36:23Z",
-    "updated_at": "2026-08-13T17:45:13Z",
-    "pushed_at": "2026-08-13T17:45:29Z",
+    "updated_at": "2026-08-13T19:53:33Z",
+    "pushed_at": "2026-08-13T19:53:27Z",
     "discovered_at": "2026-08-13T18:24:50.246Z"
   },
   "ayo-run/astro-resume": {
@@ -19359,8 +19359,8 @@
     "language": "TypeScript",
     "license": "Unlicense",
     "created_at": "2026-08-13T16:44:32Z",
-    "updated_at": "2026-08-13T18:10:59Z",
-    "pushed_at": "2026-08-13T18:10:40Z",
+    "updated_at": "2026-08-13T18:38:08Z",
+    "pushed_at": "2026-08-13T18:38:13Z",
     "discovered_at": "2026-08-13T18:24:50.248Z"
   },
   "wangdongcheng/astro-theme-starter": {
@@ -19376,5 +19376,33 @@
     "updated_at": "2026-08-13T13:53:01Z",
     "pushed_at": "2026-08-13T13:50:55Z",
     "discovered_at": "2026-08-13T18:24:50.248Z"
+  },
+  "michael-andreuzza/microstore": {
+    "name": "michael-andreuzza/microstore",
+    "url": "https://github.com/michael-andreuzza/microstore",
+    "description": "A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.",
+    "stars": 222,
+    "forks": 89,
+    "topics": [],
+    "language": "Astro",
+    "license": "GPL-3.0",
+    "created_at": "2022-12-12T19:25:23Z",
+    "updated_at": "2026-08-14T00:01:36Z",
+    "pushed_at": "2026-08-14T00:01:30Z",
+    "discovered_at": "2026-08-14T00:36:43.837Z"
+  },
+  "jagreehal/starlight-shadcn": {
+    "name": "jagreehal/starlight-shadcn",
+    "url": "https://github.com/jagreehal/starlight-shadcn",
+    "description": "shadcn + React Aria theme for Astro Starlight",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-13T18:51:01Z",
+    "updated_at": "2026-08-13T20:44:17Z",
+    "pushed_at": "2026-08-13T21:11:16Z",
+    "discovered_at": "2026-08-14T00:36:43.837Z"
   }
 }
