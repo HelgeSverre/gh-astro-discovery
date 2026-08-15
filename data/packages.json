@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-08-14T01:39:54Z",
-    "pushed_at": "2026-08-14T19:03:16Z",
+    "updated_at": "2026-08-15T01:01:41Z",
+    "pushed_at": "2026-08-15T01:01:23Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-08-14T01:37:48Z",
-    "pushed_at": "2026-08-14T18:23:46Z",
+    "updated_at": "2026-08-15T00:59:49Z",
+    "pushed_at": "2026-08-15T00:59:40Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -209,8 +209,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
-    "updated_at": "2026-08-10T02:25:18Z",
-    "pushed_at": "2026-08-14T20:38:25Z",
+    "updated_at": "2026-08-15T04:53:43Z",
+    "pushed_at": "2026-08-15T04:54:50Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-08-14T20:56:18Z",
+    "pushed_at": "2026-08-15T02:49:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -1426,8 +1426,8 @@
     "language": "Astro",
     "license": "ISC",
     "created_at": "2022-04-27T04:55:20Z",
-    "updated_at": "2026-07-06T06:24:35Z",
-    "pushed_at": "2026-08-14T07:16:39Z",
+    "updated_at": "2026-08-15T03:04:17Z",
+    "pushed_at": "2026-08-15T03:04:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jeremyxgo/astro-react-i18next": {
@@ -2017,30 +2017,26 @@
   "andreas-brunner/astro-mail-obfuscation": {
     "name": "andreas-brunner/astro-mail-obfuscation",
     "url": "https://github.com/andreas-brunner/astro-mail-obfuscation",
-    "description": "Protect email addresses, phone numbers and other sensitive data from bots scraping the source code of your Astro app.",
+    "description": "Protect emails, phone numbers, & other content from bots using AES-GCM obfuscation for Astro/Starlight (SSR/SSG).",
     "stars": 22,
     "forks": 2,
     "topics": [
+      "anti-scraping",
       "astro",
-      "astro-component",
       "astro-integration",
-      "bot-protection",
+      "data-obfuscation",
+      "email-harvesting",
       "email-obfuscation",
       "email-protection",
-      "email-security",
-      "encoding",
-      "obfuscation",
-      "security",
-      "spam-protection",
-      "utility",
-      "utils",
-      "withastro"
+      "email-scraping",
+      "starlight",
+      "utility"
     ],
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-22T22:07:22Z",
-    "updated_at": "2026-07-06T09:57:57Z",
-    "pushed_at": "2024-11-01T00:48:51Z",
+    "updated_at": "2026-08-15T01:54:29Z",
+    "pushed_at": "2026-08-15T01:41:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "mattbrailsford/webmentions-loader": {
@@ -2543,8 +2539,8 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 99,
-    "forks": 29,
+    "stars": 100,
+    "forks": 30,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2565,7 +2561,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-08-05T14:04:47Z",
+    "updated_at": "2026-08-15T02:58:16Z",
     "pushed_at": "2026-07-23T14:55:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5046,8 +5042,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-08-14T23:06:48Z",
-    "pushed_at": "2026-08-14T23:06:21Z",
+    "updated_at": "2026-08-15T05:58:46Z",
+    "pushed_at": "2026-08-15T05:58:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5197,8 +5193,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-08-14T22:42:27Z",
-    "pushed_at": "2026-08-14T22:42:19Z",
+    "updated_at": "2026-08-15T05:33:39Z",
+    "pushed_at": "2026-08-15T05:33:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5301,7 +5297,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 37,
-    "forks": 25,
+    "forks": 26,
     "topics": [
       "astro-theme",
       "contribute",
@@ -5773,8 +5769,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-08-12T13:39:10Z",
-    "pushed_at": "2026-08-07T04:44:16Z",
+    "updated_at": "2026-08-15T06:02:32Z",
+    "pushed_at": "2026-08-15T06:02:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "advanced-astro/rocketbase": {
@@ -9801,8 +9797,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-08-10T00:53:06Z",
-    "pushed_at": "2026-08-10T00:53:02Z",
+    "updated_at": "2026-08-15T00:28:21Z",
+    "pushed_at": "2026-08-15T04:40:52Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -11491,7 +11487,7 @@
     "license": "MIT",
     "created_at": "2026-07-06T19:54:53Z",
     "updated_at": "2026-08-14T23:44:05Z",
-    "pushed_at": "2026-08-14T23:42:31Z",
+    "pushed_at": "2026-08-15T01:11:23Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wxyim/projectcraft.dev": {
@@ -11569,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-13T11:04:09Z",
-    "pushed_at": "2026-08-14T23:10:30Z",
+    "pushed_at": "2026-08-15T05:14:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11630,7 +11626,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-07-30T12:15:49Z",
-    "pushed_at": "2026-08-14T22:00:38Z",
+    "pushed_at": "2026-08-15T02:47:08Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -12793,8 +12789,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-21T07:21:26Z",
-    "updated_at": "2026-08-13T06:43:22Z",
-    "pushed_at": "2026-08-13T06:44:23Z",
+    "updated_at": "2026-08-15T04:46:48Z",
+    "pushed_at": "2026-08-15T04:46:42Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "chinaz-max/blog": {
@@ -15024,13 +15020,13 @@
     "name": "zouzonghao/Astro-theme-Cactus-zh_CN",
     "url": "https://github.com/zouzonghao/Astro-theme-Cactus-zh_CN",
     "description": "Astro 仙人掌 是一个基于 Astro 框架的博客主题",
-    "stars": 121,
+    "stars": 122,
     "forks": 227,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-12-15T10:34:35Z",
-    "updated_at": "2026-08-09T05:41:55Z",
+    "updated_at": "2026-08-15T00:27:43Z",
     "pushed_at": "2026-08-01T02:22:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -15688,7 +15684,7 @@
     "name": "relative23/payload-live-preview",
     "url": "https://github.com/relative23/payload-live-preview",
     "description": "Astro-first live preview for Payload CMS — also SvelteKit, Nuxt, Next.js & plain HTML. Patches the DOM live as you edit, no rebuild.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "astro",
@@ -15710,7 +15706,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-08-14T18:10:08Z",
+    "updated_at": "2026-08-15T02:02:00Z",
     "pushed_at": "2026-08-14T19:09:41Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
@@ -16178,8 +16174,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-08-14T17:01:43Z",
-    "pushed_at": "2026-08-11T04:11:48Z",
+    "updated_at": "2026-08-15T02:18:31Z",
+    "pushed_at": "2026-08-15T05:30:57Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -16235,8 +16231,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-15T04:34:08Z",
-    "updated_at": "2026-08-14T05:23:51Z",
-    "pushed_at": "2026-08-14T05:23:47Z",
+    "updated_at": "2026-08-15T03:05:09Z",
+    "pushed_at": "2026-08-15T03:04:46Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
   "xocothemes/maria": {
@@ -18878,8 +18874,8 @@
     "language": "XSLT",
     "license": "MIT",
     "created_at": "2026-04-19T19:38:57Z",
-    "updated_at": "2026-08-15T00:13:24Z",
-    "pushed_at": "2026-08-15T00:13:16Z",
+    "updated_at": "2026-08-15T01:34:58Z",
+    "pushed_at": "2026-08-15T01:34:43Z",
     "discovered_at": "2026-08-09T18:13:38.744Z"
   },
   "singu9/singu9.github.io": {
@@ -19219,8 +19215,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-08-14T17:02:18Z",
-    "pushed_at": "2026-08-14T17:01:14Z",
+    "updated_at": "2026-08-15T02:59:06Z",
+    "pushed_at": "2026-08-15T02:59:02Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
