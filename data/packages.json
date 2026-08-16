@@ -881,8 +881,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-11-03T21:15:44Z",
-    "updated_at": "2026-07-22T07:22:36Z",
-    "pushed_at": "2026-07-22T07:21:34Z",
+    "updated_at": "2026-08-16T15:10:54Z",
+    "pushed_at": "2026-08-16T15:10:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "frostybee/starlight-announcement": {
@@ -4187,8 +4187,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
-    "updated_at": "2026-08-12T23:09:40Z",
-    "pushed_at": "2026-08-12T23:09:36Z",
+    "updated_at": "2026-08-16T14:19:00Z",
+    "pushed_at": "2026-08-16T14:18:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5217,8 +5217,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-14T01:47:41Z",
-    "pushed_at": "2026-08-14T01:47:38Z",
+    "updated_at": "2026-08-16T16:07:14Z",
+    "pushed_at": "2026-08-16T16:07:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5748,7 +5748,7 @@
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
     "updated_at": "2026-08-15T09:15:02Z",
-    "pushed_at": "2026-08-14T13:12:20Z",
+    "pushed_at": "2026-08-16T15:21:49Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -6666,7 +6666,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 280,
+    "stars": 281,
     "forks": 74,
     "topics": [
       "astro",
@@ -6682,7 +6682,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-07-24T06:02:42Z",
+    "updated_at": "2026-08-16T15:58:53Z",
     "pushed_at": "2026-01-15T07:16:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10580,7 +10580,7 @@
     "url": "https://github.com/muhammad-fiaz/awesome",
     "description": "A curated collection of developer resources, tutorials, tools, and open-source projects.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-template",
@@ -11062,8 +11062,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
-    "updated_at": "2026-08-16T11:48:08Z",
-    "pushed_at": "2026-08-16T12:09:35Z",
+    "updated_at": "2026-08-16T13:35:50Z",
+    "pushed_at": "2026-08-16T13:43:08Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
   "techdocsstudio/astro-biel": {
@@ -11473,7 +11473,7 @@
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
     "updated_at": "2026-08-14T18:54:32Z",
-    "pushed_at": "2026-08-14T18:54:31Z",
+    "pushed_at": "2026-08-16T14:34:35Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-16T11:09:42Z",
+    "pushed_at": "2026-08-16T17:09:45Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11626,7 +11626,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-07-30T12:15:49Z",
-    "pushed_at": "2026-08-15T02:47:08Z",
+    "pushed_at": "2026-08-16T14:32:52Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -12301,8 +12301,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-08T03:37:25Z",
-    "updated_at": "2026-08-16T00:57:08Z",
-    "pushed_at": "2026-08-16T00:56:59Z",
+    "updated_at": "2026-08-16T13:27:31Z",
+    "pushed_at": "2026-08-16T13:34:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ctrimm/astro-link-in-bio-theme": {
@@ -15658,7 +15658,7 @@
     "url": "https://github.com/kpab/astro-kepler",
     "description": "Kepler — a versatile Astro 7 theme for blogs, portfolios, and landing pages. Navy × orange, one design system.",
     "stars": 9,
-    "forks": 3,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-template",
@@ -16174,8 +16174,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-08-15T17:29:44Z",
-    "pushed_at": "2026-08-15T21:46:35Z",
+    "updated_at": "2026-08-16T18:05:52Z",
+    "pushed_at": "2026-08-16T18:07:16Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -18116,7 +18116,7 @@
     "license": "MIT",
     "created_at": "2026-08-02T15:47:20Z",
     "updated_at": "2026-08-10T13:18:25Z",
-    "pushed_at": "2026-08-09T14:05:09Z",
+    "pushed_at": "2026-08-16T14:04:38Z",
     "discovered_at": "2026-08-02T18:27:14.276Z"
   },
   "edgardo001/astrojs-blog-integration-cms-decapcms": {
@@ -18409,8 +18409,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-29T11:30:37Z",
-    "updated_at": "2026-08-15T10:32:16Z",
-    "pushed_at": "2026-08-15T10:31:52Z",
+    "updated_at": "2026-08-16T17:36:38Z",
+    "pushed_at": "2026-08-16T17:36:30Z",
     "discovered_at": "2026-08-04T12:48:06.957Z"
   },
   "opacedigitalagency/astro-visual-editor": {
@@ -18875,7 +18875,7 @@
     "license": "MIT",
     "created_at": "2026-04-19T19:38:57Z",
     "updated_at": "2026-08-15T18:25:14Z",
-    "pushed_at": "2026-08-15T18:25:02Z",
+    "pushed_at": "2026-08-16T16:47:26Z",
     "discovered_at": "2026-08-09T18:13:38.744Z"
   },
   "singu9/singu9.github.io": {
@@ -19215,8 +19215,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-08-15T16:34:02Z",
-    "pushed_at": "2026-08-15T16:33:51Z",
+    "updated_at": "2026-08-16T16:35:01Z",
+    "pushed_at": "2026-08-16T16:33:54Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -19454,8 +19454,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-02T05:50:17Z",
-    "updated_at": "2026-08-16T07:55:32Z",
-    "pushed_at": "2026-08-16T07:55:21Z",
+    "updated_at": "2026-08-16T13:12:59Z",
+    "pushed_at": "2026-08-16T13:55:00Z",
     "discovered_at": "2026-08-14T06:37:52.276Z"
   },
   "sschen09/firefly": {
@@ -19625,8 +19625,22 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-16T11:10:50Z",
-    "updated_at": "2026-08-16T12:09:09Z",
-    "pushed_at": "2026-08-16T12:08:54Z",
+    "updated_at": "2026-08-16T18:02:09Z",
+    "pushed_at": "2026-08-16T18:01:45Z",
     "discovered_at": "2026-08-16T12:09:52.120Z"
+  },
+  "willimt/astro-theme-ink": {
+    "name": "willimt/astro-theme-ink",
+    "url": "https://github.com/willimt/astro-theme-ink",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-16T15:56:28Z",
+    "updated_at": "2026-08-16T16:06:10Z",
+    "pushed_at": "2026-08-16T16:05:01Z",
+    "discovered_at": "2026-08-16T18:08:18.479Z"
   }
 }
