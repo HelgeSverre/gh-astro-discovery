@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1020
-**Last updated:** 2026-08-17T12:12:38.328Z
+**Total packages tracked:** 1021
+**Last updated:** 2026-08-17T18:12:48.902Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fairy7/F-Blog](https://github.com/fairy7/F-Blog) | 0 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  流萤，清新美观的 Astro 静态博客主题... |
 | [krishkantrai27/portfolio](https://github.com/krishkantrai27/portfolio) | 0 | Responsive developer portfolio built with React, Astro, Tailwind CSS, GSAP, and ... |
 | [emrexcem/blueprint](https://github.com/emrexcem/blueprint) | 0 | An Astro 5 portfolio, blog and interactive skill tree, drawn as an engineer's dr... |
 | [willimt/astro-theme-ink](https://github.com/willimt/astro-theme-ink) | 0 | A warm, paper-feel personal blog theme built with Astro & UnoCSS. Ink on paper -... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 223 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
 | [jagreehal/starlight-shadcn](https://github.com/jagreehal/starlight-shadcn) | 0 | shadcn + React Aria theme for Astro Starlight |
 | [jake-walker/astro-integrations](https://github.com/jake-walker/astro-integrations) | 0 | A collection of Astro integrations I use on my website |
-| [wangdongcheng/astro-theme-starter](https://github.com/wangdongcheng/astro-theme-starter) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [willimt/astro-theme-ink](https://github.com/willimt/astro-theme-ink) | 0 | 2026-08-17 | A warm, paper-feel personal blog theme built with Astro & Un... |
-| [chinaz-max/blog](https://github.com/chinaz-max/blog) | 0 | 2026-08-17 | My personal blog built with Fuwari Astro theme |
-| [vhscom/emdash-theme-bravada](https://github.com/vhscom/emdash-theme-bravada) | 2 | 2026-08-17 | Bravada for Astro – a port of the Bravada WordPress theme (C... |
-| [emrexcem/blueprint](https://github.com/emrexcem/blueprint) | 0 | 2026-08-17 | An Astro 5 portfolio, blog and interactive skill tree, drawn... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-17 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 45 | 2026-08-17 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
-| [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-08-17 | A framework free Astro starter template |
-| [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-08-17 | Astro theme |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-17 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-08-17 | A simple, minimal style, framework free Astro blog starter t... |
-| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-17 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Da... |
-| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-08-17 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
-| [TencentEdgeOne/astro-template](https://github.com/TencentEdgeOne/astro-template) | 5 | 2026-08-17 | This is an Astro project demonstrating various Astro feature... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-08-17 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [iannuttall/seo-graph](https://github.com/iannuttall/seo-graph) | 18 | 2026-08-17 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
-| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 71 | 2026-08-17 | Publish integrations within minutes. |
-| [sp-night/sp-night.github.io](https://github.com/sp-night/sp-night.github.io) | 2 | 2026-08-17 | A dark colour scheme with São Paulo as its reference — three... |
-| [theisel/astro-portabletext](https://github.com/theisel/astro-portabletext) | 105 | 2026-08-17 | A flexible and customizable library for rendering Portable T... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-17 | Universal Analytics Engines Integration |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-08-17 | The i18n integration for Astro 🧑‍🚀 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-17 | Format 🗻 |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | 2026-08-17 | Inline 🦔 |
+| [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-08-17 | Astro theme |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-08-17 | Documentation for Azion's services and features. |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-17 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [matt-nolan11/matt-nolan11.github.io](https://github.com/matt-nolan11/matt-nolan11.github.io) | 0 | 2026-08-17 | Personal project portfolio / blog built with Astro and the S... |
+| [hammadxcm/fyniti](https://github.com/hammadxcm/fyniti) | 3 | 2026-08-17 | FYNITI — IT Solutions & Digital Innovation | Astro 6 + Tailw... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-17 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-17 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [dahailaila/Firefly](https://github.com/dahailaila/Firefly) | 0 | 2026-08-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 308 | 2026-08-17 | Minimal blog theme built with Astro. |
+| [yashjawale/saral-theme-astro](https://github.com/yashjawale/saral-theme-astro) | 61 | 2026-08-17 | A simple theme for personal blog sites, created for Astro fr... |
+| [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 22 | 2026-08-17 | A Starlight plugin that adds page action buttons to your doc... |
+| [xocothemes/atelier-ko](https://github.com/xocothemes/atelier-ko) | 10 | 2026-08-17 | Atelier Kō is a modern, minimalist ecommerce theme with a bu... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-17 | Astro integration for loading fonts into build artifacts wit... |
+| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 27 | 2026-08-17 | A simple, minimalistic personal blog theme built with Astro ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-17 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-08-17 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-17T18:12 | 1 | 830 | 1021 |
 | 2026-08-17T12:12 | 2 | 829 | 1020 |
 | 2026-08-17T06:19 | 0 | 830 | 1018 |
 | 2026-08-17T00:22 | 0 | 830 | 1018 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-16T00:23 | 2 | 828 | 1015 |
 | 2026-08-15T18:08 | 0 | 829 | 1013 |
 | 2026-08-15T12:09 | 0 | 829 | 1013 |
-| 2026-08-15T06:12 | 0 | 829 | 1013 |
 
 ---
 
