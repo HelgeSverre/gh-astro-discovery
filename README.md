@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1021
-**Last updated:** 2026-08-17T18:12:48.902Z
+**Last updated:** 2026-08-18T00:21:30.973Z
 
 ## 📦 Recently Discovered
 
@@ -39,10 +39,10 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [ElianCodes/brutal](https://github.com/ElianCodes/brutal) | 468 | A neobrutalism Astro starter theme |
 | [matt765/Tailcast](https://github.com/matt765/Tailcast) | 401 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 384 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
-| [vite-pwa/astro](https://github.com/vite-pwa/astro) | 319 | Zero-config PWA Integration for Astro |
+| [vite-pwa/astro](https://github.com/vite-pwa/astro) | 318 | Zero-config PWA Integration for Astro |
 | [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 311 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
+| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 309 | Minimal blog theme built with Astro. |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 309 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
-| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 308 | Minimal blog theme built with Astro. |
 | [QwikDev/astro](https://github.com/QwikDev/astro) | 289 | Qwik + Astro |
 | [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek) | 283 | A theme for Astro |
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | Inline 🦔 |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-08-17 | The i18n integration for Astro 🧑‍🚀 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-17 | Format 🗻 |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | 2026-08-17 | Inline 🦔 |
-| [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-08-17 | Astro theme |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-08-17 | Documentation for Azion's services and features. |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-17 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [matt-nolan11/matt-nolan11.github.io](https://github.com/matt-nolan11/matt-nolan11.github.io) | 0 | 2026-08-17 | Personal project portfolio / blog built with Astro and the S... |
-| [hammadxcm/fyniti](https://github.com/hammadxcm/fyniti) | 3 | 2026-08-17 | FYNITI — IT Solutions & Digital Innovation | Astro 6 + Tailw... |
+| [Xeffen25/eminence-astro-suite](https://github.com/Xeffen25/eminence-astro-suite) | 1 | 2026-08-18 | Astro components and integration for managing page head meta... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-18 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 0 | 2026-08-18 | A fast and minimalist personal website and blog powered by A... |
+| [lguima/rota-marcia-prado](https://github.com/lguima/rota-marcia-prado) | 0 | 2026-08-17 | Rota cicloturística Márcia Prado |
 | [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-17 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-17 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [dahailaila/Firefly](https://github.com/dahailaila/Firefly) | 0 | 2026-08-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 308 | 2026-08-17 | Minimal blog theme built with Astro. |
-| [yashjawale/saral-theme-astro](https://github.com/yashjawale/saral-theme-astro) | 61 | 2026-08-17 | A simple theme for personal blog sites, created for Astro fr... |
-| [dlcastillop/starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) | 22 | 2026-08-17 | A Starlight plugin that adds page action buttons to your doc... |
-| [xocothemes/atelier-ko](https://github.com/xocothemes/atelier-ko) | 10 | 2026-08-17 | Atelier Kō is a modern, minimalist ecommerce theme with a bu... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-17 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [John10240/bluesy-astro-theme](https://github.com/John10240/bluesy-astro-theme) | 0 | 2026-08-17 | An Astro blog theme for Cloudflare Workers.   一个 Astro 博客模板，... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-08-17 | The i18n integration for Astro 🧑‍🚀 |
+| [mountos/astro-pu](https://github.com/mountos/astro-pu) | 1 | 2026-08-17 | 璞 (Pú) - An elegant, content-focused Astro starter template,... |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-17 | Astro integration for loading fonts into build artifacts wit... |
-| [odhyp/astro-sidey](https://github.com/odhyp/astro-sidey) | 27 | 2026-08-17 | A simple, minimalistic personal blog theme built with Astro ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-17 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-08-17 |  |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-17 | My astro static blog use theme Firefly. |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-17 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 71 | 2026-08-17 | 📈 Astro integration to add Umami Analytics to your website |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-08-17 | Support AsciiDoc pages in Astro |
+| [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-08-17 | Astro theme |
+| [lossless-group/cilantro-site](https://github.com/lossless-group/cilantro-site) | 0 | 2026-08-17 | Cilantro, an Astro website with opinionated theming, multipl... |
+| [ZCHIT/Fire-fly](https://github.com/ZCHIT/Fire-fly) | 0 | 2026-08-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 0 | 2026-08-17 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-17 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [matt-nolan11/matt-nolan11.github.io](https://github.com/matt-nolan11/matt-nolan11.github.io) | 0 | 2026-08-17 | Personal project portfolio / blog built with Astro and the S... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-18T00:21 | 0 | 831 | 1021 |
 | 2026-08-17T18:12 | 1 | 830 | 1021 |
 | 2026-08-17T12:12 | 2 | 829 | 1020 |
 | 2026-08-17T06:19 | 0 | 830 | 1018 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-16T06:13 | 0 | 830 | 1015 |
 | 2026-08-16T00:23 | 2 | 828 | 1015 |
 | 2026-08-15T18:08 | 0 | 829 | 1013 |
-| 2026-08-15T12:09 | 0 | 829 | 1013 |
 
 ---
 
