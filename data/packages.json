@@ -210,7 +210,7 @@
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
     "updated_at": "2026-08-16T00:29:01Z",
-    "pushed_at": "2026-08-17T21:36:10Z",
+    "pushed_at": "2026-08-18T18:44:24Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-08-18T13:32:47Z",
-    "pushed_at": "2026-08-18T13:25:38Z",
+    "updated_at": "2026-08-18T19:18:59Z",
+    "pushed_at": "2026-08-18T19:15:50Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -753,7 +753,7 @@
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
     "updated_at": "2026-07-19T08:29:34Z",
-    "pushed_at": "2026-08-16T11:42:25Z",
+    "pushed_at": "2026-08-18T21:39:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-08-14T19:56:55Z",
+    "pushed_at": "2026-08-18T20:46:39Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2642,7 +2642,7 @@
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
     "updated_at": "2026-08-17T16:20:30Z",
-    "pushed_at": "2026-08-18T03:19:54Z",
+    "pushed_at": "2026-08-18T20:30:34Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/astro-i18n-aut": {
@@ -3154,7 +3154,7 @@
     "name": "patrick91/astro-meta-tags",
     "url": "https://github.com/patrick91/astro-meta-tags",
     "description": "A small Astro Dev Toolbar app to help you check your meta tags ✨",
-    "stars": 90,
+    "stars": 91,
     "forks": 6,
     "topics": [
       "astro",
@@ -3163,7 +3163,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-01-05T21:56:47Z",
-    "updated_at": "2026-06-05T22:14:48Z",
+    "updated_at": "2026-08-18T21:08:06Z",
     "pushed_at": "2026-03-15T01:12:19Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3381,7 +3381,7 @@
     "name": "vite-pwa/astro",
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
-    "stars": 318,
+    "stars": 319,
     "forks": 14,
     "topics": [
       "astro",
@@ -3394,7 +3394,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-08-17T22:43:14Z",
+    "updated_at": "2026-08-18T23:36:01Z",
     "pushed_at": "2025-11-27T22:14:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4306,7 +4306,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-08-11T21:33:56Z",
-    "pushed_at": "2026-08-14T17:15:50Z",
+    "pushed_at": "2026-08-18T20:58:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5435,7 +5435,7 @@
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
     "updated_at": "2026-08-18T17:53:40Z",
-    "pushed_at": "2026-08-18T17:50:03Z",
+    "pushed_at": "2026-08-18T22:57:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -5655,7 +5655,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-08-07T12:10:28Z",
-    "pushed_at": "2026-08-14T21:35:31Z",
+    "pushed_at": "2026-08-18T19:39:37Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5796,7 +5796,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2026-08-07T15:50:52Z",
-    "pushed_at": "2026-08-14T21:28:38Z",
+    "pushed_at": "2026-08-18T19:35:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6543,7 +6543,7 @@
     "name": "CloudCannon/sendit-astro-template",
     "url": "https://github.com/CloudCannon/sendit-astro-template",
     "description": "Sendit is a polished, marketing website template for Astro.",
-    "stars": 133,
+    "stars": 134,
     "forks": 75,
     "topics": [
       "astro",
@@ -6559,7 +6559,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2022-11-29T03:58:06Z",
-    "updated_at": "2026-08-16T21:31:05Z",
+    "updated_at": "2026-08-18T18:19:32Z",
     "pushed_at": "2026-03-05T06:18:50Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9986,7 +9986,7 @@
     "name": "caret-collective/Tally",
     "url": "https://github.com/caret-collective/Tally",
     "description": "Your favorite dark mode word counter, now with grammar checking! Count the number of characters, words, sentences, paragraphs, and lines in your text instantly with Tally.",
-    "stars": 4,
+    "stars": 5,
     "forks": 3,
     "topics": [
       "character-counter",
@@ -10004,7 +10004,7 @@
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "created_at": "2015-04-08T23:37:53Z",
-    "updated_at": "2026-08-17T22:42:53Z",
+    "updated_at": "2026-08-18T23:35:47Z",
     "pushed_at": "2026-07-21T06:16:34Z",
     "discovered_at": "2026-06-03T01:26:14.918Z"
   },
@@ -11472,8 +11472,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-08-18T12:11:58Z",
-    "pushed_at": "2026-08-18T12:11:44Z",
+    "updated_at": "2026-08-18T23:22:28Z",
+    "pushed_at": "2026-08-18T23:23:18Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-18T17:16:32Z",
+    "pushed_at": "2026-08-18T23:11:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11626,7 +11626,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-07-30T12:15:49Z",
-    "pushed_at": "2026-08-16T14:32:52Z",
+    "pushed_at": "2026-08-18T18:43:02Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -11753,7 +11753,7 @@
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
     "updated_at": "2026-08-18T01:03:30Z",
-    "pushed_at": "2026-08-18T01:03:13Z",
+    "pushed_at": "2026-08-19T00:11:47Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -14245,7 +14245,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-07-23T14:25:37Z",
-    "pushed_at": "2026-08-17T22:20:24Z",
+    "pushed_at": "2026-08-18T22:19:25Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -17518,7 +17518,7 @@
     "name": "mychiffonn/myscholar",
     "url": "https://github.com/mychiffonn/myscholar",
     "description": "Astro theme for academic portfolios (or labs), research blogs, projects, and BibTeX publications",
-    "stars": 8,
+    "stars": 9,
     "forks": 5,
     "topics": [
       "academic-theme",
@@ -17531,7 +17531,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-25T06:45:58Z",
-    "updated_at": "2026-08-12T23:21:59Z",
+    "updated_at": "2026-08-18T19:52:41Z",
     "pushed_at": "2026-08-04T10:00:34Z",
     "discovered_at": "2026-07-28T12:46:50.330Z"
   },
@@ -17727,8 +17727,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-25T04:21:45Z",
-    "updated_at": "2026-08-18T06:24:36Z",
-    "pushed_at": "2026-08-18T06:23:31Z",
+    "updated_at": "2026-08-18T19:35:32Z",
+    "pushed_at": "2026-08-18T19:29:55Z",
     "discovered_at": "2026-07-31T00:52:03.092Z"
   },
   "astro-craft-theme/8-bitquest": {
@@ -18031,7 +18031,7 @@
   "arraypress/seo-astro": {
     "name": "arraypress/seo-astro",
     "url": "https://github.com/arraypress/seo-astro",
-    "description": "Idiomatic <SEO> component for Astro — title, canonical, Open Graph, Twitter, robots, hreflang, article meta + JSON-LD. A thin wrapper over @arraypress/seo.",
+    "description": "Idiomatic <SEO> component for Astro — title, canonical, Open Graph, Twitter, robots, hreflang and JSON-LD.",
     "stars": 2,
     "forks": 1,
     "topics": [
@@ -18047,14 +18047,14 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-22T07:07:57Z",
-    "updated_at": "2026-08-18T15:25:06Z",
+    "updated_at": "2026-08-18T19:46:28Z",
     "pushed_at": "2026-08-18T15:13:53Z",
     "discovered_at": "2026-08-02T12:30:48.128Z"
   },
   "arraypress/reveal-astro": {
     "name": "arraypress/reveal-astro",
     "url": "https://github.com/arraypress/reveal-astro",
-    "description": "View-transition-safe scroll-reveal for Astro — one IntersectionObserver adds a visible class as elements enter the viewport. Optional default animation CSS.",
+    "description": "View-transition-safe scroll reveal for Astro — one IntersectionObserver, respects prefers-reduced-motion.",
     "stars": 1,
     "forks": 1,
     "topics": [
@@ -18069,14 +18069,14 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-21T19:41:39Z",
-    "updated_at": "2026-08-02T11:31:22Z",
+    "updated_at": "2026-08-18T19:46:28Z",
     "pushed_at": "2026-06-27T14:39:36Z",
     "discovered_at": "2026-08-02T12:30:48.128Z"
   },
   "arraypress/analytics-astro": {
     "name": "arraypress/analytics-astro",
     "url": "https://github.com/arraypress/analytics-astro",
-    "description": "Multi-provider analytics for Astro — Plausible, Cloudflare, Umami, Fathom, Simple, GoatCounter, GA4, custom. DNT/GPC short-circuit + consent gating, one component.",
+    "description": "Multi-provider analytics for Astro — Plausible, Cloudflare, Umami, Fathom, GA4. DNT/GPC-aware and consent-gated.",
     "stars": 3,
     "forks": 1,
     "topics": [
@@ -18091,7 +18091,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-21T19:41:30Z",
-    "updated_at": "2026-08-02T11:31:21Z",
+    "updated_at": "2026-08-18T19:46:26Z",
     "pushed_at": "2026-06-27T14:39:35Z",
     "discovered_at": "2026-08-02T12:30:48.128Z"
   },
@@ -18303,7 +18303,7 @@
     "name": "xocothemes/monograph",
     "url": "https://github.com/xocothemes/monograph",
     "description": "Monograph is a free, text-first Astro theme for essays, notes, and long-form writing. ",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "topics": [
       "astro",
@@ -18320,7 +18320,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-03T18:44:50Z",
-    "updated_at": "2026-08-18T08:40:41Z",
+    "updated_at": "2026-08-19T00:02:38Z",
     "pushed_at": "2026-08-04T18:21:37Z",
     "discovered_at": "2026-08-04T00:50:26.022Z"
   },
@@ -18837,7 +18837,7 @@
     "license": "MIT",
     "created_at": "2026-08-07T11:42:20Z",
     "updated_at": "2026-08-08T12:35:26Z",
-    "pushed_at": "2026-08-17T23:04:03Z",
+    "pushed_at": "2026-08-18T23:00:04Z",
     "discovered_at": "2026-08-08T18:12:02.452Z"
   },
   "miyamo2/astro-jsonld": {
@@ -19748,5 +19748,234 @@
     "updated_at": "2026-08-18T17:37:34Z",
     "pushed_at": "2026-08-18T17:36:34Z",
     "discovered_at": "2026-08-18T18:12:11.321Z"
+  },
+  "arraypress/toast-astro": {
+    "name": "arraypress/toast-astro",
+    "url": "https://github.com/arraypress/toast-astro",
+    "description": "Toast notifications for Astro — one mount, a window.toast() global, view-transition safe. Zero dependencies.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "alert",
+      "aria-live",
+      "astro",
+      "astro-component",
+      "notification",
+      "snackbar",
+      "toast",
+      "view-transitions",
+      "withastro"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T16:08:42Z",
+    "updated_at": "2026-08-18T19:46:24Z",
+    "pushed_at": "2026-08-18T15:25:06Z",
+    "discovered_at": "2026-08-19T00:21:51.355Z"
+  },
+  "arraypress/effect-canvas-astro": {
+    "name": "arraypress/effect-canvas-astro",
+    "url": "https://github.com/arraypress/effect-canvas-astro",
+    "description": "GPU shader background canvas for Astro — aurora, mesh, waves, grid and particles. Respects reduced motion.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "aurora",
+      "background",
+      "canvas",
+      "effect",
+      "hero",
+      "shader",
+      "webgl",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-06-22T19:15:03Z",
+    "updated_at": "2026-08-18T19:46:30Z",
+    "pushed_at": "2026-07-15T11:16:45Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/pagefind-modal-astro": {
+    "name": "arraypress/pagefind-modal-astro",
+    "url": "https://github.com/arraypress/pagefind-modal-astro",
+    "description": "Astro search modal — headless replacement for Pagefind's built-in UI. Native <dialog>, grouped results, ⌘K, keyboard nav.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "cmdk",
+      "command-palette",
+      "pagefind",
+      "search",
+      "search-modal",
+      "ssg",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-05-23T16:35:51Z",
+    "updated_at": "2026-08-18T19:31:44Z",
+    "pushed_at": "2026-06-27T14:39:42Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/filter-toolbar-astro": {
+    "name": "arraypress/filter-toolbar-astro",
+    "url": "https://github.com/arraypress/filter-toolbar-astro",
+    "description": "Astro listing toolbar — sort plus grid/list view toggle, wired to URL params and localStorage.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "ecommerce",
+      "filter",
+      "grid-list-toggle",
+      "infinite-scroll",
+      "load-more",
+      "pagination",
+      "sort",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T16:31:49Z",
+    "updated_at": "2026-08-18T19:47:17Z",
+    "pushed_at": "2026-06-27T14:39:42Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/currency-picker-astro": {
+    "name": "arraypress/currency-picker-astro",
+    "url": "https://github.com/arraypress/currency-picker-astro",
+    "description": "Astro frontend currency picker — auto-detects from navigator.language, persists choice, rewrites every [data-price-original].",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "currency",
+      "currency-converter",
+      "currency-picker",
+      "ecommerce",
+      "exchange-rate",
+      "i18n",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T16:26:03Z",
+    "updated_at": "2026-08-18T19:31:38Z",
+    "pushed_at": "2026-06-27T14:39:39Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/before-after-astro": {
+    "name": "arraypress/before-after-astro",
+    "url": "https://github.com/arraypress/before-after-astro",
+    "description": "Astro image-comparison slider — draggable handle, keyboard accessible, theme-token CSS.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "before-after",
+      "drag-to-compare",
+      "image-comparison",
+      "slider",
+      "twentytwenty",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T17:50:50Z",
+    "updated_at": "2026-08-18T19:31:37Z",
+    "pushed_at": "2026-06-27T14:39:34Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/theme-switcher-astro": {
+    "name": "arraypress/theme-switcher-astro",
+    "url": "https://github.com/arraypress/theme-switcher-astro",
+    "description": "Astro light/dark theme toggle — pre-paint flicker fix, localStorage persistence, view-transition safe.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "color-scheme",
+      "dark-mode",
+      "light-mode",
+      "theme",
+      "theme-toggle",
+      "view-transitions",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T16:19:31Z",
+    "updated_at": "2026-08-18T19:31:49Z",
+    "pushed_at": "2026-06-27T14:39:33Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/sanity-loader": {
+    "name": "arraypress/sanity-loader",
+    "url": "https://github.com/arraypress/sanity-loader",
+    "description": "Astro Content Layer loader for Sanity — plug GROQ queries into defineCollection() with zero glue code.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-loader",
+      "cms",
+      "content-layer",
+      "groq",
+      "sanity",
+      "sanity-io",
+      "withastro"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "created_at": "2026-05-23T17:44:04Z",
+    "updated_at": "2026-08-18T19:31:46Z",
+    "pushed_at": "2026-06-22T08:46:50Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "arraypress/astro-behaviors": {
+    "name": "arraypress/astro-behaviors",
+    "url": "https://github.com/arraypress/astro-behaviors",
+    "description": "Client-side behaviour modules for Astro storefronts — wishlist, nav, modals, gallery. View-transition safe, zero deps.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "behaviors",
+      "gallery",
+      "modal",
+      "storefront",
+      "view-transitions",
+      "wishlist"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-08-18T19:32:47Z",
+    "updated_at": "2026-08-18T19:46:23Z",
+    "pushed_at": "2026-08-18T19:32:52Z",
+    "discovered_at": "2026-08-19T00:21:51.356Z"
+  },
+  "hara-lang/visual-language": {
+    "name": "hara-lang/visual-language",
+    "url": "https://github.com/hara-lang/visual-language",
+    "description": "Hara visual language: tokens, motifs, themes, and Astro primitives",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-03T01:05:13Z",
+    "updated_at": "2026-08-18T23:52:34Z",
+    "pushed_at": "2026-08-18T23:52:25Z",
+    "discovered_at": "2026-08-19T00:21:51.357Z"
   }
 }
