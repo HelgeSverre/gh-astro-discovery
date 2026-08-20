@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-08-18T18:08:10Z",
+    "pushed_at": "2026-08-20T11:03:50Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -1427,7 +1427,7 @@
     "license": "ISC",
     "created_at": "2022-04-27T04:55:20Z",
     "updated_at": "2026-08-19T09:35:44Z",
-    "pushed_at": "2026-08-20T05:46:24Z",
+    "pushed_at": "2026-08-20T06:52:57Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jeremyxgo/astro-react-i18next": {
@@ -4188,7 +4188,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-08-19T22:17:49Z",
-    "pushed_at": "2026-08-19T22:16:21Z",
+    "pushed_at": "2026-08-20T09:06:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5042,8 +5042,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-08-18T03:23:01Z",
-    "pushed_at": "2026-08-18T03:22:44Z",
+    "updated_at": "2026-08-20T10:30:36Z",
+    "pushed_at": "2026-08-20T10:30:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5193,8 +5193,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-08-18T02:58:28Z",
-    "pushed_at": "2026-08-18T02:58:16Z",
+    "updated_at": "2026-08-20T10:09:27Z",
+    "pushed_at": "2026-08-20T10:06:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5392,7 +5392,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 163,
-    "forks": 60,
+    "forks": 59,
     "topics": [
       "astro",
       "astro-theme",
@@ -5747,8 +5747,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
-    "updated_at": "2026-08-20T01:33:04Z",
-    "pushed_at": "2026-08-19T11:36:26Z",
+    "updated_at": "2026-08-20T08:46:45Z",
+    "pushed_at": "2026-08-20T08:45:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -7826,8 +7826,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-06-07T14:32:14Z",
-    "updated_at": "2026-07-24T14:33:17Z",
-    "pushed_at": "2026-08-17T06:43:26Z",
+    "updated_at": "2026-08-20T08:18:46Z",
+    "pushed_at": "2026-08-20T08:17:27Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "baflow/baselayer": {
@@ -8358,8 +8358,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-30T19:54:34Z",
-    "updated_at": "2026-08-18T01:24:53Z",
-    "pushed_at": "2026-08-18T01:24:33Z",
+    "updated_at": "2026-08-20T11:03:47Z",
+    "pushed_at": "2026-08-20T11:00:42Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "windmillcode/starlight-fullview-mode": {
@@ -10334,8 +10334,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-06-16T17:31:54Z",
-    "updated_at": "2026-08-05T19:49:45Z",
-    "pushed_at": "2026-08-05T19:48:31Z",
+    "updated_at": "2026-08-20T06:43:23Z",
+    "pushed_at": "2026-08-20T06:44:14Z",
     "discovered_at": "2026-06-16T19:21:28.687Z"
   },
   "elstron/astro-search": {
@@ -10447,7 +10447,7 @@
     "name": "kpab/astro-keel",
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
-    "stars": 20,
+    "stars": 19,
     "forks": 11,
     "topics": [
       "astro",
@@ -10465,7 +10465,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-08-19T21:17:24Z",
+    "updated_at": "2026-08-20T11:40:11Z",
     "pushed_at": "2026-08-19T04:34:20Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-20T05:20:16Z",
+    "pushed_at": "2026-08-20T11:15:27Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11626,7 +11626,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-07-30T12:15:49Z",
-    "pushed_at": "2026-08-18T18:43:02Z",
+    "pushed_at": "2026-08-20T10:10:12Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -11838,8 +11838,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-08T08:28:23Z",
-    "updated_at": "2026-08-19T22:12:27Z",
-    "pushed_at": "2026-08-19T22:12:21Z",
+    "updated_at": "2026-08-20T08:50:17Z",
+    "pushed_at": "2026-08-20T08:47:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mychiffonn/website": {
@@ -11867,8 +11867,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-07-31T05:13:19Z",
-    "updated_at": "2026-08-19T06:54:07Z",
-    "pushed_at": "2026-08-19T06:52:15Z",
+    "updated_at": "2026-08-20T10:15:39Z",
+    "pushed_at": "2026-08-20T10:14:39Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "dahailaila/firefly": {
@@ -11931,13 +11931,13 @@
     "name": "hansmartensdev/Astro-Rocket",
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
-    "stars": 103,
-    "forks": 50,
+    "stars": 104,
+    "forks": 51,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-08-18T02:12:33Z",
+    "updated_at": "2026-08-20T12:09:46Z",
     "pushed_at": "2026-08-14T20:24:43Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12371,8 +12371,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-06T06:18:21Z",
-    "updated_at": "2026-08-20T04:17:23Z",
-    "pushed_at": "2026-08-20T04:17:19Z",
+    "updated_at": "2026-08-20T08:00:25Z",
+    "pushed_at": "2026-08-20T08:00:58Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wangjacks/capsule-x": {
@@ -12537,8 +12537,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-08-19T08:57:31Z",
-    "pushed_at": "2026-08-19T08:56:44Z",
+    "updated_at": "2026-08-20T08:59:54Z",
+    "pushed_at": "2026-08-20T08:59:12Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -15545,7 +15545,7 @@
     "name": "anjay-goel/astro-sienna",
     "url": "https://github.com/anjay-goel/astro-sienna",
     "description": "A minimal writing focused Astro blog template",
-    "stars": 42,
+    "stars": 43,
     "forks": 12,
     "topics": [
       "astro",
@@ -15561,7 +15561,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-08-06T12:10:09Z",
+    "updated_at": "2026-08-20T07:24:52Z",
     "pushed_at": "2026-07-25T17:45:57Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
@@ -15706,8 +15706,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-08-20T01:47:39Z",
-    "pushed_at": "2026-08-20T02:49:37Z",
+    "updated_at": "2026-08-20T09:07:12Z",
+    "pushed_at": "2026-08-20T09:04:55Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -16014,7 +16014,7 @@
     "url": "https://github.com/EFEELE/NeonMint",
     "description": "is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.",
     "stars": 145,
-    "forks": 98,
+    "forks": 99,
     "topics": [
       "astro",
       "dark-theme",
@@ -16704,8 +16704,8 @@
     "name": "dodolalorc/astro-navfolio",
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
-    "stars": 92,
-    "forks": 20,
+    "stars": 93,
+    "forks": 21,
     "topics": [
       "astro",
       "blog-theme"
@@ -16713,7 +16713,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-11T11:29:52Z",
-    "updated_at": "2026-08-19T11:55:23Z",
+    "updated_at": "2026-08-20T11:15:59Z",
     "pushed_at": "2026-08-14T10:35:24Z",
     "discovered_at": "2026-07-19T18:25:09.650Z"
   },
@@ -19641,8 +19641,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-16T11:10:50Z",
-    "updated_at": "2026-08-19T21:36:34Z",
-    "pushed_at": "2026-08-19T21:35:29Z",
+    "updated_at": "2026-08-20T11:49:13Z",
+    "pushed_at": "2026-08-20T11:48:03Z",
     "discovered_at": "2026-08-16T12:09:52.120Z"
   },
   "willimt/astro-theme-ink": {
@@ -20100,5 +20100,49 @@
     "updated_at": "2026-08-20T04:10:51Z",
     "pushed_at": "2026-08-20T04:09:35Z",
     "discovered_at": "2026-08-20T00:22:26.109Z"
+  },
+  "jagarkarlo/astro-orbit": {
+    "name": "jagarkarlo/astro-orbit",
+    "url": "https://github.com/jagarkarlo/astro-orbit",
+    "description": "Minimalist Astro portfolio template with an interactive orbital relay hero, constellations and a meteor shower. MIT licensed.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "canvas",
+      "minimalist",
+      "portfolio",
+      "static-site",
+      "tailwindcss",
+      "template",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-20T08:33:20Z",
+    "updated_at": "2026-08-20T11:11:27Z",
+    "pushed_at": "2026-08-20T11:10:46Z",
+    "discovered_at": "2026-08-20T12:14:22.597Z"
+  },
+  "javiermartins/astro-physiotherapy-theme": {
+    "name": "javiermartins/astro-physiotherapy-theme",
+    "url": "https://github.com/javiermartins/astro-physiotherapy-theme",
+    "description": "Website developed with astro on a physiotherapy clinic",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "physiotherapy",
+      "tailwind",
+      "website"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2024-08-31T19:29:34Z",
+    "updated_at": "2026-08-20T10:31:58Z",
+    "pushed_at": "2026-08-20T10:31:11Z",
+    "discovered_at": "2026-08-20T12:14:22.597Z"
   }
 }
