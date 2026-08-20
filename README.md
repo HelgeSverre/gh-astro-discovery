@@ -2,13 +2,17 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1042
-**Last updated:** 2026-08-20T12:14:22.604Z
+**Total packages tracked:** 1046
+**Last updated:** 2026-08-20T18:12:43.228Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Inkstudioagency/Novaform-Astro-Theme](https://github.com/Inkstudioagency/Novaform-Astro-Theme) | 0 |  |
+| [Inkstudioagency/Nivora-Astro-Theme](https://github.com/Inkstudioagency/Nivora-Astro-Theme) | 0 |  |
+| [Inkstudioagency/Vaultix-Astro-Theme](https://github.com/Inkstudioagency/Vaultix-Astro-Theme) | 0 |  |
+| [Inkstudioagency/CarifyPro-Astro-Theme](https://github.com/Inkstudioagency/CarifyPro-Astro-Theme) | 0 |  |
 | [jagarkarlo/astro-orbit](https://github.com/jagarkarlo/astro-orbit) | 0 | Minimalist Astro portfolio template with an interactive orbital relay hero, cons... |
 | [javiermartins/astro-physiotherapy-theme](https://github.com/javiermartins/astro-physiotherapy-theme) | 0 | Website developed with astro on a physiotherapy clinic |
 | [MahmoodKhalil57/premium-cms-frontend-template](https://github.com/MahmoodKhalil57/premium-cms-frontend-template) | 0 | Base image for PremiumCMS site frontends — static Astro build of the EmDash them... |
@@ -25,10 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [arraypress/before-after-astro](https://github.com/arraypress/before-after-astro) | 0 | Astro image-comparison slider — draggable handle, keyboard accessible, theme-tok... |
 | [arraypress/theme-switcher-astro](https://github.com/arraypress/theme-switcher-astro) | 0 | Astro light/dark theme toggle — pre-paint flicker fix, localStorage persistence,... |
 | [arraypress/sanity-loader](https://github.com/arraypress/sanity-loader) | 0 | Astro Content Layer loader for Sanity — plug GROQ queries into defineCollection(... |
-| [arraypress/astro-behaviors](https://github.com/arraypress/astro-behaviors) | 0 | Client-side behaviour modules for Astro storefronts — wishlist, nav, modals, gal... |
-| [arraypress/toast-astro](https://github.com/arraypress/toast-astro) | 0 | Toast notifications for Astro — one mount, a window.toast() global, view-transit... |
-| [torajeshsaini/dante-astro-theme](https://github.com/torajeshsaini/dante-astro-theme) | 0 |  |
-| [LinYeeGiong/AstroOrbitale](https://github.com/LinYeeGiong/AstroOrbitale) | 2 | A Chinese-first Astro theme for personal digital gardens. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-20 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Da... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-20 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [jagarkarlo/astro-orbit](https://github.com/jagarkarlo/astro-orbit) | 0 | 2026-08-20 | Minimalist Astro portfolio template with an interactive orbi... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-08-20 | Loaders for Astro's Content Layer |
-| [dragomano/starlight-giscus](https://github.com/dragomano/starlight-giscus) | 13 | 2026-08-20 | Adds Giscus comments to your docs site |
-| [javiermartins/astro-physiotherapy-theme](https://github.com/javiermartins/astro-physiotherapy-theme) | 0 | 2026-08-20 | Website developed with astro on a physiotherapy clinic |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-20 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [mychiffonn/website](https://github.com/mychiffonn/website) | 6 | 2026-08-20 | Personal academic website built with Astro (al-folio alterna... |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-08-20 | A modern, responsive and lightweight theme for freelancing, ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-20 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-20 | Astro integration for loading fonts into build artifacts wit... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-20 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-08-20 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [Ezjfc/Epping](https://github.com/Ezjfc/Epping) | 0 | 2026-08-20 | Epping is a theme for the severless/static Astro blog framew... |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-08-20 | A minimal Astro blog theme |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-08-20 | The Astro Quick Start package covers the basics of connectin... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-08-20 | Modern static blog theme with distinctive anime-style featur... |
+| [Inkstudioagency/Novaform-Astro-Theme](https://github.com/Inkstudioagency/Novaform-Astro-Theme) | 0 | 2026-08-20 |  |
+| [Inkstudioagency/Nivora-Astro-Theme](https://github.com/Inkstudioagency/Nivora-Astro-Theme) | 0 | 2026-08-20 |  |
+| [Inkstudioagency/Vaultix-Astro-Theme](https://github.com/Inkstudioagency/Vaultix-Astro-Theme) | 0 | 2026-08-20 |  |
 | [theisel/astro-portabletext](https://github.com/theisel/astro-portabletext) | 106 | 2026-08-20 | A flexible library for rendering Portable Text content in As... |
-| [opsydyn/astro-azure-integration](https://github.com/opsydyn/astro-azure-integration) | 0 | 2026-08-20 | astro azure swa integration |
-| [MahmoodKhalil57/premium-cms-frontend-template](https://github.com/MahmoodKhalil57/premium-cms-frontend-template) | 0 | 2026-08-20 | Base image for PremiumCMS site frontends — static Astro buil... |
+| [Inkstudioagency/LeadCraft-Astro-Theme](https://github.com/Inkstudioagency/LeadCraft-Astro-Theme) | 0 | 2026-08-20 |  |
+| [hara-lang/visual-language](https://github.com/hara-lang/visual-language) | 0 | 2026-08-20 | Hara visual language: tokens, motifs, themes, and Astro prim... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-20 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [dileepadev/blog-dileepa-dev](https://github.com/dileepadev/blog-dileepa-dev) | 0 | 2026-08-20 | This is my blog. |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-20 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-20 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [mychiffonn/website](https://github.com/mychiffonn/website) | 6 | 2026-08-20 | Personal academic website built with Astro (al-folio alterna... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-20 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-20 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [MindfulnessInc/website-base](https://github.com/MindfulnessInc/website-base) | 0 | 2026-08-20 | Shared, themeable Astro foundation for MindfulnessInc brand/... |
+| [MatChaLab/Quasar-Astro-Theme](https://github.com/MatChaLab/Quasar-Astro-Theme) | 1 | 2026-08-20 | A cosmic-inspired Astro theme, grounded in terrestrial stabi... |
+| [rennerdo30/docs-template](https://github.com/rennerdo30/docs-template) | 0 | 2026-08-20 | Luminous Void: a dark-first theme plugin for Astro Starlight... |
+| [jagreehal/starlight-shadcn](https://github.com/jagreehal/starlight-shadcn) | 0 | 2026-08-20 | shadcn + React Aria theme for Astro Starlight |
+| [jramosg/jonramos](https://github.com/jramosg/jonramos) | 0 | 2026-08-20 | Personal portfolio built with Astro 5 SSR. Working Clojure R... |
+| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-20 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Da... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-20 | Astro integration for loading fonts into build artifacts wit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-20T18:12 | 4 | 840 | 1046 |
 | 2026-08-20T12:14 | 2 | 841 | 1042 |
 | 2026-08-20T06:15 | 0 | 842 | 1040 |
 | 2026-08-20T00:22 | 1 | 841 | 1040 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-19T00:21 | 10 | 831 | 1034 |
 | 2026-08-18T18:12 | 1 | 831 | 1024 |
 | 2026-08-18T12:13 | 2 | 830 | 1023 |
-| 2026-08-18T06:14 | 0 | 831 | 1021 |
 
 ---
 
