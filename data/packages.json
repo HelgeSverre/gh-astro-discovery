@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-06-08T05:50:27Z",
-    "pushed_at": "2026-08-21T22:58:33Z",
+    "pushed_at": "2026-08-22T10:01:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -500,7 +500,7 @@
     "url": "https://github.com/yaroslav/astro-nice-asset-filenames",
     "description": "Astro integration for short, readable asset URLs.",
     "stars": 7,
-    "forks": 1,
+    "forks": 2,
     "topics": [
       "assets",
       "astro",
@@ -1427,7 +1427,7 @@
     "license": "ISC",
     "created_at": "2022-04-27T04:55:20Z",
     "updated_at": "2026-08-19T09:35:44Z",
-    "pushed_at": "2026-08-22T06:04:03Z",
+    "pushed_at": "2026-08-22T06:40:46Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jeremyxgo/astro-react-i18next": {
@@ -5217,8 +5217,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-20T03:15:05Z",
-    "pushed_at": "2026-08-20T03:14:13Z",
+    "updated_at": "2026-08-22T09:26:47Z",
+    "pushed_at": "2026-08-22T09:26:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5272,7 +5272,7 @@
     "name": "devgelo-labs/astro-starter-pro",
     "url": "https://github.com/devgelo-labs/astro-starter-pro",
     "description": "Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.",
-    "stars": 56,
+    "stars": 57,
     "forks": 28,
     "topics": [
       "astro-starter",
@@ -5288,7 +5288,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-01-10T17:58:45Z",
-    "updated_at": "2026-08-20T01:20:10Z",
+    "updated_at": "2026-08-22T10:57:40Z",
     "pushed_at": "2026-07-05T01:47:27Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5347,7 +5347,7 @@
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
     "stars": 13,
-    "forks": 4,
+    "forks": 3,
     "topics": [
       "astro",
       "astro-template",
@@ -5989,7 +5989,7 @@
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
     "stars": 385,
-    "forks": 131,
+    "forks": 130,
     "topics": [
       "astro-build",
       "astro-template",
@@ -6340,7 +6340,7 @@
     "url": "https://github.com/fabformhub/paperastro",
     "description": "astro build starter blog paper theme",
     "stars": 6,
-    "forks": 4,
+    "forks": 5,
     "topics": [
       "astro-blog",
       "astro-blog-theme",
@@ -9797,8 +9797,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-08-22T02:01:19Z",
-    "pushed_at": "2026-08-22T02:01:05Z",
+    "updated_at": "2026-08-22T06:49:30Z",
+    "pushed_at": "2026-08-22T09:56:35Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10448,7 +10448,7 @@
     "url": "https://github.com/kpab/astro-keel",
     "description": "Astro Keel — a minimal, neutral, and modern portfolio and blog theme for Astro 7, with a one-line accent color, dark mode, tags, RSS, and Shiki dual themes.",
     "stars": 19,
-    "forks": 12,
+    "forks": 13,
     "topics": [
       "astro",
       "astro-blog",
@@ -10523,7 +10523,7 @@
     "name": "ewels/starlight-quiz",
     "url": "https://github.com/ewels/starlight-quiz",
     "description": "Interactive quizzes for Astro and Starlight, authored in markdown with full progress tracking.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "astro",
@@ -10544,7 +10544,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-08-20T14:49:38Z",
+    "updated_at": "2026-08-22T07:50:02Z",
     "pushed_at": "2026-08-14T21:32:42Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
@@ -11472,8 +11472,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-08-22T05:27:55Z",
-    "pushed_at": "2026-08-22T05:27:40Z",
+    "updated_at": "2026-08-22T07:21:23Z",
+    "pushed_at": "2026-08-22T08:03:08Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-22T05:16:01Z",
+    "pushed_at": "2026-08-22T11:09:48Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12201,8 +12201,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T08:10:09Z",
-    "updated_at": "2026-08-12T05:10:29Z",
-    "pushed_at": "2026-08-12T05:10:20Z",
+    "updated_at": "2026-08-22T07:43:16Z",
+    "pushed_at": "2026-08-22T07:42:54Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/amir-rad-prt": {
@@ -12537,8 +12537,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-08-21T09:02:07Z",
-    "pushed_at": "2026-08-21T09:00:20Z",
+    "updated_at": "2026-08-22T08:50:22Z",
+    "pushed_at": "2026-08-22T08:50:14Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -15706,8 +15706,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-08-21T22:03:38Z",
-    "pushed_at": "2026-08-21T23:03:39Z",
+    "updated_at": "2026-08-22T11:03:40Z",
+    "pushed_at": "2026-08-22T12:07:45Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -16060,13 +16060,13 @@
     "name": "xxy1103/ulbo-astro-theme-template",
     "url": "https://github.com/xxy1103/ulbo-astro-theme-template",
     "description": "",
-    "stars": 8,
+    "stars": 9,
     "forks": 4,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-10T10:04:48Z",
-    "updated_at": "2026-08-20T21:22:49Z",
+    "updated_at": "2026-08-22T07:32:58Z",
     "pushed_at": "2026-08-14T03:53:48Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
@@ -16557,8 +16557,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-17T15:53:19Z",
-    "updated_at": "2026-08-21T14:34:49Z",
-    "pushed_at": "2026-08-21T14:34:04Z",
+    "updated_at": "2026-08-22T09:12:35Z",
+    "pushed_at": "2026-08-22T09:12:32Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "zkonikishi/sakurairo-astro-theme": {
@@ -19420,8 +19420,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-21T05:02:53Z",
-    "updated_at": "2026-08-19T18:05:56Z",
-    "pushed_at": "2026-08-19T18:06:51Z",
+    "updated_at": "2026-08-22T11:33:26Z",
+    "pushed_at": "2026-08-22T11:33:11Z",
     "discovered_at": "2026-08-14T06:37:52.275Z"
   },
   "erickangeloramirez/astro-theme-cactus": {
@@ -19512,7 +19512,7 @@
     "name": "ewels/starlight-pydocs",
     "url": "https://github.com/ewels/starlight-pydocs",
     "description": "Python API reference documentation for Starlight and plain Astro sites. ",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "api-documentation",
@@ -19534,7 +19534,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-12T20:52:48Z",
-    "updated_at": "2026-08-20T14:49:40Z",
+    "updated_at": "2026-08-22T07:52:01Z",
     "pushed_at": "2026-08-14T21:14:45Z",
     "discovered_at": "2026-08-15T00:21:31.506Z"
   },
@@ -20326,5 +20326,58 @@
     "updated_at": "2026-08-22T05:52:18Z",
     "pushed_at": "2026-08-21T23:43:39Z",
     "discovered_at": "2026-08-22T00:21:24.468Z"
+  },
+  "rankveo/astro": {
+    "name": "rankveo/astro",
+    "url": "https://github.com/rankveo/astro",
+    "description": "Run your rankveo blog on astro. SEO, GEO and AEO content, served from your own domain.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "aeo",
+      "ai-visibility",
+      "astro",
+      "astro-integration",
+      "blog",
+      "content-layer",
+      "geo",
+      "headless-cms",
+      "llm-seo",
+      "seo"
+    ],
+    "language": "TypeScript",
+    "license": null,
+    "created_at": "2026-08-22T09:40:46Z",
+    "updated_at": "2026-08-22T10:21:54Z",
+    "pushed_at": "2026-08-22T10:21:27Z",
+    "discovered_at": "2026-08-22T12:10:15.727Z"
+  },
+  "sweetenedsuzuka/astro-theme-bakery": {
+    "name": "SweetenedSuzuka/astro-theme-bakery",
+    "url": "https://github.com/SweetenedSuzuka/astro-theme-bakery",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-22T11:53:13Z",
+    "updated_at": "2026-08-22T12:02:43Z",
+    "pushed_at": "2026-08-22T12:02:30Z",
+    "discovered_at": "2026-08-22T12:10:15.728Z"
+  },
+  "y1bel/yibel-space": {
+    "name": "y1bel/yibel-space",
+    "url": "https://github.com/y1bel/yibel-space",
+    "description": "Theme-decoupled personal digital space built with Astro.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-08-21T15:48:06Z",
+    "updated_at": "2026-08-22T07:25:57Z",
+    "pushed_at": "2026-08-22T07:25:53Z",
+    "discovered_at": "2026-08-22T12:10:15.728Z"
   }
 }
