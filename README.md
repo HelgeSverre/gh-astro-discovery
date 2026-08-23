@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1059
-**Last updated:** 2026-08-22T18:08:28.965Z
+**Total packages tracked:** 1060
+**Last updated:** 2026-08-23T00:23:30.983Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Tchirek/astro-twenty-ten](https://github.com/Tchirek/astro-twenty-ten) | 0 | A static Astro recreation of the classic WordPress Twenty Ten blog theme. |
 | [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 0 | Paper-and-ink design layer for Astro docs, wikis and digital gardens — two-tier ... |
 | [chunyiw8080/astro-honey-theme](https://github.com/chunyiw8080/astro-honey-theme) | 0 |  |
 | [aBER0724/astro-theme-cactus-multilingual](https://github.com/aBER0724/astro-theme-cactus-multilingual) | 0 |  |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Inkstudioagency/CarifyPro-Astro-Theme](https://github.com/Inkstudioagency/CarifyPro-Astro-Theme) | 0 |  |
 | [jagarkarlo/astro-orbit](https://github.com/jagarkarlo/astro-orbit) | 0 | Minimalist Astro portfolio template with an interactive orbital relay hero, cons... |
 | [javiermartins/astro-physiotherapy-theme](https://github.com/javiermartins/astro-physiotherapy-theme) | 0 | Website developed with astro on a physiotherapy clinic |
-| [MahmoodKhalil57/premium-cms-frontend-template](https://github.com/MahmoodKhalil57/premium-cms-frontend-template) | 0 | Base image for PremiumCMS site frontends — static Astro build of the EmDash them... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 5 | 2026-08-22 | Simple and cute Standard.site integration for Astro |
-| [lguima/rota-marcia-prado](https://github.com/lguima/rota-marcia-prado) | 0 | 2026-08-22 | Rota cicloturística Márcia Prado |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-08-22 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-08-23 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-08-23 | A fast and minimalist personal website and blog powered by A... |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-22 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [theisel/astro-portabletext](https://github.com/theisel/astro-portabletext) | 106 | 2026-08-22 | A flexible library for rendering Portable Text content in As... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-22 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
 | [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 0 | 2026-08-22 | Paper-and-ink design layer for Astro docs, wikis and digital... |
 | [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 0 | 2026-08-22 | A tiny git-backed CMS for Astro — edit your static site in p... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-22 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-22 | My astro static blog use theme Firefly. |
+| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 10 | 2026-08-22 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
+| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 101 | 2026-08-22 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
+| [Tchirek/astro-twenty-ten](https://github.com/Tchirek/astro-twenty-ten) | 0 | 2026-08-22 | A static Astro recreation of the classic WordPress Twenty Te... |
+| [rankveo/astro](https://github.com/rankveo/astro) | 0 | 2026-08-22 | Run your rankveo blog on astro. SEO, GEO and AEO content, se... |
+| [thegu5/astro-scute](https://github.com/thegu5/astro-scute) | 5 | 2026-08-22 | Simple and cute Standard.site integration for Astro |
+| [lguima/rota-marcia-prado](https://github.com/lguima/rota-marcia-prado) | 0 | 2026-08-22 | Rota cicloturística Márcia Prado |
 | [willimt/astro-theme-ink](https://github.com/willimt/astro-theme-ink) | 1 | 2026-08-22 | A warm, paper-feel personal blog theme built with Astro & Un... |
 | [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-22 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [Ezjfc/Epping](https://github.com/Ezjfc/Epping) | 0 | 2026-08-22 | Epping is a theme for the severless/static Astro blog framew... |
 | [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-22 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
 | [MatChaLab/Quasar-Astro-Theme](https://github.com/MatChaLab/Quasar-Astro-Theme) | 1 | 2026-08-22 | A cosmic-inspired Astro theme, grounded in terrestrial stabi... |
-| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 10 | 2026-08-22 | A blog and personal site theme for Astro with a terminal loo... |
-| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | 2026-08-22 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
-| [SweetenedSuzuka/astro-theme-bakery](https://github.com/SweetenedSuzuka/astro-theme-bakery) | 0 | 2026-08-22 | 面包房：Astro主题，用于展示画师的插画。 |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-22 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-08-22 | Astro integration for the Carve markup language |
-| [louisescher/.dev](https://github.com/louisescher/.dev) | 3 | 2026-08-22 | My personal website |
-| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-08-22 | Framework for creating study companion webpages. |
-| [chunyiw8080/astro-honey-theme](https://github.com/chunyiw8080/astro-honey-theme) | 0 | 2026-08-22 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-23T00:23 | 1 | 852 | 1060 |
 | 2026-08-22T18:08 | 4 | 850 | 1059 |
 | 2026-08-22T12:10 | 3 | 847 | 1055 |
 | 2026-08-22T06:12 | 0 | 847 | 1052 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-21T06:16 | 1 | 844 | 1049 |
 | 2026-08-21T00:23 | 2 | 842 | 1048 |
 | 2026-08-20T18:12 | 4 | 840 | 1046 |
-| 2026-08-20T12:14 | 2 | 841 | 1042 |
 
 ---
 
