@@ -2,13 +2,18 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1070
-**Last updated:** 2026-08-24T00:23:19.671Z
+**Total packages tracked:** 1075
+**Last updated:** 2026-08-24T06:22:02.544Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jasonz1987/jasonz-website](https://github.com/jasonz1987/jasonz-website) | 0 | A blog based on Astro(基于Astro创建的个人网站) |
+| [nivinvysakh/Dracula-Dev-Portfolio](https://github.com/nivinvysakh/Dracula-Dev-Portfolio) | 0 | 🦇 Minimalist Dracula-themed developer portfolio template built with Astro 7, Ta... |
+| [xiiiblue/astro-theme-imprint](https://github.com/xiiiblue/astro-theme-imprint) | 0 | A quiet, writing-focused blog theme for Astro. |
+| [lx-themes/astroloop](https://github.com/lx-themes/astroloop) | 0 | Astro landing page template for AI agent products. Agent loop diagram, tool & pe... |
+| [chrisvander/at-astro](https://github.com/chrisvander/at-astro) | 1 | An Astro integration for the AT Protocol, implementing OAuth flow and publishing... |
 | [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) | 0 | A personal site theme for Astro — portfolio, blog, and travel photo galleries in... |
 | [zenZack/myBlog](https://github.com/zenZack/myBlog) | 0 | 我的个人博客 - ulBo theme (Astro) |
 | [larry-xue/astroloop](https://github.com/larry-xue/astroloop) | 0 | Astro landing page template for AI agent products. Agent loop diagram, tool & pe... |
@@ -24,11 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [chunyiw8080/astro-honey-theme](https://github.com/chunyiw8080/astro-honey-theme) | 0 |  |
 | [aBER0724/astro-theme-cactus-multilingual](https://github.com/aBER0724/astro-theme-cactus-multilingual) | 0 |  |
 | [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 0 | A tiny git-backed CMS for Astro — edit your static site in place: block-level ed... |
-| [SweetenedSuzuka/astro-theme-bakery](https://github.com/SweetenedSuzuka/astro-theme-bakery) | 0 | 面包房：Astro主题，用于展示画师的插画。 |
-| [y1bel/yibel-space](https://github.com/y1bel/yibel-space) | 0 | Theme-decoupled personal digital space built with Astro. |
-| [rankveo/astro](https://github.com/rankveo/astro) | 0 | Run your rankveo blog on astro. SEO, GEO and AEO content, served from your own d... |
-| [itsMe-ThatOneGuy/mulberry-tree-saloon](https://github.com/itsMe-ThatOneGuy/mulberry-tree-saloon) | 0 | The Mulberry Tree Saloon is a zombie-themed bar, restaurant, and live music venu... |
-| [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 1 | Astro content loaders for the Are.na v3 API |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [chrisvander/at-astro-loader](https://github.com/chrisvander/at-astro-loader) | 9 | 2026-08-24 | An Astro loader for ATProto data. |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-24 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-24 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-23 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Da... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-23 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 1 | 2026-08-23 | Astro content loaders for the Are.na v3 API |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-23 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [hara-lang/visual-language](https://github.com/hara-lang/visual-language) | 0 | 2026-08-23 | Hara visual language: tokens, motifs, themes, and Astro prim... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-23 | My astro static blog use theme Firefly. |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-23 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 0 | 2026-08-23 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
-| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-08-23 | Astro blog theme template. |
-| [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) | 0 | 2026-08-23 | A personal site theme for Astro — portfolio, blog, and trave... |
-| [frostybee/starlight-announcement](https://github.com/frostybee/starlight-announcement) | 11 | 2026-08-23 | An Astro Starlight plugin to add custom announcement to your... |
-| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 101 | 2026-08-23 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-23 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [MindfulnessInc/website-base](https://github.com/MindfulnessInc/website-base) | 0 | 2026-08-23 | Shared, themeable Astro foundation for MindfulnessInc brand/... |
-| [frostybee/starlight-telescope](https://github.com/frostybee/starlight-telescope) | 5 | 2026-08-23 | A Starlight plugin to quickly navigate to any page in your S... |
-| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 1 | 2026-08-23 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
-| [frostybee/starlight-tags](https://github.com/frostybee/starlight-tags) | 14 | 2026-08-23 | A plugin to add tags to your Starlight docs for content orga... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-08-24 | An Astro Prometheus nodejs middleware integration for Astro |
+| [nivinvysakh/Dracula-Dev-Portfolio](https://github.com/nivinvysakh/Dracula-Dev-Portfolio) | 0 | 2026-08-24 | 🦇 Minimalist Dracula-themed developer portfolio template bu... |
+| [xiiiblue/astro-theme-imprint](https://github.com/xiiiblue/astro-theme-imprint) | 0 | 2026-08-24 | A quiet, writing-focused blog theme for Astro. |
+| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-24 | An Astro starter theme |
+| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 101 | 2026-08-24 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
+| [theisel/astro-portabletext](https://github.com/theisel/astro-portabletext) | 106 | 2026-08-24 | A flexible library for rendering Portable Text content in As... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-24 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-24 | Universal Analytics Engines Integration |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-24 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-08-24 | Astro blog theme template. |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-24 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-24 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | 2026-08-24 | Qwik + Astro |
+| [hara-lang/visual-language](https://github.com/hara-lang/visual-language) | 0 | 2026-08-24 | Hara visual language: tokens, motifs, themes, and Astro prim... |
+| [lx-themes/astroloop](https://github.com/lx-themes/astroloop) | 0 | 2026-08-24 | Astro landing page template for AI agent products. Agent loo... |
+| [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) | 0 | 2026-08-24 | A personal site theme for Astro — portfolio, blog, and trave... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 21 | 2026-08-24 | Framework-agnostic interactive component anatomy for design ... |
+| [jasonz1987/jasonz-website](https://github.com/jasonz1987/jasonz-website) | 0 | 2026-08-24 | A blog based on Astro(基于Astro创建的个人网站) |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-24 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 155 | 2026-08-24 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-24T06:22 | 5 | 855 | 1075 |
 | 2026-08-24T00:23 | 1 | 858 | 1070 |
 | 2026-08-23T18:08 | 2 | 857 | 1069 |
 | 2026-08-23T12:10 | 3 | 856 | 1067 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-22T12:10 | 3 | 847 | 1055 |
 | 2026-08-22T06:12 | 0 | 847 | 1052 |
 | 2026-08-22T00:21 | 2 | 845 | 1052 |
-| 2026-08-21T18:12 | 0 | 845 | 1050 |
 
 ---
 
