@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1069
-**Last updated:** 2026-08-23T18:08:39.168Z
+**Total packages tracked:** 1070
+**Last updated:** 2026-08-24T00:23:19.671Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) | 0 | A personal site theme for Astro — portfolio, blog, and travel photo galleries in... |
 | [zenZack/myBlog](https://github.com/zenZack/myBlog) | 0 | 我的个人博客 - ulBo theme (Astro) |
 | [larry-xue/astroloop](https://github.com/larry-xue/astroloop) | 0 | Astro landing page template for AI agent products. Agent loop diagram, tool & pe... |
 | [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | Astro blog theme template. |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [rankveo/astro](https://github.com/rankveo/astro) | 0 | Run your rankveo blog on astro. SEO, GEO and AEO content, served from your own d... |
 | [itsMe-ThatOneGuy/mulberry-tree-saloon](https://github.com/itsMe-ThatOneGuy/mulberry-tree-saloon) | 0 | The Mulberry Tree Saloon is a zombie-themed bar, restaurant, and live music venu... |
 | [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 1 | Astro content loaders for the Are.na v3 API |
-| [yshmarov/starlight-related-articles](https://github.com/yshmarov/starlight-related-articles) | 1 | Starlight plugin: a "Related articles" section ranked by build-time content simi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 101 | 2026-08-23 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
-| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 0 | 2026-08-23 | The Astro wiki you can write in — paper-and-ink typography f... |
-| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 0 | 2026-08-23 | A tiny git-backed CMS for Astro — edit your static site in p... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-23 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 45 | 2026-08-23 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-23 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 21 | 2026-08-23 | Matomo integration for Astro |
-| [zenZack/myBlog](https://github.com/zenZack/myBlog) | 0 | 2026-08-23 | 我的个人博客 - ulBo theme (Astro) |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-23 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [tfmurad/astro-llms-md](https://github.com/tfmurad/astro-llms-md) | 44 | 2026-08-23 | Astro integration to generate llms.txt, llms-full.txt, and m... |
-| [AllsVoid/sorapaper](https://github.com/AllsVoid/sorapaper) | 1 | 2026-08-23 | A soft, content-first Astro blog theme for long-form writing... |
+| [chrisvander/at-astro-loader](https://github.com/chrisvander/at-astro-loader) | 9 | 2026-08-24 | An Astro loader for ATProto data. |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-24 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-24 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
 | [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-23 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Da... |
-| [larry-xue/astroloop](https://github.com/larry-xue/astroloop) | 0 | 2026-08-23 | Astro landing page template for AI agent products. Agent loo... |
-| [velohost/astro-canonical](https://github.com/velohost/astro-canonical) | 1 | 2026-08-23 | Build-time canonical URL validation for Astro. Enforces site... |
-| [dileepadev/blog-dileepa-dev](https://github.com/dileepadev/blog-dileepa-dev) | 0 | 2026-08-23 | This is my blog. |
-| [mychiffonn/myscholar](https://github.com/mychiffonn/myscholar) | 12 | 2026-08-23 | Astro theme for academic portfolios (or labs), research blog... |
-| [singu9/astro-orange](https://github.com/singu9/astro-orange) | 0 | 2026-08-23 | Another astro 7 theme |
-| [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | 2026-08-23 | Qwik + Astro |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-23 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [larry-xue/astro-sassify-template](https://github.com/larry-xue/astro-sassify-template) | 101 | 2026-08-23 | Focus on your business, simplify your start. |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-23 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 1 | 2026-08-23 | Astro content loaders for the Are.na v3 API |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-23 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [hara-lang/visual-language](https://github.com/hara-lang/visual-language) | 0 | 2026-08-23 | Hara visual language: tokens, motifs, themes, and Astro prim... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-23 | My astro static blog use theme Firefly. |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-23 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 0 | 2026-08-23 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
+| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-08-23 | Astro blog theme template. |
+| [igagansingh/astro-wanderer](https://github.com/igagansingh/astro-wanderer) | 0 | 2026-08-23 | A personal site theme for Astro — portfolio, blog, and trave... |
+| [frostybee/starlight-announcement](https://github.com/frostybee/starlight-announcement) | 11 | 2026-08-23 | An Astro Starlight plugin to add custom announcement to your... |
+| [dodopayments/dualmark](https://github.com/dodopayments/dualmark) | 101 | 2026-08-23 | Open-source AEO (Answer Engine Optimization) infrastructure ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-23 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [MindfulnessInc/website-base](https://github.com/MindfulnessInc/website-base) | 0 | 2026-08-23 | Shared, themeable Astro foundation for MindfulnessInc brand/... |
+| [frostybee/starlight-telescope](https://github.com/frostybee/starlight-telescope) | 5 | 2026-08-23 | A Starlight plugin to quickly navigate to any page in your S... |
+| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 1 | 2026-08-23 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
+| [frostybee/starlight-tags](https://github.com/frostybee/starlight-tags) | 14 | 2026-08-23 | A plugin to add tags to your Starlight docs for content orga... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-24T00:23 | 1 | 858 | 1070 |
 | 2026-08-23T18:08 | 2 | 857 | 1069 |
 | 2026-08-23T12:10 | 3 | 856 | 1067 |
 | 2026-08-23T06:14 | 4 | 853 | 1064 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-22T06:12 | 0 | 847 | 1052 |
 | 2026-08-22T00:21 | 2 | 845 | 1052 |
 | 2026-08-21T18:12 | 0 | 845 | 1050 |
-| 2026-08-21T12:13 | 1 | 845 | 1050 |
 
 ---
 
