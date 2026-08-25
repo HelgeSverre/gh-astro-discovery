@@ -198,7 +198,7 @@
     "name": "shishkin/astro-asciidoc",
     "url": "https://github.com/shishkin/astro-asciidoc",
     "description": "Support AsciiDoc pages in Astro",
-    "stars": 44,
+    "stars": 43,
     "forks": 6,
     "topics": [
       "asciidoc",
@@ -209,7 +209,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
-    "updated_at": "2026-08-16T00:29:01Z",
+    "updated_at": "2026-08-25T09:24:48Z",
     "pushed_at": "2026-08-18T18:44:24Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -602,8 +602,8 @@
     "language": "HTML",
     "license": "MIT",
     "created_at": "2025-01-05T22:36:31Z",
-    "updated_at": "2026-08-24T19:53:08Z",
-    "pushed_at": "2026-08-24T19:51:14Z",
+    "updated_at": "2026-08-25T11:36:49Z",
+    "pushed_at": "2026-08-25T11:33:50Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "robot-inventor/astro-custom-toc": {
@@ -2539,7 +2539,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 101,
+    "stars": 102,
     "forks": 31,
     "topics": [
       "aeo",
@@ -2561,7 +2561,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-08-24T05:48:55Z",
+    "updated_at": "2026-08-25T07:44:14Z",
     "pushed_at": "2026-08-24T05:48:40Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5217,8 +5217,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-23T06:59:54Z",
-    "pushed_at": "2026-08-23T06:59:01Z",
+    "updated_at": "2026-08-25T12:12:02Z",
+    "pushed_at": "2026-08-25T12:06:28Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -11447,8 +11447,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-26T03:39:46Z",
-    "updated_at": "2026-07-10T17:59:20Z",
-    "pushed_at": "2026-07-10T17:58:37Z",
+    "updated_at": "2026-08-25T06:16:56Z",
+    "pushed_at": "2026-08-25T06:16:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "dotgibson/dotfiles-web": {
@@ -11472,8 +11472,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-08-25T04:54:34Z",
-    "pushed_at": "2026-08-25T05:09:17Z",
+    "updated_at": "2026-08-25T10:09:26Z",
+    "pushed_at": "2026-08-25T11:03:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-25T05:21:28Z",
+    "pushed_at": "2026-08-25T11:15:32Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11669,8 +11669,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-08-24T14:56:16Z",
-    "pushed_at": "2026-08-24T14:47:49Z",
+    "updated_at": "2026-08-25T12:11:48Z",
+    "pushed_at": "2026-08-25T12:05:29Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -12259,8 +12259,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-01-18T19:23:55Z",
-    "updated_at": "2026-08-21T06:39:25Z",
-    "pushed_at": "2026-07-27T09:38:15Z",
+    "updated_at": "2026-08-25T10:18:39Z",
+    "pushed_at": "2026-08-25T10:15:31Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "metaintellect/metaintellect.com": {
@@ -12343,8 +12343,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-29T09:48:00Z",
-    "updated_at": "2026-08-25T06:14:48Z",
-    "pushed_at": "2026-08-25T06:15:14Z",
+    "updated_at": "2026-08-25T06:43:29Z",
+    "pushed_at": "2026-08-25T06:42:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mikegabyte/portfolio": {
@@ -12537,8 +12537,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-08-24T09:08:58Z",
-    "pushed_at": "2026-08-24T09:06:47Z",
+    "updated_at": "2026-08-25T09:06:37Z",
+    "pushed_at": "2026-08-25T09:02:50Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -12768,8 +12768,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-06-28T16:30:26Z",
-    "updated_at": "2026-08-10T09:52:33Z",
-    "pushed_at": "2026-08-23T22:07:34Z",
+    "updated_at": "2026-08-25T08:30:29Z",
+    "pushed_at": "2026-08-25T08:29:45Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "foxmoe/korikura-theme": {
@@ -13058,8 +13058,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-24T15:35:22Z",
-    "updated_at": "2026-08-24T10:56:57Z",
-    "pushed_at": "2026-08-24T10:56:49Z",
+    "updated_at": "2026-08-25T07:59:13Z",
+    "pushed_at": "2026-08-25T07:56:49Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ducheng1/blog": {
@@ -13537,8 +13537,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2024-06-11T08:22:24Z",
-    "updated_at": "2026-08-21T08:18:43Z",
-    "pushed_at": "2026-08-21T08:22:53Z",
+    "updated_at": "2026-08-25T06:17:14Z",
+    "pushed_at": "2026-08-25T06:22:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "risukisu/blog": {
@@ -16060,13 +16060,13 @@
     "name": "xxy1103/ulbo-astro-theme-template",
     "url": "https://github.com/xxy1103/ulbo-astro-theme-template",
     "description": "",
-    "stars": 10,
+    "stars": 11,
     "forks": 5,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-10T10:04:48Z",
-    "updated_at": "2026-08-25T02:36:13Z",
+    "updated_at": "2026-08-25T08:25:58Z",
     "pushed_at": "2026-08-14T03:53:48Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
@@ -16543,8 +16543,8 @@
     "language": "MDX",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-16T13:54:39Z",
-    "updated_at": "2026-08-22T05:04:17Z",
-    "pushed_at": "2026-08-22T05:04:08Z",
+    "updated_at": "2026-08-25T10:39:53Z",
+    "pushed_at": "2026-08-25T10:39:17Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "matchalab/quasar-astro-theme": {
@@ -17727,15 +17727,15 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-06-25T04:21:45Z",
-    "updated_at": "2026-08-24T20:20:53Z",
-    "pushed_at": "2026-08-24T20:19:17Z",
+    "updated_at": "2026-08-25T07:17:51Z",
+    "pushed_at": "2026-08-25T07:15:32Z",
     "discovered_at": "2026-07-31T00:52:03.092Z"
   },
   "astro-craft-theme/8-bitquest": {
     "name": "Astro-Craft-Theme/8-BitQuest",
     "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
     "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
-    "stars": 3,
+    "stars": 4,
     "forks": 9,
     "topics": [
       "astro",
@@ -17758,7 +17758,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2026-07-22T02:27:41Z",
-    "updated_at": "2026-08-19T16:09:22Z",
+    "updated_at": "2026-08-25T10:26:15Z",
     "pushed_at": "2026-07-30T05:44:58Z",
     "discovered_at": "2026-07-31T07:10:13.665Z"
   },
@@ -18570,8 +18570,8 @@
     "language": "Astro",
     "license": "BSD-3-Clause",
     "created_at": "2026-08-06T05:00:57Z",
-    "updated_at": "2026-08-24T08:55:43Z",
-    "pushed_at": "2026-08-24T08:45:24Z",
+    "updated_at": "2026-08-25T07:11:11Z",
+    "pushed_at": "2026-08-25T07:09:50Z",
     "discovered_at": "2026-08-06T07:04:27.893Z"
   },
   "ashish-codejourney/satteri-plugins": {
@@ -20069,8 +20069,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-19T09:41:54Z",
-    "updated_at": "2026-08-22T03:26:40Z",
-    "pushed_at": "2026-08-22T03:26:25Z",
+    "updated_at": "2026-08-25T11:29:39Z",
+    "pushed_at": "2026-08-25T11:25:49Z",
     "discovered_at": "2026-08-19T12:13:24.224Z"
   },
   "inkstudioagency/leadcraft-astro-theme": {
@@ -20230,7 +20230,7 @@
     "name": "Yuimi-chaya/Yuimi-chaya.github.io",
     "url": "https://github.com/Yuimi-chaya/Yuimi-chaya.github.io",
     "description": "一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A personal blog repository, with multiple themes, including one dedicated to my favorite character, one general fresh anime-style planner, and a minimalist style.",
-    "stars": 11,
+    "stars": 12,
     "forks": 3,
     "topics": [
       "anime",
@@ -20245,7 +20245,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-19T13:00:25Z",
-    "updated_at": "2026-08-24T23:59:50Z",
+    "updated_at": "2026-08-25T06:56:57Z",
     "pushed_at": "2026-08-24T23:59:44Z",
     "discovered_at": "2026-08-21T00:23:10.606Z"
   },
