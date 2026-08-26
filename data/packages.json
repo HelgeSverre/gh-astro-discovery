@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-07-02T16:26:25Z",
-    "pushed_at": "2026-08-25T13:43:28Z",
+    "pushed_at": "2026-08-26T18:35:34Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-08-25T15:04:28Z",
+    "pushed_at": "2026-08-26T17:13:06Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2623,7 +2623,7 @@
     "license": null,
     "created_at": "2024-08-15T20:08:05Z",
     "updated_at": "2025-12-24T07:18:33Z",
-    "pushed_at": "2026-08-14T22:05:41Z",
+    "pushed_at": "2026-08-26T18:04:48Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yeskunall/astro-umami": {
@@ -3784,7 +3784,7 @@
     "name": "jop-software/astro-cookieconsent",
     "url": "https://github.com/jop-software/astro-cookieconsent",
     "description": "Simple to use Cookie Consent for Astro",
-    "stars": 84,
+    "stars": 83,
     "forks": 7,
     "topics": [
       "astro",
@@ -3797,7 +3797,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2023-05-29T21:23:08Z",
-    "updated_at": "2026-06-24T19:15:19Z",
+    "updated_at": "2026-08-26T16:40:22Z",
     "pushed_at": "2024-10-24T20:55:32Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5042,8 +5042,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-08-26T10:37:57Z",
-    "pushed_at": "2026-08-26T10:36:59Z",
+    "updated_at": "2026-08-26T17:36:00Z",
+    "pushed_at": "2026-08-26T17:35:56Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5193,8 +5193,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-08-26T10:23:00Z",
-    "pushed_at": "2026-08-26T10:11:20Z",
+    "updated_at": "2026-08-26T17:11:02Z",
+    "pushed_at": "2026-08-26T17:08:47Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5239,7 +5239,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-08-24T08:11:00Z",
-    "pushed_at": "2026-08-24T21:52:13Z",
+    "pushed_at": "2026-08-26T17:05:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5415,7 +5415,7 @@
     "name": "mearashadowfax/DataNova",
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support.",
-    "stars": 156,
+    "stars": 157,
     "forks": 28,
     "topics": [
       "astro",
@@ -5434,7 +5434,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-08-25T20:29:47Z",
+    "updated_at": "2026-08-26T16:34:24Z",
     "pushed_at": "2026-08-25T20:28:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5733,7 +5733,7 @@
     "url": "https://github.com/FjellOverflow/nordlys",
     "description": "A minimal Astro blog theme",
     "stars": 66,
-    "forks": 11,
+    "forks": 12,
     "topics": [
       "astro",
       "astro-template",
@@ -6532,11 +6532,11 @@
       "blog-theme",
       "dileepadev"
     ],
-    "language": "MDX",
+    "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-29T14:40:07Z",
-    "updated_at": "2026-08-21T17:17:18Z",
-    "pushed_at": "2026-08-26T08:57:38Z",
+    "updated_at": "2026-08-26T17:38:42Z",
+    "pushed_at": "2026-08-26T17:35:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cloudcannon/sendit-astro-template": {
@@ -7284,7 +7284,7 @@
     "url": "https://github.com/ArtemKutsan/astro-citrus",
     "description": "Astro Citrus",
     "stars": 153,
-    "forks": 49,
+    "forks": 50,
     "topics": [
       "astro",
       "astro-template",
@@ -11247,8 +11247,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-08-26T06:43:49Z",
-    "pushed_at": "2026-08-26T06:45:31Z",
+    "updated_at": "2026-08-26T14:37:29Z",
+    "pushed_at": "2026-08-26T14:13:42Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
   "markup-carve/astro-carve": {
@@ -11472,8 +11472,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-08-26T03:58:58Z",
-    "pushed_at": "2026-08-26T04:21:19Z",
+    "updated_at": "2026-08-26T16:50:36Z",
+    "pushed_at": "2026-08-26T18:32:04Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-26T11:18:14Z",
+    "pushed_at": "2026-08-26T16:07:50Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11669,8 +11669,8 @@
     "language": "Astro",
     "license": "Unlicense",
     "created_at": "2024-08-25T16:36:45Z",
-    "updated_at": "2026-08-25T19:07:21Z",
-    "pushed_at": "2026-08-25T19:07:12Z",
+    "updated_at": "2026-08-26T18:14:11Z",
+    "pushed_at": "2026-08-26T18:34:11Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "suppg02-sudo/astro-blog-netlify": {
@@ -11931,13 +11931,13 @@
     "name": "hansmartensdev/Astro-Rocket",
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
-    "stars": 108,
-    "forks": 49,
+    "stars": 109,
+    "forks": 50,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-08-24T16:53:01Z",
+    "updated_at": "2026-08-26T13:34:55Z",
     "pushed_at": "2026-08-21T09:06:15Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12606,7 +12606,7 @@
     "license": "MIT",
     "created_at": "2024-06-26T07:47:44Z",
     "updated_at": "2026-08-17T05:00:38Z",
-    "pushed_at": "2026-08-14T17:45:16Z",
+    "pushed_at": "2026-08-26T16:15:22Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "bitdoze/bitdoze-astro-theme": {
@@ -14910,7 +14910,7 @@
     "license": "MIT",
     "created_at": "2024-04-02T17:00:24Z",
     "updated_at": "2024-11-07T05:35:17Z",
-    "pushed_at": "2026-08-25T04:15:14Z",
+    "pushed_at": "2026-08-26T15:17:45Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "gavin-wangsc/gvn-1": {
@@ -15706,8 +15706,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-08-25T22:52:10Z",
-    "pushed_at": "2026-08-25T23:59:43Z",
+    "updated_at": "2026-08-26T18:11:08Z",
+    "pushed_at": "2026-08-26T18:02:08Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -15912,8 +15912,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T19:07:15Z",
-    "updated_at": "2026-08-13T01:29:40Z",
-    "pushed_at": "2026-08-26T12:14:35Z",
+    "updated_at": "2026-08-26T17:44:15Z",
+    "pushed_at": "2026-08-26T17:39:38Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "mikeparcewski/wicked-web": {
@@ -15926,8 +15926,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T21:05:59Z",
-    "updated_at": "2026-08-26T11:33:02Z",
-    "pushed_at": "2026-08-26T11:28:08Z",
+    "updated_at": "2026-08-26T17:30:36Z",
+    "pushed_at": "2026-08-26T17:27:14Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "wowayou/bilingual-blog-template": {
@@ -16066,7 +16066,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-10T10:04:48Z",
-    "updated_at": "2026-08-25T08:25:58Z",
+    "updated_at": "2026-08-26T18:14:03Z",
     "pushed_at": "2026-08-14T03:53:48Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
@@ -18652,8 +18652,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-06T19:20:43Z",
-    "updated_at": "2026-08-06T20:25:48Z",
-    "pushed_at": "2026-08-06T20:24:14Z",
+    "updated_at": "2026-08-26T15:26:47Z",
+    "pushed_at": "2026-08-26T15:02:36Z",
     "discovered_at": "2026-08-07T01:24:34.668Z"
   },
   "frostycloudsolutions/frosty-astro-still-udonphoto": {
@@ -19512,7 +19512,7 @@
     "name": "ewels/starlight-pydocs",
     "url": "https://github.com/ewels/starlight-pydocs",
     "description": "Python API reference documentation for Starlight and plain Astro sites. ",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "api-documentation",
@@ -19534,7 +19534,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-12T20:52:48Z",
-    "updated_at": "2026-08-22T07:52:01Z",
+    "updated_at": "2026-08-26T17:22:27Z",
     "pushed_at": "2026-08-14T21:14:45Z",
     "discovered_at": "2026-08-15T00:21:31.506Z"
   },
@@ -19974,8 +19974,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-03T01:05:13Z",
-    "updated_at": "2026-08-24T04:10:29Z",
-    "pushed_at": "2026-08-24T04:10:22Z",
+    "updated_at": "2026-08-26T15:11:53Z",
+    "pushed_at": "2026-08-26T14:55:52Z",
     "discovered_at": "2026-08-19T00:21:51.357Z"
   },
   "arraypress/sanity-loader-astro": {
@@ -20401,8 +20401,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-08-24T16:16:44Z",
-    "pushed_at": "2026-08-24T16:11:32Z",
+    "updated_at": "2026-08-26T16:32:34Z",
+    "pushed_at": "2026-08-26T16:12:06Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -20435,8 +20435,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T09:43:51Z",
-    "updated_at": "2026-08-24T18:10:16Z",
-    "pushed_at": "2026-08-24T18:08:18Z",
+    "updated_at": "2026-08-26T16:32:39Z",
+    "pushed_at": "2026-08-26T16:12:15Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
   "chunyiw8080/astro-honey-theme": {
@@ -20593,7 +20593,7 @@
     "url": "https://github.com/Borderlane-HA/PenguAstro-DWARF-3-Home-Assistant-Integration",
     "description": "PenguAstro is a Home Assistant integration for the DWARF 3 Smart Telescope, bringing device status, imaging and stacking information, and a live stack preview directly into your Home Assistant dashboard.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astronomy",
       "astronomy-api",
@@ -20895,8 +20895,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-25T14:38:07Z",
-    "updated_at": "2026-08-26T12:02:39Z",
-    "pushed_at": "2026-08-26T11:59:05Z",
+    "updated_at": "2026-08-26T17:31:09Z",
+    "pushed_at": "2026-08-26T17:30:58Z",
     "discovered_at": "2026-08-25T18:13:35.093Z"
   },
   "ceaksan/consent-kit": {
@@ -20916,8 +20916,8 @@
   "opacedigitalagency/add-as-preferred-source-button-for-google": {
     "name": "OpaceDigitalAgency/add-as-preferred-source-button-for-google",
     "url": "https://github.com/OpaceDigitalAgency/add-as-preferred-source-button-for-google",
-    "description": "Add as Preferred Source Button, Popup & Analytics for Google (SEO & AI Overviews). Web component, React, Vue, Svelte and Astro wrappers for Google's official SDK. By Opace.",
-    "stars": 0,
+    "description": "Add as Preferred Source Button & Popup for Google (SEO & AI Overviews) for Astro, React, Vue, Svelte and web components.",
+    "stars": 1,
     "forks": 0,
     "topics": [
       "ai-overviews",
@@ -20931,8 +20931,22 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-26T11:11:47Z",
-    "updated_at": "2026-08-26T12:11:17Z",
-    "pushed_at": "2026-08-26T12:10:18Z",
+    "updated_at": "2026-08-26T18:38:04Z",
+    "pushed_at": "2026-08-26T18:21:47Z",
     "discovered_at": "2026-08-26T12:15:04.826Z"
+  },
+  "topleague/menca": {
+    "name": "topleague/menca",
+    "url": "https://github.com/topleague/menca",
+    "description": "a hybrid of menca, minimalist astro theme",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-08-26T18:12:54Z",
+    "updated_at": "2026-08-26T18:20:44Z",
+    "pushed_at": "2026-08-26T18:13:39Z",
+    "discovered_at": "2026-08-26T18:41:20.777Z"
   }
 }
