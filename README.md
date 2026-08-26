@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1081
-**Last updated:** 2026-08-25T18:13:35.099Z
+**Last updated:** 2026-08-26T00:23:14.189Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 156 | 2026-08-25 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-25 | Astro integration for loading fonts into build artifacts wit... |
-| [lifeodyssey/retypeset-odyssey](https://github.com/lifeodyssey/retypeset-odyssey) | 1 | 2026-08-25 | Trilingual Astro theme: typography-first, MDX, Cloudflare Pa... |
-| [mychiffonn/website](https://github.com/mychiffonn/website) | 6 | 2026-08-25 | Personal academic website built with Astro (al-folio alterna... |
-| [velohost/astro-consent](https://github.com/velohost/astro-consent) | 13 | 2026-08-25 | Astro integration that creates a cookie consent banner and b... |
-| [Sieep-Coding/sieep-coding.github.io](https://github.com/Sieep-Coding/sieep-coding.github.io) | 0 | 2026-08-25 | Dracula theme porfolio/blog built with Astro + TypeScript. N... |
-| [ai-tolo/jt-portfolio](https://github.com/ai-tolo/jt-portfolio) | 0 | 2026-08-25 | Jonathan Tollefson personal portfolio site. Astro + Notion-b... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-26 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-08-26 | A fast and minimalist personal website and blog powered by A... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-25 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-25 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-08-25 | Astro blog theme template. |
+| [Jazee6/astro-blur](https://github.com/Jazee6/astro-blur) | 29 | 2026-08-25 | A static blog theme built with Astro |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-08-25 | The global variable integration for Astro 🌐 |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-25 | My personal slice of the web. Built with Astro, wrapped in a... |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 218 | 2026-08-25 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 223 | 2026-08-25 | A flexible Astro blog theme designed for Obsidian users. |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-08-25 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-08-25 | The global variable integration for Astro 🌐 |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-08-25 | Modern static blog theme with distinctive anime-style featur... |
-| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-25 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
 | [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-08-25 | Port of Split template by One Page Love to Astro 👨‍🚀 |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-08-25 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-25 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [Bytestring0/Bytestring0.github.io](https://github.com/Bytestring0/Bytestring0.github.io) | 0 | 2026-08-25 | Astro Blog Theme |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-08-25 | An Astro Prometheus nodejs middleware integration for Astro |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-08-25 | This Astro component simplifies the process of adding moneti... |
+| [ai-tolo/jt-portfolio](https://github.com/ai-tolo/jt-portfolio) | 0 | 2026-08-25 | Jonathan Tollefson personal portfolio site. Astro + Notion-b... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-25 | My astro static blog use theme Firefly. |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 21 | 2026-08-25 | Matomo integration for Astro |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-25 | Universal Analytics Engines Integration |
+| [netologist/breath](https://github.com/netologist/breath) | 0 | 2026-08-25 | 🌿 Breath — Minimalist Digital Garden & Engineering Blog the... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-08-25 | The i18n integration for Astro 🧑‍🚀 |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 156 | 2026-08-25 | Open-source Astro website template with TailwindCSS, Keystat... |
+| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-25 | An Astro starter theme |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-26T00:23 | 0 | 859 | 1081 |
 | 2026-08-25T18:13 | 2 | 857 | 1081 |
 | 2026-08-25T12:14 | 0 | 859 | 1079 |
 | 2026-08-25T06:15 | 1 | 859 | 1079 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-24T06:22 | 5 | 855 | 1075 |
 | 2026-08-24T00:23 | 1 | 858 | 1070 |
 | 2026-08-23T18:08 | 2 | 857 | 1069 |
-| 2026-08-23T12:10 | 3 | 856 | 1067 |
 
 ---
 
