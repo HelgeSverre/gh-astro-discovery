@@ -1589,7 +1589,7 @@
     "name": "tsriram/astro-tweet",
     "url": "https://github.com/tsriram/astro-tweet",
     "description": "Astro component to embed tweets as static HTML without any client side JS.",
-    "stars": 27,
+    "stars": 28,
     "forks": 9,
     "topics": [
       "astro",
@@ -1600,7 +1600,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-11-02T08:11:08Z",
-    "updated_at": "2026-08-14T04:49:07Z",
+    "updated_at": "2026-08-29T10:23:54Z",
     "pushed_at": "2025-11-12T14:08:28Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -2580,7 +2580,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-08-21T04:07:53Z",
+    "pushed_at": "2026-08-29T06:42:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -2605,7 +2605,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-08-27T14:12:31Z",
-    "pushed_at": "2026-08-28T22:54:00Z",
+    "pushed_at": "2026-08-29T08:33:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -5217,8 +5217,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-08-28T23:53:31Z",
-    "pushed_at": "2026-08-28T23:53:19Z",
+    "updated_at": "2026-08-29T06:44:19Z",
+    "pushed_at": "2026-08-29T06:44:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5748,7 +5748,7 @@
     "license": "GPL-3.0",
     "created_at": "2024-09-25T13:16:26Z",
     "updated_at": "2026-08-20T08:46:45Z",
-    "pushed_at": "2026-08-20T08:45:16Z",
+    "pushed_at": "2026-08-29T09:53:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "davidvkimball/astro-modular": {
@@ -6937,7 +6937,7 @@
     "name": "shadcnblocks/mainline-astro-template",
     "url": "https://github.com/shadcnblocks/mainline-astro-template",
     "description": "An Astro template built with shadcn/ui, Tailwind 4 & Astro 5",
-    "stars": 97,
+    "stars": 98,
     "forks": 28,
     "topics": [
       "astro",
@@ -6955,7 +6955,7 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-14T21:26:34Z",
-    "updated_at": "2026-08-18T08:58:36Z",
+    "updated_at": "2026-08-29T07:50:06Z",
     "pushed_at": "2025-10-14T23:18:46Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7014,8 +7014,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-08-23T11:24:55Z",
-    "pushed_at": "2026-08-23T11:24:48Z",
+    "updated_at": "2026-08-29T09:30:32Z",
+    "pushed_at": "2026-08-29T09:30:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -7476,7 +7476,7 @@
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
     "stars": 312,
-    "forks": 127,
+    "forks": 126,
     "topics": [
       "astro",
       "astro-theme",
@@ -9798,7 +9798,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-08-29T01:53:46Z",
-    "pushed_at": "2026-08-29T01:53:41Z",
+    "pushed_at": "2026-08-29T10:11:59Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10203,7 +10203,7 @@
     "name": "odhyp/astro-sidey",
     "url": "https://github.com/odhyp/astro-sidey",
     "description": "A simple, minimalistic personal blog theme built with Astro and TailwindCSS, inspired by sidey-jekyll",
-    "stars": 30,
+    "stars": 31,
     "forks": 7,
     "topics": [
       "astro",
@@ -10220,7 +10220,7 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2026-06-04T01:20:20Z",
-    "updated_at": "2026-08-27T13:13:29Z",
+    "updated_at": "2026-08-29T07:01:48Z",
     "pushed_at": "2026-08-21T04:04:40Z",
     "discovered_at": "2026-06-14T18:41:07.719Z"
   },
@@ -10465,8 +10465,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
-    "updated_at": "2026-08-28T08:43:41Z",
-    "pushed_at": "2026-08-26T04:34:45Z",
+    "updated_at": "2026-08-29T08:45:12Z",
+    "pushed_at": "2026-08-29T08:44:50Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
   "nooniwa/nooniwa": {
@@ -11473,7 +11473,7 @@
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
     "updated_at": "2026-08-29T05:48:51Z",
-    "pushed_at": "2026-08-29T05:48:43Z",
+    "pushed_at": "2026-08-29T07:06:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-29T02:32:58Z",
+    "pushed_at": "2026-08-29T09:29:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11626,7 +11626,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-07-30T12:15:49Z",
-    "pushed_at": "2026-08-29T02:04:54Z",
+    "pushed_at": "2026-08-29T09:04:48Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -14185,8 +14185,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-08-13T02:14:34Z",
-    "updated_at": "2026-08-29T04:58:46Z",
-    "pushed_at": "2026-08-29T04:55:59Z",
+    "updated_at": "2026-08-29T11:55:38Z",
+    "pushed_at": "2026-08-29T11:55:20Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "t-morris/astro-colony": {
@@ -15637,7 +15637,7 @@
     "name": "joshruggles/astro-palette",
     "url": "https://github.com/joshruggles/astro-palette",
     "description": "A blog and personal site theme for Astro with a terminal look and 18 switchable color palettes. The build output is fully static, with no client-side framework and no analytics.",
-    "stars": 13,
+    "stars": 14,
     "forks": 1,
     "topics": [
       "astro",
@@ -15649,7 +15649,7 @@
     "language": "CSS",
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
-    "updated_at": "2026-08-28T15:16:20Z",
+    "updated_at": "2026-08-29T07:42:45Z",
     "pushed_at": "2026-08-22T16:20:09Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
@@ -15800,7 +15800,7 @@
     "name": "kevynf/logflow-theme",
     "url": "https://github.com/kevynf/logflow-theme",
     "description": "A compact, content-first Astro theme for Chinese blogs, personal sites, and technical writing.",
-    "stars": 9,
+    "stars": 10,
     "forks": 4,
     "topics": [
       "astro",
@@ -15818,8 +15818,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-17T10:04:38Z",
-    "updated_at": "2026-08-19T13:52:15Z",
-    "pushed_at": "2026-07-28T07:29:57Z",
+    "updated_at": "2026-08-29T09:49:57Z",
+    "pushed_at": "2026-08-29T09:48:47Z",
     "discovered_at": "2026-07-12T07:02:40.570Z"
   },
   "nxtgencoders/swg-theme": {
@@ -16182,7 +16182,7 @@
     "name": "xocothemes/quietpages",
     "url": "https://github.com/xocothemes/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 27,
+    "stars": 28,
     "forks": 9,
     "topics": [
       "astro",
@@ -16195,7 +16195,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-08-22T16:10:29Z",
+    "updated_at": "2026-08-29T08:52:49Z",
     "pushed_at": "2026-08-12T19:52:51Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
@@ -16607,7 +16607,7 @@
     "name": "nipun-arora/cool-astro-forms",
     "url": "https://github.com/nipun-arora/cool-astro-forms",
     "description": "The lead-ops platform for Astro forms: abandonment capture, recovery emails, quote payments, and a self-hosted admin. No external services, just SQLite and SMTP. MIT.",
-    "stars": 7,
+    "stars": 8,
     "forks": 2,
     "topics": [
       "astro",
@@ -16634,7 +16634,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-08-11T13:30:32Z",
+    "updated_at": "2026-08-29T06:57:02Z",
     "pushed_at": "2026-07-22T09:38:56Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
@@ -20245,8 +20245,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-19T13:00:25Z",
-    "updated_at": "2026-08-28T20:58:28Z",
-    "pushed_at": "2026-08-24T23:59:44Z",
+    "updated_at": "2026-08-29T07:08:45Z",
+    "pushed_at": "2026-08-29T07:08:39Z",
     "discovered_at": "2026-08-21T00:23:10.606Z"
   },
   "pageel/pageel-theme-starter": {
@@ -20691,13 +20691,13 @@
     "name": "igagansingh/astro-wanderer",
     "url": "https://github.com/igagansingh/astro-wanderer",
     "description": "A personal site theme for Astro — portfolio, blog, and travel photo galleries in one quiet, fast template. Built with opencode.",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-23T21:03:51Z",
-    "updated_at": "2026-08-24T03:21:34Z",
+    "updated_at": "2026-08-29T08:43:03Z",
     "pushed_at": "2026-08-24T03:21:29Z",
     "discovered_at": "2026-08-24T00:23:19.665Z"
   },
@@ -21122,8 +21122,43 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-04T07:57:23Z",
-    "updated_at": "2026-08-29T03:45:28Z",
-    "pushed_at": "2026-08-29T03:45:10Z",
+    "updated_at": "2026-08-29T08:15:40Z",
+    "pushed_at": "2026-08-29T08:15:11Z",
     "discovered_at": "2026-08-29T06:27:57.970Z"
+  },
+  "profile-icons/github-profile-readme-site": {
+    "name": "profile-icons/github-profile-readme-site",
+    "url": "https://github.com/profile-icons/github-profile-readme-site",
+    "description": "Deploy your GitHub profile README.md as a static Astro.js site with profile photo, tagline, website icon & organization badge links. Supports user & organization profiles, i18n (200+ locales), dark-mode, themes & styles",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "bootstrap-icons",
+      "github-actions",
+      "github-api",
+      "github-pages",
+      "github-profile",
+      "huggingface-transformers",
+      "i18n",
+      "javascript",
+      "neural-machine-translation",
+      "nllb-200-distilled-6",
+      "organization-profile",
+      "profile-website",
+      "readme-profile",
+      "simple-icons",
+      "site-generator",
+      "tailwind-css",
+      "template-repository",
+      "typescript",
+      "website-template"
+    ],
+    "language": "Astro",
+    "license": "GPL-3.0",
+    "created_at": "2026-07-25T16:31:29Z",
+    "updated_at": "2026-08-29T11:27:24Z",
+    "pushed_at": "2026-08-29T11:35:41Z",
+    "discovered_at": "2026-08-29T12:24:30.547Z"
   }
 }
