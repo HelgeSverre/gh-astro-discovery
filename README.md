@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1093
-**Last updated:** 2026-08-28T21:26:42.376Z
+**Last updated:** 2026-08-29T00:46:08.293Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-08-29 | An Astro Prometheus nodejs middleware integration for Astro |
+| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 14 | 2026-08-29 | An Astro integration for generating screenshots of your page... |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-08-29 | A fast and minimalist personal website and blog powered by A... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-08-28 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-28 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [henkisdabro/henriksoderlund-website-v2](https://github.com/henkisdabro/henriksoderlund-website-v2) | 0 | 2026-08-28 | Professional portfolio website built with Astro 6 and TypeSc... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-08-28 | The i18n integration for Astro 🧑‍🚀 |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-28 | Universal Analytics Engines Integration |
+| [adamhl8/astro-validate-env](https://github.com/adamhl8/astro-validate-env) | 4 | 2026-08-28 | An environment variable validation integration for Astro |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 218 | 2026-08-28 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-28 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [netologist/breath](https://github.com/netologist/breath) | 0 | 2026-08-28 | 🌿 Breath — Minimalist Digital Garden & Engineering Blog the... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-08-28 | Documentation for Azion's services and features. |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-08-28 | Astro Integration to generate a customizable table of conten... |
 | [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 1 | 2026-08-28 | Astro content loaders for the Are.na v3 API |
 | [adkinn/astro-ai-readiness](https://github.com/adkinn/astro-ai-readiness) | 4 | 2026-08-28 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-28 | Universal Analytics Engines Integration |
 | [mahshidgh96/astro-narrow-final](https://github.com/mahshidgh96/astro-narrow-final) | 1 | 2026-08-28 | astro blog narrow theme  |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-28 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 218 | 2026-08-28 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-08-28 | Astro blog theme template. |
 | [almahers/astroarabia](https://github.com/almahers/astroarabia) | 1 | 2026-08-28 | Arabic-first RTL Astro theme starter for the Arabic web comm... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-08-28 | An Astro Prometheus nodejs middleware integration for Astro |
-| [kannansuresh/chirping-astro](https://github.com/kannansuresh/chirping-astro) | 53 | 2026-08-28 | Chirping Astro. An astro theme inspired from the famous Jeky... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-08-28 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-08-28 | Framework for creating study companion webpages. |
-| [OpaceDigitalAgency/add-as-preferred-source-button-for-google](https://github.com/OpaceDigitalAgency/add-as-preferred-source-button-for-google) | 1 | 2026-08-28 | Add as Preferred Source Button & Popup for Google (SEO & AI ... |
-| [MahmoodKhalil57/premium-cms-frontend-apex](https://github.com/MahmoodKhalil57/premium-cms-frontend-apex) | 0 | 2026-08-28 | Static Astro frontend for the apex PremiumCMS theme (GitHub ... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-08-28 | Astro integration for loading fonts into build artifacts wit... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-28 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [camomillacms/astro-camomilla-integration](https://github.com/camomillacms/astro-camomilla-integration) | 1 | 2026-08-28 | Our beloved CMS coupled with Astro 🌟 |
-| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-08-28 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-29T00:46 | 0 | 861 | 1093 |
 | 2026-08-28T21:26 | 0 | 861 | 1093 |
 | 2026-08-28T16:18 | 3 | 859 | 1093 |
 | 2026-08-28T09:21 | 1 | 860 | 1090 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-27T09:17 | 2 | 859 | 1086 |
 | 2026-08-27T01:55 | 1 | 859 | 1084 |
 | 2026-08-26T18:41 | 1 | 859 | 1083 |
-| 2026-08-26T12:15 | 1 | 859 | 1082 |
 
 ---
 
