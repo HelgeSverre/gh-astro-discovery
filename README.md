@@ -2,13 +2,16 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1098
-**Last updated:** 2026-08-30T00:56:27.408Z
+**Total packages tracked:** 1101
+**Last updated:** 2026-08-30T06:29:22.293Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [AheheXx1982/silentxx-astro-theme](https://github.com/AheheXx1982/silentxx-astro-theme) | 0 | SilentXx Astro Theme — 从生产站脱敏沉淀的开源主题：AI 智能目录、中英双语、精美排版。A modern Astro blog theme... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | Relics & Reckonings (personal blog) and an automated cross-repo release-notes ag... |
+| [AheheXx1982/silentxx-components](https://github.com/AheheXx1982/silentxx-components) | 0 | SilentXx open-source Astro components: eye music player, theme toggle, language ... |
 | [ikun1601/Mizuki](https://github.com/ikun1601/Mizuki) | 0 | Next-Gen Material Design 3 Blog Theme (Astro Powered) |
 | [full-snack-lab/astro-integrations](https://github.com/full-snack-lab/astro-integrations) | 0 |  |
 | [kpab/astro-sumi](https://github.com/kpab/astro-sumi) | 1 | A minimal Astro 7 blog theme in ink and washi paper, with dual light/dark palett... |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Tiusx/oln](https://github.com/Tiusx/oln) | 0 | A minimalist blog theme for Astro with dark mode, search, tags, and SEO |
 | [topleague/menca](https://github.com/topleague/menca) | 0 | a hybrid of menca, minimalist astro theme |
 | [OpaceDigitalAgency/add-as-preferred-source-button-for-google](https://github.com/OpaceDigitalAgency/add-as-preferred-source-button-for-google) | 1 | Add as Preferred Source Button & Popup for Google (SEO & AI Overviews) for Astro... |
-| [netologist/breath](https://github.com/netologist/breath) | 0 | 🌿 Breath — Minimalist Digital Garden & Engineering Blog theme for Astro |
-| [ceaksan/consent-kit](https://github.com/ceaksan/consent-kit) | 1 | Google Consent Mode v2 for Astro sites: consent defaults before the tag manager,... |
-| [TicketWaveHQ/site-templates](https://github.com/TicketWaveHQ/site-templates) | 0 | Astro starter template for production small-business sites. The same skeleton I ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,8 +50,8 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 282 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 269 | A flexible and feature-rich Astro theme for developers and creators. |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 230 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
+| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 225 | A flexible Astro blog theme designed for Obsidian users. |
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 225 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 224 | A flexible Astro blog theme designed for Obsidian users. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 218 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS. |
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-30 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [AheheXx1982/silentxx-astro-theme](https://github.com/AheheXx1982/silentxx-astro-theme) | 0 | 2026-08-30 | SilentXx Astro Theme — 从生产站脱敏沉淀的开源主题：AI 智能目录、中英双语、精美排版。A mod... |
 | [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-30 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-30 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-30 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-08-30 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 14 | 2026-08-30 | An Astro integration for generating screenshots of your page... |
+| [AheheXx1982/silentxx-components](https://github.com/AheheXx1982/silentxx-components) | 0 | 2026-08-30 | SilentXx open-source Astro components: eye music player, the... |
+| [DanielZhangyc/astro-pure-halo](https://github.com/DanielZhangyc/astro-pure-halo) | 1 | 2026-08-30 | A Halo blog theme ported from https://github.com/cworld1/ast... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-30 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-30 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-08-30 | BeamAnalytics integration for Astro |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | 2026-08-30 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-08-30 | Format 🗻 |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-30 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-08-30 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-30 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [chrisvander/at-astro](https://github.com/chrisvander/at-astro) | 1 | 2026-08-30 | An Astro integration for the AT Protocol, implementing OAuth... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 61 | 2026-08-30 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-30 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [henkisdabro/henriksoderlund-website-v2](https://github.com/henkisdabro/henriksoderlund-website-v2) | 0 | 2026-08-30 | Professional portfolio website built with Astro 6 and TypeSc... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-29 | My astro static blog use theme Firefly. |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-29 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-29 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-08-29 | Fetch data from the Stripe API and use it in Astro collectio... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-29 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-29 | An Astro starter theme |
-| [netologist/breath](https://github.com/netologist/breath) | 0 | 2026-08-29 | 🌿 Breath — Minimalist Digital Garden & Engineering Blog the... |
-| [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-08-29 | Umbrella landing page for the wicked-* family of local-first... |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-29 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [mikeparcewski/wicked-web](https://github.com/mikeparcewski/wicked-web) | 0 | 2026-08-29 | Shared chrome for the wicked-* family sites — layouts, topba... |
-| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-08-29 | Framework for creating study companion webpages. |
-| [full-snack-lab/astro-integrations](https://github.com/full-snack-lab/astro-integrations) | 0 | 2026-08-29 |  |
-| [Bytestring0/Bytestring0.github.io](https://github.com/Bytestring0/Bytestring0.github.io) | 0 | 2026-08-29 | Astro Blog Theme |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-08-29 | Modern static blog theme with distinctive anime-style featur... |
-| [kpab/astro-sumi](https://github.com/kpab/astro-sumi) | 1 | 2026-08-29 | A minimal Astro 7 blog theme in ink and washi paper, with du... |
-| [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 2 | 2026-08-29 | Astro content loader for the Are.na v3 API |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 18 | 2026-08-29 | A modern, clean and bloat-free Astro starter template. Acces... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-30T06:29 | 3 | 860 | 1101 |
 | 2026-08-30T00:56 | 1 | 861 | 1098 |
 | 2026-08-29T18:20 | 2 | 860 | 1097 |
 | 2026-08-29T12:24 | 1 | 860 | 1095 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-28T16:18 | 3 | 859 | 1093 |
 | 2026-08-28T09:21 | 1 | 860 | 1090 |
 | 2026-08-28T03:18 | 0 | 861 | 1089 |
-| 2026-08-27T21:18 | 2 | 859 | 1089 |
 
 ---
 
