@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1097
-**Last updated:** 2026-08-29T18:20:23.252Z
+**Total packages tracked:** 1098
+**Last updated:** 2026-08-30T00:56:27.408Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ikun1601/Mizuki](https://github.com/ikun1601/Mizuki) | 0 | Next-Gen Material Design 3 Blog Theme (Astro Powered) |
 | [full-snack-lab/astro-integrations](https://github.com/full-snack-lab/astro-integrations) | 0 |  |
 | [kpab/astro-sumi](https://github.com/kpab/astro-sumi) | 1 | A minimal Astro 7 blog theme in ink and washi paper, with dual light/dark palett... |
 | [profile-icons/github-profile-readme-site](https://github.com/profile-icons/github-profile-readme-site) | 1 | Deploy your GitHub profile README.md as a static Astro.js site with profile phot... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [netologist/breath](https://github.com/netologist/breath) | 0 | 🌿 Breath — Minimalist Digital Garden & Engineering Blog theme for Astro |
 | [ceaksan/consent-kit](https://github.com/ceaksan/consent-kit) | 1 | Google Consent Mode v2 for Astro sites: consent defaults before the tag manager,... |
 | [TicketWaveHQ/site-templates](https://github.com/TicketWaveHQ/site-templates) | 0 | Astro starter template for production small-business sites. The same skeleton I ... |
-| [jessgaspardev/decker](https://github.com/jessgaspardev/decker) | 4 | Astro portfolio theme for developers and engineers with a retro tech vibe |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-30 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-30 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [henkisdabro/henriksoderlund-website-v2](https://github.com/henkisdabro/henriksoderlund-website-v2) | 0 | 2026-08-30 | Professional portfolio website built with Astro 6 and TypeSc... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-29 | My astro static blog use theme Firefly. |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-29 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-29 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-08-29 | Fetch data from the Stripe API and use it in Astro collectio... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-29 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-29 | An Astro starter theme |
+| [netologist/breath](https://github.com/netologist/breath) | 0 | 2026-08-29 | 🌿 Breath — Minimalist Digital Garden & Engineering Blog the... |
+| [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-08-29 | Umbrella landing page for the wicked-* family of local-first... |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-29 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
 | [mikeparcewski/wicked-web](https://github.com/mikeparcewski/wicked-web) | 0 | 2026-08-29 | Shared chrome for the wicked-* family sites — layouts, topba... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-29 | My personal slice of the web. Built with Astro, wrapped in a... |
 | [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-08-29 | Framework for creating study companion webpages. |
-| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-29 | An Astro starter theme |
 | [full-snack-lab/astro-integrations](https://github.com/full-snack-lab/astro-integrations) | 0 | 2026-08-29 |  |
 | [Bytestring0/Bytestring0.github.io](https://github.com/Bytestring0/Bytestring0.github.io) | 0 | 2026-08-29 | Astro Blog Theme |
 | [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-08-29 | Modern static blog theme with distinctive anime-style featur... |
 | [kpab/astro-sumi](https://github.com/kpab/astro-sumi) | 1 | 2026-08-29 | A minimal Astro 7 blog theme in ink and washi paper, with du... |
-| [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 1 | 2026-08-29 | Astro content loader for the Are.na v3 API |
+| [jyoungblood/astro-arena](https://github.com/jyoungblood/astro-arena) | 2 | 2026-08-29 | Astro content loader for the Are.na v3 API |
 | [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 18 | 2026-08-29 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-08-29 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-08-29 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-08-29 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-29 | Universal Analytics Engines Integration |
-| [henkisdabro/henriksoderlund-website-v2](https://github.com/henkisdabro/henriksoderlund-website-v2) | 0 | 2026-08-29 | Professional portfolio website built with Astro 6 and TypeSc... |
-| [profile-icons/github-profile-readme-site](https://github.com/profile-icons/github-profile-readme-site) | 1 | 2026-08-29 | Deploy your GitHub profile README.md as a static Astro.js si... |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-08-29 | Astro integration that uses existing configuration to write ... |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-08-29 | A minimal Astro blog theme |
-| [kevynf/logflow-theme](https://github.com/kevynf/logflow-theme) | 10 | 2026-08-29 | A compact, content-first Astro theme for Chinese blogs, pers... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-30T00:56 | 1 | 861 | 1098 |
 | 2026-08-29T18:20 | 2 | 860 | 1097 |
 | 2026-08-29T12:24 | 1 | 860 | 1095 |
 | 2026-08-29T06:27 | 1 | 860 | 1094 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-28T09:21 | 1 | 860 | 1090 |
 | 2026-08-28T03:18 | 0 | 861 | 1089 |
 | 2026-08-27T21:18 | 2 | 859 | 1089 |
-| 2026-08-27T15:53 | 1 | 860 | 1087 |
 
 ---
 

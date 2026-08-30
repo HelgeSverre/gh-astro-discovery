@@ -2623,7 +2623,7 @@
     "license": null,
     "created_at": "2024-08-15T20:08:05Z",
     "updated_at": "2025-12-24T07:18:33Z",
-    "pushed_at": "2026-08-26T18:04:48Z",
+    "pushed_at": "2026-08-29T21:44:21Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yeskunall/astro-umami": {
@@ -5042,8 +5042,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-08-29T14:06:07Z",
-    "pushed_at": "2026-08-29T14:05:49Z",
+    "updated_at": "2026-08-29T21:53:48Z",
+    "pushed_at": "2026-08-29T21:53:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5193,8 +5193,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-08-29T13:41:33Z",
-    "pushed_at": "2026-08-29T13:41:19Z",
+    "updated_at": "2026-08-29T21:30:06Z",
+    "pushed_at": "2026-08-29T21:29:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -11233,7 +11233,7 @@
     "name": "julien-deramond/component-anatomy",
     "url": "https://github.com/julien-deramond/component-anatomy",
     "description": "Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights.",
-    "stars": 21,
+    "stars": 22,
     "forks": 1,
     "topics": [
       "astro",
@@ -11247,7 +11247,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-08-26T14:37:29Z",
+    "updated_at": "2026-08-29T23:34:43Z",
     "pushed_at": "2026-08-26T14:13:42Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-29T17:58:33Z",
+    "pushed_at": "2026-08-29T22:53:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11906,8 +11906,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
-    "updated_at": "2026-08-28T22:40:51Z",
-    "pushed_at": "2026-08-29T02:05:33Z",
+    "updated_at": "2026-08-29T21:49:57Z",
+    "pushed_at": "2026-08-30T00:54:28Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -11931,13 +11931,13 @@
     "name": "hansmartensdev/Astro-Rocket",
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
-    "stars": 109,
+    "stars": 110,
     "forks": 50,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-08-28T13:59:23Z",
+    "updated_at": "2026-08-29T18:55:21Z",
     "pushed_at": "2026-08-27T05:31:29Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12379,13 +12379,13 @@
     "name": "wangjacks/capsule-x",
     "url": "https://github.com/wangjacks/capsule-x",
     "description": "A minimal blog theme for Astro with capsule floating navigation and modern design.",
-    "stars": 8,
+    "stars": 9,
     "forks": 4,
     "topics": [],
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-03T17:58:14Z",
-    "updated_at": "2026-08-24T17:47:42Z",
+    "updated_at": "2026-08-29T19:23:56Z",
     "pushed_at": "2026-08-24T17:42:50Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -14185,8 +14185,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-08-13T02:14:34Z",
-    "updated_at": "2026-08-29T11:55:38Z",
-    "pushed_at": "2026-08-29T11:55:20Z",
+    "updated_at": "2026-08-30T00:08:01Z",
+    "pushed_at": "2026-08-30T00:07:42Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "t-morris/astro-colony": {
@@ -14245,7 +14245,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-07-23T14:25:37Z",
-    "pushed_at": "2026-08-29T03:28:26Z",
+    "pushed_at": "2026-08-29T23:52:25Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -14978,7 +14978,7 @@
     "license": "MIT",
     "created_at": "2025-03-02T22:20:44Z",
     "updated_at": "2026-08-29T17:26:09Z",
-    "pushed_at": "2026-08-29T17:26:07Z",
+    "pushed_at": "2026-08-29T21:10:06Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "praxispoetica/chiri-pp": {
@@ -15707,7 +15707,7 @@
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
     "updated_at": "2026-08-28T14:51:09Z",
-    "pushed_at": "2026-08-29T04:49:16Z",
+    "pushed_at": "2026-08-30T00:47:50Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -15912,8 +15912,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-16T19:07:15Z",
-    "updated_at": "2026-08-26T17:44:15Z",
-    "pushed_at": "2026-08-26T17:39:38Z",
+    "updated_at": "2026-08-29T19:46:36Z",
+    "pushed_at": "2026-08-29T19:46:32Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "mikeparcewski/wicked-web": {
@@ -18417,7 +18417,7 @@
     "name": "OpaceDigitalAgency/astro-visual-editor",
     "url": "https://github.com/OpaceDigitalAgency/astro-visual-editor",
     "description": "Astro Visual Editor for front-end text and SEO editing, drag-and-drop sections, reviewed changes and validated Astro source writes.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro",
@@ -18444,7 +18444,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-04T12:31:07Z",
-    "updated_at": "2026-08-24T10:26:08Z",
+    "updated_at": "2026-08-29T21:08:23Z",
     "pushed_at": "2026-08-25T13:26:51Z",
     "discovered_at": "2026-08-04T18:38:33.744Z"
   },
@@ -20294,7 +20294,7 @@
     "name": "jyoungblood/astro-arena",
     "url": "https://github.com/jyoungblood/astro-arena",
     "description": "Astro content loader for the Are.na v3 API",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "arena",
@@ -20307,7 +20307,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-13T16:31:25Z",
-    "updated_at": "2026-08-29T17:38:17Z",
+    "updated_at": "2026-08-29T18:31:39Z",
     "pushed_at": "2026-08-29T15:37:22Z",
     "discovered_at": "2026-08-22T00:21:24.467Z"
   },
@@ -20896,8 +20896,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-25T14:38:07Z",
-    "updated_at": "2026-08-28T22:06:38Z",
-    "pushed_at": "2026-08-28T22:00:31Z",
+    "updated_at": "2026-08-29T21:06:15Z",
+    "pushed_at": "2026-08-29T21:05:37Z",
     "discovered_at": "2026-08-25T18:13:35.093Z"
   },
   "ceaksan/consent-kit": {
@@ -21201,5 +21201,19 @@
     "updated_at": "2026-08-29T16:50:43Z",
     "pushed_at": "2026-08-29T16:50:43Z",
     "discovered_at": "2026-08-29T18:20:23.245Z"
+  },
+  "ikun1601/mizuki": {
+    "name": "ikun1601/Mizuki",
+    "url": "https://github.com/ikun1601/Mizuki",
+    "description": "Next-Gen Material Design 3 Blog Theme (Astro Powered)",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": null,
+    "license": "Apache-2.0",
+    "created_at": "2026-08-29T22:40:40Z",
+    "updated_at": "2026-08-29T22:41:27Z",
+    "pushed_at": "2026-08-26T17:41:19Z",
+    "discovered_at": "2026-08-30T00:56:27.402Z"
   }
 }
