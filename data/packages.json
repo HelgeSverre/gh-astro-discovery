@@ -243,7 +243,7 @@
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 218,
+    "stars": 219,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,7 +263,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-08-28T22:46:53Z",
+    "updated_at": "2026-08-31T00:43:27Z",
     "pushed_at": "2026-08-28T22:47:50Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-07-13T23:09:03Z",
-    "pushed_at": "2026-08-30T06:45:33Z",
+    "pushed_at": "2026-08-30T22:28:04Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-08-27T17:09:27Z",
+    "pushed_at": "2026-08-30T20:57:11Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -6029,8 +6029,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2026-03-29T07:42:33Z",
-    "updated_at": "2026-04-28T20:43:03Z",
-    "pushed_at": "2026-04-21T22:38:44Z",
+    "updated_at": "2026-08-30T23:33:55Z",
+    "pushed_at": "2026-08-30T23:33:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "twolio-studio/twolio-business-template-astro": {
@@ -9797,8 +9797,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-08-29T01:53:46Z",
-    "pushed_at": "2026-08-29T10:11:59Z",
+    "updated_at": "2026-08-30T22:49:29Z",
+    "pushed_at": "2026-08-30T22:49:19Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -9978,8 +9978,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-10-29T03:49:42Z",
-    "updated_at": "2026-08-27T11:07:06Z",
-    "pushed_at": "2026-08-30T05:08:38Z",
+    "updated_at": "2026-08-30T22:40:15Z",
+    "pushed_at": "2026-08-30T23:12:27Z",
     "discovered_at": "2026-06-02T07:55:51.259Z"
   },
   "caret-collective/tally": {
@@ -11472,8 +11472,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-08-30T01:56:47Z",
-    "pushed_at": "2026-08-30T07:21:46Z",
+    "updated_at": "2026-08-31T00:23:26Z",
+    "pushed_at": "2026-08-31T00:24:24Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-08-30T17:01:41Z",
+    "pushed_at": "2026-08-30T22:58:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11753,7 +11753,7 @@
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
     "updated_at": "2026-08-30T16:01:39Z",
-    "pushed_at": "2026-08-30T16:00:30Z",
+    "pushed_at": "2026-08-31T00:17:24Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -11906,8 +11906,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
-    "updated_at": "2026-08-29T21:49:57Z",
-    "pushed_at": "2026-08-30T00:54:28Z",
+    "updated_at": "2026-08-30T18:57:00Z",
+    "pushed_at": "2026-08-30T22:03:30Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -12066,8 +12066,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-02T01:55:57Z",
-    "updated_at": "2026-08-24T07:05:55Z",
-    "pushed_at": "2026-08-24T07:05:07Z",
+    "updated_at": "2026-08-30T19:33:56Z",
+    "pushed_at": "2026-08-30T19:32:25Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "andreialba/maria": {
@@ -12140,7 +12140,7 @@
     "license": null,
     "created_at": "2026-05-03T01:03:54Z",
     "updated_at": "2026-07-07T16:39:04Z",
-    "pushed_at": "2026-08-24T00:25:24Z",
+    "pushed_at": "2026-08-31T00:04:57Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mr-sunglasses/blog.kanishkk.xyz": {
@@ -12769,7 +12769,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-06-28T16:30:26Z",
     "updated_at": "2026-08-25T08:30:29Z",
-    "pushed_at": "2026-08-30T18:15:32Z",
+    "pushed_at": "2026-08-30T20:48:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "foxmoe/korikura-theme": {
@@ -14245,7 +14245,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-07-23T14:25:37Z",
-    "pushed_at": "2026-08-29T23:52:25Z",
+    "pushed_at": "2026-08-31T00:11:06Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15331,14 +15331,14 @@
     "name": "treverehrfurth/astro-publish",
     "url": "https://github.com/treverehrfurth/astro-publish",
     "description": "An Obsidian looking Astro theme similar to Obsidian Publish",
-    "stars": 2,
+    "stars": 4,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-27T02:00:43Z",
-    "updated_at": "2026-04-29T16:18:24Z",
-    "pushed_at": "2026-04-29T16:18:32Z",
+    "updated_at": "2026-08-31T00:23:27Z",
+    "pushed_at": "2026-08-31T00:02:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "web-werkstatt/ir-tours-de--design": {
@@ -15877,7 +15877,7 @@
     "license": "MIT",
     "created_at": "2026-07-12T01:04:26Z",
     "updated_at": "2026-07-18T08:47:59Z",
-    "pushed_at": "2026-08-09T23:24:11Z",
+    "pushed_at": "2026-08-30T23:24:13Z",
     "discovered_at": "2026-07-12T18:25:06.666Z"
   },
   "carlosulisesochoa/astro-i18n-multilanguage-blog": {
@@ -19641,8 +19641,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-16T11:10:50Z",
-    "updated_at": "2026-08-30T16:37:15Z",
-    "pushed_at": "2026-08-30T16:37:02Z",
+    "updated_at": "2026-08-30T21:01:55Z",
+    "pushed_at": "2026-08-30T21:01:35Z",
     "discovered_at": "2026-08-16T12:09:52.120Z"
   },
   "willimt/astro-theme-ink": {
@@ -21244,8 +21244,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-08-30T11:26:43Z",
-    "pushed_at": "2026-08-30T11:26:37Z",
+    "updated_at": "2026-08-30T22:37:32Z",
+    "pushed_at": "2026-08-30T22:37:12Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -21279,8 +21279,40 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-30T12:03:20Z",
-    "updated_at": "2026-08-30T18:16:20Z",
-    "pushed_at": "2026-08-30T18:15:28Z",
+    "updated_at": "2026-08-30T20:01:41Z",
+    "pushed_at": "2026-08-30T20:00:27Z",
     "discovered_at": "2026-08-30T12:25:21.817Z"
+  },
+  "vispar-tech/vispar-tech.github.io": {
+    "name": "vispar-tech/vispar-tech.github.io",
+    "url": "https://github.com/vispar-tech/vispar-tech.github.io",
+    "description": "Personal landing website and portfolio. Built with Astro: dark theme, RU/EN",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "personal-website",
+      "portfolio"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-08-24T21:17:11Z",
+    "updated_at": "2026-08-30T20:00:57Z",
+    "pushed_at": "2026-08-30T20:00:44Z",
+    "discovered_at": "2026-08-31T00:57:08.522Z"
+  },
+  "firststepmontessori/firststepmontessori": {
+    "name": "firststepmontessori/firststepmontessori",
+    "url": "https://github.com/firststepmontessori/firststepmontessori",
+    "description": "Astro and Cloudflare website for First Step Montessori, with Calm Garden and Joyful Geometry themes.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-08-30T15:56:50Z",
+    "updated_at": "2026-08-30T19:49:35Z",
+    "pushed_at": "2026-08-30T19:48:56Z",
+    "discovered_at": "2026-08-31T00:57:08.522Z"
   }
 }

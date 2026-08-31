@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1102
-**Last updated:** 2026-08-30T18:20:12.200Z
+**Total packages tracked:** 1104
+**Last updated:** 2026-08-31T00:57:08.528Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vispar-tech/vispar-tech.github.io](https://github.com/vispar-tech/vispar-tech.github.io) | 0 | Personal landing website and portfolio. Built with Astro: dark theme, RU/EN |
+| [firststepmontessori/firststepmontessori](https://github.com/firststepmontessori/firststepmontessori) | 0 | Astro and Cloudflare website for First Step Montessori, with Calm Garden and Joy... |
 | [eskopp/AstroBlogTheme](https://github.com/eskopp/AstroBlogTheme) | 0 | A reusable Astro blog theme, packaged as an Astro integration and importable str... |
 | [AheheXx1982/silentxx-astro-theme](https://github.com/AheheXx1982/silentxx-astro-theme) | 0 | SilentXx，基于[WIP] 余弦の博客重构版的Astro主题，余弦の博客又是基于Shoka，一个从Hexo复刻过来的Astro主题，这关系看起来既混乱又复... |
 | [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | Relics & Reckonings (personal blog) and an automated cross-repo release-notes ag... |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | Personal site and blog — Astro, matrix/terminal theme, deployed via GitHub Pages |
 | [imazhar101/imazhar101-dev](https://github.com/imazhar101/imazhar101-dev) | 0 | Terminal-themed personal dev portfolio — imazhar101.dev (Astro, deployed on Clou... |
 | [ecropolis/emdash-theme-mainstreet](https://github.com/ecropolis/emdash-theme-mainstreet) | 0 | Mainstreet — an EmDash CMS theme for service businesses: services with pricing, ... |
-| [Tiusx/oln](https://github.com/Tiusx/oln) | 0 | A minimalist blog theme for Astro with dark mode, search, tags, and SEO |
-| [topleague/menca](https://github.com/topleague/menca) | 0 | a hybrid of menca, minimalist astro theme |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -52,33 +52,33 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 230 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 225 | A flexible Astro blog theme designed for Obsidian users. |
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 225 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 218 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 219 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS. |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-30 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [eskopp/AstroBlogTheme](https://github.com/eskopp/AstroBlogTheme) | 0 | 2026-08-30 | A reusable Astro blog theme, packaged as an Astro integratio... |
-| [kpab/astro-kepler](https://github.com/kpab/astro-kepler) | 10 | 2026-08-30 | Kepler — a versatile Astro 7 theme for blogs, portfolios, an... |
-| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 45 | 2026-08-30 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-08-31 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-31 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-08-31 | My astro static blog use theme Firefly. |
+| [AlanYWu/alanywu.github.io](https://github.com/AlanYWu/alanywu.github.io) | 1 | 2026-08-31 | Personal site — alan wu. Astro + p5.js, theme of emergence. |
+| [treverehrfurth/astro-publish](https://github.com/treverehrfurth/astro-publish) | 4 | 2026-08-31 | An Obsidian looking Astro theme similar to Obsidian Publish |
+| [TimFang4162/astro-theme-vellume](https://github.com/TimFang4162/astro-theme-vellume) | 3 | 2026-08-30 | An editorial Astro theme for personal writing, technical not... |
+| [nagameTW/astro-flipside](https://github.com/nagameTW/astro-flipside) | 2 | 2026-08-30 | Two sides, one site. A minimal, Chinese-optimized Astro blog... |
+| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 14 | 2026-08-30 | An Astro integration for generating screenshots of your page... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-30 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-08-30 | Astro integration that uses existing configuration to write ... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-08-30 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-08-30 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-08-30 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 0 | 2026-08-30 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
-| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-30 | An Astro starter theme |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-08-30 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 4 | 2026-08-30 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 41 | 2026-08-30 | Astro integration to generate PDFs from pages in your site a... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-08-30 | Modern static blog theme with distinctive anime-style featur... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-08-30 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [t128n/starlight-ai-label](https://github.com/t128n/starlight-ai-label) | 1 | 2026-08-30 | Starlight plugin that adds EU AI Act–style AI content-disclo... |
-| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 10 | 2026-08-30 | An installable documentation theme for Astro. |
-| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 16 | 2026-08-30 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
-| [mychiffonn/website](https://github.com/mychiffonn/website) | 7 | 2026-08-30 | Personal academic website built with Astro (al-folio alterna... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-08-30 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 18 | 2026-08-30 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
-| [OpaceDigitalAgency/add-as-preferred-source-button-for-google](https://github.com/OpaceDigitalAgency/add-as-preferred-source-button-for-google) | 1 | 2026-08-30 | Add as Preferred Source Button & Popup for Google (SEO & AI ... |
-| [rusin-dev/astro-theme-cyanwind](https://github.com/rusin-dev/astro-theme-cyanwind) | 3 | 2026-08-30 | 一个简单、轻量 astro 框架博客主题，加载快速，SEO 友好，开箱即用。 |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-08-30 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-08-30 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [vispar-tech/vispar-tech.github.io](https://github.com/vispar-tech/vispar-tech.github.io) | 0 | 2026-08-30 | Personal landing website and portfolio. Built with Astro: da... |
+| [eskopp/AstroBlogTheme](https://github.com/eskopp/AstroBlogTheme) | 0 | 2026-08-30 | A reusable Astro blog theme, packaged as an Astro integratio... |
+| [firststepmontessori/firststepmontessori](https://github.com/firststepmontessori/firststepmontessori) | 0 | 2026-08-30 | Astro and Cloudflare website for First Step Montessori, with... |
+| [wutongyuonce/wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) | 26 | 2026-08-30 | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro b... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-31T00:57 | 2 | 861 | 1104 |
 | 2026-08-30T18:20 | 0 | 863 | 1102 |
 | 2026-08-30T12:25 | 1 | 862 | 1102 |
 | 2026-08-30T06:29 | 3 | 860 | 1101 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-29T06:27 | 1 | 860 | 1094 |
 | 2026-08-29T00:46 | 0 | 861 | 1093 |
 | 2026-08-28T21:26 | 0 | 861 | 1093 |
-| 2026-08-28T16:18 | 3 | 859 | 1093 |
 
 ---
 
