@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1108
-**Last updated:** 2026-08-31T18:23:34.700Z
+**Total packages tracked:** 1109
+**Last updated:** 2026-09-01T01:02:32.356Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [seanrobmerriam/astro-neobrutalist-theme](https://github.com/seanrobmerriam/astro-neobrutalist-theme) | 0 |  |
 | [anton-codes-iac/deploy-stack-astro-example](https://github.com/anton-codes-iac/deploy-stack-astro-example) | 0 | A production-ready Astro starter template featuring an automated, zero-secret AW... |
 | [copyboy/product_whoami](https://github.com/copyboy/product_whoami) | 8 | 🏆 Astro Official Theme: Modern, performant blog platform for content creators |... |
 | [ppai-id/ppai-website](https://github.com/ppai-id/ppai-website) | 0 | PPAI company website — content hub & blog. Astro + Hallmark (Aurora theme). |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [tap6/gitpress](https://github.com/tap6/gitpress) | 0 | GitPress open-source spec, builtin Astro themes, and data-repo template |
 | [MahmoodKhalil57/premium-cms-frontend-apex](https://github.com/MahmoodKhalil57/premium-cms-frontend-apex) | 0 | Static Astro frontend for the apex PremiumCMS theme (GitHub Pages, built from a ... |
 | [almahers/astroarabia](https://github.com/almahers/astroarabia) | 1 | Arabic-first RTL Astro theme starter for the Arabic web community |
-| [ecropolis/emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) | 0 | Supper — an EmDash CMS theme for restaurants: structured menu with sections and ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 22 | 2026-08-31 | Framework-agnostic interactive component anatomy for design ... |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 18 | 2026-08-31 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [dileepadev/blog-dileepa-dev](https://github.com/dileepadev/blog-dileepa-dev) | 0 | 2026-08-31 | This is my blog. |
-| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-08-31 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-08-31 | Universal Analytics Engines Integration |
-| [AllsVoid/sorapaper](https://github.com/AllsVoid/sorapaper) | 1 | 2026-08-31 | A soft, content-first Astro blog theme for long-form writing... |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 226 | 2026-08-31 | A flexible Astro blog theme designed for Obsidian users. |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-08-31 | Documentation for Azion's services and features. |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-08-31 | A fast and minimalist personal website and blog powered by A... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 52 | 2026-09-01 | An Astro integration for rendering LilyPond music notation. |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-01 | My astro static blog use theme Firefly. |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-01 | An Astro Prometheus nodejs middleware integration for Astro |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-01 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [oyjq0000/AstroPublishKit](https://github.com/oyjq0000/AstroPublishKit) | 0 | 2026-09-01 | A static-first Astro publishing starter with MDX, Pagefind, ... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-01 | Universal Analytics Engines Integration |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-09-01 | A fast and minimalist personal website and blog powered by A... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-01 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [CloudCannon/jetstream-astro-template](https://github.com/CloudCannon/jetstream-astro-template) | 13 | 2026-08-31 | A polished Astro template built on the Component Starter, de... |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-08-31 | 🚀 This Astro template offers more than 'Just the Basics', p... |
 | [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-08-31 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [ppai-id/ppai-website](https://github.com/ppai-id/ppai-website) | 0 | 2026-08-31 | PPAI company website — content hub & blog. Astro + Hallmark ... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-08-31 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-08-31 | Astro theme |
-| [eskopp/AstroBlogTheme](https://github.com/eskopp/AstroBlogTheme) | 0 | 2026-08-31 | A reusable Astro blog theme, packaged as an Astro integratio... |
-| [nivinvysakh/Dracula-Dev-Portfolio](https://github.com/nivinvysakh/Dracula-Dev-Portfolio) | 0 | 2026-08-31 | 🦇 Minimalist Dracula-themed developer portfolio template bu... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-08-31 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [Jack-Liang/resume-jack-liang](https://github.com/Jack-Liang/resume-jack-liang) | 0 | 2026-08-31 | Ovidius - a single-author blog theme for Astro.js. |
+| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-08-31 | Port of Split template by One Page Love to Astro 👨‍🚀 |
+| [John10240/bluesy-astro-theme](https://github.com/John10240/bluesy-astro-theme) | 0 | 2026-08-31 | An Astro blog theme for Cloudflare Workers.   一个 Astro 博客模板，... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 202 | 2026-08-31 | The i18n integration for Astro 🧑‍🚀 |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 21 | 2026-08-31 | Matomo integration for Astro |
 | [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-08-31 |  |
-| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-08-31 | An Astro starter theme |
-| [camomillacms/astro-camomilla-integration](https://github.com/camomillacms/astro-camomilla-integration) | 1 | 2026-08-31 | Our beloved CMS coupled with Astro 🌟 |
+| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 72 | 2026-08-31 | 📈 Astro integration to add Umami Analytics to your website |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-08-31 | This Astro component simplifies the process of adding moneti... |
+| [GeauxWeisbeck4/andrewweisbeck-portfolio](https://github.com/GeauxWeisbeck4/andrewweisbeck-portfolio) | 0 | 2026-08-31 | My portfolio website - for now. Using the astro-theme-cody b... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-08-31 | Astro Integration to generate a customizable table of conten... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-01T01:02 | 1 | 865 | 1109 |
 | 2026-08-31T18:23 | 3 | 863 | 1108 |
 | 2026-08-31T12:30 | 0 | 864 | 1105 |
 | 2026-08-31T06:41 | 1 | 863 | 1105 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-30T06:29 | 3 | 860 | 1101 |
 | 2026-08-30T00:56 | 1 | 861 | 1098 |
 | 2026-08-29T18:20 | 2 | 860 | 1097 |
-| 2026-08-29T12:24 | 1 | 860 | 1095 |
 
 ---
 
