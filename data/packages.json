@@ -2539,7 +2539,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 102,
+    "stars": 103,
     "forks": 31,
     "topics": [
       "aeo",
@@ -2561,7 +2561,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-08-25T07:44:14Z",
+    "updated_at": "2026-09-02T12:02:34Z",
     "pushed_at": "2026-08-24T05:48:40Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5297,7 +5297,7 @@
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
     "stars": 38,
-    "forks": 25,
+    "forks": 24,
     "topics": [
       "astro-theme",
       "contribute",
@@ -5484,7 +5484,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 317,
-    "forks": 98,
+    "forks": 97,
     "topics": [
       "astro",
       "astro-theme",
@@ -5803,7 +5803,7 @@
     "name": "crrashh1542/astro-theme-rudeus",
     "url": "https://github.com/crrashh1542/astro-theme-rudeus",
     "description": "一个简洁明亮的 Astro 博客主题 / A light blog theme built with Astro.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "astro",
@@ -5816,7 +5816,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-02-07T12:22:21Z",
-    "updated_at": "2026-08-08T03:27:25Z",
+    "updated_at": "2026-09-02T09:54:06Z",
     "pushed_at": "2026-05-03T16:22:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -7014,8 +7014,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-08-31T18:56:31Z",
-    "pushed_at": "2026-08-31T18:55:17Z",
+    "updated_at": "2026-09-02T09:42:46Z",
+    "pushed_at": "2026-09-02T09:42:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -7475,7 +7475,7 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 312,
+    "stars": 311,
     "forks": 126,
     "topics": [
       "astro",
@@ -7485,7 +7485,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-09-01T20:41:10Z",
+    "updated_at": "2026-09-02T08:57:25Z",
     "pushed_at": "2026-08-06T12:23:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -8409,8 +8409,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-09-02T06:12:57Z",
-    "pushed_at": "2026-09-02T06:13:50Z",
+    "updated_at": "2026-09-02T09:02:04Z",
+    "pushed_at": "2026-09-02T09:03:15Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -10091,7 +10091,7 @@
     "url": "https://github.com/themefisher/dockit-astro",
     "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
     "stars": 54,
-    "forks": 40,
+    "forks": 41,
     "topics": [
       "astro",
       "astro-theme",
@@ -11565,7 +11565,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-08-16T01:51:33Z",
-    "pushed_at": "2026-09-02T06:33:02Z",
+    "pushed_at": "2026-09-02T11:48:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12187,7 +12187,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-29T10:07:48Z",
-    "updated_at": "2026-08-19T07:10:44Z",
+    "updated_at": "2026-09-02T10:25:34Z",
     "pushed_at": "2026-08-19T07:09:20Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -14185,8 +14185,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-08-13T02:14:34Z",
-    "updated_at": "2026-08-30T00:08:01Z",
-    "pushed_at": "2026-08-30T00:07:42Z",
+    "updated_at": "2026-09-02T08:50:22Z",
+    "pushed_at": "2026-09-02T08:46:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "t-morris/astro-colony": {
@@ -15637,7 +15637,7 @@
     "name": "joshruggles/astro-palette",
     "url": "https://github.com/joshruggles/astro-palette",
     "description": "A blog and personal site theme for Astro with a terminal look and 18 switchable color palettes. The build output is fully static, with no client-side framework and no analytics.",
-    "stars": 14,
+    "stars": 15,
     "forks": 1,
     "topics": [
       "astro",
@@ -15649,7 +15649,7 @@
     "language": "CSS",
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
-    "updated_at": "2026-08-29T07:42:45Z",
+    "updated_at": "2026-09-02T08:30:42Z",
     "pushed_at": "2026-08-22T16:20:09Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
@@ -15724,8 +15724,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-07-10T21:37:40Z",
-    "updated_at": "2026-08-31T16:03:51Z",
-    "pushed_at": "2026-08-31T16:10:44Z",
+    "updated_at": "2026-09-02T08:12:56Z",
+    "pushed_at": "2026-09-02T12:10:32Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "sri-nivas1227/astro-portfolio": {
@@ -18267,7 +18267,7 @@
     "name": "miyamo2/astro-image-placeholder",
     "url": "https://github.com/miyamo2/astro-image-placeholder",
     "description": "Blur / LQIP placeholders for Astro images.",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
     "topics": [
       "astro",
@@ -18277,7 +18277,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-03T16:38:49Z",
-    "updated_at": "2026-08-03T20:05:26Z",
+    "updated_at": "2026-09-02T08:43:20Z",
     "pushed_at": "2026-08-03T20:04:34Z",
     "discovered_at": "2026-08-04T00:50:26.022Z"
   },
@@ -19619,7 +19619,7 @@
     "name": "alohapixelcom-hash/reef",
     "url": "https://github.com/alohapixelcom-hash/reef",
     "description": "Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Light by default with a composed dark mode, English and French, RSS per language. Demo: https://reef.alohapixel.app",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -19641,8 +19641,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-16T11:10:50Z",
-    "updated_at": "2026-09-01T10:58:57Z",
-    "pushed_at": "2026-09-01T10:46:36Z",
+    "updated_at": "2026-09-02T12:18:18Z",
+    "pushed_at": "2026-09-02T11:32:07Z",
     "discovered_at": "2026-08-16T12:09:52.120Z"
   },
   "willimt/astro-theme-ink": {
@@ -20416,7 +20416,7 @@
     "name": "ventusff/astro-inkstone",
     "url": "https://github.com/ventusff/astro-inkstone",
     "description": "The Astro wiki you can write in — paper-and-ink typography for docs, wikis and digital gardens, with in-place WYSIWYG editing (math, tables, [[wikilinks]], frontmatter), AI assist, revision history; Markdown stays the source, git the history.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -20443,8 +20443,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T09:43:51Z",
-    "updated_at": "2026-09-01T11:09:54Z",
-    "pushed_at": "2026-09-01T11:08:29Z",
+    "updated_at": "2026-09-02T10:24:50Z",
+    "pushed_at": "2026-09-02T10:17:39Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
   "chunyiw8080/astro-honey-theme": {
@@ -21069,12 +21069,19 @@
     "description": "Arabic-first RTL Astro theme starter for the Arabic web community",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "arabic",
+      "astro",
+      "astrojs-template",
+      "fast-theme",
+      "rtl",
+      "theme"
+    ],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-28T08:31:02Z",
-    "updated_at": "2026-08-30T10:42:06Z",
-    "pushed_at": "2026-08-30T10:42:05Z",
+    "updated_at": "2026-09-02T11:38:45Z",
+    "pushed_at": "2026-09-02T11:22:04Z",
     "discovered_at": "2026-08-28T09:21:43.417Z"
   },
   "geauxweisbeck4/weisgarden": {
@@ -21475,5 +21482,33 @@
     "updated_at": "2026-09-02T04:57:21Z",
     "pushed_at": "2026-09-02T04:55:44Z",
     "discovered_at": "2026-09-02T06:37:32.502Z"
+  },
+  "linuzzz/zenblog": {
+    "name": "linuzzz/zenblog",
+    "url": "https://github.com/linuzzz/zenblog",
+    "description": "Astro -> Zen Theme -> Blog",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-09-02T09:43:44Z",
+    "updated_at": "2026-09-02T09:51:06Z",
+    "pushed_at": "2026-09-02T09:49:45Z",
+    "discovered_at": "2026-09-02T12:29:55.101Z"
+  },
+  "angeloamenta/preload-astro-theme": {
+    "name": "Angeloamenta/PReload-astro-theme",
+    "url": "https://github.com/Angeloamenta/PReload-astro-theme",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-09-02T09:32:11Z",
+    "updated_at": "2026-09-02T09:37:00Z",
+    "pushed_at": "2026-09-02T09:32:15Z",
+    "discovered_at": "2026-09-02T12:29:55.101Z"
   }
 }
