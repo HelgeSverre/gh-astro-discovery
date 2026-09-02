@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1111
-**Last updated:** 2026-09-02T00:52:35.845Z
+**Total packages tracked:** 1112
+**Last updated:** 2026-09-02T06:37:32.508Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [icecoldhq/visual-flow-web](https://github.com/icecoldhq/visual-flow-web) | 0 | The VisualFlow website is an Astro-powered landing page and documentation hub th... |
 | [JsNcAr/portafolio](https://github.com/JsNcAr/portafolio) | 0 | Bilingual (EN/ES) personal site and portfolio — static Astro build, design-token... |
 | [zhaogods/firewei-astro-theme](https://github.com/zhaogods/firewei-astro-theme) | 0 |  |
 | [seanrobmerriam/astro-neobrutalist-theme](https://github.com/seanrobmerriam/astro-neobrutalist-theme) | 0 |  |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [profile-icons/github-profile-readme-site](https://github.com/profile-icons/github-profile-readme-site) | 1 | Deploy your GitHub profile README.md as a static Astro.js site with profile phot... |
 | [VarunAyyappan/Nord-Portfolio-Astro-Theme](https://github.com/VarunAyyappan/Nord-Portfolio-Astro-Theme) | 0 |  |
 | [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | Digital garden for Andrew Weisbeck. Props to the `astro-theme-cactus` by @chrism... |
-| [tap6/gitpress](https://github.com/tap6/gitpress) | 0 | GitPress open-source spec, builtin Astro themes, and data-repo template |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-02 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-02 | An Astro Prometheus nodejs middleware integration for Astro |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-09-02 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-02 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [QwikDev/astro](https://github.com/QwikDev/astro) | 287 | 2026-09-02 | Qwik + Astro |
+| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-09-02 | Astro blog theme template. |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-02 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [icecoldhq/visual-flow-web](https://github.com/icecoldhq/visual-flow-web) | 0 | 2026-09-02 | The VisualFlow website is an Astro-powered landing page and ... |
+| [kpab/astro-keel](https://github.com/kpab/astro-keel) | 20 | 2026-09-02 | Astro Keel — a minimal, neutral, and modern portfolio and bl... |
+| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 11 | 2026-09-02 | An installable documentation theme for Astro. |
 | [CloudCannon/jetstream-astro-template](https://github.com/CloudCannon/jetstream-astro-template) | 13 | 2026-09-02 | A polished Astro template built on the Component Starter, de... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 52 | 2026-09-02 | An Astro integration for rendering LilyPond music notation. |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 61 | 2026-09-02 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-09-02 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 1 | 2026-09-02 | Reusable Astro components for MDX content. |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 282 | 2026-09-02 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-09-02 | Format 🗻 |
+| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-09-02 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
+| [withstudiocms/docs](https://github.com/withstudiocms/docs) | 7 | 2026-09-02 | The StudioCMS Docs |
 | [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-01 | My astro static blog use theme Firefly. |
-| [John10240/bluesy-astro-theme](https://github.com/John10240/bluesy-astro-theme) | 0 | 2026-09-01 | An Astro blog theme for Cloudflare Workers.   一个 Astro 博客模板，... |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-09-01 | A fast and minimalist personal website and blog powered by A... |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-09-01 | The global variable integration for Astro 🌐 |
-| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 5 | 2026-09-01 | Your favorite dark mode word counter, now with grammar check... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-01 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-09-01 | Fetch data from the Stripe API and use it in Astro collectio... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-01 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [wutongyuonce/wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) | 26 | 2026-09-01 | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro b... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-01 | Documentation for Azion's services and features. |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-01 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [JsNcAr/portafolio](https://github.com/JsNcAr/portafolio) | 0 | 2026-09-01 | Bilingual (EN/ES) personal site and portfolio — static Astro... |
-| [ZCHIT/Fire-fly](https://github.com/ZCHIT/Fire-fly) | 0 | 2026-09-01 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 52 | 2026-09-01 | An Astro integration for rendering LilyPond music notation. |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 157 | 2026-09-01 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-09-01 | This Astro component simplifies the process of adding moneti... |
-| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-09-01 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-02T06:37 | 1 | 865 | 1112 |
 | 2026-09-02T00:52 | 1 | 865 | 1111 |
 | 2026-09-01T18:23 | 1 | 865 | 1110 |
 | 2026-09-01T12:28 | 0 | 866 | 1109 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-08-31T12:30 | 0 | 864 | 1105 |
 | 2026-08-31T06:41 | 1 | 863 | 1105 |
 | 2026-08-31T00:57 | 2 | 861 | 1104 |
-| 2026-08-30T18:20 | 0 | 863 | 1102 |
 
 ---
 
