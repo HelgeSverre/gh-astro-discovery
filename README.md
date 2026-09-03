@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1114
-**Last updated:** 2026-09-02T18:24:36.358Z
+**Total packages tracked:** 1116
+**Last updated:** 2026-09-03T00:53:05.679Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [alderthemes/cafe-01](https://github.com/alderthemes/cafe-01) | 0 | Free Astro template for specialty coffee shops — seasonal menu, multi-location, ... |
+| [anton-codes-iac/astro-deploy-stack](https://github.com/anton-codes-iac/astro-deploy-stack) | 0 | Deploy-stack integration for Astro. Instantly generate zero-lock-in AWS ECS Farg... |
 | [yu0o/Firefly](https://github.com/yu0o/Firefly) | 0 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
 | [linuzzz/zenblog](https://github.com/linuzzz/zenblog) | 0 | Astro -> Zen Theme -> Blog |
 | [Angeloamenta/PReload-astro-theme](https://github.com/Angeloamenta/PReload-astro-theme) | 0 |  |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | Relics & Reckonings (personal blog) and an automated cross-repo release-notes ag... |
 | [AheheXx1982/silentxx-components](https://github.com/AheheXx1982/silentxx-components) | 0 | SilentXx open-source Astro components: eye music player, theme toggle, language ... |
 | [ikun1601/Mizuki](https://github.com/ikun1601/Mizuki) | 0 | Next-Gen Material Design 3 Blog Theme (Astro Powered) |
-| [full-snack-lab/astro-integrations](https://github.com/full-snack-lab/astro-integrations) | 0 |  |
-| [kpab/astro-sumi](https://github.com/kpab/astro-sumi) | 1 | A minimal Astro 7 blog theme in ink and washi paper, with dual light/dark palett... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-09-02 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-09-02 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [mychiffonn/website](https://github.com/mychiffonn/website) | 7 | 2026-09-02 | Personal academic website built with Astro (al-folio alterna... |
-| [aBER0724/astro-theme-cactus-multilingual](https://github.com/aBER0724/astro-theme-cactus-multilingual) | 0 | 2026-09-02 |  |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-03 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-09-03 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-02 | My astro static blog use theme Firefly. |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-02 | Universal Analytics Engines Integration |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-09-02 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [JavierMurua/foxi-astro-theme](https://github.com/JavierMurua/foxi-astro-theme) | 0 | 2026-09-02 |  |
+| [alderthemes/cafe-01](https://github.com/alderthemes/cafe-01) | 0 | 2026-09-02 | Free Astro template for specialty coffee shops — seasonal me... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 21 | 2026-09-02 | Matomo integration for Astro |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 43 | 2026-09-02 | Support AsciiDoc pages in Astro |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-09-02 | Astro Integration to generate a customizable table of conten... |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 155 | 2026-09-02 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-02 | An Astro Prometheus nodejs middleware integration for Astro |
+| [openscript/astro-theme-international](https://github.com/openscript/astro-theme-international) | 42 | 2026-09-02 | An Astro theme demonstrating internationalization. |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-09-02 | Loaders for Astro's Content Layer |
+| [anton-codes-iac/astro-deploy-stack](https://github.com/anton-codes-iac/astro-deploy-stack) | 0 | 2026-09-02 | Deploy-stack integration for Astro. Instantly generate zero-... |
+| [jxpeng98/astro-theme-scholars](https://github.com/jxpeng98/astro-theme-scholars) | 7 | 2026-09-02 | Customisable Astro theme for academic portfolios |
 | [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-02 | Documentation for Azion's services and features. |
-| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-09-02 | The Astro Supabase starter demonstrates how to integrate Sup... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-09-02 | The i18n integration for Astro 🧑‍🚀 |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 219 | 2026-09-02 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-02 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [anton-codes-iac/deploy-stack-astro-example](https://github.com/anton-codes-iac/deploy-stack-astro-example) | 0 | 2026-09-02 | A production-ready Astro starter template featuring an autom... |
+| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 3 | 2026-09-02 | Agent-ready personal publish starter |
 | [marcelofpfelix/papyrus](https://github.com/marcelofpfelix/papyrus) | 0 | 2026-09-02 | Astro theme |
-| [TimFang4162/astro-theme-vellume](https://github.com/TimFang4162/astro-theme-vellume) | 3 | 2026-09-02 | An editorial Astro theme for personal writing, technical not... |
-| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 2 | 2026-09-02 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
-| [jramosg/jonramos](https://github.com/jramosg/jonramos) | 0 | 2026-09-02 | Personal portfolio built with Astro 5 SSR. Working Clojure R... |
-| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 19 | 2026-09-02 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
-| [linuzzz/zenblog](https://github.com/linuzzz/zenblog) | 0 | 2026-09-02 | Astro -> Zen Theme -> Blog |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-09-02 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [almahers/astroarabia](https://github.com/almahers/astroarabia) | 1 | 2026-09-02 | Arabic-first RTL Astro theme starter for the Arabic web comm... |
-| [yu0o/Firefly](https://github.com/yu0o/Firefly) | 0 | 2026-09-02 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
-| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 1 | 2026-09-02 | The Astro wiki you can write in — paper-and-ink typography f... |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 18 | 2026-09-02 | A modern, clean and bloat-free Astro starter template. Acces... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-03T00:53 | 2 | 864 | 1116 |
 | 2026-09-02T18:24 | 1 | 864 | 1114 |
 | 2026-09-02T12:29 | 2 | 864 | 1114 |
 | 2026-09-02T06:37 | 1 | 865 | 1112 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-01T06:34 | 0 | 866 | 1109 |
 | 2026-09-01T01:02 | 1 | 865 | 1109 |
 | 2026-08-31T18:23 | 3 | 863 | 1108 |
-| 2026-08-31T12:30 | 0 | 864 | 1105 |
 
 ---
 
