@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1135
-**Last updated:** 2026-09-06T12:24:44.270Z
+**Total packages tracked:** 1136
+**Last updated:** 2026-09-06T18:19:55.778Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [puellamogica/blog](https://github.com/puellamogica/blog) | 0 | An astro framework blog theme |
 | [mxlttr/caracals-web](https://github.com/mxlttr/caracals-web) | 0 | Landing page built with Astro.build and Radiant theme |
 | [super-mortal/my-new-blog](https://github.com/super-mortal/my-new-blog) | 0 | A simple, fast and powerful blog & document theme built by Astro |
 | [Marie-xx-liu/marie-xx-liu.github.io](https://github.com/Marie-xx-liu/marie-xx-liu.github.io) | 0 | Personal site — AI Product Manager, Amsterdam. Astro, built on the Dante theme (... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Ernxst/icon-prerender](https://github.com/Ernxst/icon-prerender) | 0 | A framework-agnostic plugin to prerender your SVG icons at compile time, rather ... |
 | [alderthemes/larkin](https://github.com/alderthemes/larkin) | 0 | Larkin / Café — free Astro + Tailwind CSS 4 template for specialty coffee shops:... |
 | [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 0 | A lightweight static blog theme based on Astro. |
-| [alderthemes/cafe-01](https://github.com/alderthemes/cafe-01) | 0 | Free Astro template for specialty coffee shops — seasonal menu, multi-location, ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [msradam/adamr.io](https://github.com/msradam/adamr.io) | 0 | 2026-09-06 | Personal website and work archive of Adam Munawar Rahman, bu... |
-| [super-mortal/my-new-blog](https://github.com/super-mortal/my-new-blog) | 0 | 2026-09-06 | A simple, fast and powerful blog & document theme built by A... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-09-06 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [Marie-xx-liu/marie-xx-liu.github.io](https://github.com/Marie-xx-liu/marie-xx-liu.github.io) | 0 | 2026-09-06 | Personal site — AI Product Manager, Amsterdam. Astro, built ... |
-| [f0ck0/Toonhub-Astro-Theme](https://github.com/f0ck0/Toonhub-Astro-Theme) | 0 | 2026-09-06 |  |
-| [wutongyuonce/wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) | 26 | 2026-09-06 | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro b... |
-| [hardwario/website-ui](https://github.com/hardwario/website-ui) | 0 | 2026-09-06 | Design system for the HARDWARIO websites — brand tokens, Dai... |
-| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 0 | 2026-09-06 | A lightweight static blog theme based on Astro. |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-09-06 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-09-06 | Automatically add your parameters to external links and URLs... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-09-06 | Loaders for Astro's Content Layer |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 61 | 2026-09-06 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-06 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-06 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-09-06 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [kpab/astro-kepler](https://github.com/kpab/astro-kepler) | 10 | 2026-09-06 | Kepler — a versatile Astro 7 theme for blogs, portfolios, an... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 209 | 2026-09-06 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-09-06 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-09-06 | Modern static blog theme with distinctive anime-style featur... |
-| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-09-06 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
-| [Jazee6/astro-blur](https://github.com/Jazee6/astro-blur) | 29 | 2026-09-06 | A static blog theme built with Astro |
-| [adkinn/astro-ai-readiness](https://github.com/adkinn/astro-ai-readiness) | 4 | 2026-09-06 | AI Readiness toolkit for Astro — generates llms.txt, agents.... |
+| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 18 | 2026-09-06 | Integration of Astro with Strapi CMS that enables easy data ... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-06 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [puellamogica/blog](https://github.com/puellamogica/blog) | 0 | 2026-09-06 | An astro framework blog theme |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-06 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [super-mortal/my-new-blog](https://github.com/super-mortal/my-new-blog) | 0 | 2026-09-06 | A simple, fast and powerful blog & document theme built by A... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-09-06 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 4 | 2026-09-06 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-06 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [singu9/astro-orange](https://github.com/singu9/astro-orange) | 0 | 2026-09-06 | Another astro 7 theme |
+| [aBER0724/astro-theme-cactus-multilingual](https://github.com/aBER0724/astro-theme-cactus-multilingual) | 0 | 2026-09-06 |  |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-09-06 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-09-06 | Loaders for Astro's Content Layer |
+| [geoqiao/jojo-codex-pet](https://github.com/geoqiao/jojo-codex-pet) | 0 | 2026-09-06 | Unofficial JoJo-themed Codex pet v2 gallery and collection |
+| [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | 2026-09-06 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CS... |
+| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 20 | 2026-09-06 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
+| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 0 | 2026-09-06 | A tiny git-backed CMS for Astro — edit your static site in p... |
+| [rennerdo30/docs-template](https://github.com/rennerdo30/docs-template) | 0 | 2026-09-06 | Luminous Void: a dark-first theme plugin for Astro Starlight... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-06T18:19 | 1 | 871 | 1136 |
 | 2026-09-06T12:24 | 4 | 868 | 1135 |
 | 2026-09-06T06:28 | 1 | 870 | 1131 |
 | 2026-09-06T00:57 | 0 | 870 | 1130 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-05T00:49 | 0 | 869 | 1124 |
 | 2026-09-04T18:21 | 2 | 868 | 1124 |
 | 2026-09-04T12:28 | 0 | 869 | 1122 |
-| 2026-09-04T06:32 | 2 | 867 | 1122 |
 
 ---
 
