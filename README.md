@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1139
-**Last updated:** 2026-09-07T06:42:07.971Z
+**Last updated:** 2026-09-07T12:29:24.204Z
 
 ## 📦 Recently Discovered
 
@@ -52,33 +52,33 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 230 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 228 | A flexible Astro blog theme designed for Obsidian users. |
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 225 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 218 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 219 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 209 | Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS. |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 4 | 2026-09-07 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-07 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [lancher-dev/jaamd](https://github.com/lancher-dev/jaamd) | 3 | 2026-09-07 | Just Another Astro Markdown |
-| [super-mortal/my-new-blog](https://github.com/super-mortal/my-new-blog) | 0 | 2026-09-07 | A simple, fast and powerful blog & document theme built by A... |
+| [full-snack-lab/astro-integrations](https://github.com/full-snack-lab/astro-integrations) | 0 | 2026-09-07 |  |
+| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 5 | 2026-09-07 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
+| [hardwario/website-ui](https://github.com/hardwario/website-ui) | 0 | 2026-09-07 | Design system for the HARDWARIO websites — brand tokens, Dai... |
+| [jdevalk/seo-graph](https://github.com/jdevalk/seo-graph) | 49 | 2026-09-07 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
+| [protomorph/astromorph](https://github.com/protomorph/astromorph) | 7 | 2026-09-07 | A framework free Astro starter template |
+| [protomorph/astro-zero](https://github.com/protomorph/astro-zero) | 8 | 2026-09-07 | A zero styling, simple, Astro blog starter template. |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-07 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [tfmurad/astro-llms-md](https://github.com/tfmurad/astro-llms-md) | 46 | 2026-09-07 | Astro integration to generate llms.txt, llms-full.txt, and m... |
-| [mahshidgh96/astro-narrow-final](https://github.com/mahshidgh96/astro-narrow-final) | 1 | 2026-09-07 | astro blog narrow theme  |
-| [aBER0724/astro-theme-cactus-multilingual](https://github.com/aBER0724/astro-theme-cactus-multilingual) | 0 | 2026-09-07 |  |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-09-07 | A minimal Astro blog theme |
-| [copyboy/product_whoami](https://github.com/copyboy/product_whoami) | 9 | 2026-09-07 | 🏆 Astro Official Theme: Modern, performant blog platform fo... |
-| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-09-07 | An Astro starter theme |
-| [njbSaab/astro-njx-launch](https://github.com/njbSaab/astro-njx-launch) | 0 | 2026-09-07 | Product launch / waitlist starter: Astro + njX UI + Alpine.j... |
-| [njbSaab/astro-njx-portfolio](https://github.com/njbSaab/astro-njx-portfolio) | 0 | 2026-09-07 | Personal portfolio starter: Astro + njX UI + Alpine.js — fil... |
-| [njbSaab/astro-njx-saas](https://github.com/njbSaab/astro-njx-saas) | 0 | 2026-09-07 | Product landing starter: Astro + njX UI + Alpine.js — full-v... |
-| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-09-07 | Astro blog theme template. |
-| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-09-07 | The Astro Supabase starter demonstrates how to integrate Sup... |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-09-07 | A modern, responsive and lightweight theme for freelancing, ... |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 155 | 2026-09-07 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [protomorph/astro-vanilla](https://github.com/protomorph/astro-vanilla) | 7 | 2026-09-07 | A simple, minimal style, framework free Astro blog starter t... |
 | [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-09-07 | Relics & Reckonings (personal blog) and an automated cross-r... |
-| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 23 | 2026-09-07 | Framework-agnostic interactive component anatomy for design ... |
+| [schalkneethling/anchor-positioning-in-space](https://github.com/schalkneethling/anchor-positioning-in-space) | 2 | 2026-09-07 | A space themed micro-site for my four-part series on CSS anc... |
+| [thomasKn/astro-shopify](https://github.com/thomasKn/astro-shopify) | 500 | 2026-09-07 | A lightweight and powerful ecommerce starter theme to build ... |
+| [eskopp/AstroBlogTheme](https://github.com/eskopp/AstroBlogTheme) | 0 | 2026-09-07 | A reusable Astro blog theme, packaged as an Astro integratio... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-07 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [njbSaab/astro-njx-launch](https://github.com/njbSaab/astro-njx-launch) | 0 | 2026-09-07 | Product launch / waitlist starter: Astro + njX UI + Alpine.j... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [njbSaab/astro-njx-portfolio](https://github.com/njbSaab/astro-njx-portfolio) | 0 | 2026-09-07 | Personal portfolio starter: Astro + njX UI + Alpine.js — fil... |
+| [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-09-07 |  |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-07 | Universal Analytics Engines Integration |
+| [nivinvysakh/Dracula-Dev-Portfolio](https://github.com/nivinvysakh/Dracula-Dev-Portfolio) | 0 | 2026-09-07 | 🦇 Minimalist Dracula-themed developer portfolio template bu... |
+| [willimt/astro-theme-ink](https://github.com/willimt/astro-theme-ink) | 2 | 2026-09-07 | A warm, paper-feel personal blog theme built with Astro & Un... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-07T12:29 | 0 | 872 | 1139 |
 | 2026-09-07T06:42 | 0 | 873 | 1139 |
 | 2026-09-07T00:56 | 3 | 870 | 1139 |
 | 2026-09-06T18:19 | 1 | 871 | 1136 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-05T18:19 | 2 | 868 | 1130 |
 | 2026-09-05T12:24 | 3 | 867 | 1128 |
 | 2026-09-05T06:28 | 1 | 869 | 1125 |
-| 2026-09-05T00:49 | 0 | 869 | 1124 |
 
 ---
 
