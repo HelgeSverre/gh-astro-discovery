@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-09-07T02:45:09Z",
-    "pushed_at": "2026-09-07T19:03:12Z",
+    "updated_at": "2026-09-08T03:14:53Z",
+    "pushed_at": "2026-09-08T03:14:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-09-07T02:40:51Z",
-    "pushed_at": "2026-09-07T18:24:09Z",
+    "updated_at": "2026-09-08T03:16:01Z",
+    "pushed_at": "2026-09-08T03:15:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-09-05T13:41:18Z",
-    "pushed_at": "2026-09-07T20:38:38Z",
+    "pushed_at": "2026-09-08T04:55:19Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-07-13T23:09:03Z",
-    "pushed_at": "2026-09-07T22:57:17Z",
+    "pushed_at": "2026-09-08T02:51:03Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-09-07T22:36:30Z",
+    "pushed_at": "2026-09-08T04:07:11Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2667,8 +2667,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
-    "updated_at": "2026-09-06T20:45:49Z",
-    "pushed_at": "2026-09-07T17:47:44Z",
+    "updated_at": "2026-09-08T00:57:28Z",
+    "pushed_at": "2026-09-08T00:57:51Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5045,8 +5045,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-09-07T23:20:01Z",
-    "pushed_at": "2026-09-07T23:19:57Z",
+    "updated_at": "2026-09-08T06:12:07Z",
+    "pushed_at": "2026-09-08T06:11:38Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5196,8 +5196,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-09-07T22:57:23Z",
-    "pushed_at": "2026-09-07T22:57:11Z",
+    "updated_at": "2026-09-08T05:48:14Z",
+    "pushed_at": "2026-09-08T05:48:05Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5410,7 +5410,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-09-07T18:39:25Z",
+    "updated_at": "2026-09-08T06:05:23Z",
     "pushed_at": "2026-08-13T08:00:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6821,7 +6821,7 @@
     "name": "sudeep2003/AstroFlow",
     "url": "https://github.com/sudeep2003/AstroFlow",
     "description": "Modern Astro.js template for logistics and manufacturing companies. Built with React, Tailwind CSS, and TypeScript.",
-    "stars": 45,
+    "stars": 44,
     "forks": 26,
     "topics": [
       "astro",
@@ -6842,7 +6842,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-25T16:05:58Z",
-    "updated_at": "2026-08-23T10:51:15Z",
+    "updated_at": "2026-09-08T01:02:17Z",
     "pushed_at": "2026-07-03T18:30:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10385,8 +10385,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
-    "updated_at": "2026-08-27T12:27:44Z",
-    "pushed_at": "2026-09-01T07:40:18Z",
+    "updated_at": "2026-09-08T04:27:00Z",
+    "pushed_at": "2026-09-08T04:29:06Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
   "andreialba/quietpages": {
@@ -10513,7 +10513,7 @@
     "url": "https://github.com/ewels/starlight-quiz",
     "description": "Interactive quizzes for Astro and Starlight, authored in markdown with full progress tracking.",
     "stars": 6,
-    "forks": 1,
+    "forks": 0,
     "topics": [
       "astro",
       "astro-component",
@@ -10533,8 +10533,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-06-27T09:58:10Z",
-    "updated_at": "2026-09-02T04:09:02Z",
-    "pushed_at": "2026-08-14T21:32:42Z",
+    "updated_at": "2026-09-08T05:15:24Z",
+    "pushed_at": "2026-09-08T05:52:38Z",
     "discovered_at": "2026-06-27T18:34:56.630Z"
   },
   "nooniwa/starter": {
@@ -11461,8 +11461,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-09-07T20:07:28Z",
-    "pushed_at": "2026-09-07T21:59:49Z",
+    "updated_at": "2026-09-08T05:35:26Z",
+    "pushed_at": "2026-09-08T05:35:23Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-05T09:25:37Z",
-    "pushed_at": "2026-09-07T23:07:26Z",
+    "pushed_at": "2026-09-08T06:08:28Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11856,8 +11856,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-07-31T05:13:19Z",
-    "updated_at": "2026-09-04T13:35:00Z",
-    "pushed_at": "2026-09-04T13:32:50Z",
+    "updated_at": "2026-09-08T05:03:59Z",
+    "pushed_at": "2026-09-08T05:03:54Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "dahailaila/firefly": {
@@ -13117,8 +13117,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-15T04:44:12Z",
-    "updated_at": "2026-08-31T05:44:39Z",
-    "pushed_at": "2026-08-31T05:43:57Z",
+    "updated_at": "2026-09-08T05:55:53Z",
+    "pushed_at": "2026-09-08T05:55:43Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "louis17782/landing-pagemusic": {
@@ -16357,7 +16357,7 @@
     "name": "automann/astro-kami",
     "url": "https://github.com/automann/astro-kami",
     "description": "An internationalized, writing-focused Astro blog template with editorial typography.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -16379,7 +16379,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-14T12:14:40Z",
-    "updated_at": "2026-07-16T16:13:17Z",
+    "updated_at": "2026-09-08T01:34:11Z",
     "pushed_at": "2026-07-16T16:10:01Z",
     "discovered_at": "2026-07-16T12:43:23.220Z"
   },
@@ -19575,8 +19575,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-15T22:03:49Z",
-    "updated_at": "2026-09-07T02:07:56Z",
-    "pushed_at": "2026-09-07T02:07:52Z",
+    "updated_at": "2026-09-08T02:05:55Z",
+    "pushed_at": "2026-09-08T02:05:43Z",
     "discovered_at": "2026-08-16T00:23:31.991Z"
   },
   "huangmingche/astro-theme-aither": {
@@ -20397,8 +20397,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-09-07T02:03:07Z",
-    "pushed_at": "2026-09-07T02:03:04Z",
+    "updated_at": "2026-09-08T03:17:51Z",
+    "pushed_at": "2026-09-08T03:17:36Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -20432,8 +20432,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T09:43:51Z",
-    "updated_at": "2026-09-03T06:42:22Z",
-    "pushed_at": "2026-09-02T10:17:39Z",
+    "updated_at": "2026-09-08T03:17:48Z",
+    "pushed_at": "2026-09-08T03:17:42Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
   "chunyiw8080/astro-honey-theme": {
@@ -20621,7 +20621,7 @@
     "license": "MIT",
     "created_at": "2026-08-23T07:12:25Z",
     "updated_at": "2026-08-28T10:29:08Z",
-    "pushed_at": "2026-09-07T05:26:37Z",
+    "pushed_at": "2026-09-08T05:21:07Z",
     "discovered_at": "2026-08-23T12:10:38.282Z"
   },
   "rajivharlalka/rajivharlalka.github.io": {
@@ -21984,5 +21984,26 @@
     "updated_at": "2026-09-07T19:52:31Z",
     "pushed_at": "2026-09-07T19:52:11Z",
     "discovered_at": "2026-09-08T00:52:23.213Z"
+  },
+  "talaxy009/astro-tweet-card": {
+    "name": "Talaxy009/astro-tweet-card",
+    "url": "https://github.com/Talaxy009/astro-tweet-card",
+    "description": "Astro component to render tweet cards",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "embed",
+      "tweet",
+      "twitter",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-09-07T10:01:50Z",
+    "updated_at": "2026-09-08T02:51:06Z",
+    "pushed_at": "2026-09-07T13:59:39Z",
+    "discovered_at": "2026-09-08T06:32:25.800Z"
   }
 }
