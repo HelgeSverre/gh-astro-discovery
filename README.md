@@ -2,17 +2,20 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1153
-**Last updated:** 2026-09-09T06:33:17.692Z
+**Total packages tracked:** 1156
+**Last updated:** 2026-09-09T12:28:59.230Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [y2ops/socle](https://github.com/y2ops/socle) | 0 | A two-layer design system starter kit: a data-dense application layer and an edi... |
+| [primeapple/my-blog](https://github.com/primeapple/my-blog) | 0 | My personal blog, based on chrismwilliams/astro-theme-cactus |
+| [agnilem/parley-astro](https://github.com/agnilem/parley-astro) | 0 | Parley — a free AI agent template for Astro. 22 pages, content collections, MIT. |
 | [doit1024/doit-blog](https://github.com/doit1024/doit-blog) | 0 | A minimal, accessible and SEO-friendly Astro blog theme |
 | [esimloop/socle](https://github.com/esimloop/socle) | 0 | Two design systems in one starter kit: a data-dense app layer and an editorial m... |
 | [macktropolis/mackrichardson-blog-astro-macOS9](https://github.com/macktropolis/mackrichardson-blog-astro-macOS9) | 0 | Mack Richardson's website with a Mac OS inspired theme |
-| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 1 | A homepage & blog theme powered by Astro |
+| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 2 | A homepage & blog theme powered by Astro |
 | [njbSaab/astro-njx-verdant](https://github.com/njbSaab/astro-njx-verdant) | 0 | Botanical apothecary ecommerce theme for Astro — deep greens, quick-view popups,... |
 | [xiangdongc/my_firefly](https://github.com/xiangdongc/my_firefly) | 0 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
 | [orioltomas/orioltomas.dev](https://github.com/orioltomas/orioltomas.dev) | 0 | Personal site and CV: static Astro in Catalan and English with hreflang, flash-f... |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [njbSaab/astro-njx-launch](https://github.com/njbSaab/astro-njx-launch) | 0 | Product launch / waitlist starter: Astro + njX UI + Alpine.js — video modal, tes... |
 | [njbSaab/astro-njx-portfolio](https://github.com/njbSaab/astro-njx-portfolio) | 0 | Personal portfolio starter: Astro + njX UI + Alpine.js — filterable project grid... |
 | [lancher-dev/jaamd](https://github.com/lancher-dev/jaamd) | 3 | Just Another Astro Markdown |
-| [puellamogica/blog](https://github.com/puellamogica/blog) | 0 | An astro framework blog theme |
-| [mxlttr/caracals-web](https://github.com/mxlttr/caracals-web) | 0 | Landing page built with Astro.build and Radiant theme |
-| [super-mortal/my-new-blog](https://github.com/super-mortal/my-new-blog) | 0 | A simple, fast and powerful blog & document theme built by Astro |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-09 | Documentation for Azion's services and features. |
+| [wutongyuonce/wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) | 26 | 2026-09-09 | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro b... |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 158 | 2026-09-09 | Open-source Astro website template with TailwindCSS, Keystat... |
+| [macktropolis/mackrichardson-blog-astro-macOS9](https://github.com/macktropolis/mackrichardson-blog-astro-macOS9) | 0 | 2026-09-09 | Mack Richardson's website with a Mac OS inspired theme |
+| [yu0o/Firefly](https://github.com/yu0o/Firefly) | 0 | 2026-09-09 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
+| [agnilem/parley-astro](https://github.com/agnilem/parley-astro) | 0 | 2026-09-09 | Parley — a free AI agent template for Astro. 22 pages, conte... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-09-09 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [y2ops/socle](https://github.com/y2ops/socle) | 0 | 2026-09-09 | A two-layer design system starter kit: a data-dense applicat... |
 | [doit1024/doit-blog](https://github.com/doit1024/doit-blog) | 0 | 2026-09-09 | A minimal, accessible and SEO-friendly Astro blog theme |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-09 | My astro static blog use theme Firefly. |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-09 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [porsche-design-system/sample-integration-astro-offline](https://github.com/porsche-design-system/sample-integration-astro-offline) | 0 | 2026-09-09 | This repository demonstrates how to integrate the Porsche De... |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-09 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [GeauxWeisbeck4/andrewweisbeck-portfolio](https://github.com/GeauxWeisbeck4/andrewweisbeck-portfolio) | 0 | 2026-09-09 | My portfolio website - for now. Using the astro-theme-cody b... |
-| [xiangdongc/my_firefly](https://github.com/xiangdongc/my_firefly) | 0 | 2026-09-09 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-09 | Universal Analytics Engines Integration |
 | [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 3 | 2026-09-09 | Agent-ready personal publish starter |
-| [kpab/astro-keel](https://github.com/kpab/astro-keel) | 22 | 2026-09-09 | Astro Keel — a minimal, neutral, and modern portfolio and bl... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-09-09 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [simoboldrini/dante-astro-theme](https://github.com/simoboldrini/dante-astro-theme) | 0 | 2026-09-09 |  |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-09-09 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-09-09 | Astro Integration to generate a customizable table of conten... |
-| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 1 | 2026-09-09 | A homepage & blog theme powered by Astro |
+| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 23 | 2026-09-09 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
+| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 16 | 2026-09-09 | A blog and personal site theme for Astro with a terminal loo... |
+| [OpaceDigitalAgency/astro-visual-editor](https://github.com/OpaceDigitalAgency/astro-visual-editor) | 6 | 2026-09-09 | Astro Visual Editor for front-end text and SEO editing, drag... |
+| [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-09-09 |  |
+| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 47 | 2026-09-09 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
 | [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-09-09 | Astro integration for loading fonts into build artifacts wit... |
-| [caoergou/caoergou.github.io](https://github.com/caoergou/caoergou.github.io) | 5 | 2026-09-09 | Minimalist dark-theme personal portfolio & blog, built with ... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-09 | An Astro Prometheus nodejs middleware integration for Astro |
-| [copyboy/product_whoami](https://github.com/copyboy/product_whoami) | 9 | 2026-09-09 | 🏆 Astro Official Theme: Modern, performant blog platform fo... |
-| [jonasfroeller/astro.async.loader](https://github.com/jonasfroeller/astro.async.loader) | 0 | 2026-09-09 | An Astro component that shows a loader while iframe is loadi... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 283 | 2026-09-09 | Inline 🦔 |
+| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 18 | 2026-09-09 | Integration of Astro with Strapi CMS that enables easy data ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-09T12:28 | 3 | 879 | 1156 |
 | 2026-09-09T06:33 | 1 | 878 | 1153 |
 | 2026-09-09T00:52 | 3 | 876 | 1152 |
 | 2026-09-08T18:23 | 3 | 875 | 1149 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-07T18:22 | 0 | 872 | 1139 |
 | 2026-09-07T12:29 | 0 | 872 | 1139 |
 | 2026-09-07T06:42 | 0 | 873 | 1139 |
-| 2026-09-07T00:56 | 3 | 870 | 1139 |
 
 ---
 
