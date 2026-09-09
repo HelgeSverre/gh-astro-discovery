@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1156
-**Last updated:** 2026-09-09T12:28:59.230Z
+**Last updated:** 2026-09-09T18:23:53.735Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-09 | Documentation for Azion's services and features. |
-| [wutongyuonce/wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) | 26 | 2026-09-09 | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro b... |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 158 | 2026-09-09 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [macktropolis/mackrichardson-blog-astro-macOS9](https://github.com/macktropolis/mackrichardson-blog-astro-macOS9) | 0 | 2026-09-09 | Mack Richardson's website with a Mac OS inspired theme |
-| [yu0o/Firefly](https://github.com/yu0o/Firefly) | 0 | 2026-09-09 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
-| [agnilem/parley-astro](https://github.com/agnilem/parley-astro) | 0 | 2026-09-09 | Parley — a free AI agent template for Astro. 22 pages, conte... |
-| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-09-09 | 🌟 Create stunning websites with the Mainline Astro Template... |
-| [y2ops/socle](https://github.com/y2ops/socle) | 0 | 2026-09-09 | A two-layer design system starter kit: a data-dense applicat... |
-| [doit1024/doit-blog](https://github.com/doit1024/doit-blog) | 0 | 2026-09-09 | A minimal, accessible and SEO-friendly Astro blog theme |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-09 | My astro static blog use theme Firefly. |
+| [miyamo2/astro-algolia-index](https://github.com/miyamo2/astro-algolia-index) | 0 | 2026-09-09 | Astro integration that pushes your build's records to an Alg... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 219 | 2026-09-09 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-09-09 | Astro Integration to generate a customizable table of conten... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-09 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [miyamo2/astro-recommend-article](https://github.com/miyamo2/astro-recommend-article) | 1 | 2026-09-09 | Astro integration to recommend articles based on OpenAI embe... |
+| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 2 | 2026-09-09 | The Astro wiki you can write in — paper-and-ink typography f... |
+| [orioltomas/orioltomas.dev](https://github.com/orioltomas/orioltomas.dev) | 0 | 2026-09-09 | Personal site and CV: static Astro in Catalan and English wi... |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-09-09 | 🌟 Create stunning websites with the Mainline Astro Template... |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-09 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 3 | 2026-09-09 | Agent-ready personal publish starter |
-| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 23 | 2026-09-09 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
-| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 16 | 2026-09-09 | A blog and personal site theme for Astro with a terminal loo... |
-| [OpaceDigitalAgency/astro-visual-editor](https://github.com/OpaceDigitalAgency/astro-visual-editor) | 6 | 2026-09-09 | Astro Visual Editor for front-end text and SEO editing, drag... |
-| [dahyeong-yun/theme-astro](https://github.com/dahyeong-yun/theme-astro) | 0 | 2026-09-09 |  |
-| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 47 | 2026-09-09 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
-| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-09-09 | Astro integration for loading fonts into build artifacts wit... |
-| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 18 | 2026-09-09 | Integration of Astro with Strapi CMS that enables easy data ... |
+| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 4 | 2026-09-09 | Astro integration that generates robots.txt, llms.txt, sitem... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-09 | Universal Analytics Engines Integration |
+| [GeauxWeisbeck4/andrewweisbeck-portfolio](https://github.com/GeauxWeisbeck4/andrewweisbeck-portfolio) | 0 | 2026-09-09 | My portfolio website - for now. Using the astro-theme-cody b... |
+| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-09-09 | This Astro component simplifies the process of adding moneti... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-09-09 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-09 | Documentation for Azion's services and features. |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-09-09 | Loaders for Astro's Content Layer |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-09-09 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [njbSaab/astro-njx-boutique](https://github.com/njbSaab/astro-njx-boutique) | 0 | 2026-09-09 | Editorial fashion ecommerce theme for Astro — Tailwind v4, S... |
+| [njbSaab/astro-njx-verdant](https://github.com/njbSaab/astro-njx-verdant) | 0 | 2026-09-09 | Botanical apothecary ecommerce theme for Astro — deep greens... |
+| [njbSaab/astro-njx-dark-lux](https://github.com/njbSaab/astro-njx-dark-lux) | 0 | 2026-09-09 | NOCTA — monochrome dark-luxury ecommerce theme for Astro. Ha... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-09T18:23 | 0 | 881 | 1156 |
 | 2026-09-09T12:28 | 3 | 879 | 1156 |
 | 2026-09-09T06:33 | 1 | 878 | 1153 |
 | 2026-09-09T00:52 | 3 | 876 | 1152 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-08T00:52 | 3 | 870 | 1142 |
 | 2026-09-07T18:22 | 0 | 872 | 1139 |
 | 2026-09-07T12:29 | 0 | 872 | 1139 |
-| 2026-09-07T06:42 | 0 | 873 | 1139 |
 
 ---
 
