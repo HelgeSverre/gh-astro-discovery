@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-09-09T16:47:09Z",
-    "pushed_at": "2026-09-10T00:26:29Z",
+    "pushed_at": "2026-09-10T15:32:38Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -2878,7 +2878,7 @@
     "name": "pascal-brand38/astro-dev",
     "url": "https://github.com/pascal-brand38/astro-dev",
     "description": "Astro package and site development doc",
-    "stars": 12,
+    "stars": 13,
     "forks": 3,
     "topics": [
       "astro",
@@ -2899,7 +2899,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-10-16T14:43:11Z",
-    "updated_at": "2026-08-22T19:38:07Z",
+    "updated_at": "2026-09-10T14:47:12Z",
     "pushed_at": "2026-08-15T12:28:12Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -3863,7 +3863,7 @@
     "name": "Ashot72/Astro-Htmx-Alpine.js-Online-Store",
     "url": "https://github.com/Ashot72/Astro-Htmx-Alpine.js-Online-Store",
     "description": "An online store based on the Astro framework, Htmx library and Alpine.js minimal tool.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "alpinejs",
@@ -3884,7 +3884,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-05-20T12:08:25Z",
-    "updated_at": "2026-01-21T02:53:41Z",
+    "updated_at": "2026-09-10T13:31:30Z",
     "pushed_at": "2024-05-26T05:11:42Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5045,8 +5045,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-09-10T09:52:14Z",
-    "pushed_at": "2026-09-10T09:51:18Z",
+    "updated_at": "2026-09-10T15:44:42Z",
+    "pushed_at": "2026-09-10T15:39:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5196,8 +5196,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-09-10T09:29:01Z",
-    "pushed_at": "2026-09-10T09:26:41Z",
+    "updated_at": "2026-09-10T15:21:32Z",
+    "pushed_at": "2026-09-10T15:12:35Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -5349,7 +5349,7 @@
     "name": "CloudCannon/jetstream-astro-template",
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
-    "stars": 13,
+    "stars": 14,
     "forks": 3,
     "topics": [
       "astro",
@@ -5365,7 +5365,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
-    "updated_at": "2026-08-28T14:50:25Z",
+    "updated_at": "2026-09-10T15:29:17Z",
     "pushed_at": "2026-09-10T09:11:37Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6243,8 +6243,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-09-07T13:44:38Z",
-    "pushed_at": "2026-05-31T17:05:47Z",
+    "updated_at": "2026-09-10T14:12:25Z",
+    "pushed_at": "2026-09-10T14:30:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "0xdres/astro-devosfera": {
@@ -10610,7 +10610,7 @@
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
     "updated_at": "2026-09-07T17:54:30Z",
-    "pushed_at": "2026-09-07T17:55:07Z",
+    "pushed_at": "2026-09-10T15:18:59Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
@@ -11291,8 +11291,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
-    "updated_at": "2026-09-09T00:05:21Z",
-    "pushed_at": "2026-09-09T00:05:00Z",
+    "updated_at": "2026-09-10T12:37:17Z",
+    "pushed_at": "2026-09-10T12:35:16Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -11553,8 +11553,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
-    "updated_at": "2026-09-10T11:06:00Z",
-    "pushed_at": "2026-09-10T11:05:57Z",
+    "updated_at": "2026-09-10T12:59:05Z",
+    "pushed_at": "2026-09-10T15:30:11Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11615,7 +11615,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-09-09T19:46:29Z",
-    "pushed_at": "2026-09-10T01:00:43Z",
+    "pushed_at": "2026-09-10T13:18:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -11741,8 +11741,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-09-08T16:07:40Z",
-    "pushed_at": "2026-09-09T00:11:58Z",
+    "updated_at": "2026-09-10T16:02:42Z",
+    "pushed_at": "2026-09-10T16:00:11Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -12526,8 +12526,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-09-09T13:05:46Z",
-    "pushed_at": "2026-09-09T13:01:06Z",
+    "updated_at": "2026-09-10T12:59:48Z",
+    "pushed_at": "2026-09-10T12:57:47Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -16151,7 +16151,7 @@
     "name": "kydecker/astro-lilypond",
     "url": "https://github.com/kydecker/astro-lilypond",
     "description": "An Astro integration for rendering LilyPond music notation.",
-    "stars": 58,
+    "stars": 59,
     "forks": 2,
     "topics": [
       "astro",
@@ -16163,7 +16163,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-09-10T08:26:15Z",
+    "updated_at": "2026-09-10T15:24:49Z",
     "pushed_at": "2026-09-02T03:52:27Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
@@ -16513,15 +16513,15 @@
     "language": "TypeScript",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-17T13:15:24Z",
-    "updated_at": "2026-09-03T13:57:10Z",
-    "pushed_at": "2026-09-03T07:54:34Z",
+    "updated_at": "2026-09-10T13:23:07Z",
+    "pushed_at": "2026-09-10T13:20:42Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "prosefly/astro-theme-lotus": {
     "name": "prosefly/astro-theme-lotus",
     "url": "https://github.com/prosefly/astro-theme-lotus",
     "description": "An installable documentation theme for Astro.",
-    "stars": 11,
+    "stars": 12,
     "forks": 1,
     "topics": [
       "astro",
@@ -16532,8 +16532,8 @@
     "language": "MDX",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-16T13:54:39Z",
-    "updated_at": "2026-09-10T08:12:44Z",
-    "pushed_at": "2026-09-10T08:12:23Z",
+    "updated_at": "2026-09-10T14:43:37Z",
+    "pushed_at": "2026-09-10T13:52:28Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "matchalab/quasar-astro-theme": {
@@ -17507,7 +17507,7 @@
     "name": "mychiffonn/myscholar",
     "url": "https://github.com/mychiffonn/myscholar",
     "description": "Astro theme for academic portfolios (or labs), research blogs, projects, and BibTeX publications",
-    "stars": 16,
+    "stars": 17,
     "forks": 9,
     "topics": [
       "academic-theme",
@@ -17520,7 +17520,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-07-25T06:45:58Z",
-    "updated_at": "2026-09-04T17:39:58Z",
+    "updated_at": "2026-09-10T16:12:18Z",
     "pushed_at": "2026-09-10T09:05:43Z",
     "discovered_at": "2026-07-28T12:46:50.330Z"
   },
@@ -19360,8 +19360,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-13T18:51:01Z",
-    "updated_at": "2026-09-03T15:07:43Z",
-    "pushed_at": "2026-09-03T15:07:41Z",
+    "updated_at": "2026-09-10T15:04:06Z",
+    "pushed_at": "2026-09-10T15:08:50Z",
     "discovered_at": "2026-08-14T00:36:43.837Z"
   },
   "sprinkle-js/astro-resume": {
@@ -20194,7 +20194,7 @@
     "name": "Liyuk/astro-fourfold",
     "url": "https://github.com/Liyuk/astro-fourfold",
     "description": "A static-first personal publication theme for Astro: writing, columns, tags, projects, research, photo essays, search, favorites, RSS, and GitHub Pages support.",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "topics": [
       "astro",
@@ -20211,7 +20211,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-20T22:06:24Z",
-    "updated_at": "2026-09-06T14:54:32Z",
+    "updated_at": "2026-09-10T11:54:22Z",
     "pushed_at": "2026-08-21T01:27:00Z",
     "discovered_at": "2026-08-21T00:23:10.605Z"
   },
@@ -20234,8 +20234,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-19T13:00:25Z",
-    "updated_at": "2026-09-09T11:36:46Z",
-    "pushed_at": "2026-09-09T09:42:39Z",
+    "updated_at": "2026-09-10T12:51:29Z",
+    "pushed_at": "2026-09-10T12:49:31Z",
     "discovered_at": "2026-08-21T00:23:10.606Z"
   },
   "pageel/pageel-theme-starter": {
@@ -21168,7 +21168,7 @@
     "name": "kpab/astro-sumi",
     "url": "https://github.com/kpab/astro-sumi",
     "description": "A minimal Astro 7 blog theme in ink and washi paper, with dual light/dark palettes, zero client JavaScript on article pages, and a WebGL ink simulation on the front page.",
-    "stars": 6,
+    "stars": 7,
     "forks": 3,
     "topics": [
       "astro",
@@ -21187,7 +21187,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-05T06:13:07Z",
-    "updated_at": "2026-09-10T00:41:11Z",
+    "updated_at": "2026-09-10T13:37:28Z",
     "pushed_at": "2026-08-29T15:37:51Z",
     "discovered_at": "2026-08-29T18:20:23.244Z"
   },
@@ -22126,8 +22126,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-11-13T13:26:42Z",
-    "updated_at": "2026-09-09T23:28:51Z",
-    "pushed_at": "2026-09-09T23:28:47Z",
+    "updated_at": "2026-09-10T16:08:37Z",
+    "pushed_at": "2026-09-10T16:06:03Z",
     "discovered_at": "2026-09-09T00:52:01.413Z"
   },
   "yuanzui-cf/nayuta": {
@@ -22308,5 +22308,102 @@
     "updated_at": "2026-09-10T01:46:44Z",
     "pushed_at": "2026-09-10T01:46:38Z",
     "discovered_at": "2026-09-10T04:20:32.156Z"
+  },
+  "avaray/astro-iconify-component": {
+    "name": "Avaray/astro-iconify-component",
+    "url": "https://github.com/Avaray/astro-iconify-component",
+    "description": "Inline SVG icons for Astro. Fully typed, accessible by default, Tailwind-friendly.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "astro-icon",
+      "astro-integration",
+      "icon",
+      "icones",
+      "iconify",
+      "icons",
+      "ssg",
+      "ssr",
+      "svg",
+      "svg-icons",
+      "vector-icons"
+    ],
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "created_at": "2026-09-10T13:09:42Z",
+    "updated_at": "2026-09-10T13:35:41Z",
+    "pushed_at": "2026-09-10T13:32:17Z",
+    "discovered_at": "2026-09-10T16:16:51.715Z"
+  },
+  "churchcreation/church-threshold-astro": {
+    "name": "ChurchCreation/church-threshold-astro",
+    "url": "https://github.com/ChurchCreation/church-threshold-astro",
+    "description": "Threshold — a free church website template for Astro. Self-hosted fonts, dark mode, no tracking. MIT.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "church",
+      "church-website",
+      "dark-mode",
+      "free-template",
+      "responsive",
+      "website-template"
+    ],
+    "language": "CSS",
+    "license": "NOASSERTION",
+    "created_at": "2026-09-10T13:58:36Z",
+    "updated_at": "2026-09-10T14:43:48Z",
+    "pushed_at": "2026-09-10T14:40:52Z",
+    "discovered_at": "2026-09-10T16:16:51.715Z"
+  },
+  "churchcreation/church-canterbury-astro": {
+    "name": "ChurchCreation/church-canterbury-astro",
+    "url": "https://github.com/ChurchCreation/church-canterbury-astro",
+    "description": "Canterbury — a free church website template for Astro. Self-hosted fonts, dark mode, no tracking. MIT.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "church",
+      "church-website",
+      "dark-mode",
+      "free-template",
+      "responsive",
+      "website-template"
+    ],
+    "language": "CSS",
+    "license": "NOASSERTION",
+    "created_at": "2026-09-10T13:59:07Z",
+    "updated_at": "2026-09-10T14:40:55Z",
+    "pushed_at": "2026-09-10T14:40:57Z",
+    "discovered_at": "2026-09-10T16:16:51.715Z"
+  },
+  "churchcreation/church-bethel-astro": {
+    "name": "ChurchCreation/church-bethel-astro",
+    "url": "https://github.com/ChurchCreation/church-bethel-astro",
+    "description": "Bethel — a free church website template for Astro. Self-hosted fonts, dark mode, no tracking. MIT.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "church",
+      "church-website",
+      "dark-mode",
+      "free-template",
+      "responsive",
+      "website-template"
+    ],
+    "language": "CSS",
+    "license": "NOASSERTION",
+    "created_at": "2026-09-10T13:58:03Z",
+    "updated_at": "2026-09-10T14:39:31Z",
+    "pushed_at": "2026-09-10T14:40:45Z",
+    "discovered_at": "2026-09-10T16:16:51.715Z"
   }
 }
