@@ -2,18 +2,19 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1172
-**Last updated:** 2026-09-11T11:05:03.407Z
+**Total packages tracked:** 1173
+**Last updated:** 2026-09-11T16:20:41.755Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [groths89/portfolio-gpr](https://github.com/groths89/portfolio-gpr) | 0 | A themed portfolio created with Astro and Sanity. |
 | [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 2 | A minimal and fast blog built with Astro. |
 | [cnflwzh/mintfolio-theme-verdant](https://github.com/cnflwzh/mintfolio-theme-verdant) | 0 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
 | [mahobuilds/sawwi-website](https://github.com/mahobuilds/sawwi-website) | 0 | The official Sawwi website: a bilingual (English/Arabic) static Astro site for o... |
 | [asyntai/astro-ai-chatbot](https://github.com/asyntai/astro-ai-chatbot) | 0 | Asyntai AI chat assistant for Astro. Answers visitor questions from your own con... |
-| [everfu/astro-solitude](https://github.com/everfu/astro-solitude) | 2 | Solitude theme for Astro: static blog template, MDX components, typed configurat... |
+| [everfu/astro-solitude](https://github.com/everfu/astro-solitude) | 3 | Solitude theme for Astro: static blog template, MDX components, typed configurat... |
 | [njbSaab/astro-njx-maison](https://github.com/njbSaab/astro-njx-maison) | 0 | Free classic Astro theme — a printed archive: three houses, patron cabinet, live... |
 | [mrinvicto/interrupt-theme](https://github.com/mrinvicto/interrupt-theme) | 0 | A minimal Astro starter theme for launching your blog |
 | [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) | 259 | Official Astro theme portfolio template built with React, TypeScript & Tailwind ... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [y2ops/socle](https://github.com/y2ops/socle) | 0 | A two-layer design system starter kit: a data-dense application layer and an edi... |
 | [primeapple/my-blog](https://github.com/primeapple/my-blog) | 0 | My personal blog, based on chrismwilliams/astro-theme-cactus |
 | [agnilem/parley-astro](https://github.com/agnilem/parley-astro) | 0 | Parley — a free AI agent template for Astro. 22 pages, content collections, MIT. |
-| [doit1024/doit-blog](https://github.com/doit1024/doit-blog) | 0 | A minimal, accessible and SEO-friendly Astro blog theme |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [doit1024/doit-blog](https://github.com/doit1024/doit-blog) | 0 | 2026-09-11 | A minimal, accessible and SEO-friendly Astro blog theme |
-| [henryliu8/Web-Factory](https://github.com/henryliu8/Web-Factory) | 1 | 2026-09-11 | An AI-ready Astro website factory for rapidly creating moder... |
-| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-09-11 | The Astro Quick Start package covers the basics of connectin... |
-| [everfu/astro-solitude](https://github.com/everfu/astro-solitude) | 2 | 2026-09-11 | Solitude theme for Astro: static blog template, MDX componen... |
-| [nxtgencoders/swg-theme](https://github.com/nxtgencoders/swg-theme) | 0 | 2026-09-11 | Official Astro Theme Starter for Static Website Generator (S... |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-09-11 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [Avaray/astro-iconify-component](https://github.com/Avaray/astro-iconify-component) | 0 | 2026-09-11 | Inline SVG icons for Astro. Fully typed, accessible by defau... |
-| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 2 | 2026-09-11 | A minimal and fast blog built with Astro. |
-| [cnflwzh/mintfolio-theme-verdant](https://github.com/cnflwzh/mintfolio-theme-verdant) | 0 | 2026-09-11 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
-| [asyntai/astro-ai-chatbot](https://github.com/asyntai/astro-ai-chatbot) | 0 | 2026-09-11 | Asyntai AI chat assistant for Astro. Answers visitor questio... |
-| [mahobuilds/sawwi-website](https://github.com/mahobuilds/sawwi-website) | 0 | 2026-09-11 | The official Sawwi website: a bilingual (English/Arabic) sta... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-11 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-09-11 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 23 | 2026-09-11 | Framework-agnostic interactive component anatomy for design ... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-09-11 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-09-11 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-09-11 | Astro integration that uses existing configuration to write ... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-11 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [groths89/portfolio-gpr](https://github.com/groths89/portfolio-gpr) | 0 | 2026-09-11 | A themed portfolio created with Astro and Sanity. |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-11 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-11 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [OpaceDigitalAgency/astro-visual-editor](https://github.com/OpaceDigitalAgency/astro-visual-editor) | 6 | 2026-09-11 | Astro Visual Editor for front-end text and SEO editing, drag... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 220 | 2026-09-11 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-11 | An Astro Prometheus nodejs middleware integration for Astro |
-| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 4 | 2026-09-11 | Agent-ready personal publish starter |
+| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 0 | 2026-09-11 | A lightweight static blog theme based on Astro. |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-11 | Documentation for Azion's services and features. |
+| [dahailaila/Firefly](https://github.com/dahailaila/Firefly) | 0 | 2026-09-11 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-09-11 | A modern, responsive and lightweight theme for freelancing, ... |
+| [prosefly/astro-theme-dahlia](https://github.com/prosefly/astro-theme-dahlia) | 0 | 2026-09-11 |  |
+| [CamLux/Firefly](https://github.com/CamLux/Firefly) | 0 | 2026-09-11 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
+| [skyxnok/astro-theme-halcyon](https://github.com/skyxnok/astro-theme-halcyon) | 0 | 2026-09-11 |  |
+| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-09-11 | A personal blog built with Astro, based on the Fuwari theme ... |
+| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 2 | 2026-09-11 | A minimal and fast blog built with Astro. |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-09-11 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [henryliu8/Web-Factory](https://github.com/henryliu8/Web-Factory) | 1 | 2026-09-11 | An AI-ready Astro website factory for rapidly creating moder... |
+| [doit1024/doit-blog](https://github.com/doit1024/doit-blog) | 0 | 2026-09-11 | A minimal, accessible and SEO-friendly Astro blog theme |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-09-11 | The Astro Quick Start package covers the basics of connectin... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-11T16:20 | 1 | 889 | 1173 |
 | 2026-09-11T11:05 | 4 | 886 | 1172 |
 | 2026-09-11T04:20 | 1 | 886 | 1168 |
 | 2026-09-10T20:45 | 3 | 883 | 1167 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-09T18:23 | 0 | 881 | 1156 |
 | 2026-09-09T12:28 | 3 | 879 | 1156 |
 | 2026-09-09T06:33 | 1 | 878 | 1153 |
-| 2026-09-09T00:52 | 3 | 876 | 1152 |
 
 ---
 
