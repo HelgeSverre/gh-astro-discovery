@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-09-11T17:42:37Z",
-    "pushed_at": "2026-09-11T17:43:14Z",
+    "pushed_at": "2026-09-12T10:23:59Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -5220,8 +5220,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-09-10T05:23:55Z",
-    "pushed_at": "2026-09-10T05:23:51Z",
+    "updated_at": "2026-09-12T10:25:33Z",
+    "pushed_at": "2026-09-12T10:25:29Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5618,7 +5618,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 284,
+    "stars": 285,
     "forks": 82,
     "topics": [
       "astro",
@@ -5637,7 +5637,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-09-06T10:04:49Z",
+    "updated_at": "2026-09-12T04:38:49Z",
     "pushed_at": "2026-06-24T05:40:21Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9786,8 +9786,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-09-12T02:05:13Z",
-    "pushed_at": "2026-09-12T02:05:08Z",
+    "updated_at": "2026-09-12T04:59:12Z",
+    "pushed_at": "2026-09-12T10:13:03Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -11462,7 +11462,7 @@
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
     "updated_at": "2026-09-10T17:06:17Z",
-    "pushed_at": "2026-09-10T17:06:14Z",
+    "pushed_at": "2026-09-12T06:29:06Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-10T12:59:05Z",
-    "pushed_at": "2026-09-12T01:55:28Z",
+    "pushed_at": "2026-09-12T07:16:32Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11615,7 +11615,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-09-11T18:17:25Z",
-    "pushed_at": "2026-09-11T18:25:16Z",
+    "pushed_at": "2026-09-12T04:48:59Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -12190,8 +12190,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-24T08:10:09Z",
-    "updated_at": "2026-08-31T12:28:09Z",
-    "pushed_at": "2026-08-31T12:21:56Z",
+    "updated_at": "2026-09-12T07:12:50Z",
+    "pushed_at": "2026-09-12T07:12:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/amir-rad-prt": {
@@ -12277,7 +12277,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-09-06T14:53:03Z",
-    "pushed_at": "2026-09-11T22:16:00Z",
+    "pushed_at": "2026-09-12T04:59:15Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -14174,8 +14174,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-08-13T02:14:34Z",
-    "updated_at": "2026-09-10T01:17:07Z",
-    "pushed_at": "2026-09-10T01:17:03Z",
+    "updated_at": "2026-09-12T06:40:53Z",
+    "pushed_at": "2026-09-12T06:40:49Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "t-morris/astro-colony": {
@@ -15695,8 +15695,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-09-12T03:59:29Z",
-    "pushed_at": "2026-09-12T03:59:25Z",
+    "updated_at": "2026-09-12T10:11:48Z",
+    "pushed_at": "2026-09-12T10:21:59Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -16513,8 +16513,8 @@
     "language": "TypeScript",
     "license": "BSD-3-Clause",
     "created_at": "2026-07-17T13:15:24Z",
-    "updated_at": "2026-09-10T13:23:07Z",
-    "pushed_at": "2026-09-10T13:20:42Z",
+    "updated_at": "2026-09-12T07:28:38Z",
+    "pushed_at": "2026-09-12T07:28:34Z",
     "discovered_at": "2026-07-17T18:29:34.571Z"
   },
   "prosefly/astro-theme-lotus": {
@@ -16694,7 +16694,7 @@
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
     "stars": 106,
-    "forks": 22,
+    "forks": 23,
     "topics": [
       "astro",
       "blog-theme"
@@ -16962,8 +16962,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-04-29T05:26:29Z",
-    "updated_at": "2026-09-08T11:51:41Z",
-    "pushed_at": "2026-09-08T11:50:38Z",
+    "updated_at": "2026-09-12T09:30:24Z",
+    "pushed_at": "2026-09-12T09:30:20Z",
     "discovered_at": "2026-07-21T12:40:21.999Z"
   },
   "nhedger/astro-downgrade-heading": {
@@ -17039,8 +17039,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-25T20:56:11Z",
-    "updated_at": "2026-09-07T12:38:49Z",
-    "pushed_at": "2026-09-07T12:38:04Z",
+    "updated_at": "2026-09-12T09:55:48Z",
+    "pushed_at": "2026-09-12T09:55:46Z",
     "discovered_at": "2026-07-22T12:41:39.306Z"
   },
   "yickminglee/astro-notion-theme": {
@@ -17800,8 +17800,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-21T08:19:52Z",
-    "updated_at": "2026-09-05T10:17:37Z",
-    "pushed_at": "2026-09-05T10:22:28Z",
+    "updated_at": "2026-09-12T06:41:20Z",
+    "pushed_at": "2026-09-12T06:41:16Z",
     "discovered_at": "2026-07-31T18:38:28.130Z"
   },
   "wanhe-1/astro-page": {
@@ -19638,13 +19638,13 @@
     "name": "willimt/astro-theme-ink",
     "url": "https://github.com/willimt/astro-theme-ink",
     "description": "A warm, paper-feel personal blog theme built with Astro & UnoCSS. Ink on paper - one accent hue, quiet grays, generous whitespace, serif headings. Live demo: https://ink.willimt.com",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-16T15:56:28Z",
-    "updated_at": "2026-09-07T08:11:27Z",
+    "updated_at": "2026-09-12T08:58:47Z",
     "pushed_at": "2026-09-07T07:34:11Z",
     "discovered_at": "2026-08-16T18:08:18.479Z"
   },
@@ -21247,8 +21247,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-09-12T01:18:10Z",
-    "pushed_at": "2026-09-12T01:18:06Z",
+    "updated_at": "2026-09-12T05:59:42Z",
+    "pushed_at": "2026-09-12T05:59:39Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -21571,8 +21571,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-01T16:51:50Z",
-    "updated_at": "2026-09-12T04:04:39Z",
-    "pushed_at": "2026-09-12T03:29:21Z",
+    "updated_at": "2026-09-12T05:17:26Z",
+    "pushed_at": "2026-09-12T05:17:22Z",
     "discovered_at": "2026-09-03T06:32:16.909Z"
   },
   "alderthemes/larkin": {
@@ -21600,8 +21600,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-05T23:36:10Z",
-    "updated_at": "2026-09-09T18:43:27Z",
-    "pushed_at": "2026-09-09T18:41:34Z",
+    "updated_at": "2026-09-12T05:06:03Z",
+    "pushed_at": "2026-09-12T05:05:59Z",
     "discovered_at": "2026-09-03T06:32:16.910Z"
   },
   "ernxst/icon-prerender": {
@@ -22480,11 +22480,11 @@
       "heo",
       "solitude"
     ],
-    "language": "CSS",
+    "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-09-10T15:53:20Z",
-    "updated_at": "2026-09-11T11:40:03Z",
-    "pushed_at": "2026-09-11T10:02:25Z",
+    "updated_at": "2026-09-12T06:57:31Z",
+    "pushed_at": "2026-09-12T06:56:51Z",
     "discovered_at": "2026-09-11T04:20:16.669Z"
   },
   "asyntai/astro-ai-chatbot": {
@@ -22527,8 +22527,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-29T08:47:57Z",
-    "updated_at": "2026-09-12T02:43:02Z",
-    "pushed_at": "2026-09-12T02:42:59Z",
+    "updated_at": "2026-09-12T05:57:12Z",
+    "pushed_at": "2026-09-12T05:57:09Z",
     "discovered_at": "2026-09-11T11:05:03.400Z"
   },
   "cnflwzh/mintfolio-theme-verdant": {
@@ -22597,8 +22597,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-11T11:24:00Z",
-    "updated_at": "2026-09-11T21:05:44Z",
-    "pushed_at": "2026-09-11T21:05:48Z",
+    "updated_at": "2026-09-12T10:28:32Z",
+    "pushed_at": "2026-09-12T10:28:37Z",
     "discovered_at": "2026-09-11T20:51:52.885Z"
   },
   "mrinvicto/interrupt-theme-astro": {
