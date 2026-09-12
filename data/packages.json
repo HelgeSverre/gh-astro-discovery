@@ -2580,7 +2580,7 @@
     "license": "MIT",
     "created_at": "2024-07-19T21:48:19Z",
     "updated_at": "2025-07-27T17:58:09Z",
-    "pushed_at": "2026-09-05T23:58:55Z",
+    "pushed_at": "2026-09-12T16:06:07Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "yjl9903/unplugin-analytics": {
@@ -5220,8 +5220,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-09-12T13:01:08Z",
-    "pushed_at": "2026-09-12T13:01:05Z",
+    "updated_at": "2026-09-12T19:35:03Z",
+    "pushed_at": "2026-09-12T19:35:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5658,7 +5658,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-09-11T04:16:00Z",
-    "pushed_at": "2026-09-11T04:16:38Z",
+    "pushed_at": "2026-09-12T18:57:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5799,7 +5799,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2026-09-11T04:14:18Z",
-    "pushed_at": "2026-09-11T04:15:19Z",
+    "pushed_at": "2026-09-12T18:59:57Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6243,8 +6243,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-09-11T09:07:11Z",
-    "pushed_at": "2026-09-11T09:07:07Z",
+    "updated_at": "2026-09-12T16:33:12Z",
+    "pushed_at": "2026-09-12T16:33:08Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "0xdres/astro-devosfera": {
@@ -8412,8 +8412,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
-    "updated_at": "2026-09-12T14:06:44Z",
-    "pushed_at": "2026-09-12T14:07:23Z",
+    "updated_at": "2026-09-12T17:21:02Z",
+    "pushed_at": "2026-09-12T17:21:31Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -8476,7 +8476,7 @@
     "name": "JUVOJustin/astrojs-wp-integration",
     "url": "https://github.com/JUVOJustin/astrojs-wp-integration",
     "description": "WordPress Integration for AstroJS",
-    "stars": 13,
+    "stars": 14,
     "forks": 2,
     "topics": [
       "astrojs",
@@ -8485,7 +8485,7 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2025-12-31T09:56:49Z",
-    "updated_at": "2026-08-08T18:05:19Z",
+    "updated_at": "2026-09-12T18:13:10Z",
     "pushed_at": "2026-05-09T18:02:20Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -9700,7 +9700,7 @@
     "url": "https://github.com/lifeodyssey/retypeset-odyssey",
     "description": "Trilingual Astro theme: typography-first, MDX, Cloudflare Pages, YAML config, one-line install.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-theme",
@@ -10002,7 +10002,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 49,
-    "forks": 33,
+    "forks": 34,
     "topics": [
       "astro",
       "astro-template",
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-10T12:59:05Z",
-    "pushed_at": "2026-09-12T14:32:40Z",
+    "pushed_at": "2026-09-12T19:47:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11614,8 +11614,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
-    "updated_at": "2026-09-12T14:57:24Z",
-    "pushed_at": "2026-09-12T14:58:00Z",
+    "updated_at": "2026-09-12T18:52:36Z",
+    "pushed_at": "2026-09-12T18:52:55Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -11741,8 +11741,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-09-11T16:06:52Z",
-    "pushed_at": "2026-09-11T16:06:47Z",
+    "updated_at": "2026-09-12T16:21:47Z",
+    "pushed_at": "2026-09-12T16:21:44Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -11920,13 +11920,13 @@
     "name": "hansmartensdev/Astro-Rocket",
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 12 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
-    "stars": 114,
+    "stars": 115,
     "forks": 57,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-09-08T20:18:38Z",
+    "updated_at": "2026-09-12T19:25:44Z",
     "pushed_at": "2026-09-06T07:20:16Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -15695,8 +15695,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-09-12T10:36:39Z",
-    "pushed_at": "2026-09-12T10:36:35Z",
+    "updated_at": "2026-09-12T19:40:05Z",
+    "pushed_at": "2026-09-12T19:40:01Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -16962,8 +16962,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-04-29T05:26:29Z",
-    "updated_at": "2026-09-12T15:20:00Z",
-    "pushed_at": "2026-09-12T15:19:57Z",
+    "updated_at": "2026-09-12T16:38:59Z",
+    "pushed_at": "2026-09-12T16:38:56Z",
     "discovered_at": "2026-07-21T12:40:21.999Z"
   },
   "nhedger/astro-downgrade-heading": {
@@ -17292,8 +17292,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-26T00:39:36Z",
-    "updated_at": "2026-08-02T11:14:35Z",
-    "pushed_at": "2026-09-12T14:59:32Z",
+    "updated_at": "2026-09-12T16:34:21Z",
+    "pushed_at": "2026-09-12T16:34:18Z",
     "discovered_at": "2026-07-26T00:54:31.960Z"
   },
   "mathieubaffoigne/mathieubaffoigne.github.io": {
@@ -20194,7 +20194,7 @@
     "name": "Liyuk/astro-fourfold",
     "url": "https://github.com/Liyuk/astro-fourfold",
     "description": "A static-first personal publication theme for Astro: writing, columns, tags, projects, research, photo essays, search, favorites, RSS, and GitHub Pages support.",
-    "stars": 5,
+    "stars": 6,
     "forks": 2,
     "topics": [
       "astro",
@@ -20211,7 +20211,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-20T22:06:24Z",
-    "updated_at": "2026-09-10T11:54:22Z",
+    "updated_at": "2026-09-12T19:32:13Z",
     "pushed_at": "2026-08-21T01:27:00Z",
     "discovered_at": "2026-08-21T00:23:10.605Z"
   },
@@ -21571,8 +21571,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-01T16:51:50Z",
-    "updated_at": "2026-09-12T05:17:26Z",
-    "pushed_at": "2026-09-12T05:17:22Z",
+    "updated_at": "2026-09-12T16:46:23Z",
+    "pushed_at": "2026-09-12T16:46:16Z",
     "discovered_at": "2026-09-03T06:32:16.909Z"
   },
   "alderthemes/larkin": {
@@ -21967,7 +21967,7 @@
     "license": "MIT",
     "created_at": "2026-08-31T01:42:21Z",
     "updated_at": "2026-09-07T19:38:01Z",
-    "pushed_at": "2026-09-07T02:34:54Z",
+    "pushed_at": "2026-09-12T19:01:56Z",
     "discovered_at": "2026-09-08T00:52:23.212Z"
   },
   "crenaz/astrowind": {
@@ -22025,11 +22025,27 @@
     "description": "NOCTA — monochrome dark-luxury ecommerce theme for Astro. Hairline borders, hatch backgrounds, quick-view popup, Shopify-ready",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "astro",
+      "ecommerce",
+      "ecommerce-store",
+      "ecommerce-website",
+      "headless",
+      "headless-commerce",
+      "shopify",
+      "shopify-theme",
+      "storefront",
+      "storefront-theme",
+      "tailwind",
+      "tailwind-css",
+      "tailwind-css-template",
+      "tailwindcss",
+      "template"
+    ],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-08T11:30:12Z",
-    "updated_at": "2026-09-09T15:56:48Z",
+    "updated_at": "2026-09-12T19:42:37Z",
     "pushed_at": "2026-09-09T15:53:40Z",
     "discovered_at": "2026-09-08T12:29:02.029Z"
   },
@@ -22053,11 +22069,29 @@
     "description": "Editorial fashion ecommerce theme for Astro — Tailwind v4, Shopify-ready, mock data out of the box",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "ecommerce",
+      "ecommerce-template",
+      "ecommerce-theme",
+      "ecommerce-website",
+      "headless",
+      "headless-commerce",
+      "shopify",
+      "shopify-theme",
+      "storefront",
+      "storefront-theme",
+      "tailwind",
+      "tailwind-template",
+      "tailwindcss",
+      "template"
+    ],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-08T08:35:55Z",
-    "updated_at": "2026-09-09T15:56:33Z",
+    "updated_at": "2026-09-12T19:53:13Z",
     "pushed_at": "2026-09-09T15:54:23Z",
     "discovered_at": "2026-09-08T12:29:02.029Z"
   },
@@ -22067,11 +22101,28 @@
     "description": "Botanical apothecary ecommerce theme for Astro — deep greens, quick-view popups, Shopify-ready",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "astro",
+      "ecommerce",
+      "ecommerce-application",
+      "ecommerce-platform",
+      "ecommerce-website",
+      "headless",
+      "headless-commerce",
+      "shopify",
+      "shopify-storefront",
+      "shopify-theme",
+      "storefront",
+      "storefront-theme",
+      "tailwind",
+      "tailwind-css",
+      "tailwindcss",
+      "template"
+    ],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-08T11:04:59Z",
-    "updated_at": "2026-09-09T16:01:46Z",
+    "updated_at": "2026-09-12T19:45:04Z",
     "pushed_at": "2026-09-09T15:53:59Z",
     "discovered_at": "2026-09-08T18:23:39.478Z"
   },
@@ -22416,11 +22467,26 @@
     "description": "Free classic Astro theme — a printed archive: three houses, patron cabinet, live currency switch. Astro 5 + Tailwind v4, Shopify-ready.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "ecommerce-store",
+      "ecommerce-website",
+      "ecoomerce",
+      "headless-commerce",
+      "shopify-theme",
+      "storefront",
+      "storefront-theme",
+      "tailwindcss",
+      "tailwinds-theme",
+      "tailwindscss",
+      "templates"
+    ],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-10T15:23:42Z",
-    "updated_at": "2026-09-11T02:59:48Z",
+    "updated_at": "2026-09-12T19:56:34Z",
     "pushed_at": "2026-09-11T02:59:43Z",
     "discovered_at": "2026-09-10T20:45:55.536Z"
   },
@@ -22597,8 +22663,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-11T11:24:00Z",
-    "updated_at": "2026-09-12T12:33:11Z",
-    "pushed_at": "2026-09-12T12:33:22Z",
+    "updated_at": "2026-09-12T17:39:15Z",
+    "pushed_at": "2026-09-12T17:39:19Z",
     "discovered_at": "2026-09-11T20:51:52.885Z"
   },
   "mrinvicto/interrupt-theme-astro": {
@@ -22660,5 +22726,91 @@
     "updated_at": "2026-09-12T11:42:37Z",
     "pushed_at": "2026-09-12T12:03:34Z",
     "discovered_at": "2026-09-12T15:25:54.082Z"
+  },
+  "federicodiluca/federicodiluca.github.io": {
+    "name": "federicodiluca/federicodiluca.github.io",
+    "url": "https://github.com/federicodiluca/federicodiluca.github.io",
+    "description": "Personal website & blog built with Astro — bilingual (IT/EN), category blog with Mermaid diagrams, dark mode, SEO-ready, zero tracking. Deployed on GitHub Pages.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "dark-mode",
+      "github-pages",
+      "i18n",
+      "mermaid",
+      "personal-website",
+      "portfolio",
+      "portfolio-website",
+      "privacy-friendly",
+      "seo",
+      "static-site",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2021-11-28T19:52:59Z",
+    "updated_at": "2026-09-12T17:46:47Z",
+    "pushed_at": "2026-09-12T17:32:10Z",
+    "discovered_at": "2026-09-12T20:27:57.211Z"
+  },
+  "njbsaab/astro-njx-muse": {
+    "name": "njbSaab/astro-njx-muse",
+    "url": "https://github.com/njbSaab/astro-njx-muse",
+    "description": "Premium womenswear storefront: Astro + Tailwind v4 — ink-navy editorial, transparent-to-solid masthead, hover mega menu, Shop the Look hotspots.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "ecommerce",
+      "ecommerce-website",
+      "ecommerce-website-front-end",
+      "headless",
+      "shopify",
+      "storefront",
+      "storefront-theme",
+      "tailwind-template",
+      "tailwind-theme",
+      "tailwindcss",
+      "template"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-09-10T18:49:50Z",
+    "updated_at": "2026-09-12T19:55:25Z",
+    "pushed_at": "2026-09-11T14:36:48Z",
+    "discovered_at": "2026-09-12T20:27:57.211Z"
+  },
+  "njbsaab/astro-njx-store": {
+    "name": "njbSaab/astro-njx-store",
+    "url": "https://github.com/njbSaab/astro-njx-store",
+    "description": "Ecommerce storefront starter: Astro + Tailwind v4 — mock data out of the box, Shopify Storefront API with two env vars.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "ecommerce",
+      "ecommerce-website",
+      "shopify",
+      "shopify-theme",
+      "storefront",
+      "storefront-theme",
+      "tailwind-template",
+      "tailwind-theme",
+      "tailwindcss",
+      "template"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-09-07T12:23:50Z",
+    "updated_at": "2026-09-12T19:59:20Z",
+    "pushed_at": "2026-09-09T15:54:45Z",
+    "discovered_at": "2026-09-12T20:27:57.211Z"
   }
 }
