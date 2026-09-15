@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1192
-**Last updated:** 2026-09-14T21:44:21.294Z
+**Last updated:** 2026-09-15T04:38:38.392Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-09-15 | Modern static blog theme with distinctive anime-style featur... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 59 | 2026-09-15 | An Astro integration for rendering LilyPond music notation. |
+| [yuzhishuo/blog](https://github.com/yuzhishuo/blog) | 0 | 2026-09-15 | Astro Theme Pure blog source — CI deploys to yuzhishuo.githu... |
+| [CloudCannon/sendit-astro-template](https://github.com/CloudCannon/sendit-astro-template) | 136 | 2026-09-15 | Sendit is a polished, marketing website template for Astro. |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 283 | 2026-09-15 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-09-15 | Format 🗻 |
+| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-09-15 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 116 | 2026-09-15 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
+| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 10 | 2026-09-15 | Reef, a free bilingual Astro 7 blog theme by Aloha Pixel. Li... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-15 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 5 | 2026-09-15 | Your favorite dark mode word counter, now with grammar check... |
+| [SudoDevStudio/astro-ai](https://github.com/SudoDevStudio/astro-ai) | 1 | 2026-09-15 | Development-only visual editing for Astro. Select elements, ... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-15 | My astro static blog use theme Firefly. |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-09-14 | The i18n integration for Astro 🧑‍🚀 |
 | [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-09-14 | Astro Integration to generate a customizable table of conten... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-14 | Documentation for Azion's services and features. |
+| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 72 | 2026-09-14 | 📈 Astro integration to add Umami Analytics to your website |
 | [vispar-tech/vispar-tech.github.io](https://github.com/vispar-tech/vispar-tech.github.io) | 0 | 2026-09-14 | Personal landing website and portfolio. Built with Astro: da... |
 | [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-09-14 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 116 | 2026-09-14 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-09-14 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 3 | 2026-09-14 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-14 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [CloudCannon/jetstream-astro-template](https://github.com/CloudCannon/jetstream-astro-template) | 14 | 2026-09-14 | A polished Astro template built on the Component Starter, de... |
-| [sondr3/astro-html-minifier](https://github.com/sondr3/astro-html-minifier) | 8 | 2026-09-14 | DEPRECATED: A HTML minifier for Astro |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-09-14 | Format 🗻 |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-14 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [AllsVoid/sorapaper](https://github.com/AllsVoid/sorapaper) | 1 | 2026-09-14 | A soft, content-first Astro blog theme for long-form writing... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-14 | An Astro Prometheus nodejs middleware integration for Astro |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-09-14 | The i18n integration for Astro 🧑‍🚀 |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-14 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 23 | 2026-09-14 | Framework-agnostic interactive component anatomy for design ... |
-| [puellamogica/blog](https://github.com/puellamogica/blog) | 0 | 2026-09-14 | An astro framework blog theme |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-09-14 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [iannuttall/seo-graph](https://github.com/iannuttall/seo-graph) | 25 | 2026-09-14 | Agent-ready SEO for JavaScript — schema.org JSON-LD graph bu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-15T04:38 | 0 | 899 | 1192 |
 | 2026-09-14T21:44 | 0 | 899 | 1192 |
 | 2026-09-14T12:31 | 2 | 897 | 1192 |
 | 2026-09-14T04:37 | 6 | 891 | 1190 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-13T04:31 | 0 | 894 | 1181 |
 | 2026-09-12T20:27 | 3 | 891 | 1181 |
 | 2026-09-12T15:25 | 3 | 888 | 1178 |
-| 2026-09-12T10:34 | 0 | 891 | 1175 |
 
 ---
 
