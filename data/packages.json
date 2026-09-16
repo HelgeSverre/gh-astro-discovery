@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-09-15T03:15:39Z",
-    "pushed_at": "2026-09-15T03:15:35Z",
+    "updated_at": "2026-09-16T03:11:51Z",
+    "pushed_at": "2026-09-16T03:11:47Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-09-15T03:11:51Z",
-    "pushed_at": "2026-09-15T03:11:47Z",
+    "updated_at": "2026-09-16T03:08:28Z",
+    "pushed_at": "2026-09-16T03:08:24Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -236,14 +236,14 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-09-15T18:43:14Z",
-    "pushed_at": "2026-09-15T18:43:12Z",
+    "pushed_at": "2026-09-16T00:35:48Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 220,
+    "stars": 221,
     "forks": 16,
     "topics": [
       "a11y",
@@ -263,7 +263,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-09-11T17:42:37Z",
+    "updated_at": "2026-09-16T01:04:37Z",
     "pushed_at": "2026-09-15T13:16:32Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -304,7 +304,7 @@
     "license": "MIT",
     "created_at": "2024-12-04T21:29:15Z",
     "updated_at": "2026-09-05T13:41:18Z",
-    "pushed_at": "2026-09-15T18:15:58Z",
+    "pushed_at": "2026-09-16T00:55:54Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "twocaretcat/tally": {
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-09-15T12:43:39Z",
-    "pushed_at": "2026-09-15T12:44:21Z",
+    "pushed_at": "2026-09-16T01:51:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-09-15T20:16:59Z",
+    "pushed_at": "2026-09-16T01:24:39Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -1426,8 +1426,8 @@
     "language": "Astro",
     "license": "ISC",
     "created_at": "2022-04-27T04:55:20Z",
-    "updated_at": "2026-08-25T05:27:40Z",
-    "pushed_at": "2026-08-25T05:26:56Z",
+    "updated_at": "2026-09-16T04:08:28Z",
+    "pushed_at": "2026-09-16T04:08:33Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jeremyxgo/astro-react-i18next": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-09-15T11:01:15Z",
+    "pushed_at": "2026-09-15T21:10:30Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2605,7 +2605,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-09-09T16:52:44Z",
-    "pushed_at": "2026-09-15T13:58:05Z",
+    "pushed_at": "2026-09-16T02:20:45Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2667,8 +2667,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
-    "updated_at": "2026-09-14T23:13:28Z",
-    "pushed_at": "2026-09-15T18:13:13Z",
+    "updated_at": "2026-09-16T01:06:34Z",
+    "pushed_at": "2026-09-16T01:06:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5220,8 +5220,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-09-15T08:36:31Z",
-    "pushed_at": "2026-09-15T08:36:28Z",
+    "updated_at": "2026-09-16T02:48:13Z",
+    "pushed_at": "2026-09-16T02:48:10Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -5366,7 +5366,7 @@
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
     "updated_at": "2026-09-14T19:51:59Z",
-    "pushed_at": "2026-09-14T19:55:01Z",
+    "pushed_at": "2026-09-16T02:15:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "louisescher/spectre": {
@@ -5437,8 +5437,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-09-15T20:42:50Z",
-    "pushed_at": "2026-09-15T20:42:53Z",
+    "updated_at": "2026-09-16T00:29:18Z",
+    "pushed_at": "2026-09-16T00:29:14Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -5657,8 +5657,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
-    "updated_at": "2026-09-12T23:00:47Z",
-    "pushed_at": "2026-09-15T09:58:02Z",
+    "updated_at": "2026-09-16T03:11:12Z",
+    "pushed_at": "2026-09-16T03:11:42Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5758,7 +5758,7 @@
     "name": "davidvkimball/astro-modular",
     "url": "https://github.com/davidvkimball/astro-modular",
     "description": "A flexible Astro blog theme designed for Obsidian users.",
-    "stars": 230,
+    "stars": 231,
     "forks": 44,
     "topics": [
       "astro",
@@ -5772,7 +5772,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-09-15T18:23:27Z",
+    "updated_at": "2026-09-15T23:28:28Z",
     "pushed_at": "2026-08-31T20:42:13Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5798,8 +5798,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
-    "updated_at": "2026-09-12T23:00:44Z",
-    "pushed_at": "2026-09-15T10:13:09Z",
+    "updated_at": "2026-09-16T03:11:10Z",
+    "pushed_at": "2026-09-16T03:12:00Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6405,7 +6405,7 @@
     "url": "https://github.com/themefisher/pinwheel-astro",
     "description": "Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS.",
     "stars": 230,
-    "forks": 173,
+    "forks": 172,
     "topics": [
       "astro-starter",
       "astro-theme",
@@ -8413,7 +8413,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-09-14T02:03:26Z",
-    "pushed_at": "2026-09-15T16:54:46Z",
+    "pushed_at": "2026-09-16T00:48:48Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -11254,8 +11254,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-23T08:52:41Z",
-    "updated_at": "2026-09-15T12:38:53Z",
-    "pushed_at": "2026-09-15T12:38:50Z",
+    "updated_at": "2026-09-16T01:50:20Z",
+    "pushed_at": "2026-09-16T01:50:17Z",
     "discovered_at": "2026-07-09T13:16:41.894Z"
   },
   "lchauvin/astrointegration": {
@@ -11291,8 +11291,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
-    "updated_at": "2026-09-13T00:02:11Z",
-    "pushed_at": "2026-09-13T00:02:08Z",
+    "updated_at": "2026-09-16T00:04:16Z",
+    "pushed_at": "2026-09-16T00:04:12Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -11461,8 +11461,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-09-15T21:08:09Z",
-    "pushed_at": "2026-09-15T21:08:06Z",
+    "updated_at": "2026-09-16T04:27:59Z",
+    "pushed_at": "2026-09-16T04:27:57Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-15T12:11:21Z",
-    "pushed_at": "2026-09-15T20:33:57Z",
+    "pushed_at": "2026-09-16T02:05:52Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12595,7 +12595,7 @@
     "license": "MIT",
     "created_at": "2024-06-26T07:47:44Z",
     "updated_at": "2026-08-17T05:00:38Z",
-    "pushed_at": "2026-09-15T19:55:46Z",
+    "pushed_at": "2026-09-16T00:54:36Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "bitdoze/bitdoze-astro-theme": {
@@ -14241,7 +14241,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-09-10T05:48:04Z",
-    "pushed_at": "2026-09-15T00:14:32Z",
+    "pushed_at": "2026-09-15T23:56:57Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -16701,7 +16701,7 @@
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
     "stars": 107,
-    "forks": 23,
+    "forks": 24,
     "topics": [
       "astro",
       "blog-theme"
@@ -19197,8 +19197,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-11T03:18:07Z",
-    "updated_at": "2026-09-13T17:22:03Z",
-    "pushed_at": "2026-09-13T17:21:59Z",
+    "updated_at": "2026-09-16T01:45:17Z",
+    "pushed_at": "2026-09-16T01:45:13Z",
     "discovered_at": "2026-08-12T12:24:34.891Z"
   },
   "minciallo/firefly": {
@@ -19582,8 +19582,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-15T22:03:49Z",
-    "updated_at": "2026-09-15T02:03:54Z",
-    "pushed_at": "2026-09-15T02:03:50Z",
+    "updated_at": "2026-09-16T02:04:12Z",
+    "pushed_at": "2026-09-16T02:04:08Z",
     "discovered_at": "2026-08-16T00:23:31.991Z"
   },
   "huangmingche/astro-theme-aither": {
@@ -20241,8 +20241,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-05-19T13:00:25Z",
-    "updated_at": "2026-09-14T03:07:38Z",
-    "pushed_at": "2026-09-13T18:36:36Z",
+    "updated_at": "2026-09-15T21:22:38Z",
+    "pushed_at": "2026-09-15T21:22:34Z",
     "discovered_at": "2026-08-21T00:23:10.606Z"
   },
   "pageel/pageel-theme-starter": {
@@ -21177,7 +21177,7 @@
     "url": "https://github.com/kpab/astro-sumi",
     "description": "A minimal Astro 7 blog theme in ink and washi paper, with dual light/dark palettes, zero client JavaScript on article pages, and a WebGL ink simulation on the front page.",
     "stars": 8,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "astro",
       "astro-blog",
@@ -22215,7 +22215,7 @@
     "license": "MIT",
     "created_at": "2025-08-31T05:04:49Z",
     "updated_at": "2026-09-09T10:50:26Z",
-    "pushed_at": "2026-09-11T10:54:42Z",
+    "pushed_at": "2026-09-16T03:50:18Z",
     "discovered_at": "2026-09-09T06:33:17.682Z"
   },
   "agnilem/parley-astro": {
@@ -22517,7 +22517,7 @@
     "url": "https://github.com/Gothsec/dark-minimal",
     "description": "Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.",
     "stars": 261,
-    "forks": 144,
+    "forks": 145,
     "topics": [
       "astro",
       "astro-portfolio",
@@ -23042,8 +23042,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-15T14:09:05Z",
-    "updated_at": "2026-09-15T20:55:02Z",
-    "pushed_at": "2026-09-15T20:54:58Z",
+    "updated_at": "2026-09-16T00:17:51Z",
+    "pushed_at": "2026-09-16T00:17:46Z",
     "discovered_at": "2026-09-15T21:10:38.607Z"
   },
   "pierquinto/astrology-standard": {
@@ -23083,5 +23083,47 @@
     "updated_at": "2026-09-15T20:20:14Z",
     "pushed_at": "2026-09-15T20:22:14Z",
     "discovered_at": "2026-09-15T21:10:38.608Z"
+  },
+  "ignaciobarraza/kobo": {
+    "name": "IgnacioBarraza/kobo",
+    "url": "https://github.com/IgnacioBarraza/kobo",
+    "description": "Kobo is my brand new portfolio, created to reflect my identity, philosophy and work through a minimalist japanese inspired theme, built in astro",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-09-16T03:21:32Z",
+    "updated_at": "2026-09-16T03:34:15Z",
+    "pushed_at": "2026-09-16T03:34:11Z",
+    "discovered_at": "2026-09-16T04:33:54.073Z"
+  },
+  "tsche/astro-theme": {
+    "name": "Tsche/astro-theme",
+    "url": "https://github.com/Tsche/astro-theme",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-09-11T20:38:38Z",
+    "updated_at": "2026-09-16T03:05:24Z",
+    "pushed_at": "2026-09-16T03:05:20Z",
+    "discovered_at": "2026-09-16T04:33:54.073Z"
+  },
+  "beaconcreektech/midwestagtech": {
+    "name": "beaconcreektech/midwestagtech",
+    "url": "https://github.com/beaconcreektech/midwestagtech",
+    "description": "A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-09-08T21:34:07Z",
+    "updated_at": "2026-09-15T23:57:47Z",
+    "pushed_at": "2026-09-15T17:44:31Z",
+    "discovered_at": "2026-09-16T04:33:54.073Z"
   }
 }
