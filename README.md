@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1202
-**Last updated:** 2026-09-17T04:39:08.050Z
+**Total packages tracked:** 1203
+**Last updated:** 2026-09-17T11:28:41.127Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 0 | Minimalist, typography-first Astro 5 theme crafted for technical writers and Obs... |
 | [achimismaili/easy-web](https://github.com/achimismaili/easy-web) | 0 | Baseline @easy-web/* package family: shared Astro components and integrations fo... |
 | [mdnahianrafi/veltro](https://github.com/mdnahianrafi/veltro) | 0 | Theme Development on astro |
 | [Inkstudioagency/StudioHue-Astro-Theme](https://github.com/Inkstudioagency/StudioHue-Astro-Theme) | 0 |  |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [casoon/astro-structured-data](https://github.com/casoon/astro-structured-data) | 2 | Astro integration for automatic JSON-LD structured data generation |
 | [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | Fast post-build auditor for Astro sites: SEO, links, and lightweight WCAG checks |
 | [HeviSlav/tessera-plain](https://github.com/HeviSlav/tessera-plain) | 0 | Plain: a minimalist blog theme for Astro. One column, one typeface, dark mode, z... |
-| [denisetiya/astro-ink](https://github.com/denisetiya/astro-ink) | 0 | Lightweight, token-driven UI components for Astro JS. Server-rendered, zero depe... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-17 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-17 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
-| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 27 | 2026-09-17 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
-| [xiaozhiyee/xzhiyee-Firefly](https://github.com/xiaozhiyee/xzhiyee-Firefly) | 0 | 2026-09-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 4 | 2026-09-17 | A homepage & blog theme powered by Astro |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-09-17 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-09-17 | Format 🗻 |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-17 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-09-17 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [Tsche/astro-theme](https://github.com/Tsche/astro-theme) | 0 | 2026-09-17 |  |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-09-17 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-17 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-09-17 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 221 | 2026-09-17 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 0 | 2026-09-17 | Minimalist, typography-first Astro 5 theme crafted for techn... |
+| [oxygenna-themes/mizu-light-astro-theme](https://github.com/oxygenna-themes/mizu-light-astro-theme) | 29 | 2026-09-17 | Mizu Light is a product launch template designed specificall... |
+| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 66 | 2026-09-17 | A minimal Astro blog theme |
 | [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-17 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-09-17 | Loaders for Astro's Content Layer |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-17 | Universal Analytics Engines Integration |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-17 | My astro static blog use theme Firefly. |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-09-17 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-09-17 | A fast and minimalist personal website and blog powered by A... |
+| [peltmonger/create-stardrive](https://github.com/peltmonger/create-stardrive) | 1 | 2026-09-17 | Create a new top-notch astro boilerplate to kick of your nex... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-17 | Astro-first live preview for Payload CMS — also SvelteKit, N... |
+| [xiaozhiyee/xzhiyee-Firefly](https://github.com/xiaozhiyee/xzhiyee-Firefly) | 0 | 2026-09-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [mychiffonn/website](https://github.com/mychiffonn/website) | 7 | 2026-09-17 | Personal academic website built with Astro (al-folio alterna... |
+| [alohapixelcom-hash/reef](https://github.com/alohapixelcom-hash/reef) | 10 | 2026-09-17 | Reef 2.3 - Free MIT Astro 7 editorial theme with bilingual M... |
+| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 5 | 2026-09-17 | A homepage & blog theme powered by Astro |
+| [agnilem/parley-astro](https://github.com/agnilem/parley-astro) | 0 | 2026-09-17 | Parley — a free AI agent template for Astro. 22 pages, conte... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-17 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [federicodiluca/federicodiluca.github.io](https://github.com/federicodiluca/federicodiluca.github.io) | 1 | 2026-09-17 | Personal website & blog built with Astro — bilingual (IT/EN)... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-17 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-17 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-09-17 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 43 | 2026-09-17 | Support AsciiDoc pages in Astro |
+| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 3 | 2026-09-17 | A lightweight static blog theme based on Astro. |
+| [Yuimi-chaya/Yuimi-chaya.github.io](https://github.com/Yuimi-chaya/Yuimi-chaya.github.io) | 28 | 2026-09-17 | 一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A pers... |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-09-17 | Inline 🦔 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-17T11:28 | 1 | 900 | 1203 |
 | 2026-09-17T04:39 | 0 | 903 | 1202 |
 | 2026-09-16T21:12 | 1 | 902 | 1202 |
 | 2026-09-16T16:40 | 1 | 901 | 1201 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-15T16:48 | 0 | 898 | 1192 |
 | 2026-09-15T11:34 | 0 | 899 | 1192 |
 | 2026-09-15T04:38 | 0 | 899 | 1192 |
-| 2026-09-14T21:44 | 0 | 899 | 1192 |
 
 ---
 
