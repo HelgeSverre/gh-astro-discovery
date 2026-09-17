@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1204
-**Last updated:** 2026-09-17T16:47:48.834Z
+**Last updated:** 2026-09-17T21:14:03.347Z
 
 ## 📦 Recently Discovered
 
@@ -60,25 +60,25 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-17 | Documentation for Azion's services and features. |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-09-17 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-17 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [CloudCannon/jetstream-astro-template](https://github.com/CloudCannon/jetstream-astro-template) | 14 | 2026-09-17 | A polished Astro template built on the Component Starter, de... |
+| [yannbonarchi/bonarchi-site](https://github.com/yannbonarchi/bonarchi-site) | 0 | 2026-09-17 | Personal site of Yann Bonarchi Simeu — banking infrastructur... |
+| [bonarchisimeu/bonarchi-site](https://github.com/bonarchisimeu/bonarchi-site) | 0 | 2026-09-17 | Personal site of Yann Bonarchi Simeu — banking infrastructur... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-17 | Live preview for Payload CMS on server-rendered and static f... |
+| [withstudiocms/docs](https://github.com/withstudiocms/docs) | 6 | 2026-09-17 | The StudioCMS Docs |
 | [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 0 | 2026-09-17 | Minimalist, typography-first Astro 5 theme crafted for techn... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-17 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 5 | 2026-09-17 | A homepage & blog theme powered by Astro |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-09-17 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-17 | Universal Analytics Engines Integration |
+| [displaycoffee/memoria-astro](https://github.com/displaycoffee/memoria-astro) | 0 | 2026-09-17 | WordPress theme built on Astro. |
+| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 14 | 2026-09-17 | An Astro integration for generating screenshots of your page... |
 | [monfa-red/astro-lini](https://github.com/monfa-red/astro-lini) | 0 | 2026-09-17 | Astro integration: every figure from plain text — diagrams, ... |
 | [Inkstudioagency/StudioHue-Astro-Theme](https://github.com/Inkstudioagency/StudioHue-Astro-Theme) | 0 | 2026-09-17 |  |
 | [jagreehal/starlight-shadcn](https://github.com/jagreehal/starlight-shadcn) | 0 | 2026-09-17 | shadcn + React Aria theme for Astro Starlight |
 | [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-09-17 | Landing page for Sisques Labs, a digital product studio. Bui... |
 | [hammadxcm/fyniti](https://github.com/hammadxcm/fyniti) | 3 | 2026-09-17 | FYNITI — IT Solutions & Digital Innovation | Astro 6 + Tailw... |
-| [mountos/astro-pu](https://github.com/mountos/astro-pu) | 1 | 2026-09-17 | 璞 (Pú) - An elegant, content-focused Astro starter template,... |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-17 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-09-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-17 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [mearashadowfax/DomusPicturae](https://github.com/mearashadowfax/DomusPicturae) | 0 | 2026-09-17 | Open-source multilingual Astro + Keystatic website template ... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-09-17 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [Prathamcodin/portfolio](https://github.com/Prathamcodin/portfolio) | 0 | 2026-09-17 | Personal portfolio — Astro, dark/light theme, chatbot, LeetC... |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-09-17 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
-| [chalmery/astro-theme-sumi](https://github.com/chalmery/astro-theme-sumi) | 1 | 2026-09-17 | 一个简洁的Astro主题 |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 160 | 2026-09-17 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 3 | 2026-09-17 | A lightweight static blog theme based on Astro. |
-| [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 287 | 2026-09-17 | Foxi is an Astro theme crafted with Tailwind CSS, designed f... |
-| [oxygenna-themes/mizu-light-astro-theme](https://github.com/oxygenna-themes/mizu-light-astro-theme) | 29 | 2026-09-17 | Mizu Light is a product launch template designed specificall... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-17T21:14 | 0 | 901 | 1204 |
 | 2026-09-17T16:47 | 1 | 901 | 1204 |
 | 2026-09-17T11:28 | 1 | 900 | 1203 |
 | 2026-09-17T04:39 | 0 | 903 | 1202 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-16T04:33 | 3 | 898 | 1198 |
 | 2026-09-15T21:10 | 3 | 898 | 1195 |
 | 2026-09-15T16:48 | 0 | 898 | 1192 |
-| 2026-09-15T11:34 | 0 | 899 | 1192 |
 
 ---
 

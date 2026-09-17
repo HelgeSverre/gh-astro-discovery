@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-09-15T18:43:14Z",
-    "pushed_at": "2026-09-17T16:44:14Z",
+    "pushed_at": "2026-09-17T20:58:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -1105,7 +1105,7 @@
     "license": null,
     "created_at": "2025-02-28T16:57:02Z",
     "updated_at": "2026-09-04T13:27:13Z",
-    "pushed_at": "2026-09-02T01:26:31Z",
+    "pushed_at": "2026-09-17T20:09:00Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "withstudiocms/ui": {
@@ -2605,7 +2605,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-09-09T16:52:44Z",
-    "pushed_at": "2026-09-17T00:56:43Z",
+    "pushed_at": "2026-09-17T17:34:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -5366,7 +5366,7 @@
     "license": "MIT",
     "created_at": "2026-03-02T20:05:55Z",
     "updated_at": "2026-09-16T20:20:49Z",
-    "pushed_at": "2026-09-16T20:25:26Z",
+    "pushed_at": "2026-09-17T20:30:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "louisescher/spectre": {
@@ -5395,7 +5395,7 @@
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
     "stars": 168,
-    "forks": 61,
+    "forks": 60,
     "topics": [
       "astro",
       "astro-theme",
@@ -5799,7 +5799,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2026-09-16T23:59:42Z",
-    "pushed_at": "2026-09-17T00:00:29Z",
+    "pushed_at": "2026-09-17T18:37:12Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -9968,7 +9968,7 @@
     "license": "MIT",
     "created_at": "2025-10-29T03:49:42Z",
     "updated_at": "2026-09-07T03:54:00Z",
-    "pushed_at": "2026-09-07T03:53:56Z",
+    "pushed_at": "2026-09-17T16:53:18Z",
     "discovered_at": "2026-06-02T07:55:51.259Z"
   },
   "caret-collective/tally": {
@@ -11462,7 +11462,7 @@
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
     "updated_at": "2026-09-17T14:06:42Z",
-    "pushed_at": "2026-09-17T14:06:39Z",
+    "pushed_at": "2026-09-17T19:14:27Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-16T07:22:47Z",
-    "pushed_at": "2026-09-17T13:52:29Z",
+    "pushed_at": "2026-09-17T20:40:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12277,7 +12277,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-09-06T14:53:03Z",
-    "pushed_at": "2026-09-17T02:41:52Z",
+    "pushed_at": "2026-09-17T20:53:06Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -12938,8 +12938,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-17T18:04:41Z",
-    "updated_at": "2026-09-13T15:16:48Z",
-    "pushed_at": "2026-09-13T15:16:45Z",
+    "updated_at": "2026-09-17T20:25:22Z",
+    "pushed_at": "2026-09-17T20:25:17Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "bonarchisimeu/bonarchi-site": {
@@ -12952,8 +12952,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-06-17T17:59:09Z",
-    "updated_at": "2026-09-13T15:16:46Z",
-    "pushed_at": "2026-09-13T15:16:42Z",
+    "updated_at": "2026-09-17T20:25:18Z",
+    "pushed_at": "2026-09-17T20:25:14Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "apostrophecms/starter-kit-astro-apollo": {
@@ -14255,7 +14255,7 @@
     "license": null,
     "created_at": "2026-05-30T22:14:26Z",
     "updated_at": "2026-05-31T00:02:35Z",
-    "pushed_at": "2026-09-16T22:48:08Z",
+    "pushed_at": "2026-09-17T17:05:58Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "jxpeng98/astro-theme-scholars": {
@@ -15679,7 +15679,7 @@
   "relative23/payload-live-preview": {
     "name": "relative23/payload-live-preview",
     "url": "https://github.com/relative23/payload-live-preview",
-    "description": "Astro-first live preview for Payload CMS — also SvelteKit, Nuxt, Next.js & plain HTML. Patches the DOM live as you edit, no rebuild.",
+    "description": "Live preview for Payload CMS on server-rendered and static frontends (Astro, Next.js, SvelteKit, Nuxt, plain HTML). As the editor types, bound elements are patched in place, fragment boundaries are re-rendered by your server, or the route refreshes. React and Vue hooks for client-rendered apps. Strict by default, zero dependencies.",
     "stars": 5,
     "forks": 0,
     "topics": [
@@ -15696,6 +15696,7 @@
       "payload-cms",
       "preview",
       "react",
+      "ssr",
       "sveltekit",
       "typescript",
       "vue"
@@ -15703,8 +15704,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-09-17T08:30:38Z",
-    "pushed_at": "2026-09-17T10:07:20Z",
+    "updated_at": "2026-09-17T19:27:41Z",
+    "pushed_at": "2026-09-17T20:18:02Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -15745,8 +15746,8 @@
     "name": "eeegoloauq/astro-chat-widget",
     "url": "https://github.com/eeegoloauq/astro-chat-widget",
     "description": "Chat widget for Astro sites. Streams answers from your AI backend over SSE, no framework runtime.",
-    "stars": 6,
-    "forks": 0,
+    "stars": 7,
+    "forks": 1,
     "topics": [
       "ai-chat",
       "astro",
@@ -15766,7 +15767,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-10T21:05:21Z",
-    "updated_at": "2026-09-14T03:15:43Z",
+    "updated_at": "2026-09-17T18:00:24Z",
     "pushed_at": "2026-09-14T03:15:39Z",
     "discovered_at": "2026-07-12T07:02:40.569Z"
   },
@@ -20025,7 +20026,7 @@
     "name": "hansdash/Ryze",
     "url": "https://github.com/hansdash/Ryze",
     "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
-    "stars": 45,
+    "stars": 46,
     "forks": 6,
     "topics": [
       "astro",
@@ -20052,7 +20053,7 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2025-10-18T16:41:12Z",
-    "updated_at": "2026-09-10T04:27:16Z",
+    "updated_at": "2026-09-17T20:03:54Z",
     "pushed_at": "2026-06-02T12:05:48Z",
     "discovered_at": "2026-08-19T12:13:24.223Z"
   },
@@ -22201,8 +22202,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-08T16:27:35Z",
-    "updated_at": "2026-09-17T08:43:26Z",
-    "pushed_at": "2026-09-17T08:43:23Z",
+    "updated_at": "2026-09-17T18:40:31Z",
+    "pushed_at": "2026-09-17T18:40:27Z",
     "discovered_at": "2026-09-09T00:52:01.413Z"
   },
   "doit1024/doit-blog": {
@@ -23214,8 +23215,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-15T18:52:22Z",
-    "updated_at": "2026-09-17T16:25:28Z",
-    "pushed_at": "2026-09-17T16:25:21Z",
+    "updated_at": "2026-09-17T20:01:54Z",
+    "pushed_at": "2026-09-17T20:01:50Z",
     "discovered_at": "2026-09-17T11:28:41.118Z"
   },
   "prathamcodin/portfolio": {
