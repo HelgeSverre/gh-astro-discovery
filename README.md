@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1213
-**Last updated:** 2026-09-19T15:47:53.743Z
+**Last updated:** 2026-09-19T20:28:50.331Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 3 | 2026-09-19 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
+| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-09-19 | Framework for creating study companion webpages. |
 | [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-19 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-19 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-19 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 5 | 2026-09-19 | A homepage & blog theme powered by Astro |
+| [displaycoffee/memoria-astro](https://github.com/displaycoffee/memoria-astro) | 0 | 2026-09-19 | WordPress theme built on Astro. |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-19 | Universal Analytics Engines Integration |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 43 | 2026-09-19 | Support AsciiDoc pages in Astro |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-19 | An Astro Prometheus nodejs middleware integration for Astro |
+| [inakicalvo/astro-ataraxia-theme](https://github.com/inakicalvo/astro-ataraxia-theme) | 17 | 2026-09-19 | A clean, accessible, and modern blog theme for Astro v7, ins... |
+| [mychiffonn/website](https://github.com/mychiffonn/website) | 7 | 2026-09-19 | Personal academic website built with Astro (al-folio alterna... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-09-19 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 6 | 2026-09-19 | A lightweight static blog theme based on Astro. |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-09-19 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 3 | 2026-09-19 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
 | [wutongyuonce/YuBlog](https://github.com/wutongyuonce/YuBlog) | 26 | 2026-09-19 | 黑白极简开源 Astro 博客主题｜Black and White Minimalist Open Source Ast... |
 | [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 0 | 2026-09-19 | Minimalist, typography-first Astro 7 theme crafted for techn... |
 | [slackkai/astro-margin-notes](https://github.com/slackkai/astro-margin-notes) | 0 | 2026-09-19 | Margin Notes — a hand-drawn notebook Astro theme with a visu... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-19 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 6 | 2026-09-19 | A lightweight static blog theme based on Astro. |
 | [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-09-19 | A cinematic, multi-atmosphere Astro theme for personal publi... |
 | [fabricioctelles/astro-webmcp](https://github.com/fabricioctelles/astro-webmcp) | 18 | 2026-09-19 | Astro integration that exposes your site content via WebMCP ... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 5 | 2026-09-19 | Live preview for Payload CMS on server-rendered and static f... |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 19 | 2026-09-19 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 5 | 2026-09-19 | A homepage & blog theme powered by Astro |
-| [ondelva/astro-theme-masthead](https://github.com/ondelva/astro-theme-masthead) | 0 | 2026-09-19 | Masthead — a newspaper-style news theme for EmDash (free, MI... |
-| [atomiechen/astroprint](https://github.com/atomiechen/astroprint) | 12 | 2026-09-19 | Print-ready Markdown documents for Astro, with normal web pr... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-09-19 | Astro Integration to generate a customizable table of conten... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-19 | Universal Analytics Engines Integration |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-09-19 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-19 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-19 | An Astro Prometheus nodejs middleware integration for Astro |
-| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-09-19 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-19T20:28 | 0 | 906 | 1213 |
 | 2026-09-19T15:47 | 1 | 905 | 1213 |
 | 2026-09-19T10:45 | 2 | 903 | 1212 |
 | 2026-09-19T04:22 | 1 | 903 | 1210 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-18T04:24 | 1 | 901 | 1205 |
 | 2026-09-17T21:14 | 0 | 901 | 1204 |
 | 2026-09-17T16:47 | 1 | 901 | 1204 |
-| 2026-09-17T11:28 | 1 | 900 | 1203 |
 
 ---
 
