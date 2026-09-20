@@ -209,8 +209,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
-    "updated_at": "2026-09-19T09:44:34Z",
-    "pushed_at": "2026-09-20T04:51:20Z",
+    "updated_at": "2026-09-20T19:39:32Z",
+    "pushed_at": "2026-09-20T19:40:00Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -2605,7 +2605,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-09-09T16:52:44Z",
-    "pushed_at": "2026-09-20T14:11:50Z",
+    "pushed_at": "2026-09-20T16:32:11Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -4437,7 +4437,7 @@
     "name": "claudiabdm/astro-carousel",
     "url": "https://github.com/claudiabdm/astro-carousel",
     "description": "Accessible carousel component for Astro🎠",
-    "stars": 64,
+    "stars": 63,
     "forks": 4,
     "topics": [
       "a11y",
@@ -4452,7 +4452,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-15T06:40:08Z",
-    "updated_at": "2026-04-23T13:51:28Z",
+    "updated_at": "2026-09-20T19:37:02Z",
     "pushed_at": "2026-03-31T19:12:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5618,7 +5618,7 @@
     "name": "oxygenna-themes/foxi-astro-theme",
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
-    "stars": 287,
+    "stars": 288,
     "forks": 82,
     "topics": [
       "astro",
@@ -5637,7 +5637,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-07-01T13:17:06Z",
-    "updated_at": "2026-09-19T14:22:55Z",
+    "updated_at": "2026-09-20T15:58:35Z",
     "pushed_at": "2026-09-17T11:35:52Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6243,8 +6243,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-09-19T14:55:31Z",
-    "pushed_at": "2026-09-19T14:57:49Z",
+    "updated_at": "2026-09-20T19:55:14Z",
+    "pushed_at": "2026-09-20T19:55:11Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "0xdres/astro-devosfera": {
@@ -6966,7 +6966,7 @@
     "name": "francosuarez-dev/artistree",
     "url": "https://github.com/francosuarez-dev/artistree",
     "description": "Link in Bio Page for Artists 🎶",
-    "stars": 24,
+    "stars": 25,
     "forks": 9,
     "topics": [
       "astro",
@@ -6989,7 +6989,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T02:25:38Z",
-    "updated_at": "2026-09-16T23:26:43Z",
+    "updated_at": "2026-09-20T17:27:12Z",
     "pushed_at": "2025-09-04T05:58:24Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9827,8 +9827,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-25T08:08:29Z",
-    "updated_at": "2026-08-05T19:22:17Z",
-    "pushed_at": "2026-08-05T19:22:10Z",
+    "updated_at": "2026-09-20T15:58:50Z",
+    "pushed_at": "2026-09-20T15:58:47Z",
     "discovered_at": "2026-05-30T18:33:17.098Z"
   },
   "marvinbregiosa/astro-sparkline": {
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-09-20T12:52:17Z",
+    "pushed_at": "2026-09-20T19:09:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12757,8 +12757,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-06-28T16:30:26Z",
-    "updated_at": "2026-09-20T12:50:27Z",
-    "pushed_at": "2026-09-20T12:51:23Z",
+    "updated_at": "2026-09-20T20:37:49Z",
+    "pushed_at": "2026-09-20T20:37:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "foxmoe/korikura-theme": {
@@ -16702,7 +16702,7 @@
     "name": "dodolalorc/astro-navfolio",
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
-    "stars": 108,
+    "stars": 109,
     "forks": 24,
     "topics": [
       "astro",
@@ -16711,7 +16711,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-11T11:29:52Z",
-    "updated_at": "2026-09-16T23:44:02Z",
+    "updated_at": "2026-09-20T18:00:10Z",
     "pushed_at": "2026-09-18T10:35:30Z",
     "discovered_at": "2026-07-19T18:25:09.650Z"
   },
@@ -17048,8 +17048,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-25T20:56:11Z",
-    "updated_at": "2026-09-19T19:56:17Z",
-    "pushed_at": "2026-09-19T19:56:14Z",
+    "updated_at": "2026-09-20T18:33:41Z",
+    "pushed_at": "2026-09-20T18:33:40Z",
     "discovered_at": "2026-07-22T12:41:39.306Z"
   },
   "yickminglee/astro-notion-theme": {
@@ -19213,8 +19213,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-09-20T15:32:05Z",
-    "pushed_at": "2026-09-20T15:32:00Z",
+    "updated_at": "2026-09-20T18:28:51Z",
+    "pushed_at": "2026-09-20T18:28:47Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -19419,7 +19419,7 @@
     "license": "MIT",
     "created_at": "2026-07-21T05:02:53Z",
     "updated_at": "2026-09-19T15:39:36Z",
-    "pushed_at": "2026-09-19T15:40:22Z",
+    "pushed_at": "2026-09-20T20:05:21Z",
     "discovered_at": "2026-08-14T06:37:52.275Z"
   },
   "erickangeloramirez/astro-theme-cactus": {
@@ -20406,8 +20406,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-09-08T03:17:51Z",
-    "pushed_at": "2026-09-08T03:17:36Z",
+    "updated_at": "2026-09-20T16:32:43Z",
+    "pushed_at": "2026-09-20T16:32:39Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -21828,8 +21828,8 @@
     "language": "Python",
     "license": "MIT",
     "created_at": "2026-09-06T02:54:26Z",
-    "updated_at": "2026-09-20T01:57:45Z",
-    "pushed_at": "2026-09-20T01:57:41Z",
+    "updated_at": "2026-09-20T18:46:47Z",
+    "pushed_at": "2026-09-20T18:46:43Z",
     "discovered_at": "2026-09-06T06:28:55.653Z"
   },
   "super-mortal/my-new-blog": {
@@ -22196,14 +22196,14 @@
     "name": "yuanzui-cf/nayuta",
     "url": "https://github.com/yuanzui-cf/nayuta",
     "description": "A homepage & blog theme powered by Astro",
-    "stars": 9,
+    "stars": 10,
     "forks": 2,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-08T16:27:35Z",
-    "updated_at": "2026-09-20T14:02:58Z",
-    "pushed_at": "2026-09-20T14:36:00Z",
+    "updated_at": "2026-09-20T17:50:16Z",
+    "pushed_at": "2026-09-20T18:21:49Z",
     "discovered_at": "2026-09-09T00:52:01.413Z"
   },
   "doit1024/doit-blog": {
@@ -23045,8 +23045,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-15T14:09:05Z",
-    "updated_at": "2026-09-19T10:33:04Z",
-    "pushed_at": "2026-09-19T10:33:00Z",
+    "updated_at": "2026-09-20T19:12:17Z",
+    "pushed_at": "2026-09-20T19:12:13Z",
     "discovered_at": "2026-09-15T21:10:38.607Z"
   },
   "pierquinto/astrology-standard": {
@@ -23306,8 +23306,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-02T01:55:57Z",
-    "updated_at": "2026-09-20T12:25:40Z",
-    "pushed_at": "2026-09-20T12:26:49Z",
+    "updated_at": "2026-09-20T19:02:53Z",
+    "pushed_at": "2026-09-20T19:03:03Z",
     "discovered_at": "2026-09-18T16:16:31.280Z"
   },
   "newbeltane/astro-freelance-test": {
