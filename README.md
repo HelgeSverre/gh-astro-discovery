@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1214
-**Last updated:** 2026-09-20T11:08:20.066Z
+**Total packages tracked:** 1216
+**Last updated:** 2026-09-20T15:56:09.966Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Scintillaweb/swp-freelancer-portfolio](https://github.com/Scintillaweb/swp-freelancer-portfolio) | 0 | A modern, responsive freelancer portfolio theme built with Astro. |
+| [GuitarYuu/Yuu](https://github.com/GuitarYuu/Yuu) | 0 | Yuu — 终将成为你风格的虚构角色小站（Astro / Axi-Theme 终霞皮肤） |
 | [moxiaonai/astro-theme-inkstone](https://github.com/moxiaonai/astro-theme-inkstone) | 0 | An elegant Astro theme for Obsidian-first writing, Chinese-friendly blogs, local... |
 | [slackkai/astro-margin-notes](https://github.com/slackkai/astro-margin-notes) | 0 | Margin Notes — a hand-drawn notebook Astro theme with a visual CMS and GitHub Pa... |
 | [ondelva/astro-theme-masthead](https://github.com/ondelva/astro-theme-masthead) | 0 | Masthead — a newspaper-style news theme for EmDash (free, MIT) |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | My blog powered by Astro & Firefly Theme. |
 | [IgnacioBarraza/kobo](https://github.com/IgnacioBarraza/kobo) | 0 | Kobo is my brand new portfolio, created to reflect my identity, philosophy and w... |
 | [Tsche/astro-theme](https://github.com/Tsche/astro-theme) | 0 |  |
-| [beaconcreektech/midwestagtech](https://github.com/beaconcreektech/midwestagtech) | 0 | A lightweight and powerful ecommerce starter theme to build headless Shopify sto... |
-| [Pierquinto/astrology-standard](https://github.com/Pierquinto/astrology-standard) | 0 | A static-first, opinionated Astro starter with editable design tokens and typed ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 7 | 2026-09-20 | A homepage & blog theme powered by Astro |
+| [Scintillaweb/swp-freelancer-portfolio](https://github.com/Scintillaweb/swp-freelancer-portfolio) | 0 | 2026-09-20 | A modern, responsive freelancer portfolio theme built with A... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-09-20 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 6 | 2026-09-20 | A lightweight static blog theme based on Astro. |
+| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-09-20 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
+| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 9 | 2026-09-20 | A homepage & blog theme powered by Astro |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-20 | Universal Analytics Engines Integration |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-09-20 | Documentation for Azion's services and features. |
+| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 20 | 2026-09-20 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
+| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 3 | 2026-09-20 | A minimal and fast blog built with Astro. |
+| [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) | 261 | 2026-09-20 | Official Astro theme portfolio template built with React, Ty... |
+| [GuitarYuu/Yuu](https://github.com/GuitarYuu/Yuu) | 0 | 2026-09-20 | Yuu — 终将成为你风格的虚构角色小站（Astro / Axi-Theme 终霞皮肤） |
+| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-09-20 | A personal blog built with Astro, based on the Fuwari theme ... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-20 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-09-20 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [wutongyuonce/YuBlog](https://github.com/wutongyuonce/YuBlog) | 26 | 2026-09-20 | 黑白极简开源 Astro 博客主题｜Black and White Minimalist Open Source Ast... |
+| [coisini233333333/coisini-blog-framework](https://github.com/coisini233333333/coisini-blog-framework) | 0 | 2026-09-20 | Reusable Astro blog framework with private content bundles, ... |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-09-20 | Astro integration that uses existing configuration to write ... |
 | [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-09-20 | Automatically add your parameters to external links and URLs... |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-09-20 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-09-20 | Landing page for Sisques Labs, a digital product studio. Bui... |
 | [GrassBlock1/mercury](https://github.com/GrassBlock1/mercury) | 4 | 2026-09-20 | Terminal-like blog theme built from Astro. |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-20 | Universal Analytics Engines Integration |
-| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 42 | 2026-09-20 | Astro integration to generate PDFs from pages in your site a... |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-09-20 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
-| [coisini233333333/coisini-blog-framework](https://github.com/coisini233333333/coisini-blog-framework) | 0 | 2026-09-20 | Reusable Astro blog framework with private content bundles, ... |
-| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 18 | 2026-09-20 | A integration for Astro adding a toolbar for users of astro-... |
-| [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 63 | 2026-09-20 | A content loader for Astro that uses the PocketBase API |
-| [wutongyuonce/YuBlog](https://github.com/wutongyuonce/YuBlog) | 26 | 2026-09-20 | 黑白极简开源 Astro 博客主题｜Black and White Minimalist Open Source Ast... |
-| [profile-icons/github-profile-readme-site](https://github.com/profile-icons/github-profile-readme-site) | 2 | 2026-09-20 | Deploy your GitHub profile README.md as a configurable stati... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-20 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-20 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-20 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-09-20 | Regular integration tests of Coordinated packages with astro... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-09-20 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 6 | 2026-09-20 | A lightweight static blog theme based on Astro. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-20T15:56 | 2 | 904 | 1216 |
 | 2026-09-20T11:08 | 0 | 906 | 1214 |
 | 2026-09-20T04:39 | 1 | 905 | 1214 |
 | 2026-09-19T20:28 | 0 | 906 | 1213 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-18T20:48 | 0 | 904 | 1209 |
 | 2026-09-18T16:16 | 2 | 901 | 1209 |
 | 2026-09-18T11:01 | 2 | 900 | 1207 |
-| 2026-09-18T04:24 | 1 | 901 | 1205 |
 
 ---
 
