@@ -2668,7 +2668,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-09-23T04:48:36Z",
-    "pushed_at": "2026-09-23T04:48:33Z",
+    "pushed_at": "2026-09-24T04:54:20Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -6562,8 +6562,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2022-11-29T03:58:06Z",
-    "updated_at": "2026-09-07T20:08:19Z",
-    "pushed_at": "2026-09-17T22:34:26Z",
+    "updated_at": "2026-09-24T04:31:56Z",
+    "pushed_at": "2026-09-24T04:31:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mnyorba/astro-starter": {
@@ -11411,7 +11411,7 @@
     "url": "https://github.com/kannansuresh/chirping-astro",
     "description": "Chirping Astro. An astro theme inspired from the famous Jekyll Theme Chirpy",
     "stars": 56,
-    "forks": 17,
+    "forks": 16,
     "topics": [
       "astrojs",
       "daisyui",
@@ -11461,8 +11461,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-09-24T02:16:26Z",
-    "pushed_at": "2026-09-24T02:16:24Z",
+    "updated_at": "2026-09-24T04:57:19Z",
+    "pushed_at": "2026-09-24T04:57:16Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11554,7 +11554,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-09-24T00:05:24Z",
+    "pushed_at": "2026-09-24T06:22:49Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11920,13 +11920,13 @@
     "name": "hansmartensdev/Astro-Rocket",
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 8 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
-    "stars": 120,
+    "stars": 119,
     "forks": 59,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-09-19T01:48:24Z",
+    "updated_at": "2026-09-24T05:57:59Z",
     "pushed_at": "2026-09-19T01:48:22Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -12277,7 +12277,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-09-23T21:46:12Z",
-    "pushed_at": "2026-09-23T19:16:24Z",
+    "pushed_at": "2026-09-24T05:12:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -17734,7 +17734,7 @@
     "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
     "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
     "stars": 11,
-    "forks": 11,
+    "forks": 12,
     "topics": [
       "astro",
       "astro-template",
@@ -18302,7 +18302,7 @@
     "url": "https://github.com/xocothemes/monograph",
     "description": "Monograph is a free, text-first Astro theme for essays, notes, and long-form writing. ",
     "stars": 17,
-    "forks": 4,
+    "forks": 5,
     "topics": [
       "astro",
       "astro-tailwind",
@@ -19640,7 +19640,7 @@
     "license": "MIT",
     "created_at": "2026-08-16T11:10:50Z",
     "updated_at": "2026-09-23T21:48:53Z",
-    "pushed_at": "2026-09-23T21:29:53Z",
+    "pushed_at": "2026-09-24T06:28:21Z",
     "discovered_at": "2026-08-16T12:09:52.120Z"
   },
   "willimt/astro-theme-ink": {
@@ -20406,8 +20406,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-09-24T03:03:05Z",
-    "pushed_at": "2026-09-24T03:03:00Z",
+    "updated_at": "2026-09-24T06:12:18Z",
+    "pushed_at": "2026-09-24T06:12:14Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -21017,7 +21017,7 @@
     "license": "MIT",
     "created_at": "2026-08-23T17:31:58Z",
     "updated_at": "2026-09-06T20:08:32Z",
-    "pushed_at": "2026-09-17T06:16:13Z",
+    "pushed_at": "2026-09-24T06:14:31Z",
     "discovered_at": "2026-08-27T15:53:16.855Z"
   },
   "ecropolis/emdash-theme-supper": {
@@ -22147,7 +22147,7 @@
     "license": "MIT",
     "created_at": "2026-09-08T13:08:38Z",
     "updated_at": "2026-09-09T02:24:47Z",
-    "pushed_at": "2026-09-22T05:20:14Z",
+    "pushed_at": "2026-09-24T05:20:55Z",
     "discovered_at": "2026-09-08T18:23:39.478Z"
   },
   "orioltomas/orioltomas.dev": {
@@ -22961,8 +22961,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-02-25T12:59:57Z",
-    "updated_at": "2026-09-23T11:52:55Z",
-    "pushed_at": "2026-09-23T11:52:52Z",
+    "updated_at": "2026-09-24T06:31:44Z",
+    "pushed_at": "2026-09-24T06:31:40Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "ahsanrahat12/rahat_ahsan_website": {
@@ -23153,8 +23153,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2021-11-30T11:55:49Z",
-    "updated_at": "2026-09-23T09:59:13Z",
-    "pushed_at": "2026-09-23T09:59:16Z",
+    "updated_at": "2026-09-24T06:23:14Z",
+    "pushed_at": "2026-09-24T06:23:18Z",
     "discovered_at": "2026-09-16T11:20:40.617Z"
   },
   "mdnahianrafi/veltro": {
@@ -23274,8 +23274,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-10T11:22:35Z",
-    "updated_at": "2026-09-23T14:32:05Z",
-    "pushed_at": "2026-09-23T15:27:35Z",
+    "updated_at": "2026-09-24T05:11:27Z",
+    "pushed_at": "2026-09-24T05:11:23Z",
     "discovered_at": "2026-09-18T11:01:54.732Z"
   },
   "emilie927/astro-theme-popular": {
@@ -23740,5 +23740,19 @@
     "updated_at": "2026-09-24T01:17:30Z",
     "pushed_at": "2026-09-24T00:01:43Z",
     "discovered_at": "2026-09-24T04:27:59.567Z"
+  },
+  "jl7007/fuwari": {
+    "name": "JL7007/fuwari",
+    "url": "https://github.com/JL7007/fuwari",
+    "description": "A personal blog built with the Fuwari Astro theme",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-09-24T05:48:58Z",
+    "updated_at": "2026-09-24T06:12:44Z",
+    "pushed_at": "2026-09-24T06:12:40Z",
+    "discovered_at": "2026-09-24T06:33:42.381Z"
   }
 }
