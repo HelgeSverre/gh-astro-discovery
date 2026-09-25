@@ -344,5 +344,25 @@
     "discovered_at": "2026-05-18T10:54:54.926Z",
     "archived_at": "2026-09-02T18:24:36.352Z",
     "archive_reason": "Stale: not seen in search results and last pushed 955 days ago"
+  },
+  "denoland/deno-astro-template": {
+    "name": "denoland/deno-astro-template",
+    "url": "https://github.com/denoland/deno-astro-template",
+    "description": "Template repo for an Astro site, preconfigured to run with Deno and Deno Deploy",
+    "stars": 64,
+    "forks": 4,
+    "topics": [
+      "astro-template",
+      "deno",
+      "withastro"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2023-07-07T18:42:44Z",
+    "updated_at": "2026-07-23T23:49:02Z",
+    "pushed_at": "2024-06-10T11:16:14Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-09-25T00:51:06.538Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 836 days ago"
   }
 }
