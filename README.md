@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1237
-**Last updated:** 2026-09-26T12:25:28.650Z
+**Total packages tracked:** 1239
+**Last updated:** 2026-09-26T18:21:34.854Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [bumsteed-dev/astro-components](https://github.com/bumsteed-dev/astro-components) | 0 | A curated collection of beautiful, copy-paste components for Astro. Built by and... |
+| [ziteh/astro-jing-theme](https://github.com/ziteh/astro-jing-theme) | 0 | Astro Jing - a calm Astro blog theme |
 | [gauravrathore701/Blogging_App](https://github.com/gauravrathore701/Blogging_App) | 0 | A statically generated blog built with Astro and served from a Raspberry Pi behi... |
 | [Identityex/astro-tanstack-query](https://github.com/Identityex/astro-tanstack-query) | 0 | Unofficial Astro integration: one TanStack Query cache shared by every island on... |
 | [satheez/jwt-decoder](https://github.com/satheez/jwt-decoder) | 0 | JWT Explorer - A powerful, client-side JWT decoder and explorer built with Astro... |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [ondelva/astro-theme-quarry](https://github.com/ondelva/astro-theme-quarry) | 0 | Quarry — a documentation-and-marketing theme for Astro (free, MIT) |
 | [ondelva/astro-theme-halftone](https://github.com/ondelva/astro-theme-halftone) | 0 | Halftone — a photo-led newsmagazine theme for Astro (free, MIT) |
 | [agnilem/elias-vent-astro](https://github.com/agnilem/elias-vent-astro) | 0 | Elias Vent: a motion-rich portfolio theme for Astro |
-| [agnilem/marby-astro](https://github.com/agnilem/marby-astro) | 0 | Marby, a quiet editorial real estate theme for Astro |
-| [ahmetcigsar/emdash-theme-persona-bio](https://github.com/ahmetcigsar/emdash-theme-persona-bio) | 4 | MIT-licensed personal profile and blog theme for EmDash CMS and Astro. English-f... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-09-26 | Track Core Web Vitals & accessibility issues in your Astro s... |
+| [alderthemes/larkin](https://github.com/alderthemes/larkin) | 0 | 2026-09-26 | Larkin — a free Astro template for a cafe: menu, locations, ... |
+| [SudoDevStudio/astro-ai](https://github.com/SudoDevStudio/astro-ai) | 1 | 2026-09-26 | Development-only visual editing for Astro. Select elements, ... |
 | [wsjz/vergil-astro-theme](https://github.com/wsjz/vergil-astro-theme) | 1 | 2026-09-26 | 一个多视图设计的 Astro 个人网站主题 |
-| [TimFang4162/astro-theme-vellume](https://github.com/TimFang4162/astro-theme-vellume) | 5 | 2026-09-26 | An editorial Astro theme for personal writing, technical not... |
+| [mearashadowfax/DomusPicturae](https://github.com/mearashadowfax/DomusPicturae) | 0 | 2026-09-26 | Open-source multilingual Astro + Keystatic website template ... |
 | [slackkai/astro-margin-notes](https://github.com/slackkai/astro-margin-notes) | 1 | 2026-09-26 | Margin Notes — a hand-drawn notebook Astro theme with a visu... |
-| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 0 | 2026-09-26 | Minimalist, typography-first Astro 7 theme crafted for techn... |
-| [federicodiluca/federicodiluca.github.io](https://github.com/federicodiluca/federicodiluca.github.io) | 1 | 2026-09-26 | Personal website & blog built with Astro — bilingual (IT/EN)... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-26 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [njbSaab/astro-njx-maison](https://github.com/njbSaab/astro-njx-maison) | 0 | 2026-09-26 | Free classic Astro theme — a printed archive: three houses, ... |
+| [withstudiocms/docs](https://github.com/withstudiocms/docs) | 6 | 2026-09-26 | The StudioCMS Docs |
+| [markmansour/aboutmarkmansour](https://github.com/markmansour/aboutmarkmansour) | 0 | 2026-09-26 | ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind C... |
+| [njbSaab/astro-njx-boutique](https://github.com/njbSaab/astro-njx-boutique) | 0 | 2026-09-26 | Editorial fashion ecommerce theme for Astro — Tailwind v4, S... |
+| [njbSaab/astro-njx-muse](https://github.com/njbSaab/astro-njx-muse) | 0 | 2026-09-26 | Premium womenswear storefront: Astro + Tailwind v4 — ink-nav... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-09-26 | Add a ripple-style theme toggle animation to your Astro proj... |
 | [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-09-26 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 4 | 2026-09-26 | A minimal and fast blog built with Astro. |
-| [ziteh/astro-theme-jing](https://github.com/ziteh/astro-theme-jing) | 0 | 2026-09-26 | A calm Astro blog theme |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-09-26 | An Astro Prometheus nodejs middleware integration for Astro |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-26 | My personal slice of the web. Built with Astro, wrapped in a... |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-09-26 | Astro integration that uses existing configuration to write ... |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-09-26 | A modern, responsive and lightweight theme for freelancing, ... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-09-26 | Brand new AstroWind Theme for TLT |
+| [wutongyuonce/YuBlog](https://github.com/wutongyuonce/YuBlog) | 26 | 2026-09-26 | 黑白极简开源 Astro 博客主题｜Black and White Minimalist Open Source Ast... |
 | [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-26 | Universal Analytics Engines Integration |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-09-26 | Relics & Reckonings (personal blog) and an automated cross-r... |
-| [gauravrathore701/Blogging_App](https://github.com/gauravrathore701/Blogging_App) | 0 | 2026-09-26 | A statically generated blog built with Astro and served from... |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 68 | 2026-09-26 | A minimal Astro blog theme |
-| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 23 | 2026-09-26 | Framework-agnostic interactive component anatomy for design ... |
-| [Identityex/astro-tanstack-query](https://github.com/Identityex/astro-tanstack-query) | 0 | 2026-09-26 | Unofficial Astro integration: one TanStack Query cache share... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-09-26 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-09-26 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 0 | 2026-09-26 | Minimalist, typography-first Astro 7 theme crafted for techn... |
+| [bumsteed-dev/astro-components](https://github.com/bumsteed-dev/astro-components) | 0 | 2026-09-26 | A curated collection of beautiful, copy-paste components for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-26T18:21 | 2 | 905 | 1239 |
 | 2026-09-26T12:25 | 1 | 906 | 1237 |
 | 2026-09-26T06:30 | 0 | 907 | 1236 |
 | 2026-09-26T00:50 | 1 | 906 | 1236 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-25T00:51 | 1 | 905 | 1233 |
 | 2026-09-24T18:24 | 0 | 907 | 1233 |
 | 2026-09-24T12:29 | 1 | 906 | 1233 |
-| 2026-09-24T06:33 | 1 | 905 | 1232 |
 
 ---
 
