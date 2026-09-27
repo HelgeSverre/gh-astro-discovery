@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1240
-**Last updated:** 2026-09-27T00:59:39.043Z
+**Last updated:** 2026-09-27T06:32:21.601Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [slackkai/astro-margin-notes](https://github.com/slackkai/astro-margin-notes) | 1 | 2026-09-27 | Margin Notes — a hand-drawn notebook Astro theme with a visu... |
+| [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) | 0 | 2026-09-27 | A customized blogging theme based on astro-erudite v2.0. |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-09-27 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-09-27 | Brand new AstroWind Theme for TLT |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-09-27 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-09-27 | The i18n integration for Astro 🧑‍🚀 |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-27 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-09-27 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
+| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 4 | 2026-09-27 | The Astro wiki you can write in — paper-and-ink typography f... |
+| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 4 | 2026-09-27 | A minimal and fast blog built with Astro. |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-27 | Universal Analytics Engines Integration |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-09-27 | Relics & Reckonings (personal blog) and an automated cross-r... |
 | [macktropolis/mackrichardson-blog-astro-macOS9](https://github.com/macktropolis/mackrichardson-blog-astro-macOS9) | 0 | 2026-09-27 | Mack Richardson's website with a Mac OS inspired theme |
 | [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-09-27 | My astro static blog use theme Firefly. |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-09-26 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 4 | 2026-09-26 | A minimal and fast blog built with Astro. |
 | [mearashadowfax/DomusPicturae](https://github.com/mearashadowfax/DomusPicturae) | 1 | 2026-09-26 | Open-source multilingual Astro + Keystatic website template ... |
 | [alderthemes/larkin](https://github.com/alderthemes/larkin) | 0 | 2026-09-26 | Larkin — a free Astro template for a cafe: menu, locations, ... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-09-26 | Universal Analytics Engines Integration |
 | [SudoDevStudio/astro-ai](https://github.com/SudoDevStudio/astro-ai) | 1 | 2026-09-26 | Development-only visual editing for Astro. Select elements, ... |
 | [juanzete/sketch-diagrams](https://github.com/juanzete/sketch-diagrams) | 0 | 2026-09-26 | Hand-drawn architecture diagrams for Astro: rough.js strokes... |
 | [bumsteed-dev/astro-components](https://github.com/bumsteed-dev/astro-components) | 0 | 2026-09-26 | A curated collection of beautiful, copy-paste components for... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-09-26 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
 | [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-09-26 | Astro integration that uses existing configuration to write ... |
-| [wsjz/vergil-astro-theme](https://github.com/wsjz/vergil-astro-theme) | 1 | 2026-09-26 | 一个多视图设计的 Astro 个人网站主题 |
-| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-09-26 | Track Core Web Vitals & accessibility issues in your Astro s... |
-| [slackkai/astro-margin-notes](https://github.com/slackkai/astro-margin-notes) | 1 | 2026-09-26 | Margin Notes — a hand-drawn notebook Astro theme with a visu... |
-| [njbSaab/astro-njx-maison](https://github.com/njbSaab/astro-njx-maison) | 0 | 2026-09-26 | Free classic Astro theme — a printed archive: three houses, ... |
-| [withstudiocms/docs](https://github.com/withstudiocms/docs) | 6 | 2026-09-26 | The StudioCMS Docs |
-| [markmansour/aboutmarkmansour](https://github.com/markmansour/aboutmarkmansour) | 0 | 2026-09-26 | ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind C... |
-| [njbSaab/astro-njx-boutique](https://github.com/njbSaab/astro-njx-boutique) | 0 | 2026-09-26 | Editorial fashion ecommerce theme for Astro — Tailwind v4, S... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-27T06:32 | 0 | 907 | 1240 |
 | 2026-09-27T00:59 | 1 | 906 | 1240 |
 | 2026-09-26T18:21 | 2 | 905 | 1239 |
 | 2026-09-26T12:25 | 1 | 906 | 1237 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-25T12:29 | 0 | 905 | 1234 |
 | 2026-09-25T06:34 | 1 | 905 | 1234 |
 | 2026-09-25T00:51 | 1 | 905 | 1233 |
-| 2026-09-24T18:24 | 0 | 907 | 1233 |
 
 ---
 
