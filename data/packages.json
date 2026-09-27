@@ -2587,7 +2587,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-09-09T16:52:44Z",
-    "pushed_at": "2026-09-26T14:38:26Z",
+    "pushed_at": "2026-09-26T22:55:22Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2650,7 +2650,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-09-25T18:15:44Z",
-    "pushed_at": "2026-09-25T18:16:08Z",
+    "pushed_at": "2026-09-27T00:49:05Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -7460,8 +7460,8 @@
     "name": "lxchapu/astro-gyoza",
     "url": "https://github.com/lxchapu/astro-gyoza",
     "description": "A simple and cute static blog template built with Astro and React.🥟🥟🥟",
-    "stars": 311,
-    "forks": 129,
+    "stars": 309,
+    "forks": 128,
     "topics": [
       "astro",
       "astro-theme",
@@ -7470,7 +7470,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-04-26T09:06:47Z",
-    "updated_at": "2026-09-24T07:25:03Z",
+    "updated_at": "2026-09-26T19:50:52Z",
     "pushed_at": "2026-08-06T12:23:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9769,7 +9769,7 @@
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
     "updated_at": "2026-09-26T15:12:24Z",
-    "pushed_at": "2026-09-26T15:12:20Z",
+    "pushed_at": "2026-09-26T18:46:57Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -10471,7 +10471,7 @@
     "name": "alex-on-ai/astroblog",
     "url": "https://github.com/alex-on-ai/astroblog",
     "description": "Personal Astro blog edited through self-hosted Pages CMS and deployed on Vercel.",
-    "stars": 65,
+    "stars": 66,
     "forks": 3,
     "topics": [
       "astro",
@@ -10486,7 +10486,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-05-11T01:17:33Z",
-    "updated_at": "2026-09-18T01:27:35Z",
+    "updated_at": "2026-09-26T22:01:11Z",
     "pushed_at": "2026-07-13T21:00:20Z",
     "discovered_at": "2026-06-27T12:40:15.501Z"
   },
@@ -11536,7 +11536,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-09-26T15:16:25Z",
+    "pushed_at": "2026-09-26T23:59:17Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -13646,8 +13646,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-15T08:59:51Z",
-    "updated_at": "2026-09-26T17:20:49Z",
-    "pushed_at": "2026-09-26T17:20:45Z",
+    "updated_at": "2026-09-26T18:23:47Z",
+    "pushed_at": "2026-09-26T18:23:43Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "drdanielbender/cloudlesscomputer.com": {
@@ -14223,7 +14223,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-09-19T03:01:28Z",
-    "pushed_at": "2026-09-26T00:21:32Z",
+    "pushed_at": "2026-09-27T00:11:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -19195,8 +19195,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-09-25T19:49:06Z",
-    "pushed_at": "2026-09-25T19:49:01Z",
+    "updated_at": "2026-09-26T18:59:23Z",
+    "pushed_at": "2026-09-26T18:59:19Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -21592,8 +21592,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-05T23:36:10Z",
-    "updated_at": "2026-09-22T04:07:29Z",
-    "pushed_at": "2026-09-26T17:40:05Z",
+    "updated_at": "2026-09-26T22:22:19Z",
+    "pushed_at": "2026-09-26T23:06:33Z",
     "discovered_at": "2026-09-03T06:32:16.910Z"
   },
   "ernxst/icon-prerender": {
@@ -21958,8 +21958,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-31T01:42:21Z",
-    "updated_at": "2026-09-26T17:21:57Z",
-    "pushed_at": "2026-09-26T17:21:53Z",
+    "updated_at": "2026-09-26T22:42:51Z",
+    "pushed_at": "2026-09-26T22:42:49Z",
     "discovered_at": "2026-09-08T00:52:23.212Z"
   },
   "crenaz/astrowind": {
@@ -22171,7 +22171,7 @@
     "license": null,
     "created_at": "2024-11-13T13:26:42Z",
     "updated_at": "2026-09-25T19:09:52Z",
-    "pushed_at": "2026-09-25T23:45:42Z",
+    "pushed_at": "2026-09-27T00:41:47Z",
     "discovered_at": "2026-09-09T00:52:01.413Z"
   },
   "yuanzui-cf/nayuta": {
@@ -22586,8 +22586,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-29T08:47:57Z",
-    "updated_at": "2026-09-26T11:31:52Z",
-    "pushed_at": "2026-09-26T11:31:49Z",
+    "updated_at": "2026-09-26T23:31:12Z",
+    "pushed_at": "2026-09-26T23:31:09Z",
     "discovered_at": "2026-09-11T11:05:03.400Z"
   },
   "cnflwzh/mintfolio-theme-verdant": {
@@ -23009,7 +23009,7 @@
     "name": "mearashadowfax/DomusPicturae",
     "url": "https://github.com/mearashadowfax/DomusPicturae",
     "description": "Open-source multilingual Astro + Keystatic website template for art galleries: catalogue, viewing room, exhibitions, news",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "art-gallery",
@@ -23027,8 +23027,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-15T14:09:05Z",
-    "updated_at": "2026-09-26T17:00:27Z",
-    "pushed_at": "2026-09-26T17:00:23Z",
+    "updated_at": "2026-09-26T23:08:54Z",
+    "pushed_at": "2026-09-26T23:08:50Z",
     "discovered_at": "2026-09-15T21:10:38.607Z"
   },
   "pierquinto/astrology-standard": {
@@ -23869,8 +23869,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-26T14:14:51Z",
-    "updated_at": "2026-09-26T14:32:08Z",
-    "pushed_at": "2026-09-26T14:32:04Z",
+    "updated_at": "2026-09-26T21:30:44Z",
+    "pushed_at": "2026-09-26T21:30:39Z",
     "discovered_at": "2026-09-26T18:21:34.844Z"
   },
   "ziteh/astro-jing-theme": {
@@ -23892,5 +23892,27 @@
     "updated_at": "2026-09-26T14:10:41Z",
     "pushed_at": "2026-09-26T11:23:07Z",
     "discovered_at": "2026-09-26T18:21:34.844Z"
+  },
+  "juanzete/sketch-diagrams": {
+    "name": "juanzete/sketch-diagrams",
+    "url": "https://github.com/juanzete/sketch-diagrams",
+    "description": "Hand-drawn architecture diagrams for Astro: rough.js strokes, Excalifont labels, Lucide/Simple Icons, auto grid layout, inline SVG at build time",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "architecture",
+      "astro",
+      "astro-component",
+      "diagrams",
+      "excalidraw",
+      "roughjs",
+      "svg"
+    ],
+    "language": "Astro",
+    "license": "NOASSERTION",
+    "created_at": "2026-09-26T21:45:11Z",
+    "updated_at": "2026-09-26T22:02:31Z",
+    "pushed_at": "2026-09-26T22:02:27Z",
+    "discovered_at": "2026-09-27T00:59:39.033Z"
   }
 }
