@@ -49,8 +49,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-01-18T16:32:38Z",
-    "updated_at": "2026-09-22T08:13:56Z",
-    "pushed_at": "2026-10-01T05:22:58Z",
+    "updated_at": "2026-10-01T07:30:33Z",
+    "pushed_at": "2026-10-01T07:30:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "florian-lefebvre/astro-loading-indicator": {
@@ -406,7 +406,7 @@
     "license": "MIT",
     "created_at": "2025-10-15T15:10:55Z",
     "updated_at": "2026-09-25T23:10:34Z",
-    "pushed_at": "2026-09-28T23:04:17Z",
+    "pushed_at": "2026-10-01T08:46:38Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "sushichan044/astro-simple-feature-flags": {
@@ -672,7 +672,7 @@
     "name": "jdevalk/astro-markdown-alternate",
     "url": "https://github.com/jdevalk/astro-markdown-alternate",
     "description": "Astro integration that makes markdown sources discoverable via <link rel=\"alternate\" type=\"text/markdown\">, so AI agents and HTTP clients can fetch the raw content of any page.",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "topics": [
       "agent-ready",
@@ -684,7 +684,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-02T09:18:16Z",
-    "updated_at": "2026-09-17T08:07:33Z",
+    "updated_at": "2026-10-01T09:42:07Z",
     "pushed_at": "2026-08-01T15:06:52Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -5027,8 +5027,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-04-27T00:34:42Z",
-    "updated_at": "2026-09-29T07:33:28Z",
-    "pushed_at": "2026-09-29T07:33:24Z",
+    "updated_at": "2026-10-01T10:57:10Z",
+    "pushed_at": "2026-10-01T10:57:07Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "biscoch2654/astro-sakura-blog": {
@@ -5178,8 +5178,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-07-01T10:38:18Z",
-    "updated_at": "2026-09-29T07:09:52Z",
-    "pushed_at": "2026-09-29T07:09:48Z",
+    "updated_at": "2026-10-01T12:27:02Z",
+    "pushed_at": "2026-10-01T12:26:58Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "rickykal898/mainline-astro-template": {
@@ -6225,8 +6225,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-09-21T09:42:19Z",
-    "pushed_at": "2026-09-21T09:42:15Z",
+    "updated_at": "2026-10-01T12:29:38Z",
+    "pushed_at": "2026-10-01T12:29:32Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "0xdres/astro-devosfera": {
@@ -10368,7 +10368,7 @@
     "license": "MIT",
     "created_at": "2026-01-14T07:24:23Z",
     "updated_at": "2026-09-28T16:24:41Z",
-    "pushed_at": "2026-09-28T16:24:42Z",
+    "pushed_at": "2026-10-01T07:39:14Z",
     "discovered_at": "2026-06-18T18:59:55.523Z"
   },
   "andreialba/quietpages": {
@@ -11536,7 +11536,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-10-01T02:51:51Z",
+    "pushed_at": "2026-10-01T09:32:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11723,8 +11723,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-13T21:58:46Z",
-    "updated_at": "2026-09-29T16:07:33Z",
-    "pushed_at": "2026-09-29T16:03:14Z",
+    "updated_at": "2026-10-01T09:25:25Z",
+    "pushed_at": "2026-10-01T09:25:19Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mahshidgh96/astro-narrow-final": {
@@ -14999,7 +14999,7 @@
     "url": "https://github.com/zouzonghao/Astro-theme-Cactus-zh_CN",
     "description": "Astro 仙人掌 是一个基于 Astro 框架的博客主题",
     "stars": 124,
-    "forks": 231,
+    "forks": 230,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
@@ -16162,7 +16162,7 @@
     "name": "xocothemes/quietpages",
     "url": "https://github.com/xocothemes/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 35,
+    "stars": 36,
     "forks": 12,
     "topics": [
       "astro",
@@ -16175,7 +16175,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-09-29T16:24:18Z",
+    "updated_at": "2026-10-01T09:41:07Z",
     "pushed_at": "2026-08-12T19:52:51Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
@@ -16614,8 +16614,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-09-04T07:41:14Z",
-    "pushed_at": "2026-09-04T07:51:32Z",
+    "updated_at": "2026-10-01T08:44:54Z",
+    "pushed_at": "2026-10-01T08:44:50Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
   "fabienniel/manifold": {
@@ -17477,7 +17477,7 @@
     "license": null,
     "created_at": "2025-09-22T07:28:24Z",
     "updated_at": "2026-08-09T23:13:12Z",
-    "pushed_at": "2026-08-09T23:13:08Z",
+    "pushed_at": "2026-10-01T10:26:45Z",
     "discovered_at": "2026-07-28T07:03:44.900Z"
   },
   "inkstudioagency/calmlyss-astro-theme": {
@@ -20388,8 +20388,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-09-24T11:11:14Z",
-    "pushed_at": "2026-09-24T11:11:10Z",
+    "updated_at": "2026-10-01T10:55:36Z",
+    "pushed_at": "2026-10-01T10:55:32Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -20423,8 +20423,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T09:43:51Z",
-    "updated_at": "2026-09-27T02:03:28Z",
-    "pushed_at": "2026-09-27T02:03:23Z",
+    "updated_at": "2026-10-01T12:30:13Z",
+    "pushed_at": "2026-10-01T12:30:09Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
   "chunyiw8080/astro-honey-theme": {
@@ -21239,8 +21239,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-10-01T04:39:17Z",
-    "pushed_at": "2026-10-01T04:39:13Z",
+    "updated_at": "2026-10-01T08:33:14Z",
+    "pushed_at": "2026-10-01T08:33:10Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -22216,7 +22216,7 @@
     "name": "agnilem/parley-astro",
     "url": "https://github.com/agnilem/parley-astro",
     "description": "Parley — a free AI agent template for Astro. 22 pages, content collections, MIT.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "topics": [
       "ai",
@@ -22231,7 +22231,7 @@
     "language": "CSS",
     "license": "MIT",
     "created_at": "2026-09-09T11:33:27Z",
-    "updated_at": "2026-10-01T00:51:01Z",
+    "updated_at": "2026-10-01T11:01:19Z",
     "pushed_at": "2026-09-29T21:06:35Z",
     "discovered_at": "2026-09-09T12:28:59.222Z"
   },
@@ -23145,8 +23145,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2021-11-30T11:55:49Z",
-    "updated_at": "2026-09-29T07:52:47Z",
-    "pushed_at": "2026-10-01T06:32:24Z",
+    "updated_at": "2026-10-01T07:56:44Z",
+    "pushed_at": "2026-10-01T07:56:40Z",
     "discovered_at": "2026-09-16T11:20:40.617Z"
   },
   "mdnahianrafi/veltro": {
@@ -23252,7 +23252,7 @@
     "name": "druedaro/astro-seo-theme",
     "url": "https://github.com/druedaro/astro-seo-theme",
     "description": "An ultra-fast, SEO-first blog template for Astro. Features automatic JSON-LD, i18n, Open Graph image generation, and 100/100 Lighthouse scores. Built for AEO and GEO.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -23270,8 +23270,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-10T11:22:35Z",
-    "updated_at": "2026-09-24T05:11:27Z",
-    "pushed_at": "2026-09-25T21:28:01Z",
+    "updated_at": "2026-10-01T09:02:06Z",
+    "pushed_at": "2026-10-01T08:51:41Z",
     "discovered_at": "2026-09-18T11:01:54.732Z"
   },
   "emilie927/astro-theme-popular": {
@@ -23646,7 +23646,7 @@
     "name": "ondelva/astro-theme-vitrine",
     "url": "https://github.com/ondelva/astro-theme-vitrine",
     "description": "Vitrine — a catalogue raisonné theme for Astro (free, MIT)",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "archive",
@@ -23664,7 +23664,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-22T14:07:47Z",
-    "updated_at": "2026-09-23T03:15:37Z",
+    "updated_at": "2026-10-01T08:45:07Z",
     "pushed_at": "2026-09-23T03:15:33Z",
     "discovered_at": "2026-09-22T16:46:19.737Z"
   },
@@ -23991,7 +23991,7 @@
     "name": "antoniohg/astro-image-zoom",
     "url": "https://github.com/antoniohg/astro-image-zoom",
     "description": "Medium-style image zoom for Astro: accessible, animated from the page, with swipeable galleries.",
-    "stars": 4,
+    "stars": 5,
     "forks": 1,
     "topics": [
       "accessibility",
@@ -24008,7 +24008,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-11-30T23:50:20Z",
-    "updated_at": "2026-10-01T05:43:52Z",
+    "updated_at": "2026-10-01T08:18:43Z",
     "pushed_at": "2026-10-01T05:44:08Z",
     "discovered_at": "2026-09-28T06:47:01.993Z"
   },
