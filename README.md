@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1264
-**Last updated:** 2026-10-01T12:31:44.227Z
+**Total packages tracked:** 1265
+**Last updated:** 2026-10-01T18:26:47.003Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ANcRyel/fuwari-modified](https://github.com/ANcRyel/fuwari-modified) | 0 | An Astro blog theme based on Fuwari |
 | [nikolaiwu/lunar-blog](https://github.com/nikolaiwu/lunar-blog) | 0 | A minimal Astro blog starter styled with LunarCSS, a classless CSS theme. |
 | [bgalvandev/brunogalvan.dev](https://github.com/bgalvandev/brunogalvan.dev) | 0 | My personal site: static Astro in Spanish and English, a hash-based CSP, axe in ... |
 | [mingcheng/astro-theme-grace](https://github.com/mingcheng/astro-theme-grace) | 0 | 以宣纸白底、绛红点缀、衬线字体和克制网格为视觉基础的简体中文个人网站模板，设计风格源自 gracecode.com |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [patrickrbecker/calorie-tracker-win95](https://github.com/patrickrbecker/calorie-tracker-win95) | 0 | Win95-themed calorie tracking contest app built with Astro |
 | [HiDeoo/starlight-file-explorer](https://github.com/HiDeoo/starlight-file-explorer) | 5 | Explore and document files and folders in your Starlight site with an interactiv... |
 | [MrG45/paez-tree-service-website](https://github.com/MrG45/paez-tree-service-website) | 0 | Paez Tree Service website — Astro build (WordPress theme preserved on wp-theme b... |
-| [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 5 | Medium-style image zoom for Astro: accessible, animated from the page, with swip... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -37,7 +37,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [JustGoodUI/dante-astro-theme](https://github.com/JustGoodUI/dante-astro-theme) | 500 | Dante, a single-author blog and portfolio theme for Astro.js.  |
 | [thomasKn/astro-shopify](https://github.com/thomasKn/astro-shopify) | 500 | A lightweight and powerful ecommerce starter theme to build headless Shopify sto... |
 | [ElianCodes/brutal](https://github.com/ElianCodes/brutal) | 473 | A neobrutalism Astro starter theme |
-| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 409 | Dark-themed website template built on Astro and Tailwind CSS |
+| [matt765/Tailcast](https://github.com/matt765/Tailcast) | 410 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 388 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 320 | Zero-config PWA Integration for Astro |
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 319 | Minimal blog theme built with Astro. |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 4 | 2026-10-01 | The Astro wiki you can write in — paper-and-ink typography f... |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-10-01 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-01 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-01 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 0 | 2026-10-01 | A tiny git-backed CMS for Astro — edit your static site in p... |
-| [Davidciro-333/ciro-bio-link-page](https://github.com/Davidciro-333/ciro-bio-link-page) | 1 | 2026-10-01 | Personal bio-link page with live Spotify, GitHub and PlaySta... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-01 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-10-01 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
-| [druedaro/astro-seo-theme](https://github.com/druedaro/astro-seo-theme) | 1 | 2026-10-01 | An ultra-fast, SEO-first blog template for Astro. Features a... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-01 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [nipun-arora/cool-astro-forms](https://github.com/nipun-arora/cool-astro-forms) | 8 | 2026-10-01 | The lead-ops platform for Astro forms: abandonment capture, ... |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-01 | Relics & Reckonings (personal blog) and an automated cross-r... |
-| [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | 2026-10-01 | My blog powered by Astro & Firefly Theme. |
-| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 52 | 2026-10-01 | A lightweight, zero-dependency cookie consent toolkit for GD... |
-| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 71 | 2026-10-01 | Publish integrations within minutes. |
-| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-10-01 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
-| [Jazee6/astro-blur](https://github.com/Jazee6/astro-blur) | 29 | 2026-10-01 | A static blog theme built with Astro |
-| [Darkify19/carl-janzell-portfolio](https://github.com/Darkify19/carl-janzell-portfolio) | 0 | 2026-10-01 | My portfolio — an animated galaxy-themed Astro site document... |
-| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 156 | 2026-10-01 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 23 | 2026-10-01 | Framework-agnostic interactive component anatomy for design ... |
 | [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 5 | 2026-10-01 | Medium-style image zoom for Astro: accessible, animated from... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-01 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 60 | 2026-10-01 | An Astro integration for rendering LilyPond music notation. |
+| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-10-01 | Astro Integration to automatically generate Subresource Inte... |
+| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 18 | 2026-10-01 | A integration for Astro adding a toolbar for users of astro-... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-01 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 71 | 2026-10-01 | Publish integrations within minutes. |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-01 | Live preview for Payload CMS on server-rendered and static f... |
+| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 4 | 2026-10-01 | The Astro wiki you can write in — paper-and-ink typography f... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-01 | Universal Analytics Engines Integration |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 156 | 2026-10-01 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-10-01 | Loaders for Astro's Content Layer |
+| [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) | 0 | 2026-10-01 | A customized blogging theme based on astro-erudite v2.0. |
+| [wsjz/vergil-astro-theme](https://github.com/wsjz/vergil-astro-theme) | 1 | 2026-10-01 | 一个多视图设计的 Astro 个人网站主题 |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-10-01 | Documentation for Azion's services and features. |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-01 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 224 | 2026-10-01 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-10-01 | The i18n integration for Astro 🧑‍🚀 |
+| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 2 | 2026-10-01 | Reusable Astro components for MDX content. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-01T18:26 | 1 | 916 | 1265 |
 | 2026-10-01T12:31 | 0 | 917 | 1264 |
 | 2026-10-01T06:35 | 0 | 917 | 1264 |
 | 2026-10-01T01:04 | 1 | 916 | 1264 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-09-30T00:57 | 3 | 913 | 1261 |
 | 2026-09-29T18:25 | 0 | 915 | 1258 |
 | 2026-09-29T12:32 | 2 | 913 | 1258 |
-| 2026-09-29T06:34 | 2 | 913 | 1256 |
 
 ---
 
