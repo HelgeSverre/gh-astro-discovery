@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1312
-**Last updated:** 2026-10-08T00:56:55.141Z
+**Total packages tracked:** 1313
+**Last updated:** 2026-10-08T06:36:18.384Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Amoswuuuu/Inkwell](https://github.com/Amoswuuuu/Inkwell) | 0 | Inkwell: An AI-native, human-centric blog theme built with Astro 6. Structured d... |
 | [ruvylax/astro-theme-cactus](https://github.com/ruvylax/astro-theme-cactus) | 0 |  |
 | [pasha2do-cyber/runlog-astro-lite](https://github.com/pasha2do-cyber/runlog-astro-lite) | 0 | Free Astro theme for AI agent and devtool startups. Monospace, light + dark, blo... |
 | [AB-SHEK/the-wall-blog](https://github.com/AB-SHEK/the-wall-blog) | 0 | 🧗 A bouldering-themed personal blog where navigation feels like climbing a wall... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [siygle/emdash-theme-omarchy](https://github.com/siygle/emdash-theme-omarchy) | 0 | Omarchy-style EmDash blog theme: Hyprland tiling windows, a Waybar top bar, and ... |
 | [piratewebsite/pirate-forms](https://github.com/piratewebsite/pirate-forms) | 0 | Astro form components for static sites, and a contact form plugin for the pirate... |
 | [shirinbauer/astro-theme-masthead](https://github.com/shirinbauer/astro-theme-masthead) | 0 |  |
-| [Matiaseze/Portfolios-themes](https://github.com/Matiaseze/Portfolios-themes) | 0 | Diferentes temas con ASTRO + GSAP + PhotoSwipe + Tailwind basados en recomendaci... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-08 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 23 | 2026-10-08 | Framework-agnostic interactive component anatomy for design ... |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-10-08 | ✨A static blog template built with Astro. |
-| [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 11 | 2026-10-08 | Medium-style image zoom for Astro: accessible, animated from... |
-| [copyboy/product_whoami](https://github.com/copyboy/product_whoami) | 8 | 2026-10-08 | 🏆 Astro Official Theme: Modern, performant blog platform fo... |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-10-08 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-10-08 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-10-08 | A fast and minimalist personal website and blog powered by A... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-07 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [ruvylax/astro-theme-cactus](https://github.com/ruvylax/astro-theme-cactus) | 0 | 2026-10-07 |  |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-10-07 | Astro integration that uses existing configuration to write ... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-07 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-10-07 | The global variable integration for Astro 🌐 |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-07 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-07 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-10-07 | Astro Integration to generate a customizable table of conten... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-07 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [displaycoffee/memoria](https://github.com/displaycoffee/memoria) | 0 | 2026-10-07 | WordPress theme built on Astro. |
-| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-10-07 | Astro starter for academic sites: publications from BibTeX, ... |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-10-07 | This Astro component simplifies the process of adding moneti... |
-| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-10-07 | Astro integration for the Carve markup language |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-10-07 | Documentation for Azion's services and features. |
+| [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | 2026-10-08 | My blog powered by Astro & Firefly Theme. |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-08 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-08 | Modern static blog theme with distinctive anime-style featur... |
+| [klokie/klokie-theme](https://github.com/klokie/klokie-theme) | 1 | 2026-10-08 | Shared design tokens, presets, and Astro components for klok... |
+| [kitschpatrol/astro-mdx-kit](https://github.com/kitschpatrol/astro-mdx-kit) | 3 | 2026-10-08 | Astro integration for MDX directive-to-component mapping, el... |
+| [kitschpatrol/astro-feed-kit](https://github.com/kitschpatrol/astro-feed-kit) | 8 | 2026-10-08 | Astro integration for full-content RSS, Atom, and JSON feeds... |
+| [kitschpatrol/astro-html-kit](https://github.com/kitschpatrol/astro-html-kit) | 2 | 2026-10-08 | Astro integration and middleware to clean up your HTML. |
+| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-10-08 | Astro components for images and video. |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-10-08 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 286 | 2026-10-08 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-10-08 | Format 🗻 |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-10-08 | Astro Integration to generate a customizable table of conten... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-08 | Universal Analytics Engines Integration |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-10-08 | Documentation for Azion's services and features. |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-08 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [Amoswuuuu/Inkwell](https://github.com/Amoswuuuu/Inkwell) | 0 | 2026-10-08 | Inkwell: An AI-native, human-centric blog theme built with A... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-08 | Add a ripple-style theme toggle animation to your Astro proj... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-08T06:36 | 1 | 932 | 1313 |
 | 2026-10-08T00:56 | 1 | 932 | 1312 |
 | 2026-10-07T18:25 | 2 | 931 | 1311 |
 | 2026-10-07T12:31 | 4 | 928 | 1309 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-06T12:30 | 3 | 925 | 1299 |
 | 2026-10-06T06:34 | 0 | 927 | 1296 |
 | 2026-10-06T00:54 | 2 | 925 | 1296 |
-| 2026-10-05T18:26 | 2 | 924 | 1294 |
 
 ---
 
