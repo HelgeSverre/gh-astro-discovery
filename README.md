@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1323
-**Last updated:** 2026-10-09T00:58:49.599Z
+**Total packages tracked:** 1324
+**Last updated:** 2026-10-09T06:35:16.297Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [formgong/shoal-astro-theme](https://github.com/formgong/shoal-astro-theme) | 0 | Free Astro theme for real estate agents: full-screen photo hero, service tiles, ... |
 | [idshdx/astro-theme-cody](https://github.com/idshdx/astro-theme-cody) | 0 | A minimal astro theme for quickly creating your own blog |
 | [formgong/orrery-astro-theme](https://github.com/formgong/orrery-astro-theme) | 0 | Free Astro theme for consultants and B2B firms: dark, light type, one lime accen... |
 | [formgong/craftline-astro-theme](https://github.com/formgong/craftline-astro-theme) | 0 | Free Astro theme for plumbers and other trades: scroll story, CSS 3D house, a qu... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [ecomsys/astro-ui-kit](https://github.com/ecomsys/astro-ui-kit) | 0 | Open-source UI kit inspired by shadcn/ui, built for Astro. Powered by Tailwind C... |
 | [vergil-astro/vergil-astro-theme](https://github.com/vergil-astro/vergil-astro-theme) | 0 | An Astro theme for blogs and docs. Callouts, timelines, charts and galleries are... |
 | [LLh-xuesj/astro_blog](https://github.com/LLh-xuesj/astro_blog) | 0 | my blog |
-| [3097998179/astro-theme](https://github.com/3097998179/astro-theme) | 1 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [antvis/astro-theme-antv](https://github.com/antvis/astro-theme-antv) | 0 | 2026-10-09 | AntV website for AI, based on astro. |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-09 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | 2026-10-09 | My blog powered by Astro & Firefly Theme. |
+| [LeeviKopakkala/astro-cookie-consent](https://github.com/LeeviKopakkala/astro-cookie-consent) | 1 | 2026-10-09 | A tiny, dependency-free, GDPR compliant cookie consent banne... |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-09 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [Identityex/astro-tanstack-query](https://github.com/Identityex/astro-tanstack-query) | 0 | 2026-10-09 | Unofficial Astro integration: one TanStack Query cache share... |
+| [xocothemes/compass](https://github.com/xocothemes/compass) | 8 | 2026-10-09 | Compass is an Astro documentation theme built for product do... |
+| [formgong/shoal-astro-theme](https://github.com/formgong/shoal-astro-theme) | 0 | 2026-10-09 | Free Astro theme for real estate agents: full-screen photo h... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-09 | Brand new AstroWind Theme for TLT |
+| [xiangdongc/my_firefly](https://github.com/xiangdongc/my_firefly) | 0 | 2026-10-09 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-10-09 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 224 | 2026-10-09 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [dgesteves/ask-my-site](https://github.com/dgesteves/ask-my-site) | 1 | 2026-10-09 | Self-hosted Ask AI for any docs site: build-time index, in-m... |
-| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-10-09 | Astro Integration to automatically generate Subresource Inte... |
-| [SudoDevStudio/astro-ai](https://github.com/SudoDevStudio/astro-ai) | 1 | 2026-10-09 | Development-only visual editing for Astro. Select elements, ... |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-10-09 | A fast and minimalist personal website and blog powered by A... |
 | [takomitkm/astro-theme-mustom](https://github.com/takomitkm/astro-theme-mustom) | 0 | 2026-10-09 | Mustom theme Astro ver. - static output, zero framework runt... |
-| [achimismaili/easy-web](https://github.com/achimismaili/easy-web) | 0 | 2026-10-08 | Baseline @easy-web/* package family: shared Astro components... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-10-08 | Documentation for Azion's services and features. |
-| [alex-grover/astro-themes](https://github.com/alex-grover/astro-themes) | 86 | 2026-10-08 | Easy dark mode for Astro websites |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-08 | Universal Analytics Engines Integration |
-| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 18 | 2026-10-08 | Integration of Astro with Strapi CMS that enables easy data ... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-10-08 | The i18n integration for Astro 🧑‍🚀 |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-08 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-08 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [formgong/orrery-astro-theme](https://github.com/formgong/orrery-astro-theme) | 0 | 2026-10-08 | Free Astro theme for consultants and B2B firms: dark, light ... |
-| [formgong/craftline-astro-theme](https://github.com/formgong/craftline-astro-theme) | 0 | 2026-10-08 | Free Astro theme for plumbers and other trades: scroll story... |
-| [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 12 | 2026-10-08 | Medium-style image zoom for Astro: accessible, animated from... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-08 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 19 | 2026-10-08 | A blog and personal site theme for Astro with a terminal loo... |
-| [zetxek/adritian-astro](https://github.com/zetxek/adritian-astro) | 0 | 2026-10-08 | Astro port of the Adritian theme — fast, accessible personal... |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 286 | 2026-10-09 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-10-09 | Format 🗻 |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-10-09 | ✨A static blog template built with Astro. |
+| [gauravrathore701/Blogging_App](https://github.com/gauravrathore701/Blogging_App) | 0 | 2026-10-09 | A statically generated blog built with Astro and served from... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-10-09 | Astro integration for loading fonts into build artifacts wit... |
+| [porsche-design-system/sample-integration-astro-offline](https://github.com/porsche-design-system/sample-integration-astro-offline) | 0 | 2026-10-09 | This repository demonstrates how to integrate the Porsche De... |
+| [tangwz/tang](https://github.com/tangwz/tang) | 0 | 2026-10-09 | An Astro blog theme. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-09T06:35 | 1 | 934 | 1324 |
 | 2026-10-09T00:58 | 5 | 930 | 1323 |
 | 2026-10-08T18:25 | 3 | 930 | 1318 |
 | 2026-10-08T12:31 | 2 | 931 | 1315 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-07T12:31 | 4 | 928 | 1309 |
 | 2026-10-07T06:34 | 1 | 930 | 1305 |
 | 2026-10-07T00:57 | 3 | 928 | 1304 |
-| 2026-10-06T18:24 | 2 | 927 | 1301 |
 
 ---
 
