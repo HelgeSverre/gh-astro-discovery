@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1331
-**Last updated:** 2026-10-09T18:24:36.317Z
+**Last updated:** 2026-10-10T00:56:55.154Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dgesteves/ask-my-site](https://github.com/dgesteves/ask-my-site) | 1 | 2026-10-09 | Self-hosted Ask AI for any docs site: build-time index, in-m... |
+| [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 12 | 2026-10-10 | Medium-style image zoom for Astro: accessible, animated from... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-10-10 | The i18n integration for Astro 🧑‍🚀 |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-10 | An Astro Prometheus nodejs middleware integration for Astro |
+| [rickykal898/mainline-astro-template](https://github.com/rickykal898/mainline-astro-template) | 0 | 2026-10-10 | 🌟 Create stunning websites with the Mainline Astro Template... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-10 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-10-10 | Astro integration that uses existing configuration to write ... |
+| [Strockise/Valtro-Astro-Theme](https://github.com/Strockise/Valtro-Astro-Theme) | 0 | 2026-10-10 |  |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-10-10 | A fast and minimalist personal website and blog powered by A... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-09 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-10-09 | Astro integration for the Carve markup language |
+| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-10-09 | BeamAnalytics integration for Astro |
+| [mountos/unippon](https://github.com/mountos/unippon) | 0 | 2026-10-09 | Astro template for a directory website in minimal theme, wit... |
+| [mountos/astro-pu](https://github.com/mountos/astro-pu) | 1 | 2026-10-09 | 璞 (Pú) - An elegant, content-focused Astro starter template,... |
 | [ImYufish/my-blog](https://github.com/ImYufish/my-blog) | 2 | 2026-10-09 | 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, f... |
-| [xianmi-lib/starlight-theme-large-print](https://github.com/xianmi-lib/starlight-theme-large-print) | 0 | 2026-10-09 | Elder-friendly reading theme for Astro Starlight: large seri... |
-| [yashjawale/saral-theme-astro](https://github.com/yashjawale/saral-theme-astro) | 64 | 2026-10-09 | A simple theme for personal blog sites, created for Astro fr... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-10-09 | Documentation for Azion's services and features. |
-| [farulivan/astro-origin](https://github.com/farulivan/astro-origin) | 0 | 2026-10-09 | An Astro 7 starter that stays correct as you extend it: bili... |
-| [takomitkm/astro-theme-mustom](https://github.com/takomitkm/astro-theme-mustom) | 0 | 2026-10-09 | Mustom theme Astro ver. - static output, zero framework runt... |
-| [henkisdabro/henriksoderlund-website-v2](https://github.com/henkisdabro/henriksoderlund-website-v2) | 0 | 2026-10-09 | Professional portfolio website built with Astro 6 and TypeSc... |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-10-09 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-09 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-10-09 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-09 | Modern static blog theme with distinctive anime-style featur... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 224 | 2026-10-09 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [Strockise/Optiro-Astro-Theme](https://github.com/Strockise/Optiro-Astro-Theme) | 0 | 2026-10-09 |  |
-| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-10-09 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
-| [pascal-brand38/astro-lightGallery](https://github.com/pascal-brand38/astro-lightGallery) | 11 | 2026-10-09 | Astro component for lightgallery, for building beautiful ima... |
-| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-10-09 | Astro starter for academic sites: publications from BibTeX, ... |
-| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-10-09 | Regular integration tests of Coordinated packages with astro... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-09 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [Wave-RF/astro-trademarks](https://github.com/Wave-RF/astro-trademarks) | 0 | 2026-10-09 | Astro integration that marks the first mention of each trade... |
-| [bnomei/emdash-mika](https://github.com/bnomei/emdash-mika) | 2 | 2026-10-09 | EmDash CMS agent-ready commerce primitives for content-led s... |
+| [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-10-09 | Umbrella landing page for the wicked-* family of local-first... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 1 | 2026-10-09 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-10-09 | The global variable integration for Astro 🌐 |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-09 | Universal Analytics Engines Integration |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-10T00:56 | 0 | 939 | 1331 |
 | 2026-10-09T18:24 | 4 | 935 | 1331 |
 | 2026-10-09T12:29 | 3 | 934 | 1327 |
 | 2026-10-09T06:35 | 1 | 934 | 1324 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-08T06:36 | 1 | 932 | 1313 |
 | 2026-10-08T00:56 | 1 | 932 | 1312 |
 | 2026-10-07T18:25 | 2 | 931 | 1311 |
-| 2026-10-07T12:31 | 4 | 928 | 1309 |
 
 ---
 
