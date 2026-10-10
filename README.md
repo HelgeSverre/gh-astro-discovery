@@ -2,13 +2,17 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1332
-**Last updated:** 2026-10-10T12:27:41.528Z
+**Total packages tracked:** 1336
+**Last updated:** 2026-10-10T18:23:30.857Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MintfolioBlog/mintfolio-theme-starter](https://github.com/MintfolioBlog/mintfolio-theme-starter) | 0 | 用两张 Astro 页面开始创建自己的 Mintfolio 主题。 |
+| [MintfolioBlog/mintfolio-theme-verdant](https://github.com/MintfolioBlog/mintfolio-theme-verdant) | 0 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
+| [baiduxc/matrix](https://github.com/baiduxc/matrix) | 0 | Immersive Matrix-inspired Astro blog theme with Three.js effects, readable artic... |
+| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 1 | Make your docs answerable by people and by agents, from one static index: a cite... |
 | [asyntai/starlight-ai-chatbot](https://github.com/asyntai/starlight-ai-chatbot) | 0 | Starlight plugin that adds the Asyntai AI chat assistant to your docs. It answer... |
 | [Martin-Business-Consultants/CMS-Astro-Integration](https://github.com/Martin-Business-Consultants/CMS-Astro-Integration) | 0 | The Astro integration for LibrePublish CMS: content, types, blocks, images, SEO,... |
 | [Strockise/Optiro-Astro-Theme](https://github.com/Strockise/Optiro-Astro-Theme) | 0 |  |
@@ -25,10 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [dgesteves/ask-my-site](https://github.com/dgesteves/ask-my-site) | 1 | Self-hosted Ask AI for any docs site: build-time index, in-memory hybrid search,... |
 | [Sv3nskie/astro-theme-boutique](https://github.com/Sv3nskie/astro-theme-boutique) | 0 | Dark, scroll-driven one-page Astro theme for boutiques, showrooms and small shop... |
 | [mountos/unippon](https://github.com/mountos/unippon) | 0 | Astro template for a directory website in minimal theme, with  reactjs + tailwin... |
-| [gautierlp/astro-agentation](https://github.com/gautierlp/astro-agentation) | 0 | Unofficial Astro integration for Agentation: click an element on your dev server... |
-| [takomitkm/astro-theme-mustom](https://github.com/takomitkm/astro-theme-mustom) | 0 | Mustom theme Astro ver. - static output, zero framework runtime |
-| [Inkstudioagency/Euphoria-Astro-Theme](https://github.com/Inkstudioagency/Euphoria-Astro-Theme) | 0 |  |
-| [Amoswuuuu/Inkwell](https://github.com/Amoswuuuu/Inkwell) | 0 | Inkwell: An AI-native, human-centric blog theme built with Astro 6. Structured d... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-10 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [MintfolioBlog/mintfolio-theme-starter](https://github.com/MintfolioBlog/mintfolio-theme-starter) | 0 | 2026-10-10 | 用两张 Astro 页面开始创建自己的 Mintfolio 主题。 |
+| [MintfolioBlog/mintfolio-theme-verdant](https://github.com/MintfolioBlog/mintfolio-theme-verdant) | 0 | 2026-10-10 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
+| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 20 | 2026-10-10 | A blog and personal site theme for Astro with a terminal loo... |
+| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 4 | 2026-10-10 | The Astro wiki you can write in — paper-and-ink typography f... |
+| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 1 | 2026-10-10 | A tiny git-backed CMS for Astro — edit your static site in p... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 225 | 2026-10-10 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 29 | 2026-10-10 | An installable documentation theme for Astro. |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-10 | An Astro Prometheus nodejs middleware integration for Astro |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-10 | Universal Analytics Engines Integration |
+| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 1 | 2026-10-10 | Make your docs answerable by people and by agents, from one ... |
+| [baiduxc/matrix](https://github.com/baiduxc/matrix) | 0 | 2026-10-10 | Immersive Matrix-inspired Astro blog theme with Three.js eff... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-10-10 | Astro integration that uses existing configuration to write ... |
+| [tangwz/tang](https://github.com/tangwz/tang) | 0 | 2026-10-10 | An Astro blog theme. |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-10 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 22 | 2026-10-10 | Matomo integration for Astro |
+| [ai-tolo/jt-portfolio](https://github.com/ai-tolo/jt-portfolio) | 0 | 2026-10-10 | Jonathan Tollefson personal portfolio site. Astro + Notion-b... |
 | [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-10 | Brand new AstroWind Theme for TLT |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-10-10 | ✨A static blog template built with Astro. |
-| [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf) | 42 | 2026-10-10 | Astro integration to generate PDFs from pages in your site a... |
-| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 8 | 2026-10-10 | A minimal, lightning-fast personal blog built with Astro. |
-| [dgesteves/ask-my-site](https://github.com/dgesteves/ask-my-site) | 1 | 2026-10-10 | Self-hosted Ask AI for any docs site: build-time index, in-m... |
-| [asyntai/starlight-ai-chatbot](https://github.com/asyntai/starlight-ai-chatbot) | 0 | 2026-10-10 | Starlight plugin that adds the Asyntai AI chat assistant to ... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-10 | Modern static blog theme with distinctive anime-style featur... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-10 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-10-10 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-10-10 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-10 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [wisdomousai/creatures-astro-starter](https://github.com/wisdomousai/creatures-astro-starter) | 0 | 2026-10-10 | A small Astro starter with toy robots in it: your content, s... |
-| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-10-10 | Astro Integration to generate a customizable table of conten... |
-| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-10-10 | Astro starter for academic sites: publications from BibTeX, ... |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 225 | 2026-10-10 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-10 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-10-10 | The i18n integration for Astro 🧑‍🚀 |
-| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 10 | 2026-10-10 | Minimalist, typography-first Astro 7 theme crafted for techn... |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-10 | Relics & Reckonings (personal blog) and an automated cross-r... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-10 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-10-10 | Astro integration for loading fonts into build artifacts wit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-10T18:23 | 4 | 936 | 1336 |
 | 2026-10-10T12:27 | 1 | 939 | 1332 |
 | 2026-10-10T06:32 | 0 | 939 | 1331 |
 | 2026-10-10T00:56 | 0 | 939 | 1331 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-09T00:58 | 5 | 930 | 1323 |
 | 2026-10-08T18:25 | 3 | 930 | 1318 |
 | 2026-10-08T12:31 | 2 | 931 | 1315 |
-| 2026-10-08T06:36 | 1 | 932 | 1313 |
 
 ---
 
