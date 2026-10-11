@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1339
-**Last updated:** 2026-10-11T06:32:40.525Z
+**Total packages tracked:** 1340
+**Last updated:** 2026-10-11T12:29:05.374Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [smallinkfish1/Astro-Win10-Like-Theme](https://github.com/smallinkfish1/Astro-Win10-Like-Theme) | 0 | This is a Astro theme created by AI,It seems like a Windows 10 OS |
 | [jczhang02/lemma-blog](https://github.com/jczhang02/lemma-blog) | 0 | A quiet Astro theme for math-heavy writing: real LaTeX, numbered theorems, citat... |
 | [jesusvelezx/astro-components](https://github.com/jesusvelezx/astro-components) | 0 | A curated collection of beautiful, copy-paste components for Astro. Built by and... |
 | [codeaeffchen-gmbh/astro-split-domains](https://github.com/codeaeffchen-gmbh/astro-split-domains) | 0 | Astro integration: one static build, one output folder per domain (e.g. German o... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [idshdx/astro-theme-cody](https://github.com/idshdx/astro-theme-cody) | 0 | A minimal astro theme for quickly creating your own blog |
 | [formgong/orrery-astro-theme](https://github.com/formgong/orrery-astro-theme) | 0 | Free Astro theme for consultants and B2B firms: dark, light type, one lime accen... |
 | [formgong/craftline-astro-theme](https://github.com/formgong/craftline-astro-theme) | 0 | Free Astro theme for plumbers and other trades: scroll story, CSS 3D house, a qu... |
-| [kamimen/astro-theme-shinbun](https://github.com/kamimen/astro-theme-shinbun) | 0 | An Astro theme for Japanese blogs that reads like a newspaper page (新聞). Horizon... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jczhang02/lemma-blog](https://github.com/jczhang02/lemma-blog) | 0 | 2026-10-11 | A quiet Astro theme for math-heavy writing: real LaTeX, numb... |
+| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 1 | 2026-10-11 | Make your docs answerable by people and by agents, from one ... |
+| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-10-11 | A cinematic, multi-atmosphere Astro theme for personal publi... |
+| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 20 | 2026-10-11 | A blog and personal site theme for Astro with a terminal loo... |
+| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 8 | 2026-10-11 | A minimal, lightning-fast personal blog built with Astro. |
+| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-10-11 | Automatically add your parameters to external links and URLs... |
+| [anjay-goel/astro-sienna](https://github.com/anjay-goel/astro-sienna) | 52 | 2026-10-11 | A minimal writing focused Astro blog template |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 226 | 2026-10-11 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 11 | 2026-10-11 | Minimalist, typography-first Astro 7 theme crafted for techn... |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-10-11 | Support AsciiDoc pages in Astro |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 24 | 2026-10-11 | Framework-agnostic interactive component anatomy for design ... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-11 | Universal Analytics Engines Integration |
+| [smallinkfish1/Astro-Win10-Like-Theme](https://github.com/smallinkfish1/Astro-Win10-Like-Theme) | 0 | 2026-10-11 | This is a Astro theme created by AI,It seems like a Windows ... |
+| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-11 | Unify and control AI coding agents from one CLI for Claude, ... |
+| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-11 | 🚀 Create your professional blog quickly with this SEO-optim... |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-10-11 | Regular integration tests of Coordinated packages with astro... |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-10-11 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
 | [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-11 | Brand new AstroWind Theme for TLT |
 | [MintfolioBlog/mintfolio-theme-verdant](https://github.com/MintfolioBlog/mintfolio-theme-verdant) | 0 | 2026-10-11 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
 | [MintfolioBlog/mintfolio-theme-starter](https://github.com/MintfolioBlog/mintfolio-theme-starter) | 0 | 2026-10-11 | 用两张 Astro 页面开始创建自己的 Mintfolio 主题。 |
-| [codeaeffchen-gmbh/astro-split-domains](https://github.com/codeaeffchen-gmbh/astro-split-domains) | 0 | 2026-10-11 | Astro integration: one static build, one output folder per d... |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-10-11 | A modern, responsive and lightweight theme for freelancing, ... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-10-11 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [dorle5803/zag](https://github.com/dorle5803/zag) | 1 | 2026-10-11 | Unify and control AI coding agents from one CLI for Claude, ... |
-| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-10-11 | Support AsciiDoc pages in Astro |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 63 | 2026-10-11 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [rizkiameli/blog-starter-template](https://github.com/rizkiameli/blog-starter-template) | 0 | 2026-10-11 | 🚀 Create your professional blog quickly with this SEO-optim... |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-10-11 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 234 | 2026-10-11 | A flexible Astro blog theme designed for Obsidian users. |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-11 | Universal Analytics Engines Integration |
-| [mikeparcewski/wickedagile](https://github.com/mikeparcewski/wickedagile) | 0 | 2026-10-11 | Umbrella landing page for the wicked-* family of local-first... |
-| [Mystic-Stars/acorn-theme](https://github.com/Mystic-Stars/acorn-theme) | 1 | 2026-10-11 | Acorn — an Astro blog theme with a warm Animal Island visual... |
-| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-10-11 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 287 | 2026-10-11 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-10-11 | Format 🗻 |
-| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 1 | 2026-10-11 | Make your docs answerable by people and by agents, from one ... |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-11 | Relics & Reckonings (personal blog) and an automated cross-r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-11T12:29 | 1 | 699 | 1340 |
 | 2026-10-11T06:32 | 1 | 941 | 1339 |
 | 2026-10-11T01:02 | 2 | 939 | 1338 |
 | 2026-10-10T18:23 | 4 | 936 | 1336 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-09T18:24 | 4 | 935 | 1331 |
 | 2026-10-09T12:29 | 3 | 934 | 1327 |
 | 2026-10-09T06:35 | 1 | 934 | 1324 |
-| 2026-10-09T00:58 | 5 | 930 | 1323 |
 
 ---
 
