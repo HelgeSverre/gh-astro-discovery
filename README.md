@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1343
-**Last updated:** 2026-10-11T18:24:01.560Z
+**Total packages tracked:** 1344
+**Last updated:** 2026-10-12T01:03:58.354Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [HugoAdama/Wedding_Web](https://github.com/HugoAdama/Wedding_Web) | 0 | Editorial digital wedding invitation built with Astro 7, TypeScript & modern CSS... |
 | [bunnysi/lone](https://github.com/bunnysi/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
 | [developeron29/measuremysite-astro](https://github.com/developeron29/measuremysite-astro) | 0 | Astro integration for measuremy.site: cookieless web analytics your AI agent can... |
 | [andriyor/astro-obsidian-base](https://github.com/andriyor/astro-obsidian-base) | 0 | Render Obsidian Bases (.base) tables in Astro sites |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [wisdomousai/creatures-astro-starter](https://github.com/wisdomousai/creatures-astro-starter) | 0 | A small Astro starter with toy robots in it: your content, shown clean or played... |
 | [jacksonhuangfly/astro-theme-aither](https://github.com/jacksonhuangfly/astro-theme-aither) | 1 | An AI-native Astro theme built around beautiful text. ✍️ |
 | [Human-Reply/astro](https://github.com/Human-Reply/astro) | 0 | Human Reply for Astro: live chat on every page of your Astro site, answered from... |
-| [formgong/shoal-astro-theme](https://github.com/formgong/shoal-astro-theme) | 0 | Free Astro theme for real estate agents: full-screen photo hero, service tiles, ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [almahers/astroarabia](https://github.com/almahers/astroarabia) | 4 | 2026-10-11 | Arabic-first RTL Astro theme starter for the Arabic web comm... |
-| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 2 | 2026-10-11 | Reusable Astro components for MDX content. |
-| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-11 | Brand new AstroWind Theme for TLT |
-| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 1 | 2026-10-11 | Make your docs answerable by people and by agents, from one ... |
-| [krishkantrai27/portfolio](https://github.com/krishkantrai27/portfolio) | 0 | 2026-10-11 | Responsive developer portfolio built with React, Astro, Tail... |
-| [developeron29/measuremysite-astro](https://github.com/developeron29/measuremysite-astro) | 0 | 2026-10-11 | Astro integration for measuremy.site: cookieless web analyti... |
-| [arias9306/arias9306.github.io](https://github.com/arias9306/arias9306.github.io) | 1 | 2026-10-11 | Dev Blog using Astro Theme YI |
+| [TeamNexum/NexumWebsite](https://github.com/TeamNexum/NexumWebsite) | 0 | 2026-10-12 | Site vitrine de Nexum : un clic, tout ton setup. Astro, thèm... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-10-12 | My astro static blog use theme Firefly. |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-12 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [jczhang02/lemma-blog](https://github.com/jczhang02/lemma-blog) | 0 | 2026-10-12 | A quiet Astro theme for math-heavy writing: real LaTeX, numb... |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 156 | 2026-10-12 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [prosefly/astro-components](https://github.com/prosefly/astro-components) | 2 | 2026-10-12 | Reusable Astro components for MDX content. |
+| [prosefly/astro-theme-lotus](https://github.com/prosefly/astro-theme-lotus) | 29 | 2026-10-12 | An installable documentation theme for Astro. |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-12 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-10-11 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-11 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [kaktaknet/starlight-seo](https://github.com/kaktaknet/starlight-seo) | 1 | 2026-10-11 | Starlight plugin: search-ready titles, connected JSON-LD, co... |
 | [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-10-11 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-10-11 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-11 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-11 | Modern static blog theme with distinctive anime-style featur... |
-| [mearashadowfax/DomusPicturae](https://github.com/mearashadowfax/DomusPicturae) | 2 | 2026-10-11 | Open-source multilingual Astro + Keystatic website template ... |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 164 | 2026-10-11 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 319 | 2026-10-11 | Minimal blog theme built with Astro. |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-10-11 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) | 0 | 2026-10-11 | A customized blogging theme based on astro-erudite v2.0. |
-| [pilippopilippo/astrochicken](https://github.com/pilippopilippo/astrochicken) | 1 | 2026-10-11 | 🍗 A fast, accessible Astro blog template with dark mode, se... |
-| [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) | 273 | 2026-10-11 | Official Astro theme portfolio template built with React, Ty... |
+| [SudoDevStudio/astro-ai](https://github.com/SudoDevStudio/astro-ai) | 1 | 2026-10-11 | Development-only visual editing for Astro. Select elements, ... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 203 | 2026-10-11 | The i18n integration for Astro 🧑‍🚀 |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-10-11 | Astro starter for academic sites: publications from BibTeX, ... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 226 | 2026-10-11 | Well configurable breadcrumb component for Astro.js. Create ... |
 | [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-11 | Universal Analytics Engines Integration |
-| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 | 2026-10-11 |  |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 210 | 2026-10-11 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-10-11 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [HugoAdama/Wedding_Web](https://github.com/HugoAdama/Wedding_Web) | 0 | 2026-10-11 | Editorial digital wedding invitation built with Astro 7, Typ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-12T01:03 | 1 | 947 | 1344 |
 | 2026-10-11T18:24 | 3 | 944 | 1343 |
 | 2026-10-11T12:29 | 1 | 699 | 1340 |
 | 2026-10-11T06:32 | 1 | 941 | 1339 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-10T06:32 | 0 | 939 | 1331 |
 | 2026-10-10T00:56 | 0 | 939 | 1331 |
 | 2026-10-09T18:24 | 4 | 935 | 1331 |
-| 2026-10-09T12:29 | 3 | 934 | 1327 |
 
 ---
 
