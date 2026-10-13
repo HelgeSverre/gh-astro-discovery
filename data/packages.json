@@ -111,8 +111,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-08-10T12:41:19Z",
-    "updated_at": "2026-09-08T08:47:19Z",
-    "pushed_at": "2026-09-08T08:45:35Z",
+    "updated_at": "2026-10-12T20:52:42Z",
+    "pushed_at": "2026-10-12T20:52:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/network": {
@@ -2821,7 +2821,7 @@
     "name": "dorukgezici/astro-decap-cms-oauth",
     "url": "https://github.com/dorukgezici/astro-decap-cms-oauth",
     "description": "Add Decap CMS’s admin dashboard and custom OAuth backend routes for GitHub to your Astro project",
-    "stars": 78,
+    "stars": 79,
     "forks": 18,
     "topics": [
       "astro-integration",
@@ -2830,8 +2830,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-08-27T20:34:09Z",
-    "updated_at": "2026-10-02T15:56:54Z",
-    "pushed_at": "2026-10-05T08:23:46Z",
+    "updated_at": "2026-10-12T22:23:49Z",
+    "pushed_at": "2026-10-13T00:36:43Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-dev": {
@@ -5180,8 +5180,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2025-10-31T15:42:33Z",
-    "updated_at": "2026-10-12T18:18:24Z",
-    "pushed_at": "2026-10-12T18:18:20Z",
+    "updated_at": "2026-10-12T23:48:49Z",
+    "pushed_at": "2026-10-12T23:48:45Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "netlify-templates/astro-platform-starter": {
@@ -8381,7 +8381,7 @@
     "url": "https://github.com/astropy/astropy-integration-testing",
     "description": "Regular integration tests of Coordinated packages with astropy",
     "stars": 4,
-    "forks": 7,
+    "forks": 6,
     "topics": [],
     "language": "Python",
     "license": null,
@@ -11196,8 +11196,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-10-12T15:13:27Z",
-    "pushed_at": "2026-10-12T16:05:44Z",
+    "updated_at": "2026-10-12T19:53:06Z",
+    "pushed_at": "2026-10-12T19:53:01Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
   "markup-carve/astro-carve": {
@@ -11422,7 +11422,7 @@
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
     "updated_at": "2026-10-12T16:45:24Z",
-    "pushed_at": "2026-10-12T16:45:22Z",
+    "pushed_at": "2026-10-12T23:12:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11514,7 +11514,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-10-12T16:14:17Z",
+    "pushed_at": "2026-10-12T23:18:45Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -14936,8 +14936,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-03-02T22:20:44Z",
-    "updated_at": "2026-09-28T08:24:36Z",
-    "pushed_at": "2026-10-12T13:25:36Z",
+    "updated_at": "2026-10-12T19:50:37Z",
+    "pushed_at": "2026-10-12T19:50:35Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "praxispoetica/chiri-pp": {
@@ -15520,8 +15520,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-10T18:01:42Z",
-    "updated_at": "2026-10-11T10:16:24Z",
-    "pushed_at": "2026-10-11T10:21:32Z",
+    "updated_at": "2026-10-12T19:45:41Z",
+    "pushed_at": "2026-10-12T19:45:38Z",
     "discovered_at": "2026-07-11T12:26:55.822Z"
   },
   "tom2almighty/astro-narrow": {
@@ -19183,8 +19183,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-10-12T12:49:11Z",
-    "pushed_at": "2026-10-11T19:54:51Z",
+    "updated_at": "2026-10-12T22:43:43Z",
+    "pushed_at": "2026-10-12T22:43:39Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -21064,7 +21064,7 @@
     "license": "MIT",
     "created_at": "2026-08-28T14:44:37Z",
     "updated_at": "2026-10-09T09:37:55Z",
-    "pushed_at": "2026-10-12T08:30:47Z",
+    "pushed_at": "2026-10-12T20:38:49Z",
     "discovered_at": "2026-08-28T16:18:13.716Z"
   },
   "tap6/gitpress": {
@@ -21227,8 +21227,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-10-12T09:58:43Z",
-    "pushed_at": "2026-10-12T09:58:39Z",
+    "updated_at": "2026-10-12T19:23:59Z",
+    "pushed_at": "2026-10-12T19:23:55Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -23138,7 +23138,7 @@
     "license": "MIT",
     "created_at": "2021-11-30T11:55:49Z",
     "updated_at": "2026-10-09T06:38:04Z",
-    "pushed_at": "2026-10-09T06:36:45Z",
+    "pushed_at": "2026-10-12T19:43:16Z",
     "discovered_at": "2026-09-16T11:20:40.617Z"
   },
   "mdnahianrafi/veltro": {
@@ -23177,8 +23177,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-26T14:55:59Z",
-    "updated_at": "2026-10-10T19:53:58Z",
-    "pushed_at": "2026-10-10T19:54:57Z",
+    "updated_at": "2026-10-12T22:06:57Z",
+    "pushed_at": "2026-10-12T22:08:05Z",
     "discovered_at": "2026-09-16T21:12:22.556Z"
   },
   "rnt-rez/minrock": {
@@ -23781,8 +23781,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-24T19:47:21Z",
-    "updated_at": "2026-10-12T16:13:14Z",
-    "pushed_at": "2026-10-12T16:13:11Z",
+    "updated_at": "2026-10-13T00:48:52Z",
+    "pushed_at": "2026-10-13T00:48:49Z",
     "discovered_at": "2026-09-25T00:51:06.537Z"
   },
   "qingkong143/astro-theme-clean": {
@@ -24011,8 +24011,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-11-30T23:50:20Z",
-    "updated_at": "2026-10-12T17:51:25Z",
-    "pushed_at": "2026-10-12T17:51:21Z",
+    "updated_at": "2026-10-12T21:11:55Z",
+    "pushed_at": "2026-10-12T21:11:51Z",
     "discovered_at": "2026-09-28T06:47:01.993Z"
   },
   "mrg45/paez-tree-service-website": {
@@ -24905,7 +24905,7 @@
     "license": "MIT",
     "created_at": "2026-09-25T11:42:45Z",
     "updated_at": "2026-10-12T18:04:26Z",
-    "pushed_at": "2026-10-07T00:08:32Z",
+    "pushed_at": "2026-10-13T00:46:27Z",
     "discovered_at": "2026-10-05T12:32:44.350Z"
   },
   "shirinbauer/astro-theme-masthead": {
@@ -25046,7 +25046,7 @@
     "license": null,
     "created_at": "2026-05-30T22:14:26Z",
     "updated_at": "2026-10-06T13:40:03Z",
-    "pushed_at": "2026-10-07T22:21:10Z",
+    "pushed_at": "2026-10-12T21:52:05Z",
     "discovered_at": "2026-10-06T18:24:38.593Z"
   },
   "arraypress/icon-subset": {
@@ -25368,8 +25368,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2025-11-24T15:47:01Z",
-    "updated_at": "2026-10-09T22:22:44Z",
-    "pushed_at": "2026-10-09T22:22:41Z",
+    "updated_at": "2026-10-12T23:05:26Z",
+    "pushed_at": "2026-10-12T23:05:23Z",
     "discovered_at": "2026-10-08T18:25:09.216Z"
   },
   "dgesteves/ask-my-site": {
@@ -25697,8 +25697,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-06T19:52:40Z",
-    "updated_at": "2026-10-12T18:17:21Z",
-    "pushed_at": "2026-10-12T18:17:18Z",
+    "updated_at": "2026-10-12T23:49:20Z",
+    "pushed_at": "2026-10-12T23:51:41Z",
     "discovered_at": "2026-10-10T18:23:30.846Z"
   },
   "baiduxc/matrix": {
@@ -25962,7 +25962,7 @@
     "name": "sht/astro-awesome-cv",
     "url": "https://github.com/sht/astro-awesome-cv",
     "description": "Awesome-CV style resume theme for Astro: YAML content, static site and build-time PDF",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro",
@@ -25975,8 +25975,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-12T09:45:40Z",
-    "updated_at": "2026-10-12T15:16:06Z",
-    "pushed_at": "2026-10-12T10:23:32Z",
+    "updated_at": "2026-10-12T20:23:21Z",
+    "pushed_at": "2026-10-12T20:23:17Z",
     "discovered_at": "2026-10-12T12:44:26.664Z"
   },
   "ondelva/astro-theme-tearsheet": {
@@ -26050,5 +26050,44 @@
     "updated_at": "2026-10-12T15:24:46Z",
     "pushed_at": "2026-10-12T15:24:42Z",
     "discovered_at": "2026-10-12T18:25:07.657Z"
+  },
+  "krysmalskipl/astro-consent-mode": {
+    "name": "krysmalskipl/astro-consent-mode",
+    "url": "https://github.com/krysmalskipl/astro-consent-mode",
+    "description": "Zero-config Google Consent Mode v2 integration for Astro. Features ready-to-use cookie banner, basic & advanced modes, and multi-service loaders.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "consent-form",
+      "consent-management",
+      "consent-manager",
+      "consent-mode",
+      "consent-mode-v2",
+      "consent-popup",
+      "privacy",
+      "privacy-tools"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-10-12T00:40:33Z",
+    "updated_at": "2026-10-12T22:53:55Z",
+    "pushed_at": "2026-10-12T01:38:18Z",
+    "discovered_at": "2026-10-13T00:59:31.886Z"
+  },
+  "hilava999/tonefolio": {
+    "name": "hilava999/tonefolio",
+    "url": "https://github.com/hilava999/tonefolio",
+    "description": "An Astro theme for illustration portfolio and gallery websites.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-10-12T05:33:05Z",
+    "updated_at": "2026-10-12T22:17:48Z",
+    "pushed_at": "2026-10-12T22:17:44Z",
+    "discovered_at": "2026-10-13T00:59:31.887Z"
   }
 }
