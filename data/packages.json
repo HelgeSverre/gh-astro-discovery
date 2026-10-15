@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-10-14T17:03:37Z",
-    "pushed_at": "2026-10-14T18:18:24Z",
+    "updated_at": "2026-10-14T22:58:48Z",
+    "pushed_at": "2026-10-14T22:58:46Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-10-14T15:16:39Z",
+    "pushed_at": "2026-10-14T18:34:52Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -2282,8 +2282,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-10-12T13:26:02Z",
-    "pushed_at": "2026-10-12T13:25:57Z",
+    "updated_at": "2026-10-15T00:24:03Z",
+    "pushed_at": "2026-10-15T00:23:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-html-kit": {
@@ -2304,8 +2304,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:48:36Z",
-    "updated_at": "2026-10-12T13:47:21Z",
-    "pushed_at": "2026-10-12T13:47:16Z",
+    "updated_at": "2026-10-15T00:23:59Z",
+    "pushed_at": "2026-10-15T00:23:55Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-feed-kit": {
@@ -2327,8 +2327,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:46:17Z",
-    "updated_at": "2026-10-12T13:37:23Z",
-    "pushed_at": "2026-10-12T13:37:17Z",
+    "updated_at": "2026-10-15T00:23:56Z",
+    "pushed_at": "2026-10-15T00:23:53Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-mdx-kit": {
@@ -2351,8 +2351,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-23T05:42:13Z",
-    "updated_at": "2026-10-12T13:47:27Z",
-    "pushed_at": "2026-10-12T13:47:22Z",
+    "updated_at": "2026-10-15T00:24:01Z",
+    "pushed_at": "2026-10-15T00:23:57Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pascal-brand38/astro-leaflet": {
@@ -2565,7 +2565,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-09-09T16:52:44Z",
-    "pushed_at": "2026-10-14T14:22:03Z",
+    "pushed_at": "2026-10-14T21:27:39Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2627,8 +2627,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
-    "updated_at": "2026-10-13T22:05:34Z",
-    "pushed_at": "2026-10-14T17:55:38Z",
+    "updated_at": "2026-10-14T23:09:07Z",
+    "pushed_at": "2026-10-14T23:09:16Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5259,7 +5259,7 @@
     "name": "nbakh16/career-portfolio-template",
     "url": "https://github.com/nbakh16/career-portfolio-template",
     "description": "Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.",
-    "stars": 40,
+    "stars": 41,
     "forks": 27,
     "topics": [
       "astro-theme",
@@ -5277,7 +5277,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-02-22T09:13:08Z",
-    "updated_at": "2026-10-01T04:23:59Z",
+    "updated_at": "2026-10-14T23:15:15Z",
     "pushed_at": "2026-09-05T13:13:41Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5397,8 +5397,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-10-13T16:41:45Z",
-    "pushed_at": "2026-10-14T18:09:31Z",
+    "updated_at": "2026-10-14T19:12:46Z",
+    "pushed_at": "2026-10-14T19:12:54Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "zsancc/astro-argon": {
@@ -9961,7 +9961,7 @@
     "name": "webrating/starfolio",
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
-    "stars": 54,
+    "stars": 55,
     "forks": 37,
     "topics": [
       "astro",
@@ -9976,7 +9976,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-01T06:37:03Z",
-    "updated_at": "2026-10-13T13:47:16Z",
+    "updated_at": "2026-10-14T22:56:41Z",
     "pushed_at": "2026-06-18T23:23:03Z",
     "discovered_at": "2026-06-03T07:59:31.424Z"
   },
@@ -10415,7 +10415,7 @@
     "license": "MIT",
     "created_at": "2026-06-26T19:37:00Z",
     "updated_at": "2026-10-12T02:35:29Z",
-    "pushed_at": "2026-10-07T04:34:39Z",
+    "pushed_at": "2026-10-14T19:47:56Z",
     "discovered_at": "2026-06-27T01:11:07.091Z"
   },
   "nooniwa/nooniwa": {
@@ -11182,7 +11182,7 @@
     "name": "julien-deramond/component-anatomy",
     "url": "https://github.com/julien-deramond/component-anatomy",
     "description": "Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights.",
-    "stars": 24,
+    "stars": 25,
     "forks": 1,
     "topics": [
       "astro",
@@ -11196,7 +11196,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-10-14T07:37:53Z",
+    "updated_at": "2026-10-14T19:14:49Z",
     "pushed_at": "2026-10-14T07:37:49Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
@@ -11421,8 +11421,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T21:18:09Z",
-    "updated_at": "2026-10-14T10:23:52Z",
-    "pushed_at": "2026-10-14T15:32:53Z",
+    "updated_at": "2026-10-14T22:56:15Z",
+    "pushed_at": "2026-10-14T22:56:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mariatta/astro-theme-popular": {
@@ -11514,7 +11514,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-10-14T14:07:39Z",
+    "pushed_at": "2026-10-14T22:46:44Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11856,7 +11856,7 @@
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
     "updated_at": "2026-10-14T17:01:36Z",
-    "pushed_at": "2026-10-14T17:01:21Z",
+    "pushed_at": "2026-10-14T21:34:55Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -13236,7 +13236,7 @@
     "name": "farrosfr/zenix",
     "url": "https://github.com/farrosfr/zenix",
     "description": "A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.",
-    "stars": 20,
+    "stars": 21,
     "forks": 7,
     "topics": [
       "astro",
@@ -13249,7 +13249,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-18T03:42:06Z",
-    "updated_at": "2026-10-08T19:04:19Z",
+    "updated_at": "2026-10-14T23:19:47Z",
     "pushed_at": "2026-09-13T04:47:21Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -14204,7 +14204,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-10-02T16:47:20Z",
-    "pushed_at": "2026-10-14T00:50:40Z",
+    "pushed_at": "2026-10-15T00:16:45Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15608,8 +15608,8 @@
     "language": "Astro",
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
-    "updated_at": "2026-10-10T18:16:56Z",
-    "pushed_at": "2026-10-11T11:10:38Z",
+    "updated_at": "2026-10-14T23:34:04Z",
+    "pushed_at": "2026-10-14T23:33:52Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
   "kpab/astro-kepler": {
@@ -18916,7 +18916,7 @@
     "name": "bnomei/emdash-mika",
     "url": "https://github.com/bnomei/emdash-mika",
     "description": "EmDash CMS agent-ready commerce primitives for content-led storefronts.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "agent-ready-commerce",
@@ -18943,7 +18943,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-18T11:20:57Z",
-    "updated_at": "2026-10-09T15:30:54Z",
+    "updated_at": "2026-10-15T00:11:03Z",
     "pushed_at": "2026-10-09T15:28:51Z",
     "discovered_at": "2026-08-10T18:22:56.908Z"
   },
@@ -19183,8 +19183,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-10-14T17:35:03Z",
-    "pushed_at": "2026-10-14T17:34:58Z",
+    "updated_at": "2026-10-14T19:58:00Z",
+    "pushed_at": "2026-10-14T19:57:55Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -20376,8 +20376,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-10-10T18:49:03Z",
-    "pushed_at": "2026-10-10T18:49:00Z",
+    "updated_at": "2026-10-14T23:25:55Z",
+    "pushed_at": "2026-10-14T23:25:52Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -20489,7 +20489,7 @@
     "url": "https://github.com/larry-xue/apple-style-portfolio",
     "description": "This is a template with a highly minimalist style, greatly inspired by Apple's design concept. It is built with Astro, TailwindCSS, GSAP, and Three.js.",
     "stars": 34,
-    "forks": 20,
+    "forks": 21,
     "topics": [
       "apple-design",
       "astro",
@@ -20541,7 +20541,7 @@
     "name": "larry-xue/astro-sassify-template",
     "url": "https://github.com/larry-xue/astro-sassify-template",
     "description": "Focus on your business, simplify your start.",
-    "stars": 102,
+    "stars": 103,
     "forks": 46,
     "topics": [
       "alpinejs",
@@ -20560,7 +20560,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-03-01T04:21:13Z",
-    "updated_at": "2026-10-14T04:00:13Z",
+    "updated_at": "2026-10-14T21:58:41Z",
     "pushed_at": "2026-08-25T01:54:08Z",
     "discovered_at": "2026-08-23T06:14:02.653Z"
   },
@@ -21064,7 +21064,7 @@
     "license": "MIT",
     "created_at": "2026-08-28T14:44:37Z",
     "updated_at": "2026-10-09T09:37:55Z",
-    "pushed_at": "2026-10-12T20:38:49Z",
+    "pushed_at": "2026-10-15T00:43:18Z",
     "discovered_at": "2026-08-28T16:18:13.716Z"
   },
   "tap6/gitpress": {
@@ -22503,7 +22503,7 @@
     "url": "https://github.com/Gothsec/dark-minimal",
     "description": "Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.",
     "stars": 274,
-    "forks": 152,
+    "forks": 153,
     "topics": [
       "astro",
       "astro-portfolio",
@@ -22922,8 +22922,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-01T01:38:45Z",
-    "updated_at": "2026-10-14T17:28:02Z",
-    "pushed_at": "2026-10-14T17:27:55Z",
+    "updated_at": "2026-10-14T18:46:49Z",
+    "pushed_at": "2026-10-14T18:46:43Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "casoon/astro-post-audit": {
@@ -24090,7 +24090,7 @@
     "name": "Sv3nskie/astro-theme-northlight",
     "url": "https://github.com/Sv3nskie/astro-theme-northlight",
     "description": "Cinematic, scroll-driven one-page Astro theme for agencies, consultancies and studios.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "agency",
@@ -24103,7 +24103,7 @@
     "language": "CSS",
     "license": "MIT",
     "created_at": "2026-09-28T13:43:18Z",
-    "updated_at": "2026-10-08T23:10:52Z",
+    "updated_at": "2026-10-14T22:53:00Z",
     "pushed_at": "2026-09-28T13:43:27Z",
     "discovered_at": "2026-09-28T18:25:42.451Z"
   },
@@ -24905,7 +24905,7 @@
     "license": "MIT",
     "created_at": "2026-09-25T11:42:45Z",
     "updated_at": "2026-10-12T18:04:26Z",
-    "pushed_at": "2026-10-13T08:16:44Z",
+    "pushed_at": "2026-10-14T21:44:16Z",
     "discovered_at": "2026-10-05T12:32:44.350Z"
   },
   "shirinbauer/astro-theme-masthead": {
@@ -25046,7 +25046,7 @@
     "license": null,
     "created_at": "2026-05-30T22:14:26Z",
     "updated_at": "2026-10-06T13:40:03Z",
-    "pushed_at": "2026-10-13T17:43:23Z",
+    "pushed_at": "2026-10-14T22:18:44Z",
     "discovered_at": "2026-10-06T18:24:38.593Z"
   },
   "arraypress/icon-subset": {
@@ -25697,8 +25697,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-06T19:52:40Z",
-    "updated_at": "2026-10-14T17:28:38Z",
-    "pushed_at": "2026-10-14T17:51:19Z",
+    "updated_at": "2026-10-14T21:57:06Z",
+    "pushed_at": "2026-10-14T22:15:09Z",
     "discovered_at": "2026-10-10T18:23:30.846Z"
   },
   "baiduxc/matrix": {
@@ -26256,14 +26256,14 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-20T00:51:54Z",
-    "updated_at": "2026-10-14T01:22:46Z",
-    "pushed_at": "2026-10-14T01:18:29Z",
+    "updated_at": "2026-10-15T00:33:32Z",
+    "pushed_at": "2026-10-15T00:33:28Z",
     "discovered_at": "2026-10-14T06:32:17.175Z"
   },
   "otnc/astro-adapter-cloudflare-pages": {
     "name": "otnc/astro-adapter-cloudflare-pages",
     "url": "https://github.com/otnc/astro-adapter-cloudflare-pages",
-    "description": "Astro adapter for deploying on-demand rendered sites to Cloudflare Pages (Astro 6, 7 and later)",
+    "description": "Astro adapter for deploying on-demand rendered sites to Cloudflare Pages (Astro 6, 7 or later)",
     "stars": 0,
     "forks": 0,
     "topics": [
@@ -26280,8 +26280,8 @@
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2026-10-14T13:52:56Z",
-    "updated_at": "2026-10-14T18:20:43Z",
-    "pushed_at": "2026-10-14T18:20:40Z",
+    "updated_at": "2026-10-14T19:10:51Z",
+    "pushed_at": "2026-10-14T19:10:49Z",
     "discovered_at": "2026-10-14T18:23:54.013Z"
   },
   "uvexz/yxlog": {
@@ -26342,5 +26342,50 @@
     "updated_at": "2026-10-14T13:44:39Z",
     "pushed_at": "2026-10-14T13:49:56Z",
     "discovered_at": "2026-10-14T18:23:54.014Z"
+  },
+  "yplog/astro-fedifeed": {
+    "name": "yplog/astro-fedifeed",
+    "url": "https://github.com/yplog/astro-fedifeed",
+    "description": "An Astro component that renders the latest posts of a Mastodon or Pixelfed account or a PeerTube account or channel from its RSS / Atom feed.",
+    "stars": 6,
+    "forks": 0,
+    "topics": [
+      "activitypub",
+      "astro-component",
+      "astrojs",
+      "atom",
+      "fediverse",
+      "mastodon",
+      "peertube",
+      "pixelfed",
+      "rss",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2023-11-03T21:15:44Z",
+    "updated_at": "2026-10-14T20:58:35Z",
+    "pushed_at": "2026-10-14T20:59:19Z",
+    "discovered_at": "2026-10-15T00:46:47.674Z"
+  },
+  "juvojustin/astro-takumi-images": {
+    "name": "JUVOJustin/astro-takumi-images",
+    "url": "https://github.com/JUVOJustin/astro-takumi-images",
+    "description": "Astro integration: Open Graph and social images from your React or Astro components with Takumi, prerendered or on demand, cached forever under content-hash URLs.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "og-image",
+      "open-graph",
+      "takumi"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-10-02T08:24:51Z",
+    "updated_at": "2026-10-14T20:04:00Z",
+    "pushed_at": "2026-10-14T20:04:07Z",
+    "discovered_at": "2026-10-15T00:46:47.674Z"
   }
 }
