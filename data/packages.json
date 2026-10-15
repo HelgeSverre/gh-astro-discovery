@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-10-11T21:30:59Z",
-    "pushed_at": "2026-10-13T18:53:12Z",
+    "pushed_at": "2026-10-15T10:30:20Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -562,7 +562,7 @@
     "name": "QwikDev/astro",
     "url": "https://github.com/QwikDev/astro",
     "description": "Qwik + Astro",
-    "stars": 287,
+    "stars": 288,
     "forks": 24,
     "topics": [
       "astro",
@@ -582,7 +582,7 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2023-11-02T16:34:40Z",
-    "updated_at": "2026-10-14T11:42:10Z",
+    "updated_at": "2026-10-15T09:54:12Z",
     "pushed_at": "2026-09-02T05:22:38Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -822,7 +822,7 @@
     "license": "MIT",
     "created_at": "2025-04-08T03:51:00Z",
     "updated_at": "2026-07-15T00:57:53Z",
-    "pushed_at": "2026-10-13T12:25:46Z",
+    "pushed_at": "2026-10-15T07:13:26Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "richardnbanks/astro-loader-youtube": {
@@ -2564,8 +2564,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
-    "updated_at": "2026-09-09T16:52:44Z",
-    "pushed_at": "2026-10-14T21:27:39Z",
+    "updated_at": "2026-10-15T11:23:12Z",
+    "pushed_at": "2026-10-15T11:23:32Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -3341,7 +3341,7 @@
     "name": "vite-pwa/astro",
     "url": "https://github.com/vite-pwa/astro",
     "description": "Zero-config PWA Integration for Astro",
-    "stars": 320,
+    "stars": 321,
     "forks": 16,
     "topics": [
       "astro",
@@ -3354,7 +3354,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-10-14T11:41:56Z",
+    "updated_at": "2026-10-15T09:53:59Z",
     "pushed_at": "2025-11-27T22:14:04Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -5060,8 +5060,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-12T07:28:28Z",
-    "updated_at": "2026-10-15T02:47:33Z",
-    "pushed_at": "2026-10-15T02:47:26Z",
+    "updated_at": "2026-10-15T08:42:39Z",
+    "pushed_at": "2026-10-15T08:42:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "juneaboveground534/astro-theme-aither": {
@@ -10013,7 +10013,7 @@
     "url": "https://github.com/themefisher/bigspring-light-astro",
     "description": "Bigspring is a highly customizable Astro theme designed specifically for SaaS & marketing websites.  ",
     "stars": 174,
-    "forks": 148,
+    "forks": 147,
     "topics": [
       "astro-blog",
       "astro-bussiness-theme",
@@ -10063,7 +10063,7 @@
     "name": "atomiechen/astroprint",
     "url": "https://github.com/atomiechen/astroprint",
     "description": "Print-ready Markdown documents for Astro, with normal web preview, paged preview, and PDF export.",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "topics": [
       "astro-integration",
@@ -10077,7 +10077,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-16T18:03:17Z",
-    "updated_at": "2026-09-19T12:57:39Z",
+    "updated_at": "2026-10-15T09:00:12Z",
     "pushed_at": "2026-09-19T13:00:44Z",
     "discovered_at": "2026-06-05T13:18:04.752Z"
   },
@@ -11514,7 +11514,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-10-15T06:04:52Z",
+    "pushed_at": "2026-10-15T12:13:40Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -11667,8 +11667,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-05-12T10:27:18Z",
-    "updated_at": "2026-10-14T01:23:25Z",
-    "pushed_at": "2026-10-14T01:23:17Z",
+    "updated_at": "2026-10-15T08:05:38Z",
+    "pushed_at": "2026-10-15T08:05:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "theme-memories/theme-memories": {
@@ -12237,7 +12237,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-10-11T17:02:12Z",
-    "pushed_at": "2026-10-14T18:11:33Z",
+    "pushed_at": "2026-10-15T07:11:39Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -12320,8 +12320,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2025-12-06T06:18:21Z",
-    "updated_at": "2026-10-15T05:34:49Z",
-    "pushed_at": "2026-10-15T05:34:45Z",
+    "updated_at": "2026-10-15T08:45:16Z",
+    "pushed_at": "2026-10-15T08:46:50Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wangjacks/capsule-x": {
@@ -16135,8 +16135,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-14T21:55:10Z",
-    "updated_at": "2026-10-06T20:28:47Z",
-    "pushed_at": "2026-10-06T20:28:46Z",
+    "updated_at": "2026-10-15T12:11:23Z",
+    "pushed_at": "2026-10-15T12:15:39Z",
     "discovered_at": "2026-07-15T00:44:16.829Z"
   },
   "xocothemes/quietpages": {
@@ -18271,7 +18271,7 @@
     "name": "xocothemes/monograph",
     "url": "https://github.com/xocothemes/monograph",
     "description": "Monograph is a free, text-first Astro theme for essays, notes, and long-form writing. ",
-    "stars": 15,
+    "stars": 16,
     "forks": 5,
     "topics": [
       "astro",
@@ -18288,7 +18288,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-03T18:44:50Z",
-    "updated_at": "2026-10-08T12:30:00Z",
+    "updated_at": "2026-10-15T11:27:05Z",
     "pushed_at": "2026-08-04T18:21:37Z",
     "discovered_at": "2026-08-04T00:50:26.022Z"
   },
@@ -19388,8 +19388,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-21T05:02:53Z",
-    "updated_at": "2026-10-06T10:39:00Z",
-    "pushed_at": "2026-10-11T20:08:08Z",
+    "updated_at": "2026-10-15T11:35:04Z",
+    "pushed_at": "2026-10-15T11:44:13Z",
     "discovered_at": "2026-08-14T06:37:52.275Z"
   },
   "erickangeloramirez/astro-theme-cactus": {
@@ -20376,8 +20376,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
-    "updated_at": "2026-10-14T23:25:55Z",
-    "pushed_at": "2026-10-14T23:25:52Z",
+    "updated_at": "2026-10-15T07:32:12Z",
+    "pushed_at": "2026-10-15T07:32:08Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -20432,14 +20432,14 @@
   "aber0724/astro-theme-cactus-multilingual": {
     "name": "aBER0724/astro-theme-cactus-multilingual",
     "url": "https://github.com/aBER0724/astro-theme-cactus-multilingual",
-    "description": "",
+    "description": "A multilingual fork of Astro Cactus, the blog theme for Astro — for authors who publish in one language and want the rest of the site (UI, posts, tags, pages) to follow automatically.",
     "stars": 0,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-22T13:16:39Z",
-    "updated_at": "2026-09-12T14:44:39Z",
+    "updated_at": "2026-10-15T06:46:44Z",
     "pushed_at": "2026-10-01T13:36:27Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
@@ -20886,8 +20886,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-25T12:49:20Z",
-    "updated_at": "2026-10-01T20:22:05Z",
-    "pushed_at": "2026-10-01T20:22:01Z",
+    "updated_at": "2026-10-15T11:40:23Z",
+    "pushed_at": "2026-10-15T11:40:18Z",
     "discovered_at": "2026-08-25T18:13:35.093Z"
   },
   "opacedigitalagency/add-as-preferred-source-button-for-google": {
@@ -21063,8 +21063,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-28T14:44:37Z",
-    "updated_at": "2026-10-09T09:37:55Z",
-    "pushed_at": "2026-10-15T00:43:18Z",
+    "updated_at": "2026-10-15T08:37:05Z",
+    "pushed_at": "2026-10-15T08:38:29Z",
     "discovered_at": "2026-08-28T16:18:13.716Z"
   },
   "tap6/gitpress": {
@@ -21227,8 +21227,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-10-15T06:02:22Z",
-    "pushed_at": "2026-10-15T06:02:18Z",
+    "updated_at": "2026-10-15T11:48:41Z",
+    "pushed_at": "2026-10-15T11:48:37Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -22503,7 +22503,7 @@
     "url": "https://github.com/Gothsec/dark-minimal",
     "description": "Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.",
     "stars": 274,
-    "forks": 153,
+    "forks": 152,
     "topics": [
       "astro",
       "astro-portfolio",
@@ -23185,7 +23185,7 @@
     "name": "rnt-rez/minrock",
     "url": "https://github.com/rnt-rez/minrock",
     "description": "Minimalist, typography-first Astro 7 theme crafted for technical writers and Obsidian vaults. Pure SSG, zero bloat.",
-    "stars": 12,
+    "stars": 13,
     "forks": 2,
     "topics": [
       "astro",
@@ -23204,7 +23204,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-09-26T09:12:10Z",
-    "updated_at": "2026-10-12T14:32:34Z",
+    "updated_at": "2026-10-15T07:18:10Z",
     "pushed_at": "2026-10-12T14:32:28Z",
     "discovered_at": "2026-09-17T11:28:41.118Z"
   },
@@ -23579,7 +23579,7 @@
     "name": "xocothemes/mailer",
     "url": "https://github.com/xocothemes/mailer",
     "description": "Mailer is a free Astro theme for a newsletter with a public archive.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "topics": [
       "astro",
@@ -23596,7 +23596,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-21T18:09:20Z",
-    "updated_at": "2026-10-11T10:58:41Z",
+    "updated_at": "2026-10-15T06:41:22Z",
     "pushed_at": "2026-09-22T09:31:03Z",
     "discovered_at": "2026-09-22T11:24:08.231Z"
   },
@@ -24904,8 +24904,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-25T11:42:45Z",
-    "updated_at": "2026-10-12T18:04:26Z",
-    "pushed_at": "2026-10-14T21:44:16Z",
+    "updated_at": "2026-10-15T11:11:36Z",
+    "pushed_at": "2026-10-15T11:11:32Z",
     "discovered_at": "2026-10-05T12:32:44.350Z"
   },
   "shirinbauer/astro-theme-masthead": {
@@ -25015,7 +25015,7 @@
     "name": "Liyuk/astro-memory-atlas",
     "url": "https://github.com/Liyuk/astro-memory-atlas",
     "description": "A bilingual Astro starter for shared memories, with timelines, annual recaps, an illustrated map, and anniversary countdowns.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -25031,7 +25031,7 @@
     "language": "CSS",
     "license": "NOASSERTION",
     "created_at": "2026-10-06T04:21:00Z",
-    "updated_at": "2026-10-06T16:45:40Z",
+    "updated_at": "2026-10-15T09:04:47Z",
     "pushed_at": "2026-10-14T17:54:34Z",
     "discovered_at": "2026-10-06T18:24:38.593Z"
   },
@@ -25341,7 +25341,7 @@
     "name": "Sv3nskie/astro-theme-boutique",
     "url": "https://github.com/Sv3nskie/astro-theme-boutique",
     "description": "Dark, scroll-driven one-page Astro theme for boutiques, showrooms and small shops.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -25354,7 +25354,7 @@
     "language": "CSS",
     "license": "MIT",
     "created_at": "2026-10-08T13:26:59Z",
-    "updated_at": "2026-10-08T13:48:26Z",
+    "updated_at": "2026-10-15T10:26:18Z",
     "pushed_at": "2026-10-08T13:44:27Z",
     "discovered_at": "2026-10-08T18:25:09.216Z"
   },
@@ -26387,5 +26387,55 @@
     "updated_at": "2026-10-14T20:04:00Z",
     "pushed_at": "2026-10-14T20:04:07Z",
     "discovered_at": "2026-10-15T00:46:47.674Z"
+  },
+  "blackwild/astro-myst": {
+    "name": "BlackWild/astro-myst",
+    "url": "https://github.com/BlackWild/astro-myst",
+    "description": "MyST Markdown loader for Astro.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-loader",
+      "jupyter-book",
+      "latex",
+      "myst",
+      "mystmd",
+      "scientific-writing",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-10-15T07:21:55Z",
+    "updated_at": "2026-10-15T09:28:39Z",
+    "pushed_at": "2026-10-15T09:36:09Z",
+    "discovered_at": "2026-10-15T12:28:44.188Z"
+  },
+  "androlax2/pageturn": {
+    "name": "Androlax2/pageturn",
+    "url": "https://github.com/Androlax2/pageturn",
+    "description": "Page transitions between real page loads, in every browser: CSS-named moves, a picture that morphs into the next page, returns on Back. No router.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "animation",
+      "astro",
+      "astro-integration",
+      "javascript",
+      "morph",
+      "mpa",
+      "navigation",
+      "page-transitions",
+      "shared-element-transition",
+      "typescript",
+      "view-transition-api",
+      "view-transitions"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-10-14T14:37:02Z",
+    "updated_at": "2026-10-15T11:45:47Z",
+    "pushed_at": "2026-10-15T11:46:40Z",
+    "discovered_at": "2026-10-15T12:28:44.188Z"
   }
 }
