@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1383
-**Last updated:** 2026-10-17T12:23:32.458Z
+**Last updated:** 2026-10-17T18:19:14.202Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-10-17 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [smallinkfish1/Astro-WinDeck-Theme](https://github.com/smallinkfish1/Astro-WinDeck-Theme) | 0 | 2026-10-17 | 一个把博客做成 Windows 10 桌面的 Astro 项目。文章是文件，分类是磁贴，归档是「此电脑」，草稿丢进「回收... |
-| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 4 | 2026-10-17 | The Astro wiki you can write in — paper-and-ink typography f... |
-| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 1 | 2026-10-17 | A tiny git-backed CMS for Astro — edit your static site in p... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-10-17 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [dmcphearson/astro-sidecar](https://github.com/dmcphearson/astro-sidecar) | 0 | 2026-10-17 | A portfolio, resume, and blog theme for Astro with a distinc... |
 | [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-17 | Live preview for Payload CMS on server-rendered and static f... |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-17 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
+| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-10-17 | A cinematic, multi-atmosphere Astro theme for personal publi... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-17 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [cslev/astro-theme-sudo-scholar](https://github.com/cslev/astro-theme-sudo-scholar) | 0 | 2026-10-17 | sudo scholare astro theme |
-| [achimismaili/easy-web](https://github.com/achimismaili/easy-web) | 0 | 2026-10-17 | Baseline @easy-web/* package family: shared Astro components... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-17 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-17 | An Astro Prometheus nodejs middleware integration for Astro |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-10-17 | Astro integration that uses existing configuration to write ... |
-| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-17 | Brand new AstroWind Theme for TLT |
-| [ondelva/astro-theme-leader](https://github.com/ondelva/astro-theme-leader) | 0 | 2026-10-17 | Leader — a contents page theme for Astro (free, MIT) |
-| [ondelva/astro-theme-quarry](https://github.com/ondelva/astro-theme-quarry) | 0 | 2026-10-17 | Quarry — a documentation-and-marketing theme for Astro (free... |
-| [ondelva/astro-theme-pilcrow](https://github.com/ondelva/astro-theme-pilcrow) | 4 | 2026-10-17 | Pilcrow — a typography-first Astro blog theme (free, MIT) |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-17 | Relics & Reckonings (personal blog) and an automated cross-r... |
 | [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-10-17 | ✨A static blog template built with Astro. |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-10-17 | A modern, responsive and lightweight theme for freelancing, ... |
-| [krishkantrai27/portfolio](https://github.com/krishkantrai27/portfolio) | 0 | 2026-10-17 | Responsive developer portfolio built with React, Astro, Tail... |
+| [markmansour/aboutmarkmansour](https://github.com/markmansour/aboutmarkmansour) | 0 | 2026-10-17 | ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind C... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-17 | Brand new AstroWind Theme for TLT |
+| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-17 | Modern static blog theme with distinctive anime-style featur... |
+| [displaycoffee/memoria](https://github.com/displaycoffee/memoria) | 0 | 2026-10-17 | WordPress theme built on Astro. |
+| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 18 | 2026-10-17 | Integration of Astro with Strapi CMS that enables easy data ... |
+| [kuscadev/Zahit](https://github.com/kuscadev/Zahit) | 4 | 2026-10-17 | A raw, flat minimalist theme built on the philosophy that si... |
+| [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 12 | 2026-10-17 | Medium-style image zoom for Astro: accessible, animated from... |
+| [EdgeKits/astro-i18n](https://github.com/EdgeKits/astro-i18n) | 0 | 2026-10-17 | Edge-native i18n for Astro on Cloudflare Workers: translatio... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-17 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [mikeparcewski/wicked-web](https://github.com/mikeparcewski/wicked-web) | 0 | 2026-10-17 | Shared chrome for the wicked-* family sites — layouts, topba... |
+| [sijad/astro-wordpress](https://github.com/sijad/astro-wordpress) | 45 | 2026-10-17 | Generate headful WordPress theme using Astro |
+| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 1 | 2026-10-17 | A tiny git-backed CMS for Astro — edit your static site in p... |
+| [Niceeepoiu/mare-blog](https://github.com/Niceeepoiu/mare-blog) | 8 | 2026-10-17 | A minimal, lightning-fast personal blog built with Astro. |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-17 | Relics & Reckonings (personal blog) and an automated cross-r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-17T18:19 | 0 | 957 | 1383 |
 | 2026-10-17T12:23 | 2 | 955 | 1383 |
 | 2026-10-17T06:28 | 0 | 957 | 1381 |
 | 2026-10-17T00:47 | 1 | 956 | 1381 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-16T00:46 | 0 | 956 | 1373 |
 | 2026-10-15T18:22 | 2 | 954 | 1373 |
 | 2026-10-15T12:28 | 2 | 953 | 1371 |
-| 2026-10-15T06:32 | 0 | 953 | 1369 |
 
 ---
 
