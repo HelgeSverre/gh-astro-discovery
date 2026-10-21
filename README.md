@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1411
-**Last updated:** 2026-10-21T00:48:08.094Z
+**Last updated:** 2026-10-21T06:31:58.318Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [antoniohg/astro-image-zoom](https://github.com/antoniohg/astro-image-zoom) | 12 | 2026-10-21 | Medium-style image zoom for Astro: accessible, animated from... |
-| [martinmilani/rEFInd-theme-collection](https://github.com/martinmilani/rEFInd-theme-collection) | 198 | 2026-10-21 | A small collection of refind themes from github's that allow... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-21 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-21 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-10-21 | My astro static blog use theme Firefly. |
+| [r-hashi01/astlide](https://github.com/r-hashi01/astlide) | 6 | 2026-10-21 |  |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-21 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-10-21 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-10-21 | Brand new AstroWind Theme for TLT |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-21 | Universal Analytics Engines Integration |
+| [freshjuice-dev/astro-search-plugin](https://github.com/freshjuice-dev/astro-search-plugin) | 2 | 2026-10-21 | Framework-agnostic, type-safe search for Astro 5+ powered by... |
+| [nipun-arora/cool-astro-forms](https://github.com/nipun-arora/cool-astro-forms) | 10 | 2026-10-21 | The lead-ops platform for Astro forms: abandonment capture, ... |
+| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-10-21 | An Astro starter theme |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-10-21 | ✨A static blog template built with Astro. |
+| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-10-21 | Astro Integration to automatically generate Subresource Inte... |
 | [ClovertaTheTrilobita/astro-blog-template](https://github.com/ClovertaTheTrilobita/astro-blog-template) | 1 | 2026-10-21 | Blog template based on Astro |
-| [yuzhishuo/blog](https://github.com/yuzhishuo/blog) | 0 | 2026-10-21 | Astro Theme Pure blog source — CI deploys to yuzhishuo.githu... |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-10-21 | A fast and minimalist personal website and blog powered by A... |
-| [rnt-rez/minrock](https://github.com/rnt-rez/minrock) | 14 | 2026-10-20 | Minimalist, typography-first Astro 7 theme crafted for techn... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-20 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [hardwario/website-ui](https://github.com/hardwario/website-ui) | 0 | 2026-10-20 | Design system for the HARDWARIO websites — brand tokens, Dai... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-20 | An Astro Prometheus nodejs middleware integration for Astro |
-| [MintfolioBlog/mintfolio-theme-starter](https://github.com/MintfolioBlog/mintfolio-theme-starter) | 0 | 2026-10-20 | 用两张 Astro 页面开始创建自己的 Mintfolio 主题。 |
-| [MintfolioBlog/mintfolio-theme-verdant](https://github.com/MintfolioBlog/mintfolio-theme-verdant) | 0 | 2026-10-20 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
-| [CieriS/mani-verdi](https://github.com/CieriS/mani-verdi) | 4 | 2026-10-20 | Showcase website for Mani Verdi, a professional gardener bas... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-20 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [meistro57/BookForge](https://github.com/meistro57/BookForge) | 2 | 2026-10-20 | BookForge turns Markdown chapters into a polished, distracti... |
-| [ziteh/astro-jing-theme](https://github.com/ziteh/astro-jing-theme) | 1 | 2026-10-20 | Astro Jing - a calm blog theme |
-| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-10-20 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
-| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-10-20 | Framework for creating study companion webpages. |
+| [martinmilani/rEFInd-theme-collection](https://github.com/martinmilani/rEFInd-theme-collection) | 198 | 2026-10-21 | A small collection of refind themes from github's that allow... |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-10-21 | Astro starter for academic sites: publications from BibTeX, ... |
+| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-21 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 25 | 2026-10-21 | Framework-agnostic interactive component anatomy for design ... |
+| [cevdetch/favcon](https://github.com/cevdetch/favcon) | 0 | 2026-10-21 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [kpab/astro-keel](https://github.com/kpab/astro-keel) | 25 | 2026-10-21 | Astro Keel — a minimal, neutral, and modern portfolio and bl... |
+| [leonism/astro-batavia](https://github.com/leonism/astro-batavia) | 3 | 2026-10-21 | Astro Batavia — A modern, elegant Astro starter theme inspir... |
+| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 48 | 2026-10-21 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
+| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 5 | 2026-10-21 | Agent-ready personal publish starter |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-21T06:31 | 0 | 964 | 1411 |
 | 2026-10-21T00:48 | 4 | 960 | 1411 |
 | 2026-10-20T18:24 | 3 | 960 | 1407 |
 | 2026-10-20T12:28 | 1 | 961 | 1404 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-19T12:30 | 1 | 959 | 1397 |
 | 2026-10-19T06:43 | 2 | 957 | 1396 |
 | 2026-10-19T00:52 | 1 | 959 | 1394 |
-| 2026-10-18T18:19 | 3 | 958 | 1393 |
 
 ---
 
