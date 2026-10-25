@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1445
-**Last updated:** 2026-10-25T06:29:05.712Z
+**Total packages tracked:** 1446
+**Last updated:** 2026-10-25T12:24:29.972Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Llorente14/MiPotoforio](https://github.com/Llorente14/MiPotoforio) | 1 | Personal portfolio of Axel Chrisdy Sanjaya, an Informatics Engineering student a... |
 | [rigel-cms/rigel-starter](https://github.com/rigel-cms/rigel-starter) | 0 | An Astro starter with Rigel CMS. Work in progress, not ready for production. |
 | [Vittorio-2001/PokeKnow](https://github.com/Vittorio-2001/PokeKnow) | 0 | A Pokédex via web for every generation: types, matchups, stats, abilities and Po... |
 | [capzk/astro-theme-flux](https://github.com/capzk/astro-theme-flux) | 0 | A Material Design blog theme for Astro — card grid, full-screen banner, dark mod... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [formgong-hq/kavelle-astro](https://github.com/formgong-hq/kavelle-astro) | 0 | Kavelle — free Astro portfolio template with a working Formgong contact form |
 | [formgong-hq/contour-astro](https://github.com/formgong-hq/contour-astro) | 0 | Contour — free Astro portfolio template with a working Formgong contact form |
 | [bluecli/lone](https://github.com/bluecli/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
-| [svenvg93/duotone](https://github.com/svenvg93/duotone) | 0 | Duotone: a blog + portfolio theme for Astro with light/dark mode, theme-aware im... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-10-25 | The i18n integration for Astro 🧑‍🚀 |
+| [Llorente14/MiPotoforio](https://github.com/Llorente14/MiPotoforio) | 1 | 2026-10-25 | Personal portfolio of Axel Chrisdy Sanjaya, an Informatics E... |
+| [aiduet/lone](https://github.com/aiduet/lone) | 0 | 2026-10-25 | An Astro blog theme. Mincho titles, gothic body, white paper... |
+| [imsxx/astro-narrow](https://github.com/imsxx/astro-narrow) | 0 | 2026-10-25 | An Astro port of the hugo-narrow theme — single-column readi... |
+| [newgentdigital/auto-param-astro](https://github.com/newgentdigital/auto-param-astro) | 2 | 2026-10-25 | Automatically add your parameters to external links and URLs... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-25 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [tarasenko-by/florin](https://github.com/tarasenko-by/florin) | 1 | 2026-10-25 | Free fintech dashboard template — 16 banking screens, live t... |
+| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 14 | 2026-10-25 | Open-source Ask AI for your docs, with an MCP server for age... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-10-25 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-25 | Modern static blog theme with distinctive anime-style featur... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-25 | Live preview for Payload CMS on server-rendered and static f... |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-10-25 | Regular integration tests of Coordinated packages with astro... |
+| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 30 | 2026-10-25 | A modern, clean and bloat-free Astro starter template. Acces... |
 | [peltmonger/create-stardrive](https://github.com/peltmonger/create-stardrive) | 1 | 2026-10-25 | Create a new top-notch astro boilerplate to kick of your nex... |
 | [Username-bot2b/RetrosPact](https://github.com/Username-bot2b/RetrosPact) | 0 | 2026-10-25 | An Astro Theme inspired by SerenityOS. |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-10-25 | Landing page for Sisques Labs, a digital product studio. Bui... |
 | [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-25 | An Astro Prometheus nodejs middleware integration for Astro |
 | [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-10-25 | Astro integration for a landing page, docs and OpenAPI refer... |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-25 | Add a ripple-style theme toggle animation to your Astro proj... |
 | [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 15 | 2026-10-25 | An Astro integration for generating screenshots of your page... |
 | [maru0122/astrowind](https://github.com/maru0122/astrowind) | 0 | 2026-10-25 | ⭕️ AstroWind: A free template using Astro v6 and Tailwind CS... |
-| [caret-collective/Tally](https://github.com/caret-collective/Tally) | 5 | 2026-10-25 | Your favorite dark mode word counter, now with grammar check... |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-25 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
-| [gfLobo/journalhost](https://github.com/gfLobo/journalhost) | 0 | 2026-10-25 | Journalhost é um blog pessoal minimalista, responsivo e aces... |
-| [martlettheme/astro](https://github.com/martlettheme/astro) | 0 | 2026-10-25 | Reusable Martlet Astro layouts and components powered by @ma... |
-| [imazhar101/imazhar101-dev](https://github.com/imazhar101/imazhar101-dev) | 0 | 2026-10-25 | Terminal-themed personal dev portfolio — imazhar101.dev (Ast... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-10-25 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-10-25 | Format 🗻 |
-| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-10-25 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-25 | Universal Analytics Engines Integration |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-25 | Relics & Reckonings (personal blog) and an automated cross-r... |
-| [LLh-xuesj/astro_blog](https://github.com/LLh-xuesj/astro_blog) | 0 | 2026-10-25 | my blog |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-25T12:24 | 1 | 975 | 1446 |
 | 2026-10-25T06:29 | 0 | 976 | 1445 |
 | 2026-10-25T00:52 | 1 | 975 | 1445 |
 | 2026-10-24T18:20 | 2 | 973 | 1444 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-23T18:23 | 3 | 971 | 1438 |
 | 2026-10-23T12:26 | 3 | 970 | 1435 |
 | 2026-10-23T06:32 | 1 | 971 | 1432 |
-| 2026-10-23T00:49 | 0 | 972 | 1431 |
 
 ---
 
