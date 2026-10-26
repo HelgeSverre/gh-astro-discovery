@@ -622,8 +622,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
-    "updated_at": "2026-10-25T18:02:03Z",
-    "pushed_at": "2026-10-25T18:02:00Z",
+    "updated_at": "2026-10-25T19:08:32Z",
+    "pushed_at": "2026-10-25T19:08:59Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -1302,8 +1302,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-02-12T21:14:18Z",
-    "updated_at": "2026-04-20T17:59:56Z",
-    "pushed_at": "2026-10-04T00:04:30Z",
+    "updated_at": "2026-10-26T00:22:46Z",
+    "pushed_at": "2026-10-26T00:22:44Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "martinsilha/astro-html-validate": {
@@ -2499,7 +2499,7 @@
     "name": "dodopayments/dualmark",
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
-    "stars": 111,
+    "stars": 112,
     "forks": 33,
     "topics": [
       "aeo",
@@ -2521,7 +2521,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-05-05T06:55:19Z",
-    "updated_at": "2026-10-22T14:14:58Z",
+    "updated_at": "2026-10-26T00:21:58Z",
     "pushed_at": "2026-09-15T11:55:10Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4843,8 +4843,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2025-11-30T23:24:58Z",
-    "updated_at": "2026-10-25T18:12:15Z",
-    "pushed_at": "2026-10-25T18:13:36Z",
+    "updated_at": "2026-10-25T20:15:38Z",
+    "pushed_at": "2026-10-25T20:15:37Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "adaptive-shield-matrix/astro-ui": {
@@ -6629,7 +6629,7 @@
     "name": "WhitePaper233/yukina",
     "url": "https://github.com/WhitePaper233/yukina",
     "description": "Simple and Elegant Astro Blog Template.",
-    "stars": 282,
+    "stars": 283,
     "forks": 72,
     "topics": [
       "astro",
@@ -6645,7 +6645,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-11-23T08:57:26Z",
-    "updated_at": "2026-10-06T13:47:19Z",
+    "updated_at": "2026-10-25T21:24:29Z",
     "pushed_at": "2026-09-09T02:38:20Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10569,8 +10569,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-09-29T07:26:08Z",
-    "pushed_at": "2026-10-25T06:18:34Z",
+    "updated_at": "2026-10-25T18:43:55Z",
+    "pushed_at": "2026-10-25T18:45:51Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
@@ -11151,8 +11151,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-08T08:23:12Z",
-    "updated_at": "2026-10-24T18:34:42Z",
-    "pushed_at": "2026-10-24T19:36:06Z",
+    "updated_at": "2026-10-25T23:59:00Z",
+    "pushed_at": "2026-10-26T00:00:19Z",
     "discovered_at": "2026-07-08T12:44:19.077Z"
   },
   "adkinn/astro-ai-readiness": {
@@ -11514,7 +11514,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-10-25T17:56:21Z",
+    "pushed_at": "2026-10-26T00:49:06Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12555,7 +12555,7 @@
     "license": "MIT",
     "created_at": "2024-06-26T07:47:44Z",
     "updated_at": "2026-10-11T14:45:39Z",
-    "pushed_at": "2026-10-23T21:29:31Z",
+    "pushed_at": "2026-10-25T22:07:49Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "bitdoze/bitdoze-astro-theme": {
@@ -12717,8 +12717,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-06-28T16:30:26Z",
-    "updated_at": "2026-10-25T17:04:36Z",
-    "pushed_at": "2026-10-25T17:05:29Z",
+    "updated_at": "2026-10-25T20:24:21Z",
+    "pushed_at": "2026-10-25T20:24:45Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "foxmoe/korikura-theme": {
@@ -13857,8 +13857,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-06-10T03:28:49Z",
-    "updated_at": "2026-07-27T13:26:51Z",
-    "pushed_at": "2026-07-27T13:23:14Z",
+    "updated_at": "2026-10-26T00:25:59Z",
+    "pushed_at": "2026-10-26T00:25:55Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wtzrpo/wtzrpo.github.io": {
@@ -14204,7 +14204,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-10-02T16:47:20Z",
-    "pushed_at": "2026-10-24T23:58:56Z",
+    "pushed_at": "2026-10-25T23:46:44Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15667,8 +15667,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-10-25T08:10:13Z",
-    "pushed_at": "2026-10-25T14:20:33Z",
+    "updated_at": "2026-10-26T00:22:54Z",
+    "pushed_at": "2026-10-26T00:22:50Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -17018,8 +17018,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-25T20:56:11Z",
-    "updated_at": "2026-10-25T17:53:12Z",
-    "pushed_at": "2026-10-25T17:53:08Z",
+    "updated_at": "2026-10-25T19:36:26Z",
+    "pushed_at": "2026-10-25T19:36:22Z",
     "discovered_at": "2026-07-22T12:41:39.306Z"
   },
   "yickminglee/astro-notion-theme": {
@@ -19183,8 +19183,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-10-24T18:34:44Z",
-    "pushed_at": "2026-10-24T18:34:40Z",
+    "updated_at": "2026-10-25T18:43:07Z",
+    "pushed_at": "2026-10-25T18:43:04Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -19388,8 +19388,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-21T05:02:53Z",
-    "updated_at": "2026-10-25T15:34:34Z",
-    "pushed_at": "2026-10-25T15:35:23Z",
+    "updated_at": "2026-10-25T22:52:27Z",
+    "pushed_at": "2026-10-25T22:53:22Z",
     "discovered_at": "2026-08-14T06:37:52.275Z"
   },
   "erickangeloramirez/astro-theme-cactus": {
@@ -21803,7 +21803,7 @@
     "license": "MIT",
     "created_at": "2026-09-06T02:54:26Z",
     "updated_at": "2026-10-22T09:09:12Z",
-    "pushed_at": "2026-10-22T09:09:06Z",
+    "pushed_at": "2026-10-26T00:00:49Z",
     "discovered_at": "2026-09-06T06:28:55.653Z"
   },
   "super-mortal/my-new-blog": {
@@ -25698,8 +25698,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-06T19:52:40Z",
-    "updated_at": "2026-10-25T09:12:22Z",
-    "pushed_at": "2026-10-25T09:12:20Z",
+    "updated_at": "2026-10-25T21:43:36Z",
+    "pushed_at": "2026-10-25T21:47:29Z",
     "discovered_at": "2026-10-10T18:23:30.846Z"
   },
   "baiduxc/matrix": {
@@ -26758,7 +26758,7 @@
     "name": "Raincarnator/astro-theme-BlogGPT",
     "url": "https://github.com/Raincarnator/astro-theme-BlogGPT",
     "description": "An Astro blog theme inspired by ChatGPT's layout, with Markdown/MDX, full-text search, i18n and rich reading features.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "topics": [
       "astro",
@@ -26773,7 +26773,7 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-10-18T00:42:54Z",
-    "updated_at": "2026-10-24T22:34:51Z",
+    "updated_at": "2026-10-25T23:56:59Z",
     "pushed_at": "2026-10-24T07:16:41Z",
     "discovered_at": "2026-10-18T06:29:07.392Z"
   },
@@ -26835,7 +26835,7 @@
     "license": "MIT",
     "created_at": "2026-10-18T10:08:09Z",
     "updated_at": "2026-10-18T16:30:44Z",
-    "pushed_at": "2026-10-18T16:32:53Z",
+    "pushed_at": "2026-10-25T23:53:54Z",
     "discovered_at": "2026-10-18T18:19:30.160Z"
   },
   "desiredpersona/minimal-astro-theme": {
@@ -26984,8 +26984,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
-    "updated_at": "2026-10-25T05:12:54Z",
-    "pushed_at": "2026-10-25T18:01:47Z",
+    "updated_at": "2026-10-25T20:41:23Z",
+    "pushed_at": "2026-10-26T00:47:28Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -27874,5 +27874,40 @@
     "updated_at": "2026-10-25T15:52:39Z",
     "pushed_at": "2026-10-25T15:46:52Z",
     "discovered_at": "2026-10-25T18:20:14.963Z"
+  },
+  "max-ostapenko/starlight-md-txt": {
+    "name": "max-ostapenko/starlight-md-txt",
+    "url": "https://github.com/max-ostapenko/starlight-md-txt",
+    "description": "Starlight plugin to expose documentation pages as raw, agent-friendly Markdown at .md.txt URLs",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "astro",
+      "documentation",
+      "llm",
+      "markdown",
+      "starlight",
+      "starlight-plugin"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-06-17T19:18:51Z",
+    "updated_at": "2026-10-25T20:36:23Z",
+    "pushed_at": "2026-10-23T22:24:06Z",
+    "discovered_at": "2026-10-26T00:51:13.576Z"
+  },
+  "tad/justatad": {
+    "name": "tad/justatad",
+    "url": "https://github.com/tad/justatad",
+    "description": "A cosmic-themed personal blog built with Astro, Tailwind CSS, and MDX",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-01-18T06:45:05Z",
+    "updated_at": "2026-10-26T00:05:23Z",
+    "pushed_at": "2026-10-26T00:05:17Z",
+    "discovered_at": "2026-10-26T00:51:13.576Z"
   }
 }
