@@ -602,8 +602,8 @@
     "language": "HTML",
     "license": "MIT",
     "created_at": "2025-01-05T22:36:31Z",
-    "updated_at": "2026-10-21T19:46:42Z",
-    "pushed_at": "2026-10-25T13:05:14Z",
+    "updated_at": "2026-10-27T09:19:34Z",
+    "pushed_at": "2026-10-27T09:19:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "robot-inventor/astro-custom-toc": {
@@ -623,7 +623,7 @@
     "license": "MIT",
     "created_at": "2024-03-03T06:28:58Z",
     "updated_at": "2026-10-25T19:08:32Z",
-    "pushed_at": "2026-10-27T01:07:24Z",
+    "pushed_at": "2026-10-27T09:05:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "obaronai/astro-ai-readiness": {
@@ -738,7 +738,7 @@
     "url": "https://github.com/felix-berlin/astro-matomo",
     "description": "Matomo integration for Astro",
     "stars": 22,
-    "forks": 5,
+    "forks": 4,
     "topics": [
       "analytics",
       "astrojs",
@@ -2734,7 +2734,7 @@
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
     "updated_at": "2026-10-26T17:16:17Z",
-    "pushed_at": "2026-10-26T18:11:17Z",
+    "pushed_at": "2026-10-27T12:03:10Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jan-nikolov/astro-annotate": {
@@ -5371,7 +5371,7 @@
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
     "updated_at": "2026-10-26T03:28:27Z",
-    "pushed_at": "2026-10-20T19:43:55Z",
+    "pushed_at": "2026-10-27T11:41:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "mearashadowfax/datanova": {
@@ -5617,8 +5617,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
-    "updated_at": "2026-10-23T23:35:06Z",
-    "pushed_at": "2026-10-27T02:36:03Z",
+    "updated_at": "2026-10-27T06:59:54Z",
+    "pushed_at": "2026-10-27T07:00:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5952,7 +5952,7 @@
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
     "stars": 390,
-    "forks": 133,
+    "forks": 132,
     "topics": [
       "astro-build",
       "astro-template",
@@ -8325,29 +8325,6 @@
     "pushed_at": "2026-08-22T05:10:41Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
-  "windmillcode/starlight-fullview-mode": {
-    "name": "WindMillCode/starlight-fullview-mode",
-    "url": "https://github.com/WindMillCode/starlight-fullview-mode",
-    "description": "A minimalist plugin that collapses Starlight's sidebars and expands the main content to full width, creating a distraction-free, fullscreen-like reading experience. Toggle with a single click to focus purely on your content.",
-    "stars": 30,
-    "forks": 3,
-    "topics": [
-      "astro",
-      "fullscreen",
-      "fullscreen-mode",
-      "starlight",
-      "starlight-astro",
-      "starlight-plugin",
-      "starlight-view-modes",
-      "view-modes"
-    ],
-    "language": "Astro",
-    "license": "MIT",
-    "created_at": "2025-04-05T16:14:59Z",
-    "updated_at": "2026-09-01T09:44:03Z",
-    "pushed_at": "2025-10-04T15:31:54Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
   "lirantal/triggerdev-astro-integration": {
     "name": "lirantal/triggerdev-astro-integration",
     "url": "https://github.com/lirantal/triggerdev-astro-integration",
@@ -8656,144 +8633,6 @@
     "created_at": "2024-06-21T22:24:58Z",
     "updated_at": "2024-06-21T22:27:43Z",
     "pushed_at": "2025-11-27T08:17:17Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "swagata-cc/astro-cometchat-integration-guides": {
-    "name": "swagata-cc/astro-cometchat-integration-guides",
-    "url": "https://github.com/swagata-cc/astro-cometchat-integration-guides",
-    "description": "",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": "MDX",
-    "license": null,
-    "created_at": "2025-10-17T13:58:33Z",
-    "updated_at": "2025-10-17T14:21:03Z",
-    "pushed_at": "2025-10-17T14:20:59Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "swagata-cc/astro-cometchat-integration": {
-    "name": "swagata-cc/astro-cometchat-integration",
-    "url": "https://github.com/swagata-cc/astro-cometchat-integration",
-    "description": "",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": "JavaScript",
-    "license": null,
-    "created_at": "2025-10-17T12:57:39Z",
-    "updated_at": "2025-10-17T12:57:54Z",
-    "pushed_at": "2025-10-17T12:57:50Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "ashwathbalas/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws-mlops-project": {
-    "name": "AshwathBalaS/Airflow-ETL-Pipeline-with-Postgres-and-API-Integration-In-ASTRO-Cloud-And-AWS-MLOps-Project",
-    "url": "https://github.com/AshwathBalaS/Airflow-ETL-Pipeline-with-Postgres-and-API-Integration-In-ASTRO-Cloud-And-AWS-MLOps-Project",
-    "description": "This Repository contains my working files of \"Airflow ETL Pipeline with Postgres and API Integration In ASTRO Cloud And AWS Project\", an MLOps Project",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "license": null,
-    "created_at": "2025-10-08T15:26:25Z",
-    "updated_at": "2025-10-08T15:27:37Z",
-    "pushed_at": "2025-10-08T15:27:32Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "gagagartina/astrology-bot-integration": {
-    "name": "gagagartina/astrology-bot-integration",
-    "url": "https://github.com/gagagartina/astrology-bot-integration",
-    "description": "",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": null,
-    "license": null,
-    "created_at": "2025-09-01T14:53:44Z",
-    "updated_at": "2025-09-02T06:07:27Z",
-    "pushed_at": "2025-09-02T06:07:23Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "ignacio-molina-0804/cloudinaryintegrationastro-example": {
-    "name": "Ignacio-Molina-0804/CloudinaryIntegrationAstro-Example",
-    "url": "https://github.com/Ignacio-Molina-0804/CloudinaryIntegrationAstro-Example",
-    "description": "Proyecto en Astro con integración a Cloudinary: subida de imágenes con drag & drop, previsualización y galería desde la nube.",
-    "stars": 0,
-    "forks": 0,
-    "topics": [
-      "api-rest",
-      "astro",
-      "cloudinary",
-      "desarrollo-web",
-      "drag-and-drop",
-      "frontend",
-      "galeria",
-      "imagenes",
-      "javascript",
-      "typescript",
-      "uploader"
-    ],
-    "language": "Astro",
-    "license": null,
-    "created_at": "2025-08-07T17:10:25Z",
-    "updated_at": "2025-08-07T17:54:01Z",
-    "pushed_at": "2025-08-07T17:52:02Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "themeselection/flyonui-astro-integration": {
-    "name": "themeselection/flyonui-astro-integration",
-    "url": "https://github.com/themeselection/flyonui-astro-integration",
-    "description": "",
-    "stars": 1,
-    "forks": 2,
-    "topics": [],
-    "language": "Astro",
-    "license": null,
-    "created_at": "2025-03-28T13:28:44Z",
-    "updated_at": "2025-07-22T12:47:02Z",
-    "pushed_at": "2025-07-22T13:48:57Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "kaitlynmcl/wordpress-astro-integration": {
-    "name": "kaitlynmcl/wordpress-astro-integration",
-    "url": "https://github.com/kaitlynmcl/wordpress-astro-integration",
-    "description": "A sample project integrating headless Wordpress with the Astro templating framework. ",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "license": null,
-    "created_at": "2025-07-14T22:53:19Z",
-    "updated_at": "2025-07-14T22:53:53Z",
-    "pushed_at": "2025-07-14T22:53:50Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "davidibrahimg/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
-    "name": "DavidIbrahimG/Airflow-ETL-Pipeline-with-Postgres-and-API-integration-in-ASTRO-Cloud-and-AWS",
-    "url": "https://github.com/DavidIbrahimG/Airflow-ETL-Pipeline-with-Postgres-and-API-integration-in-ASTRO-Cloud-and-AWS",
-    "description": "Airflow ETL Pipeline with Postgres and API Integration (ASTRO + AWS)  This project showcases an ETL pipeline built with Apache Airflow on Astronomer (ASTRO) Cloud. It integrates a public API, processes the data, and loads it into a PostgreSQL database hosted on AWS, demonstrating modern data orchestration and cloud-native deployment.",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": "Python",
-    "license": null,
-    "created_at": "2025-06-29T23:47:58Z",
-    "updated_at": "2025-06-29T23:51:40Z",
-    "pushed_at": "2025-06-29T23:51:36Z",
-    "discovered_at": "2026-05-18T10:54:54.926Z"
-  },
-  "carlynorama/astro-integration-hello": {
-    "name": "carlynorama/astro-integration-hello",
-    "url": "https://github.com/carlynorama/astro-integration-hello",
-    "description": "",
-    "stars": 0,
-    "forks": 0,
-    "topics": [],
-    "language": "TypeScript",
-    "license": "MIT",
-    "created_at": "2025-06-29T18:10:12Z",
-    "updated_at": "2025-06-29T18:17:26Z",
-    "pushed_at": "2025-06-29T18:17:23Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hkbertoson/astro-integrations": {
@@ -9551,8 +9390,8 @@
     "language": "TypeScript",
     "license": null,
     "created_at": "2022-08-14T05:58:26Z",
-    "updated_at": "2026-03-23T14:54:28Z",
-    "pushed_at": "2025-11-01T20:53:13Z",
+    "updated_at": "2026-10-27T08:52:13Z",
+    "pushed_at": "2026-10-27T08:52:09Z",
     "discovered_at": "2026-05-18T13:31:42.522Z"
   },
   "andygarciaserra/astro-galactic-orbit-integration": {
@@ -9962,7 +9801,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 56,
-    "forks": 37,
+    "forks": 38,
     "topics": [
       "astro",
       "astro-template",
@@ -10569,8 +10408,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-12T09:12:35Z",
-    "updated_at": "2026-10-25T18:43:55Z",
-    "pushed_at": "2026-10-26T07:42:44Z",
+    "updated_at": "2026-10-27T09:39:03Z",
+    "pushed_at": "2026-10-27T09:39:21Z",
     "discovered_at": "2026-06-28T18:35:16.399Z"
   },
   "achis-space/astro-justified-gallery-layout": {
@@ -15668,7 +15507,7 @@
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
     "updated_at": "2026-10-27T06:11:37Z",
-    "pushed_at": "2026-10-27T06:11:31Z",
+    "pushed_at": "2026-10-27T10:35:59Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -18413,7 +18252,7 @@
     "license": "MIT",
     "created_at": "2026-08-04T12:31:07Z",
     "updated_at": "2026-10-19T01:06:20Z",
-    "pushed_at": "2026-10-20T13:25:49Z",
+    "pushed_at": "2026-10-27T12:27:19Z",
     "discovered_at": "2026-08-04T18:38:33.744Z"
   },
   "theme-memories/blog": {
@@ -19388,8 +19227,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-21T05:02:53Z",
-    "updated_at": "2026-10-25T22:52:27Z",
-    "pushed_at": "2026-10-25T22:53:22Z",
+    "updated_at": "2026-10-27T09:58:49Z",
+    "pushed_at": "2026-10-27T09:59:41Z",
     "discovered_at": "2026-08-14T06:37:52.275Z"
   },
   "erickangeloramirez/astro-theme-cactus": {
@@ -20411,8 +20250,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-22T09:43:51Z",
-    "updated_at": "2026-10-24T14:02:26Z",
-    "pushed_at": "2026-10-24T14:02:23Z",
+    "updated_at": "2026-10-27T08:43:47Z",
+    "pushed_at": "2026-10-27T08:43:43Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
   "chunyiw8080/astro-honey-theme": {
@@ -22945,8 +22784,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-02-25T12:59:57Z",
-    "updated_at": "2026-10-27T05:34:36Z",
-    "pushed_at": "2026-10-27T05:34:37Z",
+    "updated_at": "2026-10-27T09:06:34Z",
+    "pushed_at": "2026-10-27T12:22:21Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "ahsanrahat12/rahat_ahsan_website": {
@@ -23029,8 +22868,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-15T14:09:05Z",
-    "updated_at": "2026-10-20T09:00:18Z",
-    "pushed_at": "2026-10-20T08:58:34Z",
+    "updated_at": "2026-10-27T11:00:54Z",
+    "pushed_at": "2026-10-27T11:00:59Z",
     "discovered_at": "2026-09-15T21:10:38.607Z"
   },
   "pierquinto/astrology-standard": {
@@ -23767,8 +23606,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-18T14:52:15Z",
-    "updated_at": "2026-10-13T13:31:33Z",
-    "pushed_at": "2026-09-30T17:46:23Z",
+    "updated_at": "2026-10-27T08:33:03Z",
+    "pushed_at": "2026-10-27T08:32:58Z",
     "discovered_at": "2026-09-24T12:29:14.259Z"
   },
   "topleague/astrowindseven": {
@@ -27023,8 +26862,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-06T07:47:35Z",
-    "updated_at": "2026-10-21T11:51:16Z",
-    "pushed_at": "2026-10-26T11:27:34Z",
+    "updated_at": "2026-10-27T10:00:00Z",
+    "pushed_at": "2026-10-27T10:02:15Z",
     "discovered_at": "2026-10-20T06:31:29.870Z"
   },
   "tuagent/lone": {
@@ -27152,8 +26991,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-19T03:49:41Z",
-    "updated_at": "2026-10-21T09:57:18Z",
-    "pushed_at": "2026-10-24T02:02:55Z",
+    "updated_at": "2026-10-27T12:27:08Z",
+    "pushed_at": "2026-10-27T12:27:36Z",
     "discovered_at": "2026-10-21T00:48:08.085Z"
   },
   "ryangswe/schema-folio": {
@@ -27392,8 +27231,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-16T09:48:59Z",
-    "updated_at": "2026-10-26T19:27:35Z",
-    "pushed_at": "2026-10-26T19:28:13Z",
+    "updated_at": "2026-10-27T10:06:11Z",
+    "pushed_at": "2026-10-27T10:06:41Z",
     "discovered_at": "2026-10-22T00:48:03.116Z"
   },
   "aiduet/lone": {
@@ -27504,8 +27343,8 @@
     "language": "HTML",
     "license": "AGPL-3.0",
     "created_at": "2026-10-22T09:54:29Z",
-    "updated_at": "2026-10-27T03:16:40Z",
-    "pushed_at": "2026-10-27T03:16:39Z",
+    "updated_at": "2026-10-27T07:24:12Z",
+    "pushed_at": "2026-10-27T07:24:10Z",
     "discovered_at": "2026-10-22T12:28:49.066Z"
   },
   "formgong-hq/quell-astro": {
@@ -27843,8 +27682,8 @@
     "language": "JavaScript",
     "license": "Apache-2.0",
     "created_at": "2026-10-23T00:48:31Z",
-    "updated_at": "2026-10-25T16:22:13Z",
-    "pushed_at": "2026-10-25T16:22:09Z",
+    "updated_at": "2026-10-27T12:26:00Z",
+    "pushed_at": "2026-10-27T12:25:55Z",
     "discovered_at": "2026-10-25T00:52:29.281Z"
   },
   "llorente14/mipotoforio": {
