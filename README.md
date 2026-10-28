@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1460
-**Last updated:** 2026-10-27T18:16:51.701Z
+**Last updated:** 2026-10-28T00:38:46.495Z
 
 ## 📦 Recently Discovered
 
@@ -27,7 +27,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [ewuweblab/astro-emdash-blog](https://github.com/ewuweblab/astro-emdash-blog) | 0 | Astro. Emdash CMS. Blog starter theme. |
 | [ubeep/lone](https://github.com/ubeep/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
 | [arraypress/menu-astro](https://github.com/arraypress/menu-astro) | 0 | Accessible site navigation for Astro — a nav bar with dropdowns and mega panels,... |
-| [DRAG0NM/astro-theme-interleaf](https://github.com/DRAG0NM/astro-theme-interleaf) | 6 | A multilingual Astro blog theme for quiet reading, refined typography, and restr... |
+| [DRAG0NM/astro-theme-interleaf](https://github.com/DRAG0NM/astro-theme-interleaf) | 7 | A multilingual Astro blog theme for quiet reading, refined typography, and restr... |
 | [hilava999/PaleGlay](https://github.com/hilava999/PaleGlay) | 0 | An Astro theme for Dream novel site. |
 
 ## 🌟 Top Starred (Under 500)
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dileepadev/blog-dileepa-dev](https://github.com/dileepadev/blog-dileepa-dev) | 0 | 2026-10-27 | This is my blog. |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 166 | 2026-10-27 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 14 | 2026-10-27 | Open-source Ask AI for your docs, with an MCP server for age... |
-| [lunrenyi/theme-atlas](https://github.com/lunrenyi/theme-atlas) | 0 | 2026-10-27 | Theme Atlas · 色谱档案 — 一个有故事的配色主题库：中国神话、中国瓷器与虚构世界的配色档案，可复制、可导出... |
-| [meistro57/BookForge](https://github.com/meistro57/BookForge) | 2 | 2026-10-27 | BookForge turns Markdown chapters into a polished, distracti... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-27 | Live preview for Payload CMS on server-rendered and static f... |
-| [aqibawan12/Maviksol12](https://github.com/aqibawan12/Maviksol12) | 0 | 2026-10-27 | Free Astro theme for AI agencies and AI automation companies... |
-| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-10-27 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
-| [langehelp-software/bearminion](https://github.com/langehelp-software/bearminion) | 0 | 2026-10-27 | The BearMinion for the bare minimum. A git-based CMS for Ast... |
-| [miyamo2/astro-algolia-index](https://github.com/miyamo2/astro-algolia-index) | 0 | 2026-10-27 | Astro integration that pushes your build's records to an Alg... |
-| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-10-27 | 🔌 Minify Astro HTML assets using html-minifier-next! |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-27 | Modern static blog theme with distinctive anime-style featur... |
-| [AntonyLeons/casper](https://github.com/AntonyLeons/casper) | 12 | 2026-10-27 | Casper theme for Astro with Algolia Search and Decap CMS, fu... |
-| [ezzty/krya-en](https://github.com/ezzty/krya-en) | 0 | 2026-10-27 | A simple Astro theme, optimized single-column layout mobile/... |
-| [EdgeKits/i18n](https://github.com/EdgeKits/i18n) | 0 | 2026-10-27 | Edge-native i18n on Cloudflare Workers: @edgekits/i18n-core ... |
-| [HiDeoo/expressive-code-twinkleplop](https://github.com/HiDeoo/expressive-code-twinkleplop) | 5 | 2026-10-27 | Expressive Code plugin to use Twinkleplop as a syntax highli... |
+| [iveelsm/astro-font-loader](https://github.com/iveelsm/astro-font-loader) | 0 | 2026-10-28 | Astro integration for loading fonts into build artifacts wit... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-28 | An Astro Prometheus nodejs middleware integration for Astro |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-10-28 | A fast and minimalist personal website and blog powered by A... |
+| [VirtusLab-Open-Source/astro-strapi-loader](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) | 18 | 2026-10-28 | Integration of Astro with Strapi CMS that enables easy data ... |
+| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-10-28 | A modern, responsive and lightweight theme for freelancing, ... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-10-27 | The i18n integration for Astro 🧑‍🚀 |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 158 | 2026-10-27 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-27 | Universal Analytics Engines Integration |
+| [sp-night/sp-night.github.io](https://github.com/sp-night/sp-night.github.io) | 2 | 2026-10-27 | A dark colour scheme with São Paulo as its reference — three... |
+| [Astro-Inter/data-integration-rpa](https://github.com/Astro-Inter/data-integration-rpa) | 0 | 2026-10-27 | Automações RPA para integração e transferência de dados entr... |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-10-27 | Astro starter for academic sites: publications from BibTeX, ... |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-10-27 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-27 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 48 | 2026-10-27 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-27 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-10-27 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [MintfolioBlog/mintfolio-theme-verdant](https://github.com/MintfolioBlog/mintfolio-theme-verdant) | 0 | 2026-10-27 | Verdant — Mintfolio 的个人主页与阅读主题，提供多套配色和完整阅读工具。 |
-| [MintfolioBlog/mintfolio-theme-starter](https://github.com/MintfolioBlog/mintfolio-theme-starter) | 0 | 2026-10-27 | 用两张 Astro 页面开始创建自己的 Mintfolio 主题。 |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-27 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [louisescher/.dev](https://github.com/louisescher/.dev) | 3 | 2026-10-27 | My personal website |
+| [casoon/astro-structured-data](https://github.com/casoon/astro-structured-data) | 2 | 2026-10-27 | Astro integration for automatic JSON-LD structured data gene... |
+| [markd3ng/KIRARI](https://github.com/markd3ng/KIRARI) | 0 | 2026-10-27 | ✨A static blog template built with Astro. |
+| [casoon/astro-speed-measure](https://github.com/casoon/astro-speed-measure) | 3 | 2026-10-27 | Measure Astro build performance with integration and Vite ti... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-28T00:38 | 0 | 981 | 1460 |
 | 2026-10-27T18:16 | 15 | 967 | 1460 |
 | 2026-10-27T12:29 | 0 | 647 | 1445 |
 | 2026-10-27T06:32 | 2 | 978 | 1455 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-26T06:42 | 1 | 977 | 1450 |
 | 2026-10-26T00:51 | 2 | 976 | 1449 |
 | 2026-10-25T18:20 | 1 | 976 | 1447 |
-| 2026-10-25T12:24 | 1 | 975 | 1446 |
 
 ---
 
