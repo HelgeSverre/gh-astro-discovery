@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1469
-**Last updated:** 2026-10-29T06:24:17.323Z
+**Total packages tracked:** 1470
+**Last updated:** 2026-10-29T12:21:58.280Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MatildaHan/blog-gazette](https://github.com/MatildaHan/blog-gazette) | 0 | Gazette — an issue-based magazine theme for Astro (free, MIT) |
 | [oreLINK/orelink.github.io](https://github.com/oreLINK/orelink.github.io) | 0 | Portfolio of Aurélien Bertrand (oreLINK), Data Engineer in Bordeaux. Single-page... |
 | [kylin930/Nekomi](https://github.com/kylin930/Nekomi) | 0 | 基于 Astro、MDUI 2 与 Material Design 3 的开源静态博客主题 |
 | [Contentrain/contentrain-starter-astro-landing](https://github.com/Contentrain/contentrain-starter-astro-landing) | 0 | High-polish Astro landing page starter with Contentrain content models and gener... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [kaitlynmcl/wordpress-astro-integration](https://github.com/kaitlynmcl/wordpress-astro-integration) | 0 | A sample project integrating headless Wordpress with the Astro templating framew... |
 | [DavidIbrahimG/Airflow-ETL-Pipeline-with-Postgres-and-API-integration-in-ASTRO-Cloud-and-AWS](https://github.com/DavidIbrahimG/Airflow-ETL-Pipeline-with-Postgres-and-API-integration-in-ASTRO-Cloud-and-AWS) | 0 | Airflow ETL Pipeline with Postgres and API Integration (ASTRO + AWS)  This proje... |
 | [carlynorama/astro-integration-hello](https://github.com/carlynorama/astro-integration-hello) | 0 |  |
-| [lunrenyi/theme-atlas](https://github.com/lunrenyi/theme-atlas) | 0 | Theme Atlas · 色谱档案 — 一个有故事的配色主题库：中国神话、中国瓷器与虚构世界的配色档案，可复制、可导出。 |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | 2026-10-29 | My blog powered by Astro & Firefly Theme. |
-| [r-hashi01/astlide](https://github.com/r-hashi01/astlide) | 7 | 2026-10-29 |  |
 | [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-29 | Live preview for Payload CMS on server-rendered and static f... |
-| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-10-29 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
-| [Ashish-CodeJourney/satteri-plugins](https://github.com/Ashish-CodeJourney/satteri-plugins) | 11 | 2026-10-29 | Ports of remark and rehype plugins to Sätteri, the Rust mark... |
-| [unixwin/unixwin.dev](https://github.com/unixwin/unixwin.dev) | 0 | 2026-10-29 | UNIXWIN organization portal — unixwin.dev · Astro static sit... |
-| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-10-29 | Astro blog theme template. |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-29 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-10-29 | An Astro Prometheus nodejs middleware integration for Astro |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-29 | Universal Analytics Engines Integration |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-10-29 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-10-29 | Format 🗻 |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-29 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [dgesteves/ondocs](https://github.com/dgesteves/ondocs) | 14 | 2026-10-29 | Open-source Ask AI for your docs, with an MCP server for age... |
+| [yuzhishuo/blog](https://github.com/yuzhishuo/blog) | 0 | 2026-10-29 | Astro Theme Pure blog source — CI deploys to yuzhishuo.githu... |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-29 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [kevynf/logflow-theme](https://github.com/kevynf/logflow-theme) | 12 | 2026-10-29 | A compact, content-first Astro theme for Chinese blogs, pers... |
-| [Inkstudioagency/AlphaWave-Astro-Theme](https://github.com/Inkstudioagency/AlphaWave-Astro-Theme) | 0 | 2026-10-29 |  |
-| [gary-deshayes/gary-deshayes.com](https://github.com/gary-deshayes/gary-deshayes.com) | 0 | 2026-10-29 | Portfolio de Gary Deshayes — développeur web. Astro, thème e... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-10-29 | My astro static blog use theme Firefly. |
-| [lunrenyi/theme-atlas](https://github.com/lunrenyi/theme-atlas) | 0 | 2026-10-29 | Theme Atlas · 色谱档案 — 一个有故事的配色主题库：中国神话、中国瓷器与虚构世界的配色档案，可复制、可导出... |
-| [ondelva/astro-theme-monoline](https://github.com/ondelva/astro-theme-monoline) | 0 | 2026-10-29 | Monoline: an Astro theme for a notebook of short notes, with... |
+| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 22 | 2026-10-29 | A blog and personal site theme for Astro with a terminal loo... |
+| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-29 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
+| [kpab/astro-kepler](https://github.com/kpab/astro-kepler) | 13 | 2026-10-29 | Kepler — a versatile Astro 7 theme for blogs, portfolios, an... |
+| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 22 | 2026-10-29 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
+| [r-hashi01/astlide](https://github.com/r-hashi01/astlide) | 7 | 2026-10-29 |  |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-29 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-10-29 | Universal Analytics Engines Integration |
+| [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | 2026-10-29 | My blog powered by Astro & Firefly Theme. |
+| [tower1229/Refined-X](https://github.com/tower1229/Refined-X) | 5 | 2026-10-29 | Agent-ready personal publish starter |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-10-29 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-10-29 | A fast and minimalist personal website and blog powered by A... |
+| [langehelp-software/bearminion](https://github.com/langehelp-software/bearminion) | 0 | 2026-10-29 | The BearMinion for the bare minimum. A git-based CMS for Ast... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-29 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-10-29 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [skywalker23241/abo-astro-blog-theme](https://github.com/skywalker23241/abo-astro-blog-theme) | 0 | 2026-10-29 | A simple Astro Blog temple/theme, enjoy. |
+| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-10-29 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-29T12:21 | 1 | 984 | 1470 |
 | 2026-10-29T06:24 | 0 | 985 | 1469 |
 | 2026-10-29T00:37 | 1 | 984 | 1469 |
 | 2026-10-28T18:17 | 3 | 983 | 1468 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-27T18:16 | 15 | 967 | 1460 |
 | 2026-10-27T12:29 | 0 | 647 | 1445 |
 | 2026-10-27T06:32 | 2 | 978 | 1455 |
-| 2026-10-27T00:49 | 0 | 980 | 1453 |
 
 ---
 
