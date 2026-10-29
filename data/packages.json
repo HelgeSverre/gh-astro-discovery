@@ -39,7 +39,7 @@
     "url": "https://github.com/florian-lefebvre/astro-integration-template",
     "description": "Publish integrations within minutes.",
     "stars": 71,
-    "forks": 14,
+    "forks": 13,
     "topics": [
       "astro",
       "astro-integration",
@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-10-29T01:07:10Z",
-    "pushed_at": "2026-10-29T01:07:08Z",
+    "updated_at": "2026-10-29T18:05:27Z",
+    "pushed_at": "2026-10-29T18:07:41Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -2565,7 +2565,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-10-29T09:57:06Z",
-    "pushed_at": "2026-10-29T09:58:30Z",
+    "pushed_at": "2026-10-29T17:21:47Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2628,7 +2628,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-10-28T18:22:02Z",
-    "pushed_at": "2026-10-28T18:21:59Z",
+    "pushed_at": "2026-10-29T17:49:50Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5447,7 +5447,7 @@
     "url": "https://github.com/the3ash/astro-chiri",
     "description": "Minimal blog theme built with Astro.",
     "stars": 318,
-    "forks": 104,
+    "forks": 103,
     "topics": [
       "astro",
       "astro-theme",
@@ -6116,7 +6116,7 @@
     "name": "matt765/Tailcast",
     "url": "https://github.com/matt765/Tailcast",
     "description": "Dark-themed website template built on Astro and Tailwind CSS",
-    "stars": 412,
+    "stars": 413,
     "forks": 141,
     "topics": [
       "astro",
@@ -6130,7 +6130,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2022-10-21T16:49:07Z",
-    "updated_at": "2026-10-25T16:00:27Z",
+    "updated_at": "2026-10-29T18:11:11Z",
     "pushed_at": "2026-04-12T03:14:43Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6977,8 +6977,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-10-25T06:30:20Z",
-    "pushed_at": "2026-10-25T06:30:16Z",
+    "updated_at": "2026-10-29T13:04:56Z",
+    "pushed_at": "2026-10-29T13:04:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "alamguardin/astrodev": {
@@ -9585,8 +9585,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-10-26T01:56:31Z",
-    "pushed_at": "2026-10-28T18:01:23Z",
+    "updated_at": "2026-10-29T17:30:06Z",
+    "pushed_at": "2026-10-29T17:30:00Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -9801,7 +9801,7 @@
     "url": "https://github.com/webrating/starfolio",
     "description": "Modern Astro portfolio template with Tailwind CSS v4, shadcn/ui, MDX blog, and dark mode. Edit three files, deploy in minutes.",
     "stars": 56,
-    "forks": 38,
+    "forks": 39,
     "topics": [
       "astro",
       "astro-template",
@@ -9824,7 +9824,7 @@
     "url": "https://github.com/themefisher/automark-astro",
     "description": "Automark is an Astro theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.",
     "stars": 33,
-    "forks": 19,
+    "forks": 18,
     "topics": [
       "astro",
       "astro-starter",
@@ -10151,7 +10151,7 @@
     "url": "https://github.com/kpab/astro-darkness",
     "description": "A stunning dark-themed portfolio template for Astro with interactive Three.js particle animations, blog system, and modern glassmorphism UI.",
     "stars": 16,
-    "forks": 4,
+    "forks": 5,
     "topics": [
       "astro",
       "astro-theme",
@@ -11353,7 +11353,7 @@
     "license": null,
     "created_at": "2026-01-27T09:07:23Z",
     "updated_at": "2026-09-19T10:55:46Z",
-    "pushed_at": "2026-10-29T10:30:42Z",
+    "pushed_at": "2026-10-29T17:09:11Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "hellotham/hello-astro": {
@@ -12325,8 +12325,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-10-28T15:09:13Z",
-    "pushed_at": "2026-10-28T15:09:09Z",
+    "updated_at": "2026-10-29T15:16:38Z",
+    "pushed_at": "2026-10-29T15:16:33Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -12365,8 +12365,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2017-06-14T16:16:41Z",
-    "updated_at": "2026-10-11T02:22:18Z",
-    "pushed_at": "2026-10-11T02:22:14Z",
+    "updated_at": "2026-10-29T15:10:11Z",
+    "pushed_at": "2026-10-29T15:10:07Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "marquisdesac/ceofolio": {
@@ -15506,8 +15506,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-11T12:37:55Z",
-    "updated_at": "2026-10-29T11:05:19Z",
-    "pushed_at": "2026-10-29T12:19:58Z",
+    "updated_at": "2026-10-29T17:36:36Z",
+    "pushed_at": "2026-10-29T17:36:33Z",
     "discovered_at": "2026-07-11T18:24:26.084Z"
   },
   "marcelofpfelix/papyrus": {
@@ -16414,7 +16414,7 @@
     "name": "nipun-arora/cool-astro-forms",
     "url": "https://github.com/nipun-arora/cool-astro-forms",
     "description": "The lead-ops platform for Astro forms: abandonment capture, recovery emails, quote payments, and a self-hosted admin. No external services, just SQLite and SMTP. MIT.",
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "topics": [
       "astro",
@@ -16441,7 +16441,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-07-18T09:42:31Z",
-    "updated_at": "2026-10-21T06:01:20Z",
+    "updated_at": "2026-10-29T13:40:37Z",
     "pushed_at": "2026-10-21T06:01:16Z",
     "discovered_at": "2026-07-18T12:26:12.442Z"
   },
@@ -18409,8 +18409,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-08-04T07:03:48Z",
-    "updated_at": "2026-10-29T06:08:25Z",
-    "pushed_at": "2026-10-29T06:09:15Z",
+    "updated_at": "2026-10-29T12:22:05Z",
+    "pushed_at": "2026-10-29T12:23:24Z",
     "discovered_at": "2026-08-06T12:46:10.039Z"
   },
   "leevikopakkala/astro-cookie-consent": {
@@ -19178,8 +19178,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-13T18:51:01Z",
-    "updated_at": "2026-10-22T15:05:53Z",
-    "pushed_at": "2026-10-22T15:05:55Z",
+    "updated_at": "2026-10-29T14:48:06Z",
+    "pushed_at": "2026-10-29T14:50:38Z",
     "discovered_at": "2026-08-14T00:36:43.837Z"
   },
   "sprinkle-js/astro-resume": {
@@ -21066,8 +21066,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-10-29T07:46:21Z",
-    "pushed_at": "2026-10-29T07:46:17Z",
+    "updated_at": "2026-10-29T13:50:02Z",
+    "pushed_at": "2026-10-29T13:49:58Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -21419,8 +21419,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-05T23:36:10Z",
-    "updated_at": "2026-10-26T16:31:36Z",
-    "pushed_at": "2026-10-26T16:31:47Z",
+    "updated_at": "2026-10-29T15:23:45Z",
+    "pushed_at": "2026-10-29T15:23:47Z",
     "discovered_at": "2026-09-03T06:32:16.910Z"
   },
   "ernxst/icon-prerender": {
@@ -22784,8 +22784,8 @@
     "language": "Rust",
     "license": "MIT",
     "created_at": "2026-02-25T12:59:57Z",
-    "updated_at": "2026-10-27T22:03:47Z",
-    "pushed_at": "2026-10-27T22:03:44Z",
+    "updated_at": "2026-10-29T17:00:07Z",
+    "pushed_at": "2026-10-29T17:00:04Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "ahsanrahat12/rahat_ahsan_website": {
@@ -25249,8 +25249,8 @@
     "name": "formgong/orrery-astro-theme",
     "url": "https://github.com/formgong/orrery-astro-theme",
     "description": "Free Astro theme for consultants and B2B firms: dark, light type, one lime accent, scroll effects, a contact form that never fakes success. Forms by Formgong.",
-    "stars": 3,
-    "forks": 3,
+    "stars": 4,
+    "forks": 4,
     "topics": [
       "astro",
       "astro-theme",
@@ -25262,7 +25262,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-08T20:44:09Z",
-    "updated_at": "2026-10-28T09:54:06Z",
+    "updated_at": "2026-10-29T15:55:43Z",
     "pushed_at": "2026-10-08T22:12:05Z",
     "discovered_at": "2026-10-09T00:58:49.590Z"
   },
@@ -25510,7 +25510,7 @@
     "name": "dgesteves/ondocs",
     "url": "https://github.com/dgesteves/ondocs",
     "description": "Open-source Ask AI for your docs, with an MCP server for agents: cited answers on your own model key, from one static index built with your site. No vendor, no vector database. Starlight, Docusaurus and VitePress plugins, Next.js, or one script tag.",
-    "stars": 14,
+    "stars": 38,
     "forks": 2,
     "topics": [
       "ai-sdk",
@@ -25537,7 +25537,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-06T19:52:40Z",
-    "updated_at": "2026-10-29T11:04:27Z",
+    "updated_at": "2026-10-29T12:43:41Z",
     "pushed_at": "2026-10-29T12:11:29Z",
     "discovered_at": "2026-10-10T18:23:30.846Z"
   },
@@ -25578,7 +25578,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-09-11T07:41:50Z",
     "updated_at": "2026-10-22T05:28:07Z",
-    "pushed_at": "2026-10-27T14:09:10Z",
+    "pushed_at": "2026-10-29T17:07:58Z",
     "discovered_at": "2026-10-10T18:23:30.848Z"
   },
   "mintfolioblog/mintfolio-theme-verdant": {
@@ -25597,7 +25597,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-09-11T07:41:47Z",
     "updated_at": "2026-10-22T05:27:40Z",
-    "pushed_at": "2026-10-27T14:12:12Z",
+    "pushed_at": "2026-10-29T18:14:06Z",
     "discovered_at": "2026-10-10T18:23:30.848Z"
   },
   "codeaeffchen-gmbh/astro-split-domains": {
@@ -26334,7 +26334,7 @@
     "name": "chintak/astro-sage",
     "url": "https://github.com/chintak/astro-sage",
     "description": "AstroSage — a readability-first Astro blog theme (fork of AstroPaper)",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "astro",
@@ -26347,7 +26347,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-15T22:28:31Z",
-    "updated_at": "2026-10-29T08:27:48Z",
+    "updated_at": "2026-10-29T13:55:17Z",
     "pushed_at": "2026-10-25T18:19:35Z",
     "discovered_at": "2026-10-16T06:31:52.280Z"
   },
@@ -27408,7 +27408,7 @@
     "name": "formgong-hq/contour-astro",
     "url": "https://github.com/formgong-hq/contour-astro",
     "description": "Contour — free Astro portfolio template with a working Formgong contact form",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
     "topics": [
       "astro-theme",
@@ -27419,7 +27419,7 @@
     "language": "CSS",
     "license": "MIT",
     "created_at": "2026-10-22T14:18:34Z",
-    "updated_at": "2026-10-22T14:33:03Z",
+    "updated_at": "2026-10-29T16:02:42Z",
     "pushed_at": "2026-10-22T14:18:43Z",
     "discovered_at": "2026-10-22T18:22:33.795Z"
   },
@@ -28183,8 +28183,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-28T04:31:42Z",
-    "updated_at": "2026-10-28T20:43:13Z",
-    "pushed_at": "2026-10-28T20:43:48Z",
+    "updated_at": "2026-10-29T15:57:14Z",
+    "pushed_at": "2026-10-29T15:57:09Z",
     "discovered_at": "2026-10-28T06:23:59.371Z"
   },
   "visruthsk/website-theme": {
@@ -28202,8 +28202,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-27T15:25:32Z",
-    "updated_at": "2026-10-28T17:31:52Z",
-    "pushed_at": "2026-10-28T17:31:46Z",
+    "updated_at": "2026-10-29T18:04:37Z",
+    "pushed_at": "2026-10-29T18:14:47Z",
     "discovered_at": "2026-10-28T06:23:59.372Z"
   },
   "inkstudioagency/fexiva-astro-theme": {
