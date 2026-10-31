@@ -2,13 +2,16 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1481
-**Last updated:** 2026-10-31T12:16:01.871Z
+**Total packages tracked:** 1484
+**Last updated:** 2026-10-31T18:13:19.979Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | Showcase site for my Home Assistant custom integrations and Lovelace cards: scre... |
+| [martletdesign/astro](https://github.com/martletdesign/astro) | 0 | Reusable Martlet Astro layouts and components powered by @martlettheme/theme. |
+| [kallioli/cloud-resume](https://github.com/kallioli/cloud-resume) | 8 | Multi-cloud Astro resume theme (AWS, Azure, Google Cloud, OpenStack): one YAML f... |
 | [0bserver07/rl-study-site](https://github.com/0bserver07/rl-study-site) | 0 | The site for Study-Reinforcement-Learning: lectures, exercises, and a live Q-lea... |
 | [mujtabacloud/theme-apex-agency](https://github.com/mujtabacloud/theme-apex-agency) | 0 | A modern, responsive Astro theme for creative agencies and digital studios, feat... |
 | [handuxiu/Blog](https://github.com/handuxiu/Blog) | 0 | Blog Project Based on Astro-theme-pure |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Contentrain/contentrain-starter-astro-landing](https://github.com/Contentrain/contentrain-starter-astro-landing) | 0 | High-polish Astro landing page starter with Contentrain content models and gener... |
 | [Contentrain/contentrain-starter-astro-blog](https://github.com/Contentrain/contentrain-starter-astro-blog) | 0 | Premium Astro editorial starter powered by Contentrain SDK and seeded structured... |
 | [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | One SVG in, an optimised favicon set out. CLI, Astro integration and a website. |
-| [VisruthSK/website-theme](https://github.com/VisruthSK/website-theme) | 0 | An Astro 7 theme for long-form writing, built on astro-erudite. |
-| [Inkstudioagency/Fexiva-Astro-Theme](https://github.com/Inkstudioagency/Fexiva-Astro-Theme) | 0 |  |
-| [Inkstudioagency/AlphaWave-Astro-Theme](https://github.com/Inkstudioagency/AlphaWave-Astro-Theme) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [VisruthSK/website-theme](https://github.com/VisruthSK/website-theme) | 0 | 2026-10-31 | An Astro 7 theme for long-form writing, built on astro-erudi... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-31 | Live preview for Payload CMS on server-rendered and static f... |
-| [GrassBlock1/mercury](https://github.com/GrassBlock1/mercury) | 4 | 2026-10-31 | Terminal-like blog theme built from Astro. |
-| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-31 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
-| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-10-31 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
-| [n-yokomachi/vivibio](https://github.com/n-yokomachi/vivibio) | 1 | 2026-10-31 | vivid × vivere × bio — a theme-switching digital business ca... |
-| [LeeviKopakkala/astro-cookie-consent](https://github.com/LeeviKopakkala/astro-cookie-consent) | 1 | 2026-10-31 | A tiny, dependency-free, GDPR compliant cookie consent banne... |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-10-31 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [BlackWild/astro-myst](https://github.com/BlackWild/astro-myst) | 0 | 2026-10-31 | MyST Markdown loader for Astro. |
-| [GladTek/Cooper](https://github.com/GladTek/Cooper) | 34 | 2026-10-31 | production-ready Astro 7 boilerplate for blogging, documenta... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-10-31 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-10-31 | Astro integration that uses existing configuration to write ... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-10-31 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [yuanzui-cf/nayuta](https://github.com/yuanzui-cf/nayuta) | 15 | 2026-10-31 | A homepage & blog theme powered by Astro |
+| [martletdesign/astro](https://github.com/martletdesign/astro) | 0 | 2026-10-31 | Reusable Martlet Astro layouts and components powered by @ma... |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-10-31 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [kallioli/cloud-resume](https://github.com/kallioli/cloud-resume) | 8 | 2026-10-31 | Multi-cloud Astro resume theme (AWS, Azure, Google Cloud, Op... |
+| [rigel-cms/rigel-starter](https://github.com/rigel-cms/rigel-starter) | 1 | 2026-10-31 | An Astro starter with Rigel CMS. Work in progress, not ready... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-10-31 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [vite-pwa/astro](https://github.com/vite-pwa/astro) | 321 | 2026-10-31 | Zero-config PWA Integration for Astro |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-10-31 | Live preview for Payload CMS on server-rendered and static f... |
+| [ntddigital/ssg-theme-astro](https://github.com/ntddigital/ssg-theme-astro) | 0 | 2026-10-31 |  |
+| [markmansour/aboutmarkmansour](https://github.com/markmansour/aboutmarkmansour) | 0 | 2026-10-31 | ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind C... |
+| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 48 | 2026-10-31 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
+| [Astro-Inter/data-integration-rpa](https://github.com/Astro-Inter/data-integration-rpa) | 0 | 2026-10-31 | Automações RPA para integração e transferência de dados entr... |
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-10-31 | Showcase site for my Home Assistant custom integrations and ... |
 | [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 6 | 2026-10-31 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
-| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-10-31 | A modern, responsive and lightweight theme for freelancing, ... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-10-31 | Modern static blog theme with distinctive anime-style featur... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-10-31 | Loaders for Astro's Content Layer |
-| [krishkantrai27/portfolio](https://github.com/krishkantrai27/portfolio) | 0 | 2026-10-31 | Responsive developer portfolio built with React, Astro, Tail... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-10-31 | Inline 🦔 |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-10-31 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [VisruthSK/website-theme](https://github.com/VisruthSK/website-theme) | 0 | 2026-10-31 | An Astro 7 theme for long-form writing, built on astro-erudi... |
+| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-10-31 | A personal blog built with Astro, based on the Fuwari theme ... |
+| [Robot-Inventor/astro-custom-toc](https://github.com/Robot-Inventor/astro-custom-toc) | 7 | 2026-10-31 | Astro Integration to generate a customizable table of conten... |
+| [Chen017/Blog](https://github.com/Chen017/Blog) | 0 | 2026-10-31 | An Astro Blog. Based on upstream theme (Twilight), with seve... |
+| [formgong/shoal-astro-theme](https://github.com/formgong/shoal-astro-theme) | 2 | 2026-10-31 | Free Astro theme for real estate agents: full-screen photo h... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-31T18:13 | 3 | 985 | 1484 |
 | 2026-10-31T12:16 | 0 | 987 | 1481 |
 | 2026-10-31T06:17 | 0 | 987 | 1481 |
 | 2026-10-31T00:31 | 1 | 986 | 1481 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-30T00:38 | 1 | 985 | 1471 |
 | 2026-10-29T18:17 | 0 | 985 | 1470 |
 | 2026-10-29T12:21 | 1 | 984 | 1470 |
-| 2026-10-29T06:24 | 0 | 985 | 1469 |
 
 ---
 
