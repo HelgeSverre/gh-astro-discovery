@@ -2,13 +2,16 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1488
-**Last updated:** 2026-11-01T06:19:34.851Z
+**Total packages tracked:** 1491
+**Last updated:** 2026-11-01T12:16:30.484Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [girishlade111/dante-astro-theme](https://github.com/girishlade111/dante-astro-theme) | 0 | Minimal Astro + Tailwind CSS blog and portfolio theme |
+| [CocoMochaCookie/CoCoKaFly](https://github.com/CocoMochaCookie/CoCoKaFly) | 0 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
+| [CocoMochaCookie/CoCoKaRollFlyProduct](https://github.com/CocoMochaCookie/CoCoKaRollFlyProduct) | 0 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
 | [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 0 | A season-aware neobrutalist Astro theme for your blog |
 | [MiraHikari/astro-constructivist](https://github.com/MiraHikari/astro-constructivist) | 1 | Constructa — A bold constructivist Astro portfolio theme. Agent-friendly: one cv... |
 | [TheTrueFerret/portfolio-website](https://github.com/TheTrueFerret/portfolio-website) | 2 | Personal Portfolio/Blog, with a Nice Terminal Theme... Everything to do with Pro... |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [bufferhead-code/whitespace](https://github.com/bufferhead-code/whitespace) | 0 | Whitespace: a clean, minimal portfolio theme for developers and designers, built... |
 | [Sky-Ultra/Firefly](https://github.com/Sky-Ultra/Firefly) | 1 | 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, fresh and aesthetic A... |
 | [hmilyld/astro-theme-steelseal](https://github.com/hmilyld/astro-theme-steelseal) | 0 | Steel-grey ground, iron-black type, vermilion seal — a quiet reading theme for A... |
-| [mailok/astro-remix](https://github.com/mailok/astro-remix) | 1 | Astro integration for Remix 3 components: server rendering, islands with every c... |
-| [MatildaHan/blog-gazette](https://github.com/MatildaHan/blog-gazette) | 0 | Gazette — an issue-based magazine theme for Astro (free, MIT) |
-| [oreLINK/orelink.github.io](https://github.com/oreLINK/orelink.github.io) | 0 | Portfolio of Aurélien Bertrand (oreLINK), Data Engineer in Bordeaux. Single-page... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [3097998179/astro-theme-elaina](https://github.com/3097998179/astro-theme-elaina) | 1 | 2026-11-01 |  |
-| [Astro-Inter/data-integration-rpa](https://github.com/Astro-Inter/data-integration-rpa) | 0 | 2026-11-01 | Automações RPA para integração e transferência de dados entr... |
-| [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 0 | 2026-11-01 | A season-aware neobrutalist Astro theme for your blog |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-11-01 | Modern static blog theme with distinctive anime-style featur... |
-| [rightdoor/citrus-grid](https://github.com/rightdoor/citrus-grid) | 7 | 2026-11-01 | A lightweight static blog theme based on Astro. |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-01 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 61 | 2026-11-01 | An Astro integration for rendering LilyPond music notation. |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-01 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-01 | Showcase site for my Home Assistant custom integrations and ... |
+| [hardwario/website-ui](https://github.com/hardwario/website-ui) | 0 | 2026-11-01 | Design system for the HARDWARIO websites — brand tokens, Dai... |
+| [kitschpatrol/astro-html-kit](https://github.com/kitschpatrol/astro-html-kit) | 2 | 2026-11-01 | Astro integration and middleware to clean up your HTML. |
+| [kitschpatrol/astro-mdx-kit](https://github.com/kitschpatrol/astro-mdx-kit) | 4 | 2026-11-01 | Astro integration for MDX directive-to-component mapping, el... |
+| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 22 | 2026-11-01 | A blog and personal site theme for Astro with a terminal loo... |
+| [jg-abreu/portfolio](https://github.com/jg-abreu/portfolio) | 0 | 2026-11-01 | My personal portfolio: sonar-themed, bilingual (EN/PT) and a... |
+| [girishlade111/dante-astro-theme](https://github.com/girishlade111/dante-astro-theme) | 0 | 2026-11-01 | Minimal Astro + Tailwind CSS blog and portfolio theme |
+| [unixwin/unixwin.dev](https://github.com/unixwin/unixwin.dev) | 0 | 2026-11-01 | UNIXWIN organization portal — unixwin.dev · Astro static sit... |
 | [CnBarrier404/astro-theme-misthaven](https://github.com/CnBarrier404/astro-theme-misthaven) | 11 | 2026-11-01 | A clean and minimalist Astro blog theme with calm colors, sp... |
-| [emrexcem/blueprint](https://github.com/emrexcem/blueprint) | 0 | 2026-11-01 | An Astro 5 portfolio, blog and interactive skill tree, drawn... |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-01 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-11-01 | Live preview for Payload CMS on server-rendered and static f... |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-01 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) | 72 | 2026-11-01 | Publish integrations within minutes. |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 234 | 2026-11-01 | A flexible Astro blog theme designed for Obsidian users. |
-| [porsche-design-system/sample-integration-astro-offline](https://github.com/porsche-design-system/sample-integration-astro-offline) | 0 | 2026-11-01 | This repository demonstrates how to integrate the Porsche De... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-11-01 | An Astro Prometheus nodejs middleware integration for Astro |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-01 | Inline 🦔 |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-01 | Format 🗻 |
 | [pawcoding/astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) | 63 | 2026-11-01 | A content loader for Astro that uses the PocketBase API |
-| [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 61 | 2026-11-01 | Astro Starter Pro: A free, production-ready Astro starter fo... |
+| [pawcoding/astro-integration-pocketbase](https://github.com/pawcoding/astro-integration-pocketbase) | 18 | 2026-11-01 | A integration for Astro adding a toolbar for users of astro-... |
+| [EdgeKits/i18n](https://github.com/EdgeKits/i18n) | 0 | 2026-11-01 | Edge-native i18n on Cloudflare Workers: @edgekits/i18n-core ... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-11-01 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [EdgeKits/astro-edgekits-core](https://github.com/EdgeKits/astro-edgekits-core) | 6 | 2026-11-01 | Zero-JS Astro i18n Starter for Cloudflare Workers |
+| [VisruthSK/website-theme](https://github.com/VisruthSK/website-theme) | 0 | 2026-11-01 | An Astro 7 theme for long-form writing, built on astro-erudi... |
+| [3097998179/astro-theme-elaina](https://github.com/3097998179/astro-theme-elaina) | 1 | 2026-11-01 |  |
+| [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 0 | 2026-11-01 | A season-aware neobrutalist Astro theme for your blog |
+| [freshjuice-dev/zest](https://github.com/freshjuice-dev/zest) | 52 | 2026-11-01 | A lightweight, zero-dependency cookie consent toolkit for GD... |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-11-01 | Regular integration tests of Coordinated packages with astro... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-01T12:16 | 3 | 986 | 1491 |
 | 2026-11-01T06:19 | 1 | 989 | 1488 |
 | 2026-11-01T00:39 | 3 | 987 | 1487 |
 | 2026-10-31T18:13 | 3 | 985 | 1484 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-30T18:14 | 7 | 980 | 1480 |
 | 2026-10-30T12:21 | 2 | 984 | 1473 |
 | 2026-10-30T06:24 | 0 | 986 | 1471 |
-| 2026-10-30T00:38 | 1 | 985 | 1471 |
 
 ---
 
