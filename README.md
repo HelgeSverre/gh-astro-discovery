@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1494
-**Last updated:** 2026-11-02T00:34:39.226Z
+**Total packages tracked:** 1495
+**Last updated:** 2026-11-02T06:28:16.949Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [LelonDelonMelon/blog-starter](https://github.com/LelonDelonMelon/blog-starter) | 2 | Simple blog starter with minimal responsive theme. Built with love, using Astro.... |
 | [humbornjo/nobloger](https://github.com/humbornjo/nobloger) | 31 | An Astro blog starter for the happily lazy: keep writing in Notion and let the b... |
 | [tmykkanen/astro-church-integration](https://github.com/tmykkanen/astro-church-integration) | 0 |  |
 | [riviera-themes/riviera-villa-lite](https://github.com/riviera-themes/riviera-villa-lite) | 0 | Free Astro theme for one holiday rental: calm, photo-first, direct booking reque... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [sunshinecreator/socialinfo](https://github.com/sunshinecreator/socialinfo) | 0 | Astro blog with Retypeset theme and Contentful CMS integration. |
 | [minimaldesign/minimal-gallery](https://github.com/minimaldesign/minimal-gallery) | 9 | A free, open-source photo gallery toolkit for photo enthusiasts: drop photos int... |
 | [bufferhead-code/persona](https://github.com/bufferhead-code/persona) | 0 | Persona: a personal resume and CV theme for developers, built with Astro and Tai... |
-| [bufferhead-code/sidequest](https://github.com/bufferhead-code/sidequest) | 0 | Sidequest: a modern landing page theme for software products, CLIs and SaaS, bui... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-02 | Universal Analytics Engines Integration |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-02 | Inline 🦔 |
+| [r-hashi01/astlide](https://github.com/r-hashi01/astlide) | 7 | 2026-11-02 |  |
+| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-11-02 | Astro blog theme template. |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-02 | Format 🗻 |
+| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-11-02 | Track Core Web Vitals & accessibility issues in your Astro s... |
+| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-02 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
+| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 61 | 2026-11-02 | An Astro integration for rendering LilyPond music notation. |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 158 | 2026-11-02 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
 | [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-02 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [lancher-dev/jaamd](https://github.com/lancher-dev/jaamd) | 3 | 2026-11-02 | Just Another Astro Markdown |
+| [humbornjo/nobloger](https://github.com/humbornjo/nobloger) | 31 | 2026-11-02 | An Astro blog starter for the happily lazy: keep writing in ... |
+| [baiduxc/matrix](https://github.com/baiduxc/matrix) | 0 | 2026-11-02 | Immersive Matrix-inspired Astro blog theme with Three.js eff... |
+| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-11-02 | An Astro starter theme |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-11-02 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 25 | 2026-11-02 | Framework-agnostic interactive component anatomy for design ... |
+| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-02 | Astro components for images and video. |
 | [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-11-02 | Live preview for Payload CMS on server-rendered and static f... |
-| [drk1rd/mediakiln](https://github.com/drk1rd/mediakiln) | 1 | 2026-11-01 | Bake the media in a static site so it's ready to stream: fas... |
-| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 22 | 2026-11-01 | A blog and personal site theme for Astro with a terminal loo... |
-| [tmykkanen/astro-church-integration](https://github.com/tmykkanen/astro-church-integration) | 0 | 2026-11-01 |  |
-| [gfLobo/journalhost](https://github.com/gfLobo/journalhost) | 0 | 2026-11-01 | Journalhost é um blog pessoal minimalista, responsivo e aces... |
-| [casoon/astro-structured-data](https://github.com/casoon/astro-structured-data) | 2 | 2026-11-01 | Astro integration for automatic JSON-LD structured data gene... |
-| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-11-01 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-01 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
-| [rigel-cms/rigel-starter](https://github.com/rigel-cms/rigel-starter) | 1 | 2026-11-01 | An Astro starter with Rigel CMS. Work in progress, not ready... |
-| [kydecker/astro-lilypond](https://github.com/kydecker/astro-lilypond) | 61 | 2026-11-01 | An Astro integration for rendering LilyPond music notation. |
-| [martletdesign/astro](https://github.com/martletdesign/astro) | 0 | 2026-11-01 | Reusable Martlet Astro layouts and components powered by @ma... |
-| [kallioli/cloud-resume](https://github.com/kallioli/cloud-resume) | 8 | 2026-11-01 | Multi-cloud Astro resume theme (AWS, Azure, Google Cloud, Op... |
-| [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 0 | 2026-11-01 | A season-aware neobrutalist Astro theme for your blog |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-01 | Universal Analytics Engines Integration |
-| [ezhuk/astro-hash](https://github.com/ezhuk/astro-hash) | 0 | 2026-11-01 | Astro Integration to automatically generate Subresource Inte... |
-| [AhsanRahat12/Rahat_Ahsan_Website](https://github.com/AhsanRahat12/Rahat_Ahsan_Website) | 0 | 2026-11-01 | Personal portfolio site — Terminal/CLI-themed, built with As... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-01 | The i18n integration for Astro 🧑‍🚀 |
-| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-11-01 | Framework for creating study companion webpages. |
+| [satheez/jwt-decoder](https://github.com/satheez/jwt-decoder) | 0 | 2026-11-02 | JWT Explorer - A powerful, client-side JWT decoder and explo... |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-11-02 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-11-02 | Astro integration that uses existing configuration to write ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-02T06:28 | 1 | 991 | 1495 |
 | 2026-11-02T00:34 | 2 | 990 | 1494 |
 | 2026-11-01T18:13 | 1 | 989 | 1492 |
 | 2026-11-01T12:16 | 3 | 986 | 1491 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-10-31T12:16 | 0 | 987 | 1481 |
 | 2026-10-31T06:17 | 0 | 987 | 1481 |
 | 2026-10-31T00:31 | 1 | 986 | 1481 |
-| 2026-10-30T18:14 | 7 | 980 | 1480 |
 
 ---
 
