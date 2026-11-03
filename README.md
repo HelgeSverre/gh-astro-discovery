@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1504
-**Last updated:** 2026-11-03T12:17:47.644Z
+**Total packages tracked:** 1505
+**Last updated:** 2026-11-03T18:14:32.800Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [saltedlolly/astro-atmosphere-comments](https://github.com/saltedlolly/astro-atmosphere-comments) | 0 | Atmosphere Comments for Astro: Bluesky comments, likes, reposts and quote posts ... |
 | [xocothemes/payday](https://github.com/xocothemes/payday) | 0 | Payday is a free Astro theme for SaaS and product sites.  |
 | [agarmu/astro-integrations](https://github.com/agarmu/astro-integrations) | 0 |  |
 | [J-Klakus/astro-favicon-kit](https://github.com/J-Klakus/astro-favicon-kit) | 0 | Minimal, canonical favicons for Astro: one square SVG in, the Evil Martians-cano... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [CocoMochaCookie/CoCoKaRollFlyProduct](https://github.com/CocoMochaCookie/CoCoKaRollFlyProduct) | 0 | 🍀Firefly, fresh and aesthetic Astro blog theme template.  |
 | [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 1 | A season-aware neobrutalist Astro theme for your blog |
 | [MiraHikari/astro-constructivist](https://github.com/MiraHikari/astro-constructivist) | 1 | Constructa — A bold constructivist Astro portfolio theme. Agent-friendly: one cv... |
-| [TheTrueFerret/portfolio-website](https://github.com/TheTrueFerret/portfolio-website) | 2 | Personal Portfolio/Blog, with a Nice Terminal Theme... Everything to do with Pro... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-03 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
-| [Sensinum/astro-strapi-loader](https://github.com/Sensinum/astro-strapi-loader) | 18 | 2026-11-03 | Integration of Astro with Strapi CMS that enables easy data ... |
-| [hardwario/website-ui](https://github.com/hardwario/website-ui) | 0 | 2026-11-03 | Design system for the HARDWARIO websites — brand tokens, Dai... |
-| [tmykkanen/astro-church-integration](https://github.com/tmykkanen/astro-church-integration) | 0 | 2026-11-03 |  |
-| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 6 | 2026-11-03 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-11-03 | Live preview for Payload CMS on server-rendered and static f... |
-| [xocothemes/payday](https://github.com/xocothemes/payday) | 0 | 2026-11-03 | Payday is a free Astro theme for SaaS and product sites.  |
-| [J-Klakus/astro-favicon-kit](https://github.com/J-Klakus/astro-favicon-kit) | 0 | 2026-11-03 | Minimal, canonical favicons for Astro: one square SVG in, th... |
 | [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-11-03 | My personal slice of the web. Built with Astro, wrapped in a... |
-| [mearashadowfax/DomusPicturae](https://github.com/mearashadowfax/DomusPicturae) | 2 | 2026-11-03 | Open-source multilingual Astro + Keystatic website template ... |
-| [agarmu/astro-integrations](https://github.com/agarmu/astro-integrations) | 0 | 2026-11-03 |  |
-| [casoon/pages-theme](https://github.com/casoon/pages-theme) | 0 | 2026-11-03 | Shared Astro theme for the GitHub Pages sites of CASOON open... |
-| [getastrothemes/folex-lite-astro](https://github.com/getastrothemes/folex-lite-astro) | 40 | 2026-11-03 | A fully customizable creative agency business theme built wi... |
-| [getastrothemes/techlo-lite-astro](https://github.com/getastrothemes/techlo-lite-astro) | 6 | 2026-11-03 | Techlo Lite is a free Astro theme for IT firms, software tea... |
-| [getastrothemes/lumio-lite-astro](https://github.com/getastrothemes/lumio-lite-astro) | 11 | 2026-11-03 | Lumio is a modern, high-performance Astro 6 & Tailwind CSS t... |
-| [unixwin/unixwin.dev](https://github.com/unixwin/unixwin.dev) | 0 | 2026-11-03 | UNIXWIN organization portal — unixwin.dev · Astro static sit... |
-| [LeeviKopakkala/astro-cookie-consent](https://github.com/LeeviKopakkala/astro-cookie-consent) | 1 | 2026-11-03 | A tiny, dependency-free, GDPR compliant cookie consent banne... |
-| [lunrenyi/theme-atlas](https://github.com/lunrenyi/theme-atlas) | 1 | 2026-11-03 | Theme Atlas · 色谱档案 — 一个有故事的配色主题库：中国神话、中国瓷器与虚构世界的配色档案，可复制、可导出... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-11-03 | Live preview for Payload CMS on server-rendered and static f... |
+| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 166 | 2026-11-03 | Open-source Astro website template with TailwindCSS, Keystat... |
+| [saltedlolly/astro-atmosphere-comments](https://github.com/saltedlolly/astro-atmosphere-comments) | 0 | 2026-11-03 | Atmosphere Comments for Astro: Bluesky comments, likes, repo... |
+| [vite-pwa/astro](https://github.com/vite-pwa/astro) | 322 | 2026-11-03 | Zero-config PWA Integration for Astro |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-03 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-03 | Astro components for images and video. |
+| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-11-03 | A modern, responsive and lightweight theme for freelancing, ... |
+| [displaycoffee/memoria](https://github.com/displaycoffee/memoria) | 0 | 2026-11-03 | WordPress theme built on Astro. |
+| [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 1 | 2026-11-03 | A season-aware neobrutalist Astro theme for your blog |
 | [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-11-03 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [otnc/astro-adapter-cloudflare-pages](https://github.com/otnc/astro-adapter-cloudflare-pages) | 3 | 2026-11-03 | Astro adapter for deploying on-demand rendered sites to Clou... |
+| [cxro/astro-whono](https://github.com/cxro/astro-whono) | 177 | 2026-11-03 | 一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。 |
+| [OpaceDigitalAgency/astro-visual-editor](https://github.com/OpaceDigitalAgency/astro-visual-editor) | 16 | 2026-11-03 | Astro Visual Editor for front-end text and SEO editing, drag... |
+| [tmykkanen/astro-church-integration](https://github.com/tmykkanen/astro-church-integration) | 0 | 2026-11-03 |  |
+| [0bserver07/rl-study-site](https://github.com/0bserver07/rl-study-site) | 0 | 2026-11-03 | The site for Study-Reinforcement-Learning: lectures, exercis... |
+| [achimismaili/easy-web](https://github.com/achimismaili/easy-web) | 0 | 2026-11-03 | Baseline @easy-web/* package family: shared Astro components... |
+| [ClovertaTheTrilobita/astro-blog-template](https://github.com/ClovertaTheTrilobita/astro-blog-template) | 1 | 2026-11-03 | Blog template based on Astro |
+| [yuzhishuo/blog](https://github.com/yuzhishuo/blog) | 0 | 2026-11-03 | Astro Theme Pure blog source — CI deploys to yuzhishuo.githu... |
+| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-11-03 | A personal blog built with Astro, based on the Fuwari theme ... |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-03 | Astro integration for a landing page, docs and OpenAPI refer... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-03T18:14 | 1 | 999 | 1505 |
 | 2026-11-03T12:17 | 3 | 996 | 1504 |
 | 2026-11-03T06:21 | 0 | 996 | 1501 |
 | 2026-11-03T00:31 | 2 | 995 | 1501 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-02T00:34 | 2 | 990 | 1494 |
 | 2026-11-01T18:13 | 1 | 989 | 1492 |
 | 2026-11-01T12:16 | 3 | 986 | 1491 |
-| 2026-11-01T06:19 | 1 | 989 | 1488 |
 
 ---
 
