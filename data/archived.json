@@ -569,5 +569,30 @@
     "discovered_at": "2026-05-18T10:54:54.926Z",
     "archived_at": "2026-10-27T12:29:11.175Z",
     "archive_reason": "Stale: not seen in search results and last pushed 484 days ago"
+  },
+  "eye-wave/i-am-a-surgeon": {
+    "name": "eye-wave/i-am-a-surgeon",
+    "url": "https://github.com/eye-wave/i-am-a-surgeon",
+    "description": "astro build minifier with zero regard for sanity",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "astro-plugin",
+      "minify",
+      "minify-css",
+      "minify-javascript",
+      "svelte",
+      "terser"
+    ],
+    "language": "TypeScript",
+    "license": "GPL-3.0",
+    "created_at": "2025-06-06T18:21:14Z",
+    "updated_at": "2025-06-09T10:42:55Z",
+    "pushed_at": "2025-06-09T10:42:51Z",
+    "discovered_at": "2026-05-18T09:58:51.162Z",
+    "archived_at": "2026-11-03T00:31:30.487Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 511 days ago"
   }
 }
