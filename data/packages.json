@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-11-04T04:43:16Z",
-    "pushed_at": "2026-11-04T04:43:12Z",
+    "updated_at": "2026-11-05T04:58:21Z",
+    "pushed_at": "2026-11-05T04:58:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-11-04T04:40:44Z",
-    "pushed_at": "2026-11-04T04:40:40Z",
+    "updated_at": "2026-11-05T04:55:35Z",
+    "pushed_at": "2026-11-05T04:55:31Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-11-04T23:24:15Z",
-    "pushed_at": "2026-11-04T23:24:12Z",
+    "pushed_at": "2026-11-05T00:32:27Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -753,7 +753,7 @@
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
     "updated_at": "2026-09-07T11:46:55Z",
-    "pushed_at": "2026-11-02T17:53:52Z",
+    "pushed_at": "2026-11-05T03:13:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -783,7 +783,7 @@
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
     "stars": 53,
-    "forks": 4,
+    "forks": 5,
     "topics": [
       "ai-tools",
       "astro-integration",
@@ -11251,8 +11251,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-06T19:54:53Z",
-    "updated_at": "2026-10-11T02:21:26Z",
-    "pushed_at": "2026-10-22T04:38:17Z",
+    "updated_at": "2026-11-05T05:47:24Z",
+    "pushed_at": "2026-11-05T05:48:46Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wxyim/projectcraft.dev": {
@@ -11391,7 +11391,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-11-04T21:31:55Z",
-    "pushed_at": "2026-11-04T21:32:14Z",
+    "pushed_at": "2026-11-05T03:08:03Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -14020,7 +14020,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-10-02T16:47:20Z",
-    "pushed_at": "2026-11-04T01:52:43Z",
+    "pushed_at": "2026-11-05T01:58:59Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15959,7 +15959,7 @@
     "name": "xocothemes/quietpages",
     "url": "https://github.com/xocothemes/quietpages",
     "description": "QuietPages is a calm Astro theme for independent magazines, personal journals, and long-form editorial sites.",
-    "stars": 38,
+    "stars": 37,
     "forks": 12,
     "topics": [
       "astro",
@@ -15976,7 +15976,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-06-16T18:05:17Z",
-    "updated_at": "2026-10-26T19:55:46Z",
+    "updated_at": "2026-11-05T00:38:25Z",
     "pushed_at": "2026-10-21T07:34:04Z",
     "discovered_at": "2026-07-15T06:56:07.224Z"
   },
@@ -18182,7 +18182,7 @@
     "name": "CnBarrier404/astro-theme-misthaven",
     "url": "https://github.com/CnBarrier404/astro-theme-misthaven",
     "description": "A clean and minimalist Astro blog theme with calm colors, spacious layouts, and a comfortable reading experience. It is designed for sharing, ideas, and everyday life.",
-    "stars": 12,
+    "stars": 13,
     "forks": 3,
     "topics": [
       "astro",
@@ -18193,7 +18193,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-29T11:30:37Z",
-    "updated_at": "2026-11-04T12:45:04Z",
+    "updated_at": "2026-11-05T02:00:04Z",
     "pushed_at": "2026-11-04T12:16:38Z",
     "discovered_at": "2026-08-04T12:48:06.957Z"
   },
@@ -19370,8 +19370,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-15T22:03:49Z",
-    "updated_at": "2026-11-04T02:02:24Z",
-    "pushed_at": "2026-11-04T02:02:20Z",
+    "updated_at": "2026-11-05T02:01:55Z",
+    "pushed_at": "2026-11-05T02:01:51Z",
     "discovered_at": "2026-08-16T00:23:31.991Z"
   },
   "huangmingche/astro-theme-aither": {
@@ -20014,7 +20014,7 @@
     "name": "Yuimi-chaya/Yuimi-chaya.github.io",
     "url": "https://github.com/Yuimi-chaya/Yuimi-chaya.github.io",
     "description": "一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A personal blog repository, with multiple themes, including one dedicated to my favorite character, one general fresh anime-style planner, and a minimalist style.",
-    "stars": 44,
+    "stars": 45,
     "forks": 11,
     "topics": [
       "anime",
@@ -20029,7 +20029,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-05-19T13:00:25Z",
-    "updated_at": "2026-11-03T21:55:41Z",
+    "updated_at": "2026-11-05T02:22:07Z",
     "pushed_at": "2026-10-28T11:11:44Z",
     "discovered_at": "2026-08-21T00:23:10.606Z"
   },
@@ -20417,7 +20417,7 @@
     "license": "MIT",
     "created_at": "2026-08-23T07:12:25Z",
     "updated_at": "2026-10-22T06:58:45Z",
-    "pushed_at": "2026-11-02T05:46:56Z",
+    "pushed_at": "2026-11-05T05:20:22Z",
     "discovered_at": "2026-08-23T12:10:38.282Z"
   },
   "rajivharlalka/rajivharlalka.github.io": {
@@ -20803,7 +20803,7 @@
     "license": "MIT",
     "created_at": "2026-08-23T17:31:58Z",
     "updated_at": "2026-10-23T15:44:23Z",
-    "pushed_at": "2026-10-29T06:14:50Z",
+    "pushed_at": "2026-11-05T06:14:26Z",
     "discovered_at": "2026-08-27T15:53:16.855Z"
   },
   "ecropolis/emdash-theme-supper": {
@@ -21250,8 +21250,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-30T19:00:33Z",
-    "updated_at": "2026-10-28T14:47:34Z",
-    "pushed_at": "2026-10-28T14:47:38Z",
+    "updated_at": "2026-11-05T01:14:37Z",
+    "pushed_at": "2026-11-05T01:15:33Z",
     "discovered_at": "2026-09-02T00:52:35.839Z"
   },
   "icecoldhq/visual-flow-web": {
@@ -22954,7 +22954,7 @@
     "license": "MIT",
     "created_at": "2021-11-30T11:55:49Z",
     "updated_at": "2026-11-02T09:13:12Z",
-    "pushed_at": "2026-11-03T06:19:19Z",
+    "pushed_at": "2026-11-05T06:18:38Z",
     "discovered_at": "2026-09-16T11:20:40.617Z"
   },
   "mdnahianrafi/veltro": {
@@ -23446,8 +23446,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-06T08:07:49Z",
-    "updated_at": "2026-11-04T16:43:45Z",
-    "pushed_at": "2026-11-04T16:43:40Z",
+    "updated_at": "2026-11-05T04:05:15Z",
+    "pushed_at": "2026-11-05T04:05:12Z",
     "discovered_at": "2026-09-22T11:24:08.231Z"
   },
   "ondelva/astro-theme-vitrine": {
@@ -23967,8 +23967,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-28T22:53:43Z",
-    "updated_at": "2026-11-04T23:25:17Z",
-    "pushed_at": "2026-11-04T23:25:14Z",
+    "updated_at": "2026-11-05T01:06:00Z",
+    "pushed_at": "2026-11-05T01:06:57Z",
     "discovered_at": "2026-09-29T00:56:10.763Z"
   },
   "lunarcanvas/personal-website": {
@@ -26800,8 +26800,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
-    "updated_at": "2026-11-04T19:25:38Z",
-    "pushed_at": "2026-11-04T19:25:35Z",
+    "updated_at": "2026-11-05T05:37:44Z",
+    "pushed_at": "2026-11-05T05:37:41Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -27757,7 +27757,7 @@
     "name": "DRAG0NM/astro-theme-interleaf",
     "url": "https://github.com/DRAG0NM/astro-theme-interleaf",
     "description": "A multilingual Astro blog theme for quiet reading, refined typography, and restrained Japanese aesthetics.",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "topics": [
       "astro",
@@ -27778,7 +27778,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-19T11:37:15Z",
-    "updated_at": "2026-10-28T00:46:54Z",
+    "updated_at": "2026-11-05T01:59:24Z",
     "pushed_at": "2026-11-02T01:19:12Z",
     "discovered_at": "2026-10-26T13:53:27.176Z"
   },
@@ -28912,7 +28912,7 @@
     "license": "MIT",
     "created_at": "2026-09-12T09:20:59Z",
     "updated_at": "2026-11-02T12:31:03Z",
-    "pushed_at": "2026-11-03T06:22:47Z",
+    "pushed_at": "2026-11-05T06:20:43Z",
     "discovered_at": "2026-11-02T12:19:17.499Z"
   },
   "davidde/astro-theme": {
@@ -29106,7 +29106,7 @@
     "name": "spcaeo/markstage",
     "url": "https://github.com/spcaeo/markstage",
     "description": "Edit your Markdown on the real stage. A visual editor for Astro Markdown and JSON sites: writers edit on the site's own design, every save is a clean git diff, no database for content. Self-hosted and source-available (Elastic License 2.0).",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -29133,8 +29133,8 @@
     "language": "JavaScript",
     "license": "NOASSERTION",
     "created_at": "2026-11-04T00:01:14Z",
-    "updated_at": "2026-11-04T13:40:59Z",
-    "pushed_at": "2026-11-04T13:40:53Z",
+    "updated_at": "2026-11-05T06:05:45Z",
+    "pushed_at": "2026-11-05T06:05:41Z",
     "discovered_at": "2026-11-04T00:31:00.233Z"
   },
   "themesengine/software-engineer-portfolio-astro-theme": {
@@ -29269,5 +29269,19 @@
     "updated_at": "2026-11-04T23:04:46Z",
     "pushed_at": "2026-10-07T19:57:37Z",
     "discovered_at": "2026-11-05T00:32:59.973Z"
+  },
+  "dreamr-design/farm-csa-astro": {
+    "name": "dreamr-design/farm-csa-astro",
+    "url": "https://github.com/dreamr-design/farm-csa-astro",
+    "description": "A free Astro organic farm theme and template. Bramblecut Farm, a fictional five-person certified organic vegetable farm on 22 acres of Driftless hillside near Viroqua, Wisconsin.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "NOASSERTION",
+    "created_at": "2026-11-05T02:10:23Z",
+    "updated_at": "2026-11-05T02:10:38Z",
+    "pushed_at": "2026-11-05T02:10:34Z",
+    "discovered_at": "2026-11-05T06:21:19.847Z"
   }
 }
