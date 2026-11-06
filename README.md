@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1520
-**Last updated:** 2026-11-05T18:15:13.999Z
+**Last updated:** 2026-11-06T00:32:43.580Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [arraypress/effects-astro](https://github.com/arraypress/effects-astro) | 1 | 2026-11-05 | WebGL, Canvas and CSS effects for Astro sites: shader backgr... |
+| [arnoldwender/wm-project-astro-components](https://github.com/arnoldwender/wm-project-astro-components) | 48 | 2026-11-06 | 150+ production-ready, accessible, GDPR-compliant Astro comp... |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-11-06 | A fast and minimalist personal website and blog powered by A... |
+| [openscript/astro-theme-international](https://github.com/openscript/astro-theme-international) | 43 | 2026-11-06 | An Astro theme demonstrating internationalization. |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-11-05 | Support AsciiDoc pages in Astro |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-05 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-05 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-11-05 | Astro integration that uses existing configuration to write ... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-05 | The i18n integration for Astro 🧑‍🚀 |
 | [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-11-05 | Documentation for Azion's services and features. |
-| [minimaldesign/minimal-gallery](https://github.com/minimaldesign/minimal-gallery) | 9 | 2026-11-05 | A free, open-source photo gallery toolkit for photo enthusia... |
-| [notrab/stripe-astro-loader](https://github.com/notrab/stripe-astro-loader) | 35 | 2026-11-05 | Fetch data from the Stripe API and use it in Astro collectio... |
-| [caret-collective/astro-snapshot](https://github.com/caret-collective/astro-snapshot) | 15 | 2026-11-05 | An Astro integration for generating screenshots of your page... |
-| [vergil-astro/vergil-astro-theme](https://github.com/vergil-astro/vergil-astro-theme) | 0 | 2026-11-05 | Astro theme for blogs, docs and personal sites: 51 Markdown ... |
-| [vergil-astro/vergil-skins](https://github.com/vergil-astro/vergil-skins) | 0 | 2026-11-05 | Skins for the Vergil Astro theme: the official island and br... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-11-05 | An Astro Prometheus nodejs middleware integration for Astro |
-| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-11-05 | Astro starter for academic sites: publications from BibTeX, ... |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-11-05 | A cinematic, multi-atmosphere Astro theme for personal publi... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 6 | 2026-11-05 | Live preview for Payload CMS on server-rendered and static f... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 211 | 2026-11-05 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-05 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
 | [tmykkanen/astro-church-integration](https://github.com/tmykkanen/astro-church-integration) | 0 | 2026-11-05 |  |
-| [pauserratgutierrez/astro-bun](https://github.com/pauserratgutierrez/astro-bun) | 1 | 2026-11-05 | Astro adapter for Bun: on-demand rendering on Bun.serve, wit... |
-| [getastrothemes/techlo-lite-astro](https://github.com/getastrothemes/techlo-lite-astro) | 7 | 2026-11-05 | Techlo Lite is a free Astro theme for IT firms, software tea... |
-| [tfmurad/astro-llms-md](https://github.com/tfmurad/astro-llms-md) | 54 | 2026-11-05 | Astro integration to generate llms.txt, llms-full.txt, and m... |
-| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-11-05 | Framework for creating study companion webpages. |
-| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 21 | 2026-11-05 | A blog and personal site theme for Astro with a terminal loo... |
-| [Sky-Ultra/Firefly](https://github.com/Sky-Ultra/Firefly) | 1 | 2026-11-05 | 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, f... |
-| [spcaeo/markstage](https://github.com/spcaeo/markstage) | 1 | 2026-11-05 | Edit your Markdown on the real stage. A visual editor for As... |
-| [3097998179/astro-theme-elaina](https://github.com/3097998179/astro-theme-elaina) | 1 | 2026-11-05 |  |
-| [LumiThemes/ui-astro](https://github.com/LumiThemes/ui-astro) | 0 | 2026-11-05 | Small UI pieces for Astro sites: countdowns, sliders, drop z... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 22 | 2026-11-05 | Matomo integration for Astro |
+| [jrwnnnn/jrwnnnn-me](https://github.com/jrwnnnn/jrwnnnn-me) | 0 | 2026-11-05 | My personal slice of the web. Built with Astro, wrapped in a... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-05 | Universal Analytics Engines Integration |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-11-05 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-11-05 | The global variable integration for Astro 🌐 |
+| [ykocaman/astro-medium-loader](https://github.com/ykocaman/astro-medium-loader) | 4 | 2026-11-05 | An Astro loader that fetches and parses Medium RSS feeds by ... |
+| [minimaldesign/minimal-gallery](https://github.com/minimaldesign/minimal-gallery) | 9 | 2026-11-05 | A free, open-source photo gallery toolkit for photo enthusia... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-06T00:32 | 0 | 1009 | 1520 |
 | 2026-11-05T18:15 | 1 | 777 | 1520 |
 | 2026-11-05T12:18 | 3 | 1005 | 1519 |
 | 2026-11-05T06:21 | 1 | 1004 | 1516 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-04T06:21 | 1 | 1003 | 1510 |
 | 2026-11-04T00:31 | 4 | 999 | 1509 |
 | 2026-11-03T18:14 | 1 | 999 | 1505 |
-| 2026-11-03T12:17 | 3 | 996 | 1504 |
 
 ---
 
