@@ -161,8 +161,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-11-06T21:33:08Z",
-    "pushed_at": "2026-11-06T21:33:04Z",
+    "updated_at": "2026-11-07T04:30:25Z",
+    "pushed_at": "2026-11-07T04:30:21Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "playform/format": {
@@ -190,8 +190,8 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-11-06T21:56:18Z",
-    "pushed_at": "2026-11-06T21:56:16Z",
+    "updated_at": "2026-11-07T04:27:32Z",
+    "pushed_at": "2026-11-07T04:27:28Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "shishkin/astro-asciidoc": {
@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-11-06T09:36:20Z",
-    "pushed_at": "2026-11-06T21:56:48Z",
+    "pushed_at": "2026-11-07T00:43:17Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -2304,8 +2304,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-28T04:48:36Z",
-    "updated_at": "2026-11-06T05:13:17Z",
-    "pushed_at": "2026-11-06T05:13:12Z",
+    "updated_at": "2026-11-07T02:12:10Z",
+    "pushed_at": "2026-11-07T02:12:06Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-feed-kit": {
@@ -5287,7 +5287,7 @@
     "url": "https://github.com/CloudCannon/jetstream-astro-template",
     "description": "A polished Astro template built on the Component Starter, designed to showcase CloudCannon’s key features and editing capabilities.",
     "stars": 14,
-    "forks": 2,
+    "forks": 3,
     "topics": [
       "astro",
       "astro-template",
@@ -5928,7 +5928,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 390,
+    "stars": 391,
     "forks": 132,
     "topics": [
       "astro-build",
@@ -5948,7 +5948,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-11-04T18:20:46Z",
+    "updated_at": "2026-11-07T05:35:47Z",
     "pushed_at": "2026-06-27T06:45:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -9562,8 +9562,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-28T10:06:24Z",
-    "updated_at": "2026-11-02T02:13:56Z",
-    "pushed_at": "2026-11-06T04:38:16Z",
+    "updated_at": "2026-11-07T05:17:32Z",
+    "pushed_at": "2026-11-07T05:17:27Z",
     "discovered_at": "2026-05-28T13:32:42.597Z"
   },
   "felixicaza/capo": {
@@ -9855,7 +9855,7 @@
     "name": "themefisher/dockit-astro",
     "url": "https://github.com/themefisher/dockit-astro",
     "description": "🚀 Craft stunning, accessible, and lightning-fast documentation with a fresh Starlight design",
-    "stars": 56,
+    "stars": 57,
     "forks": 43,
     "topics": [
       "astro",
@@ -9871,7 +9871,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-10-19T09:24:22Z",
-    "updated_at": "2026-09-27T14:37:12Z",
+    "updated_at": "2026-11-07T05:38:40Z",
     "pushed_at": "2026-06-27T06:50:52Z",
     "discovered_at": "2026-06-03T13:57:17.690Z"
   },
@@ -11112,8 +11112,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-29T13:48:31Z",
-    "updated_at": "2026-10-27T12:51:55Z",
-    "pushed_at": "2026-10-27T12:51:51Z",
+    "updated_at": "2026-11-07T00:53:00Z",
+    "pushed_at": "2026-11-07T00:52:56Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "kajir-009/kajir-009.github.io": {
@@ -11391,7 +11391,7 @@
     "license": "MIT",
     "created_at": "2026-05-25T19:03:24Z",
     "updated_at": "2026-11-05T16:55:30Z",
-    "pushed_at": "2026-11-05T16:56:31Z",
+    "pushed_at": "2026-11-07T05:06:38Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "arsh-pathan/portfolio": {
@@ -12053,7 +12053,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-10-11T17:02:12Z",
-    "pushed_at": "2026-11-06T16:41:26Z",
+    "pushed_at": "2026-11-07T04:32:10Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -14020,7 +14020,7 @@
     "license": "MIT",
     "created_at": "2026-01-25T14:19:29Z",
     "updated_at": "2026-10-02T16:47:20Z",
-    "pushed_at": "2026-11-06T01:59:02Z",
+    "pushed_at": "2026-11-07T01:35:07Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "displaycoffee/memoria-astro": {
@@ -15424,8 +15424,8 @@
     "language": "Astro",
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
-    "updated_at": "2026-11-04T18:01:16Z",
-    "pushed_at": "2026-11-06T12:42:10Z",
+    "updated_at": "2026-11-07T01:07:31Z",
+    "pushed_at": "2026-11-07T01:07:26Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
   "kpab/astro-kepler": {
@@ -16488,7 +16488,7 @@
     "name": "dodolalorc/astro-navfolio",
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
-    "stars": 119,
+    "stars": 118,
     "forks": 25,
     "topics": [
       "astro",
@@ -16497,7 +16497,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-11T11:29:52Z",
-    "updated_at": "2026-11-02T15:48:16Z",
+    "updated_at": "2026-11-07T05:07:43Z",
     "pushed_at": "2026-09-25T10:35:48Z",
     "discovered_at": "2026-07-19T18:25:09.650Z"
   },
@@ -18999,8 +18999,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-11-06T21:15:58Z",
-    "pushed_at": "2026-11-06T21:15:53Z",
+    "updated_at": "2026-11-07T05:49:12Z",
+    "pushed_at": "2026-11-07T05:49:08Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -19370,8 +19370,8 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-08-15T22:03:49Z",
-    "updated_at": "2026-11-06T02:03:12Z",
-    "pushed_at": "2026-11-06T02:03:08Z",
+    "updated_at": "2026-11-07T02:03:00Z",
+    "pushed_at": "2026-11-07T02:02:56Z",
     "discovered_at": "2026-08-16T00:23:31.991Z"
   },
   "huangmingche/astro-theme-aither": {
@@ -23597,8 +23597,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-24T19:47:21Z",
-    "updated_at": "2026-11-06T16:07:20Z",
-    "pushed_at": "2026-11-06T16:07:16Z",
+    "updated_at": "2026-11-07T06:10:27Z",
+    "pushed_at": "2026-11-07T06:10:23Z",
     "discovered_at": "2026-09-25T00:51:06.537Z"
   },
   "qingkong143/astro-theme-clean": {
@@ -23967,8 +23967,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-28T22:53:43Z",
-    "updated_at": "2026-11-06T19:13:02Z",
-    "pushed_at": "2026-11-06T21:29:49Z",
+    "updated_at": "2026-11-07T02:02:48Z",
+    "pushed_at": "2026-11-07T04:58:52Z",
     "discovered_at": "2026-09-29T00:56:10.763Z"
   },
   "lunarcanvas/personal-website": {
@@ -27663,8 +27663,8 @@
     "language": "JavaScript",
     "license": "Apache-2.0",
     "created_at": "2026-10-23T00:48:31Z",
-    "updated_at": "2026-11-03T02:06:02Z",
-    "pushed_at": "2026-11-03T02:05:58Z",
+    "updated_at": "2026-11-07T01:40:21Z",
+    "pushed_at": "2026-11-07T01:40:16Z",
     "discovered_at": "2026-10-25T00:52:29.281Z"
   },
   "llorente14/mipotoforio": {
@@ -28698,7 +28698,7 @@
     "name": "nicomiguelino/astro-seasons",
     "url": "https://github.com/nicomiguelino/astro-seasons",
     "description": "A season-aware neobrutalist Astro theme for your blog",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "astro",
@@ -28707,7 +28707,7 @@
     "language": "Astro",
     "license": "AGPL-3.0",
     "created_at": "2026-11-01T01:59:33Z",
-    "updated_at": "2026-11-06T20:04:46Z",
+    "updated_at": "2026-11-07T02:24:38Z",
     "pushed_at": "2026-11-06T20:04:44Z",
     "discovered_at": "2026-11-01T06:19:34.844Z"
   },
@@ -28796,8 +28796,8 @@
     "language": "Svelte",
     "license": "MIT",
     "created_at": "2024-08-03T16:59:31Z",
-    "updated_at": "2026-11-03T17:41:07Z",
-    "pushed_at": "2026-11-02T04:54:04Z",
+    "updated_at": "2026-11-07T06:16:53Z",
+    "pushed_at": "2026-11-07T06:16:49Z",
     "discovered_at": "2026-11-02T00:34:39.216Z"
   },
   "tmykkanen/astro-church-integration": {
@@ -29051,8 +29051,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-03T17:59:22Z",
-    "updated_at": "2026-11-04T20:47:51Z",
-    "pushed_at": "2026-11-04T20:48:52Z",
+    "updated_at": "2026-11-07T03:16:57Z",
+    "pushed_at": "2026-11-07T03:35:20Z",
     "discovered_at": "2026-11-03T18:14:32.787Z"
   },
   "jantursky/astro-eclipse": {
@@ -29515,7 +29515,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-09-13T06:07:57Z",
     "updated_at": "2026-11-06T22:34:22Z",
-    "pushed_at": "2026-11-06T22:34:18Z",
+    "pushed_at": "2026-11-07T00:30:20Z",
     "discovered_at": "2026-11-07T00:30:29.197Z"
   },
   "wiktorkulas51/forma-astro-template": {
@@ -29554,5 +29554,57 @@
     "updated_at": "2026-11-06T19:56:51Z",
     "pushed_at": "2026-11-06T19:49:18Z",
     "discovered_at": "2026-11-07T00:30:29.197Z"
+  },
+  "web-stacked/caretcms": {
+    "name": "web-stacked/caretcms",
+    "url": "https://github.com/web-stacked/caretcms",
+    "description": "Visual editor for Astro sites. CaretCMS adds click-to-edit text and images and a content Studio to any Astro site, and keeps your content in your own files or storage.",
+    "stars": 8,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "cloudflare",
+      "cms",
+      "content-management",
+      "inline-editing",
+      "static-site",
+      "typescript",
+      "visual-editing"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-02-17T11:12:44Z",
+    "updated_at": "2026-11-07T00:48:37Z",
+    "pushed_at": "2026-11-03T23:28:36Z",
+    "discovered_at": "2026-11-07T06:18:04.577Z"
+  },
+  "xinglan233/xinglan233.github.io": {
+    "name": "Xinglan233/Xinglan233.github.io",
+    "url": "https://github.com/Xinglan233/Xinglan233.github.io",
+    "description": "使用 Astro Theme Pure 构建的个人博客",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "Apache-2.0",
+    "created_at": "2026-11-07T05:13:41Z",
+    "updated_at": "2026-11-07T05:35:09Z",
+    "pushed_at": "2026-11-07T05:35:05Z",
+    "discovered_at": "2026-11-07T06:18:04.578Z"
+  },
+  "markopalski/inkyfingers": {
+    "name": "MarkOpalski/inkyfingers",
+    "url": "https://github.com/MarkOpalski/inkyfingers",
+    "description": "astro paper theme, inky fingers.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-03-09T16:23:35Z",
+    "updated_at": "2026-11-07T05:04:50Z",
+    "pushed_at": "2026-11-07T05:04:46Z",
+    "discovered_at": "2026-11-07T06:18:04.578Z"
   }
 }
