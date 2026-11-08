@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1540
-**Last updated:** 2026-11-08T00:35:05.540Z
+**Last updated:** 2026-11-08T06:18:45.115Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-08 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
-| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-11-08 | A fast and minimalist personal website and blog powered by A... |
-| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-11-07 | Relics & Reckonings (personal blog) and an automated cross-r... |
-| [ashleywolf/ashleywolf.github.io](https://github.com/ashleywolf/ashleywolf.github.io) | 0 | 2026-11-07 | 🐺 ashleywolf.dev — open source terminal-themed blog built w... |
-| [kitschpatrol/astro-feed-kit](https://github.com/kitschpatrol/astro-feed-kit) | 8 | 2026-11-07 | Astro integration for full-content RSS, Atom, and JSON feeds... |
-| [rigel-cms/rigel-starter](https://github.com/rigel-cms/rigel-starter) | 1 | 2026-11-07 | An Astro starter with Rigel CMS. Work in progress, not ready... |
-| [advanced-astro/astro-beam](https://github.com/advanced-astro/astro-beam) | 0 | 2026-11-07 | BeamAnalytics integration for Astro |
-| [honeok/hlog](https://github.com/honeok/hlog) | 0 | 2026-11-07 | 🐇 about me! |
-| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-07 | Showcase site for my Home Assistant custom integrations and ... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-07 | Universal Analytics Engines Integration |
-| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-07 | Astro components for images and video. |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-07 | The i18n integration for Astro 🧑‍🚀 |
-| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 68 | 2026-11-07 | A minimal Astro blog theme |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-07 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [anatolykoptev/astro-landing-kit](https://github.com/anatolykoptev/astro-landing-kit) | 0 | 2026-11-07 | Composable landing-page primitives for Astro — independent l... |
-| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-07 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-07 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [nova1751/astro-butterfly](https://github.com/nova1751/astro-butterfly) | 0 | 2026-11-07 | A Butterfly-style blog theme for Astro — static, fast, acces... |
-| [altner/astro-justified-gallery-layout](https://github.com/altner/astro-justified-gallery-layout) | 0 | 2026-11-07 | Justified (Flickr-style) photo gallery for Astro with EXIF/I... |
-| [kitschpatrol/astro-html-kit](https://github.com/kitschpatrol/astro-html-kit) | 2 | 2026-11-07 | Astro integration and middleware to clean up your HTML. |
+| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 69 | 2026-11-08 | 📈 Astro integration to add Umami Analytics to your website |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-08 | Brand new AstroWind Theme for TLT |
+| [nova1751/astro-butterfly](https://github.com/nova1751/astro-butterfly) | 0 | 2026-11-08 | A Butterfly-style blog theme for Astro — static, fast, acces... |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-11-08 | Astro starter for academic sites: publications from BibTeX, ... |
+| [RPGM-Tools/rpgm-tools-press](https://github.com/RPGM-Tools/rpgm-tools-press) | 0 | 2026-11-08 | Relics & Reckonings (personal blog) and an automated cross-r... |
+| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-11-08 | Loaders for Astro's Content Layer |
+| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-08 | Astro components for images and video. |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 283 | 2026-11-08 | Inline 🦔 |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-08 | Format 🗻 |
+| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-08 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
+| [nicomiguelino/astro-seasons](https://github.com/nicomiguelino/astro-seasons) | 2 | 2026-11-08 | A season-aware neobrutalist Astro theme for your blog |
+| [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 61 | 2026-11-08 | Astro Starter Pro: A free, production-ready Astro starter fo... |
+| [nhedger/astro-downgrade-heading](https://github.com/nhedger/astro-downgrade-heading) | 0 | 2026-11-08 | Downgrade Markdown Headings in Astro |
+| [saltedlolly/astro-atmosphere-publishing](https://github.com/saltedlolly/astro-atmosphere-publishing) | 1 | 2026-11-08 | Publish your Astro site to the Atmosphere with Standard.site... |
+| [Xinglan233/Xinglan233.github.io](https://github.com/Xinglan233/Xinglan233.github.io) | 0 | 2026-11-08 | 使用 Astro Theme Pure 构建的个人博客 |
+| [anatolykoptev/astro-rabbit-kit](https://github.com/anatolykoptev/astro-rabbit-kit) | 0 | 2026-11-08 | Composable Astro component primitives — scoped styles, vanil... |
+| [anatolykoptev/astro-landing-kit](https://github.com/anatolykoptev/astro-landing-kit) | 0 | 2026-11-08 | Composable landing-page primitives for Astro — independent l... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-08 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-11-08 | My astro static blog use theme Firefly. |
+| [saltedlolly/astro-atmosphere-comments](https://github.com/saltedlolly/astro-atmosphere-comments) | 0 | 2026-11-08 | Atmosphere Comments for Astro: Bluesky comments, likes, repo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-08T06:18 | 0 | 1014 | 1540 |
 | 2026-11-08T00:35 | 2 | 1012 | 1540 |
 | 2026-11-07T18:13 | 3 | 1011 | 1538 |
 | 2026-11-07T12:16 | 2 | 1010 | 1535 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-06T12:17 | 1 | 1009 | 1523 |
 | 2026-11-06T06:21 | 2 | 1008 | 1522 |
 | 2026-11-06T00:32 | 0 | 1009 | 1520 |
-| 2026-11-05T18:15 | 1 | 777 | 1520 |
 
 ---
 
