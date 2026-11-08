@@ -243,7 +243,7 @@
     "name": "felix-berlin/astro-breadcrumbs",
     "url": "https://github.com/felix-berlin/astro-breadcrumbs",
     "description": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
-    "stars": 227,
+    "stars": 228,
     "forks": 15,
     "topics": [
       "a11y",
@@ -263,7 +263,7 @@
     "language": "TypeScript",
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
-    "updated_at": "2026-11-06T09:36:20Z",
+    "updated_at": "2026-11-08T07:56:44Z",
     "pushed_at": "2026-11-07T00:43:17Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -1165,7 +1165,7 @@
     "url": "https://github.com/blackspike/blackspike-astro-landing-page",
     "description": "A free, modern, Astro landing page theme made with Tailwind to help kick start your next Astro project",
     "stars": 72,
-    "forks": 47,
+    "forks": 46,
     "topics": [
       "astro",
       "astrojs",
@@ -2411,7 +2411,7 @@
     "url": "https://github.com/dirsigler/astro-securitytxt",
     "description": "An Astro integration that generates RFC 9116 compliant security.txt files during build.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-integration",
@@ -2601,8 +2601,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
-    "updated_at": "2026-11-08T04:01:56Z",
-    "pushed_at": "2026-11-08T06:05:27Z",
+    "updated_at": "2026-11-08T07:01:18Z",
+    "pushed_at": "2026-11-08T07:01:16Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/astro-i18n-aut": {
@@ -2733,8 +2733,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
-    "updated_at": "2026-11-02T21:10:53Z",
-    "pushed_at": "2026-11-02T21:10:49Z",
+    "updated_at": "2026-11-08T12:12:52Z",
+    "pushed_at": "2026-11-08T12:14:23Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jan-nikolov/astro-annotate": {
@@ -5331,8 +5331,8 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 177,
-    "forks": 62,
+    "stars": 176,
+    "forks": 61,
     "topics": [
       "astro",
       "astro-theme",
@@ -5347,7 +5347,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-11-06T05:46:52Z",
+    "updated_at": "2026-11-08T06:50:34Z",
     "pushed_at": "2026-11-06T05:46:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5356,7 +5356,7 @@
     "url": "https://github.com/mearashadowfax/DataNova",
     "description": "Open-source Astro website template with TailwindCSS, Keystatic CMS, and Astro DB support",
     "stars": 166,
-    "forks": 30,
+    "forks": 29,
     "topics": [
       "astro",
       "astro-template",
@@ -5556,7 +5556,7 @@
     "url": "https://github.com/oxygenna-themes/foxi-astro-theme",
     "description": "Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast performance and seamless user experience. Perfect for creating modern, responsive SaaS websites with minimal effort.",
     "stars": 287,
-    "forks": 82,
+    "forks": 81,
     "topics": [
       "astro",
       "astro-blog",
@@ -7797,7 +7797,7 @@
     "name": "oxygenna-themes/mizu-light-astro-theme",
     "url": "https://github.com/oxygenna-themes/mizu-light-astro-theme",
     "description": "Mizu Light is a product launch template designed specifically for modern SaaS products, digital launches, and ambitious startups. ",
-    "stars": 32,
+    "stars": 33,
     "forks": 19,
     "topics": [
       "astro",
@@ -7819,7 +7819,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-23T13:08:32Z",
-    "updated_at": "2026-10-23T10:44:13Z",
+    "updated_at": "2026-11-08T09:25:18Z",
     "pushed_at": "2026-09-17T11:13:30Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -8341,7 +8341,7 @@
     "license": null,
     "created_at": "2019-12-10T00:02:28Z",
     "updated_at": "2026-10-16T13:15:17Z",
-    "pushed_at": "2026-11-01T07:03:50Z",
+    "pushed_at": "2026-11-08T07:11:11Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "hemachander002/airflow-etl-pipeline-with-postgres-and-api-integration-in-astro-cloud-and-aws": {
@@ -11068,7 +11068,7 @@
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
     "updated_at": "2026-11-08T00:12:42Z",
-    "pushed_at": "2026-11-08T00:12:39Z",
+    "pushed_at": "2026-11-08T08:19:31Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -15004,7 +15004,7 @@
     "url": "https://github.com/ElianCodes/brutal",
     "description": "A neobrutalism Astro starter theme",
     "stars": 474,
-    "forks": 71,
+    "forks": 70,
     "topics": [
       "astro",
       "theme",
@@ -16743,8 +16743,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-21T11:16:30Z",
-    "updated_at": "2026-11-05T12:04:13Z",
-    "pushed_at": "2026-10-25T09:36:56Z",
+    "updated_at": "2026-11-08T07:52:00Z",
+    "pushed_at": "2026-11-08T07:59:35Z",
     "discovered_at": "2026-07-21T12:40:21.999Z"
   },
   "jack-liang/resume-jack-liang": {
@@ -21043,8 +21043,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-08-30T02:59:35Z",
-    "updated_at": "2026-11-08T05:12:47Z",
-    "pushed_at": "2026-11-08T05:12:42Z",
+    "updated_at": "2026-11-08T09:41:00Z",
+    "pushed_at": "2026-11-08T09:40:56Z",
     "discovered_at": "2026-08-30T06:29:22.287Z"
   },
   "ahehexx1982/silentxx-components": {
@@ -23597,8 +23597,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-24T19:47:21Z",
-    "updated_at": "2026-11-08T05:52:40Z",
-    "pushed_at": "2026-11-08T05:52:36Z",
+    "updated_at": "2026-11-08T11:50:08Z",
+    "pushed_at": "2026-11-08T11:50:05Z",
     "discovered_at": "2026-09-25T00:51:06.537Z"
   },
   "qingkong143/astro-theme-clean": {
@@ -24996,8 +24996,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-07T06:48:23Z",
-    "updated_at": "2026-11-07T14:31:53Z",
-    "pushed_at": "2026-11-07T14:31:53Z",
+    "updated_at": "2026-11-08T08:00:02Z",
+    "pushed_at": "2026-11-08T08:00:00Z",
     "discovered_at": "2026-10-07T12:31:54.091Z"
   },
   "liamjosephnolan/portfolio-v2": {
@@ -27110,7 +27110,7 @@
     "url": "https://github.com/itsyujay/astro-sassify-template",
     "description": "Focus on your business, simplify your start.",
     "stars": 104,
-    "forks": 44,
+    "forks": 43,
     "topics": [
       "alpinejs",
       "astro",
@@ -28237,7 +28237,7 @@
     "license": "MIT",
     "created_at": "2026-10-04T16:48:12Z",
     "updated_at": "2026-11-08T00:14:29Z",
-    "pushed_at": "2026-11-08T00:14:26Z",
+    "pushed_at": "2026-11-08T12:15:03Z",
     "discovered_at": "2026-10-28T12:21:10.021Z"
   },
   "contentrain/contentrain-starter-astro-landing": {
@@ -28612,8 +28612,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-30T21:50:26Z",
-    "updated_at": "2026-11-07T19:58:17Z",
-    "pushed_at": "2026-11-07T23:05:06Z",
+    "updated_at": "2026-11-08T10:57:54Z",
+    "pushed_at": "2026-11-08T11:00:02Z",
     "discovered_at": "2026-10-31T18:13:19.969Z"
   },
   "martletdesign/astro": {
@@ -29055,8 +29055,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-03T17:59:22Z",
-    "updated_at": "2026-11-08T00:48:59Z",
-    "pushed_at": "2026-11-08T00:51:24Z",
+    "updated_at": "2026-11-08T11:55:12Z",
+    "pushed_at": "2026-11-08T11:55:08Z",
     "discovered_at": "2026-11-03T18:14:32.787Z"
   },
   "jantursky/astro-eclipse": {
@@ -29260,8 +29260,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-26T20:22:11Z",
-    "updated_at": "2026-11-04T23:01:00Z",
-    "pushed_at": "2026-11-04T23:00:56Z",
+    "updated_at": "2026-11-08T11:55:32Z",
+    "pushed_at": "2026-11-08T11:55:28Z",
     "discovered_at": "2026-11-05T00:32:59.970Z"
   },
   "informatics-gu/department-template": {
@@ -29549,14 +29549,14 @@
     "name": "leefanfan1/astro-theme-onpaper",
     "url": "https://github.com/leefanfan1/astro-theme-onpaper",
     "description": "纸上留白 / OnPaper — 中文个人博客的 Astro 主题，",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-06T19:14:55Z",
-    "updated_at": "2026-11-07T11:39:24Z",
-    "pushed_at": "2026-11-07T11:39:20Z",
+    "updated_at": "2026-11-08T10:57:49Z",
+    "pushed_at": "2026-11-08T10:57:45Z",
     "discovered_at": "2026-11-07T00:30:29.197Z"
   },
   "web-stacked/caretcms": {
@@ -29593,8 +29593,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-11-07T05:13:41Z",
-    "updated_at": "2026-11-08T01:54:40Z",
-    "pushed_at": "2026-11-08T01:54:36Z",
+    "updated_at": "2026-11-08T09:24:41Z",
+    "pushed_at": "2026-11-08T09:24:38Z",
     "discovered_at": "2026-11-07T06:18:04.578Z"
   },
   "markopalski/inkyfingers": {
@@ -29675,8 +29675,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-11-07T16:47:18Z",
-    "updated_at": "2026-11-08T05:49:06Z",
-    "pushed_at": "2026-11-08T05:49:02Z",
+    "updated_at": "2026-11-08T11:53:12Z",
+    "pushed_at": "2026-11-08T11:53:08Z",
     "discovered_at": "2026-11-07T18:13:11.847Z"
   },
   "saltedlolly/astro-atmosphere-publishing": {
@@ -29750,5 +29750,25 @@
     "updated_at": "2026-11-07T23:43:28Z",
     "pushed_at": "2026-11-07T23:43:25Z",
     "discovered_at": "2026-11-08T00:35:05.532Z"
+  },
+  "rkxbeta/headless-wordpress-astro-demo": {
+    "name": "rkxbeta/headless-wordpress-astro-demo",
+    "url": "https://github.com/rkxbeta/headless-wordpress-astro-demo",
+    "description": "Decoupled editorial publication built with Astro, Tailwind CSS, and headless WordPress powered by RKX API Studio Free & Pro.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "headless-wordpress",
+      "rest-api",
+      "wordpress"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-07T10:15:48Z",
+    "updated_at": "2026-11-08T12:09:25Z",
+    "pushed_at": "2026-11-08T12:08:23Z",
+    "discovered_at": "2026-11-08T12:16:03.651Z"
   }
 }
