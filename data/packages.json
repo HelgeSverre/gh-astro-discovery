@@ -5793,7 +5793,7 @@
     "name": "GladTek/Cooper",
     "url": "https://github.com/GladTek/Cooper",
     "description": "production-ready Astro 7 boilerplate for blogging, documentation, changelog and portfolio cases, featuring Tailwind CSS 4, React 19, i18n",
-    "stars": 34,
+    "stars": 35,
     "forks": 16,
     "topics": [
       "astro-starter",
@@ -5814,7 +5814,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-12-28T22:58:57Z",
-    "updated_at": "2026-10-31T08:52:19Z",
+    "updated_at": "2026-11-08T13:34:55Z",
     "pushed_at": "2026-10-31T08:52:23Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -10828,7 +10828,7 @@
     "license": "MIT",
     "created_at": "2026-06-28T04:53:58Z",
     "updated_at": "2026-11-03T03:39:41Z",
-    "pushed_at": "2026-11-03T03:39:41Z",
+    "pushed_at": "2026-11-08T13:43:55Z",
     "discovered_at": "2026-07-04T00:55:35.184Z"
   },
   "techdocsstudio/astro-biel": {
@@ -11671,8 +11671,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
-    "updated_at": "2026-11-07T20:28:40Z",
-    "pushed_at": "2026-11-07T12:33:06Z",
+    "updated_at": "2026-11-08T16:56:17Z",
+    "pushed_at": "2026-11-08T16:56:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -12302,8 +12302,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
-    "updated_at": "2026-11-07T14:57:27Z",
-    "pushed_at": "2026-11-07T14:57:23Z",
+    "updated_at": "2026-11-08T15:15:25Z",
+    "pushed_at": "2026-11-08T15:15:21Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -16834,8 +16834,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-05-25T20:56:11Z",
-    "updated_at": "2026-11-05T13:02:12Z",
-    "pushed_at": "2026-11-05T13:02:08Z",
+    "updated_at": "2026-11-08T15:23:04Z",
+    "pushed_at": "2026-11-08T15:23:00Z",
     "discovered_at": "2026-07-22T12:41:39.306Z"
   },
   "yickminglee/astro-notion-theme": {
@@ -19578,8 +19578,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-22T19:15:03Z",
-    "updated_at": "2026-09-08T09:12:00Z",
-    "pushed_at": "2026-09-08T09:09:57Z",
+    "updated_at": "2026-11-08T13:02:35Z",
+    "pushed_at": "2026-11-08T13:02:35Z",
     "discovered_at": "2026-08-19T00:21:51.356Z"
   },
   "arraypress/pagefind-modal-astro": {
@@ -22341,7 +22341,7 @@
     "license": "MIT",
     "created_at": "2024-06-17T17:08:10Z",
     "updated_at": "2026-11-04T21:12:03Z",
-    "pushed_at": "2026-11-02T22:53:47Z",
+    "pushed_at": "2026-11-08T13:33:15Z",
     "discovered_at": "2026-09-10T20:45:55.536Z"
   },
   "everfu/astro-solitude": {
@@ -22762,7 +22762,7 @@
     "license": "MIT",
     "created_at": "2026-02-25T12:59:57Z",
     "updated_at": "2026-11-08T03:56:38Z",
-    "pushed_at": "2026-11-08T03:56:33Z",
+    "pushed_at": "2026-11-08T12:23:49Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "ahsanrahat12/rahat_ahsan_website": {
@@ -22805,8 +22805,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-19T14:32:46Z",
-    "updated_at": "2026-11-07T15:15:24Z",
-    "pushed_at": "2026-11-07T15:15:21Z",
+    "updated_at": "2026-11-08T12:55:25Z",
+    "pushed_at": "2026-11-08T12:55:22Z",
     "discovered_at": "2026-09-14T12:31:05.550Z"
   },
   "icesniperring/astro-pure-blog": {
@@ -23967,8 +23967,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-28T22:53:43Z",
-    "updated_at": "2026-11-08T01:04:29Z",
-    "pushed_at": "2026-11-08T05:32:05Z",
+    "updated_at": "2026-11-08T17:28:57Z",
+    "pushed_at": "2026-11-08T17:29:55Z",
     "discovered_at": "2026-09-29T00:56:10.763Z"
   },
   "lunarcanvas/personal-website": {
@@ -26804,8 +26804,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
-    "updated_at": "2026-11-06T10:29:52Z",
-    "pushed_at": "2026-11-06T10:31:11Z",
+    "updated_at": "2026-11-08T16:59:54Z",
+    "pushed_at": "2026-11-08T17:00:31Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -26973,7 +26973,7 @@
     "license": "MIT",
     "created_at": "2026-10-19T03:49:41Z",
     "updated_at": "2026-11-02T22:10:03Z",
-    "pushed_at": "2026-11-03T16:23:39Z",
+    "pushed_at": "2026-11-08T17:50:32Z",
     "discovered_at": "2026-10-21T00:48:08.085Z"
   },
   "ryangswe/schema-folio": {
@@ -28236,8 +28236,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-10-04T16:48:12Z",
-    "updated_at": "2026-11-08T00:14:29Z",
-    "pushed_at": "2026-11-08T12:15:03Z",
+    "updated_at": "2026-11-08T12:45:17Z",
+    "pushed_at": "2026-11-08T12:45:15Z",
     "discovered_at": "2026-10-28T12:21:10.021Z"
   },
   "contentrain/contentrain-starter-astro-landing": {
@@ -28307,8 +28307,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-10-22T15:00:08Z",
-    "updated_at": "2026-11-02T17:01:49Z",
-    "pushed_at": "2026-11-02T17:01:46Z",
+    "updated_at": "2026-11-08T17:19:50Z",
+    "pushed_at": "2026-11-08T17:19:46Z",
     "discovered_at": "2026-10-28T18:17:41.767Z"
   },
   "orelink/orelink.github.io": {
@@ -28612,8 +28612,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-30T21:50:26Z",
-    "updated_at": "2026-11-08T10:57:54Z",
-    "pushed_at": "2026-11-08T11:00:02Z",
+    "updated_at": "2026-11-08T18:12:44Z",
+    "pushed_at": "2026-11-08T18:12:42Z",
     "discovered_at": "2026-10-31T18:13:19.969Z"
   },
   "martletdesign/astro": {
@@ -28936,21 +28936,27 @@
   "leon-wbr/astro-inertia": {
     "name": "leon-wbr/astro-inertia",
     "url": "https://github.com/leon-wbr/astro-inertia",
-    "description": "Astro as a server-side Inertia v3 client. Highly experimental, work in progress.",
+    "description": "Render any Inertia v3 server's pages with Astro components, on the server. Works with Laravel or any other Inertia backend. Experimental.",
     "stars": 0,
     "forks": 0,
     "topics": [
       "astro",
       "astro-integration",
       "inertia",
+      "inertia-client",
       "inertiajs",
-      "typo3"
+      "laravel",
+      "server-side-rendering",
+      "ssr",
+      "typescript",
+      "typo3",
+      "withastro"
     ],
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-11-02T21:57:35Z",
-    "updated_at": "2026-11-02T22:43:40Z",
-    "pushed_at": "2026-11-02T22:43:35Z",
+    "updated_at": "2026-11-08T14:26:21Z",
+    "pushed_at": "2026-11-08T15:37:19Z",
     "discovered_at": "2026-11-03T00:31:30.486Z"
   },
   "casoon/pages-theme": {
@@ -29055,8 +29061,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-03T17:59:22Z",
-    "updated_at": "2026-11-08T11:55:12Z",
-    "pushed_at": "2026-11-08T11:55:08Z",
+    "updated_at": "2026-11-08T17:25:54Z",
+    "pushed_at": "2026-11-08T17:25:51Z",
     "discovered_at": "2026-11-03T18:14:32.787Z"
   },
   "jantursky/astro-eclipse": {
@@ -29675,8 +29681,8 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "created_at": "2026-11-07T16:47:18Z",
-    "updated_at": "2026-11-08T11:53:12Z",
-    "pushed_at": "2026-11-08T11:53:08Z",
+    "updated_at": "2026-11-08T17:27:58Z",
+    "pushed_at": "2026-11-08T17:27:54Z",
     "discovered_at": "2026-11-07T18:13:11.847Z"
   },
   "saltedlolly/astro-atmosphere-publishing": {
@@ -29714,8 +29720,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-09T09:19:59Z",
-    "updated_at": "2026-11-07T23:17:31Z",
-    "pushed_at": "2026-11-07T23:17:27Z",
+    "updated_at": "2026-11-08T16:05:19Z",
+    "pushed_at": "2026-11-08T16:05:16Z",
     "discovered_at": "2026-11-07T18:13:11.848Z"
   },
   "anatolykoptev/astro-rabbit-kit": {
@@ -29755,7 +29761,7 @@
     "name": "rkxbeta/headless-wordpress-astro-demo",
     "url": "https://github.com/rkxbeta/headless-wordpress-astro-demo",
     "description": "Decoupled editorial publication built with Astro, Tailwind CSS, and headless WordPress powered by RKX API Studio Free & Pro.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "astro",
@@ -29764,11 +29770,25 @@
       "rest-api",
       "wordpress"
     ],
-    "language": "TypeScript",
+    "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-07T10:15:48Z",
-    "updated_at": "2026-11-08T12:09:25Z",
-    "pushed_at": "2026-11-08T12:08:23Z",
+    "updated_at": "2026-11-08T17:48:42Z",
+    "pushed_at": "2026-11-08T12:54:05Z",
     "discovered_at": "2026-11-08T12:16:03.651Z"
+  },
+  "ffrusdev/ffrusdev.github.io": {
+    "name": "ffrusdev/ffrusdev.github.io",
+    "url": "https://github.com/ffrusdev/ffrusdev.github.io",
+    "description": "Dead Channel CRT-themed portfolio (Astro + Three.js)",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-11-08T12:28:36Z",
+    "updated_at": "2026-11-08T16:55:51Z",
+    "pushed_at": "2026-11-08T16:55:47Z",
+    "discovered_at": "2026-11-08T18:13:25.390Z"
   }
 }
