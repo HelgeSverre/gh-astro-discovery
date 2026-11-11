@@ -210,7 +210,7 @@
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
     "updated_at": "2026-10-17T05:33:11Z",
-    "pushed_at": "2026-11-09T22:16:00Z",
+    "pushed_at": "2026-11-10T23:13:36Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -235,8 +235,8 @@
     "language": "MDX",
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
-    "updated_at": "2026-11-09T18:36:53Z",
-    "pushed_at": "2026-11-10T17:48:23Z",
+    "updated_at": "2026-11-10T21:31:03Z",
+    "pushed_at": "2026-11-10T19:39:28Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -753,7 +753,7 @@
     "license": "GPL-3.0",
     "created_at": "2023-02-25T15:13:42Z",
     "updated_at": "2026-11-10T07:42:11Z",
-    "pushed_at": "2026-11-09T22:38:01Z",
+    "pushed_at": "2026-11-10T22:51:05Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "tfmurad/astro-gtm-lite": {
@@ -1774,7 +1774,7 @@
     "license": "MIT",
     "created_at": "2023-08-01T04:47:07Z",
     "updated_at": "2025-08-31T13:25:00Z",
-    "pushed_at": "2026-11-09T22:16:36Z",
+    "pushed_at": "2026-11-10T21:31:37Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "viorelmocanu/xmlrpc-for-astro": {
@@ -1796,8 +1796,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-08-26T15:11:23Z",
-    "updated_at": "2025-09-02T22:30:56Z",
-    "pushed_at": "2026-02-01T02:25:48Z",
+    "updated_at": "2026-11-10T22:09:32Z",
+    "pushed_at": "2026-11-10T21:12:06Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "istarrie/papertheme": {
@@ -2282,8 +2282,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-13T23:25:59Z",
-    "updated_at": "2026-11-10T02:04:11Z",
-    "pushed_at": "2026-11-10T02:04:08Z",
+    "updated_at": "2026-11-10T23:07:33Z",
+    "pushed_at": "2026-11-10T22:49:01Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kitschpatrol/astro-html-kit": {
@@ -3354,7 +3354,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
-    "updated_at": "2026-11-09T18:24:04Z",
+    "updated_at": "2026-11-10T19:58:30Z",
     "pushed_at": "2026-11-09T18:24:10Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4243,7 +4243,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-08-11T21:33:56Z",
-    "pushed_at": "2026-11-09T18:39:42Z",
+    "pushed_at": "2026-11-10T20:45:39Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5374,7 +5374,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-02-12T17:16:15Z",
-    "updated_at": "2026-11-10T17:10:33Z",
+    "updated_at": "2026-11-10T21:00:05Z",
     "pushed_at": "2026-11-10T17:36:44Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5595,7 +5595,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-10-27T06:59:54Z",
-    "pushed_at": "2026-11-09T23:29:18Z",
+    "pushed_at": "2026-11-10T23:36:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5709,8 +5709,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-08-28T05:29:37Z",
-    "updated_at": "2026-11-01T14:39:15Z",
-    "pushed_at": "2026-11-01T04:42:44Z",
+    "updated_at": "2026-11-11T00:30:21Z",
+    "pushed_at": "2026-11-10T23:30:09Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "advanced-astro/rocketbase": {
@@ -5736,7 +5736,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2026-09-25T13:01:57Z",
-    "pushed_at": "2026-11-09T23:25:12Z",
+    "pushed_at": "2026-11-10T23:37:15Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -7563,8 +7563,8 @@
     "name": "unfolding-io/nebulix",
     "url": "https://github.com/unfolding-io/nebulix",
     "description": "Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart",
-    "stars": 319,
-    "forks": 125,
+    "stars": 320,
+    "forks": 124,
     "topics": [
       "astro",
       "astro-template",
@@ -7583,7 +7583,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2023-09-04T09:40:53Z",
-    "updated_at": "2026-11-10T00:23:04Z",
+    "updated_at": "2026-11-10T20:14:35Z",
     "pushed_at": "2026-10-03T16:51:24Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
@@ -11012,7 +11012,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-29T16:48:51Z",
-    "updated_at": "2026-11-03T20:01:36Z",
+    "updated_at": "2026-11-10T21:11:59Z",
     "pushed_at": "2026-11-10T18:12:51Z",
     "discovered_at": "2026-07-09T00:55:22.682Z"
   },
@@ -11068,7 +11068,7 @@
     "license": "MIT",
     "created_at": "2023-05-06T15:10:58Z",
     "updated_at": "2026-11-10T00:11:23Z",
-    "pushed_at": "2026-11-10T00:11:19Z",
+    "pushed_at": "2026-11-11T00:09:22Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "vikas5914/kapadiya.net": {
@@ -11251,8 +11251,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-07-06T19:54:53Z",
-    "updated_at": "2026-11-05T19:55:53Z",
-    "pushed_at": "2026-11-10T18:07:47Z",
+    "updated_at": "2026-11-10T21:32:02Z",
+    "pushed_at": "2026-11-10T19:01:13Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "wxyim/projectcraft.dev": {
@@ -12053,7 +12053,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-10-11T17:02:12Z",
-    "pushed_at": "2026-11-10T13:25:52Z",
+    "pushed_at": "2026-11-10T22:50:03Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -14815,8 +14815,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-01T08:31:39Z",
-    "updated_at": "2026-11-09T17:24:48Z",
-    "pushed_at": "2026-11-09T17:24:43Z",
+    "updated_at": "2026-11-10T23:19:09Z",
+    "pushed_at": "2026-11-10T22:19:05Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "lin037/quiet-archive": {
@@ -18118,8 +18118,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-03T20:06:04Z",
-    "updated_at": "2026-10-27T17:14:33Z",
-    "pushed_at": "2026-10-27T17:14:28Z",
+    "updated_at": "2026-11-10T22:11:29Z",
+    "pushed_at": "2026-11-10T21:59:36Z",
     "discovered_at": "2026-08-04T00:50:26.023Z"
   },
   "snow4a1l/firefly": {
@@ -18999,8 +18999,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
-    "updated_at": "2026-11-09T23:57:45Z",
-    "pushed_at": "2026-11-09T23:57:40Z",
+    "updated_at": "2026-11-10T22:38:53Z",
+    "pushed_at": "2026-11-10T21:38:49Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -21666,8 +21666,8 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-05T16:53:41Z",
-    "updated_at": "2026-11-04T23:34:15Z",
-    "pushed_at": "2026-11-10T02:18:30Z",
+    "updated_at": "2026-11-10T23:24:41Z",
+    "pushed_at": "2026-11-10T22:32:20Z",
     "discovered_at": "2026-09-06T12:24:44.262Z"
   },
   "mxlttr/caracals-web": {
@@ -23597,7 +23597,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-24T19:47:21Z",
-    "updated_at": "2026-11-10T16:22:36Z",
+    "updated_at": "2026-11-10T21:12:33Z",
     "pushed_at": "2026-11-10T17:58:42Z",
     "discovered_at": "2026-09-25T00:51:06.537Z"
   },
@@ -23968,7 +23968,7 @@
     "license": "MIT",
     "created_at": "2026-09-28T22:53:43Z",
     "updated_at": "2026-11-10T14:38:52Z",
-    "pushed_at": "2026-11-10T14:38:48Z",
+    "pushed_at": "2026-11-10T22:41:45Z",
     "discovered_at": "2026-09-29T00:56:10.763Z"
   },
   "lunarcanvas/personal-website": {
@@ -24693,7 +24693,7 @@
     "name": "ewels/starlight-codeblocks",
     "url": "https://github.com/ewels/starlight-codeblocks",
     "description": "A Starlight and Astro plugin that adds focus, line states, annotations, API auto-linking and more features to code blocks, on top of Expressive Code.",
-    "stars": 8,
+    "stars": 9,
     "forks": 1,
     "topics": [
       "astro",
@@ -24720,7 +24720,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-09-25T11:42:45Z",
-    "updated_at": "2026-11-04T02:12:42Z",
+    "updated_at": "2026-11-10T21:59:34Z",
     "pushed_at": "2026-11-09T23:03:16Z",
     "discovered_at": "2026-10-05T12:32:44.350Z"
   },
@@ -24862,7 +24862,7 @@
     "license": null,
     "created_at": "2026-05-30T22:14:26Z",
     "updated_at": "2026-10-06T13:40:03Z",
-    "pushed_at": "2026-11-10T15:10:19Z",
+    "pushed_at": "2026-11-10T19:35:38Z",
     "discovered_at": "2026-10-06T18:24:38.593Z"
   },
   "arraypress/icon-subset": {
@@ -26515,7 +26515,7 @@
     "license": "MIT",
     "created_at": "2026-10-17T21:23:36Z",
     "updated_at": "2026-11-02T23:33:24Z",
-    "pushed_at": "2026-11-07T10:43:42Z",
+    "pushed_at": "2026-11-11T00:28:19Z",
     "discovered_at": "2026-10-18T00:53:05.598Z"
   },
   "hilava999/janus": {
@@ -26804,7 +26804,7 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
-    "updated_at": "2026-11-10T09:15:38Z",
+    "updated_at": "2026-11-10T21:22:12Z",
     "pushed_at": "2026-11-10T17:50:35Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
@@ -26972,8 +26972,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-19T03:49:41Z",
-    "updated_at": "2026-11-10T00:14:32Z",
-    "pushed_at": "2026-11-10T00:14:36Z",
+    "updated_at": "2026-11-10T23:37:19Z",
+    "pushed_at": "2026-11-10T22:37:22Z",
     "discovered_at": "2026-10-21T00:48:08.085Z"
   },
   "ryangswe/schema-folio": {
@@ -27212,8 +27212,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-16T09:48:59Z",
-    "updated_at": "2026-11-05T07:35:07Z",
-    "pushed_at": "2026-11-06T05:48:05Z",
+    "updated_at": "2026-11-10T22:13:57Z",
+    "pushed_at": "2026-11-10T21:19:37Z",
     "discovered_at": "2026-10-22T00:48:03.116Z"
   },
   "aiduet/lone": {
@@ -28612,8 +28612,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-30T21:50:26Z",
-    "updated_at": "2026-11-10T10:28:33Z",
-    "pushed_at": "2026-11-10T17:26:09Z",
+    "updated_at": "2026-11-11T00:18:29Z",
+    "pushed_at": "2026-11-10T23:18:27Z",
     "discovered_at": "2026-10-31T18:13:19.969Z"
   },
   "martletdesign/astro": {
@@ -29243,7 +29243,7 @@
     "license": "MIT",
     "created_at": "2026-11-04T00:32:32Z",
     "updated_at": "2026-11-08T23:25:06Z",
-    "pushed_at": "2026-11-04T20:44:50Z",
+    "pushed_at": "2026-11-11T00:10:38Z",
     "discovered_at": "2026-11-05T00:32:59.970Z"
   },
   "saikomantisu/sednacms": {
@@ -29585,8 +29585,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-17T11:12:44Z",
-    "updated_at": "2026-11-07T00:48:37Z",
-    "pushed_at": "2026-11-03T23:28:36Z",
+    "updated_at": "2026-11-10T22:09:43Z",
+    "pushed_at": "2026-11-10T20:47:15Z",
     "discovered_at": "2026-11-07T06:18:04.577Z"
   },
   "xinglan233/xinglan233.github.io": {
@@ -30049,8 +30049,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-08T03:27:30Z",
-    "updated_at": "2026-11-10T05:21:52Z",
-    "pushed_at": "2026-11-10T05:21:47Z",
+    "updated_at": "2026-11-10T21:50:19Z",
+    "pushed_at": "2026-11-10T20:40:39Z",
     "discovered_at": "2026-11-10T06:20:29.602Z"
   },
   "inkstudioagency/arcline-astro-theme": {
@@ -30095,7 +30095,7 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-11-07T08:34:42Z",
-    "updated_at": "2026-11-10T17:07:42Z",
+    "updated_at": "2026-11-10T21:13:38Z",
     "pushed_at": "2026-11-10T17:30:17Z",
     "discovered_at": "2026-11-10T18:13:34.506Z"
   },
@@ -30191,7 +30191,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-11-10T16:58:10Z",
-    "updated_at": "2026-11-10T16:58:25Z",
+    "updated_at": "2026-11-10T21:26:48Z",
     "pushed_at": "2026-11-10T18:04:58Z",
     "discovered_at": "2026-11-10T18:13:34.507Z"
   },
