@@ -2,13 +2,17 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1566
-**Last updated:** 2026-11-11T06:20:53.606Z
+**Total packages tracked:** 1570
+**Last updated:** 2026-11-11T12:17:55.935Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fengyiqicoder/starlight-share-highlight](https://github.com/fengyiqicoder/starlight-share-highlight) | 0 | Select text in Starlight docs to copy a link that jumps to and highlights exactl... |
+| [fengyiqicoder/starlight-glossary](https://github.com/fengyiqicoder/starlight-glossary) | 0 | Glossary for Starlight docs: terms from one list get a tooltip with their defini... |
+| [fengyiqicoder/starlight-page-feedback](https://github.com/fengyiqicoder/starlight-page-feedback) | 0 | Was this page helpful? for Starlight docs: votes go to your existing analytics o... |
+| [fengyiqicoder/starlight-reading-time](https://github.com/fengyiqicoder/starlight-reading-time) | 0 | Reading time, last-updated date and an outdated-page note for Starlight docs. Ha... |
 | [fengyiqicoder/starlight-onetag-selection](https://github.com/fengyiqicoder/starlight-onetag-selection) | 0 | Select any text in Starlight docs and ask AI about it: an Ask AI button next to ... |
 | [fengyiqicoder/starlight-onetag-search](https://github.com/fengyiqicoder/starlight-onetag-search) | 0 | AI answers inside Starlight search: ask a question in the search box, get an ans... |
 | [fengyiqicoder/starlight-onetag-summary](https://github.com/fengyiqicoder/starlight-onetag-summary) | 0 | A one-click AI summary at the top of every Starlight docs page: the key points i... |
@@ -23,12 +27,8 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [liomix/Astro-Theme-Liomix](https://github.com/liomix/Astro-Theme-Liomix) | 0 | 基于 Firefly 二次开发的 Astro 博客主题 |
 | [Inkstudioagency/Arcline-Astro-Theme](https://github.com/Inkstudioagency/Arcline-Astro-Theme) | 0 |  |
 | [fengyiqicoder/astro-ai-landing](https://github.com/fengyiqicoder/astro-ai-landing) | 0 | Astro AI Landing Page: free Astro + Tailwind landing page template with AI. A fi... |
-| [fengyiqicoder/astro-ai-docs](https://github.com/fengyiqicoder/astro-ai-docs) | 0 | Astro AI Docs: free Astro docs template (Starlight) with an Ask AI dialog that a... |
+| [fengyiqicoder/astro-ai-docs](https://github.com/fengyiqicoder/astro-ai-docs) | 1 | Astro AI Docs: free Astro docs template (Starlight) with an Ask AI dialog that a... |
 | [fengyiqicoder/astro-ai-starter](https://github.com/fengyiqicoder/astro-ai-starter) | 0 | Starter and Boilerplate for Astro 7, Tailwind CSS 4 and TypeScript, with AI buil... |
-| [zevonlin/clarislet](https://github.com/zevonlin/clarislet) | 0 | A personal blog template built with Astro, with Markdown posts, short notes, and... |
-| [michael-borck/loco-theme](https://github.com/michael-borck/loco-theme) | 0 | Shared Starlight theme and design tokens for LocoLabo sites: navigation, project... |
-| [shan-qayyum/astro-llms-txt](https://github.com/shan-qayyum/astro-llms-txt) | 0 | Astro integration that generates /llms.txt and /llms-full.txt from your built pa... |
-| [sseaan/Homepage](https://github.com/sseaan/Homepage) | 0 | A personal Astro Theme, which use Handwrite and Neo-Brutalism style. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [henkisdabro/henriksoderlund-website-v2](https://github.com/henkisdabro/henriksoderlund-website-v2) | 0 | 2026-11-11 | Professional portfolio website built with Astro 6 and TypeSc... |
-| [fengyiqicoder/astro-ai-starter](https://github.com/fengyiqicoder/astro-ai-starter) | 0 | 2026-11-11 | Starter and Boilerplate for Astro 7, Tailwind CSS 4 and Type... |
-| [fengyiqicoder/onetagai](https://github.com/fengyiqicoder/onetagai) | 1 | 2026-11-11 | Add AI to any static site with one script tag. Browser SDK a... |
-| [fengyiqicoder/astro-ai-docs](https://github.com/fengyiqicoder/astro-ai-docs) | 0 | 2026-11-11 | Astro AI Docs: free Astro docs template (Starlight) with an ... |
-| [langehelp-software/bearminion](https://github.com/langehelp-software/bearminion) | 0 | 2026-11-11 | The BearMinion for the bare minimum. A git-based CMS for Ast... |
-| [fengyiqicoder/starlight-onetag-selection](https://github.com/fengyiqicoder/starlight-onetag-selection) | 0 | 2026-11-11 | Select any text in Starlight docs and ask AI about it: an As... |
-| [fengyiqicoder/starlight-onetag-search](https://github.com/fengyiqicoder/starlight-onetag-search) | 0 | 2026-11-11 | AI answers inside Starlight search: ask a question in the se... |
-| [fengyiqicoder/starlight-onetag-summary](https://github.com/fengyiqicoder/starlight-onetag-summary) | 0 | 2026-11-11 | A one-click AI summary at the top of every Starlight docs pa... |
-| [fengyiqicoder/starlight-onetag-explain](https://github.com/fengyiqicoder/starlight-onetag-explain) | 0 | 2026-11-11 | An Explain button under every code block in Starlight docs: ... |
-| [fengyiqicoder/starlight-onetag-translate](https://github.com/fengyiqicoder/starlight-onetag-translate) | 0 | 2026-11-11 | Translate any Starlight docs page for the reader in one clic... |
-| [fengyiqicoder/starlight-onetag](https://github.com/fengyiqicoder/starlight-onetag) | 0 | 2026-11-11 | Ask AI for Starlight docs: answers from your own pages using... |
-| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-11 | Brand new AstroWind Theme for TLT |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-11 | Universal Analytics Engines Integration |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-11-11 | A cinematic, multi-atmosphere Astro theme for personal publi... |
+| [LuvGaze/Blog](https://github.com/LuvGaze/Blog) | 1 | 2026-11-11 | ✨ Astro 个人博客 | 暗/亮双主题、双层侧栏(天气·恋爱计时器·音乐·日历·最近更新)、3D 书架、账单仪表盘、... |
+| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 4 | 2026-11-11 | The Astro wiki you can write in — paper-and-ink typography f... |
+| [Androlax2/pageturn](https://github.com/Androlax2/pageturn) | 1 | 2026-11-11 | Page transitions between real page loads, in every browser: ... |
 | [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-11 | The i18n integration for Astro 🧑‍🚀 |
-| [shuyuncong/blog](https://github.com/shuyuncong/blog) | 0 | 2026-11-11 | A simple Astro theme. Use it to create your blog or website. |
-| [MikeYan01/mikeyan01.github.io](https://github.com/MikeYan01/mikeyan01.github.io) | 0 | 2026-11-11 | My blog powered by Astro & Firefly Theme. |
-| [VisruthSK/website-theme](https://github.com/VisruthSK/website-theme) | 0 | 2026-11-11 | An Astro 7 theme for long-form writing, built on astro-erudi... |
-| [kpab/astro-keel](https://github.com/kpab/astro-keel) | 25 | 2026-11-11 | Astro Keel — a minimal, neutral, and modern portfolio and bl... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 283 | 2026-11-11 | Inline 🦔 |
+| [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 69 | 2026-11-11 | 📈 Astro integration to add Umami Analytics to your website |
+| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-11-11 | Astro integration for the Carve markup language |
+| [fengyiqicoder/onetagai](https://github.com/fengyiqicoder/onetagai) | 1 | 2026-11-11 | Add AI to any static site with one script tag. Browser SDK a... |
+| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-11-11 | The global variable integration for Astro 🌐 |
+| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-11-11 | A cinematic, multi-atmosphere Astro theme for personal publi... |
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-11 | Showcase site for my Home Assistant custom integrations and ... |
+| [jonasgeiler/astro-show-tailwindcss-breakpoint](https://github.com/jonasgeiler/astro-show-tailwindcss-breakpoint) | 9 | 2026-11-11 | 🔌 Show the current Tailwind CSS breakpoint in the Astro dev... |
+| [casoon/astro-structured-data](https://github.com/casoon/astro-structured-data) | 2 | 2026-11-11 | Astro integration for automatic JSON-LD structured data gene... |
+| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-11-11 | Track Core Web Vitals & accessibility issues in your Astro s... |
+| [casoon/astro-speed-measure](https://github.com/casoon/astro-speed-measure) | 3 | 2026-11-11 | Measure Astro build performance with integration and Vite ti... |
+| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 230 | 2026-11-11 | Well configurable breadcrumb component for Astro.js. Create ... |
+| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 6 | 2026-11-11 | Astro integration that generates robots.txt, llms.txt, sitem... |
+| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-11 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
+| [ffrusdev/ffrusdev.github.io](https://github.com/ffrusdev/ffrusdev.github.io) | 0 | 2026-11-11 | Dead Channel CRT-themed portfolio (Astro + Three.js) |
+| [spcaeo/markstage](https://github.com/spcaeo/markstage) | 3 | 2026-11-11 | Edit your Markdown on the real stage. A visual editor for As... |
+| [casoon/pages-theme](https://github.com/casoon/pages-theme) | 0 | 2026-11-11 | Shared Astro theme for the GitHub Pages sites of CASOON open... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-11T12:17 | 4 | 1032 | 1570 |
 | 2026-11-11T06:20 | 5 | 1027 | 1566 |
 | 2026-11-11T00:32 | 0 | 1027 | 1561 |
 | 2026-11-10T18:13 | 6 | 1021 | 1561 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-09T12:19 | 6 | 1018 | 1553 |
 | 2026-11-09T06:28 | 1 | 1017 | 1547 |
 | 2026-11-09T00:34 | 4 | 1014 | 1546 |
-| 2026-11-08T18:13 | 1 | 1014 | 1542 |
 
 ---
 
