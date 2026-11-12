@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1571
-**Last updated:** 2026-11-11T18:13:13.021Z
+**Total packages tracked:** 1572
+**Last updated:** 2026-11-12T00:33:15.780Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [zz-plant/astro-git-revisions](https://github.com/zz-plant/astro-git-revisions) | 0 | Per-page revision dates from the commit log for Astro sites |
 | [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | A Spencer Family Original Series. A countdown to the next Hipster Holiday party ... |
 | [fengyiqicoder/starlight-share-highlight](https://github.com/fengyiqicoder/starlight-share-highlight) | 0 | Select text in Starlight docs to copy a link that jumps to and highlights exactl... |
 | [fengyiqicoder/starlight-glossary](https://github.com/fengyiqicoder/starlight-glossary) | 0 | Glossary for Starlight docs: terms from one list get a tooltip with their defini... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [liomix/Astro-Theme-Liomix](https://github.com/liomix/Astro-Theme-Liomix) | 0 | 基于 Firefly 二次开发的 Astro 博客主题 |
 | [Inkstudioagency/Arcline-Astro-Theme](https://github.com/Inkstudioagency/Arcline-Astro-Theme) | 0 |  |
 | [fengyiqicoder/astro-ai-landing](https://github.com/fengyiqicoder/astro-ai-landing) | 0 | Astro AI Landing Page: free Astro + Tailwind landing page template with AI. A fi... |
-| [fengyiqicoder/astro-ai-docs](https://github.com/fengyiqicoder/astro-ai-docs) | 1 | Astro AI Docs: free Astro docs template (Starlight) with an Ask AI dialog that a... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -52,33 +52,33 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) | 275 | Official Astro theme portfolio template built with React, TypeScript & Tailwind ... |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 235 | A flexible Astro blog theme designed for Obsidian users. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 230 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
-| [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 230 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
+| [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 229 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 224 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-11-11 | Track Core Web Vitals & accessibility issues in your Astro s... |
-| [anglefeint/astro-theme-anglefeint](https://github.com/anglefeint/astro-theme-anglefeint) | 1 | 2026-11-11 | A cinematic, multi-atmosphere Astro theme for personal publi... |
-| [casoon/astro-speed-measure](https://github.com/casoon/astro-speed-measure) | 3 | 2026-11-11 | Measure Astro build performance with integration and Vite ti... |
-| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 6 | 2026-11-11 | Astro integration that generates robots.txt, llms.txt, sitem... |
-| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-11 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-11-11 | Documentation for Azion's services and features. |
-| [ceaksan/consent-kit](https://github.com/ceaksan/consent-kit) | 1 | 2026-11-11 | Google Consent Mode v2 for Astro sites: consent defaults bef... |
-| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-11-11 | Support AsciiDoc pages in Astro |
-| [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 230 | 2026-11-11 | Well configurable breadcrumb component for Astro.js. Create ... |
-| [liomix/Astro-Theme-Liomix](https://github.com/liomix/Astro-Theme-Liomix) | 0 | 2026-11-11 | 基于 Firefly 二次开发的 Astro 博客主题 |
-| [casoon/pages-theme](https://github.com/casoon/pages-theme) | 0 | 2026-11-11 | Shared Astro theme for the GitHub Pages sites of CASOON open... |
-| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-11 | Showcase site for my Home Assistant custom integrations and ... |
+| [liomix/Astro-Theme-Liomix](https://github.com/liomix/Astro-Theme-Liomix) | 0 | 2026-11-12 | 基于 Firefly 二次开发的 Astro 博客主题 |
+| [pauserratgutierrez/astro-bun](https://github.com/pauserratgutierrez/astro-bun) | 1 | 2026-11-12 | Astro adapter for Bun: on-demand rendering on Bun.serve, wit... |
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-12 | Showcase site for my Home Assistant custom integrations and ... |
+| [Wiktorkulas51/template-t001-nova](https://github.com/Wiktorkulas51/template-t001-nova) | 3 | 2026-11-12 |  |
+| [Wiktorkulas51/forma-astro-template](https://github.com/Wiktorkulas51/forma-astro-template) | 1 | 2026-11-12 | Free bilingual Astro template for construction and renovatio... |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-11-12 | A fast and minimalist personal website and blog powered by A... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-11-12 | Documentation for Azion's services and features. |
+| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-12 | Astro components for images and video. |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-11 | Landing page for Sisques Labs, a digital product studio. Bui... |
 | [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-11-11 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-11-11 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [mearashadowfax/DataNova](https://github.com/mearashadowfax/DataNova) | 167 | 2026-11-11 | Open-source Astro website template with TailwindCSS, Keystat... |
-| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-11-11 | Port of Split template by One Page Love to Astro 👨‍🚀 |
-| [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | 2026-11-11 | A Spencer Family Original Series. A countdown to the next Hi... |
 | [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-11-11 | 🚀 This Astro template offers more than 'Just the Basics', p... |
-| [LuvGaze/Blog](https://github.com/LuvGaze/Blog) | 1 | 2026-11-11 | ✨ Astro 个人博客 | 暗/亮双主题、双层侧栏(天气·恋爱计时器·音乐·日历·最近更新)、3D 书架、账单仪表盘、... |
-| [nova1751/astro-butterfly](https://github.com/nova1751/astro-butterfly) | 0 | 2026-11-11 | A Butterfly-style blog theme for Astro — static, fast, acces... |
+| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-11-11 | Port of Split template by One Page Love to Astro 👨‍🚀 |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-11-11 | An Astro Prometheus nodejs middleware integration for Astro |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-11-11 | Astro starter for academic sites: publications from BibTeX, ... |
+| [meistro57/BookForge](https://github.com/meistro57/BookForge) | 2 | 2026-11-11 | BookForge turns Markdown chapters into a polished, distracti... |
+| [mcp-tool-shop-org/site-theme](https://github.com/mcp-tool-shop-org/site-theme) | 2 | 2026-11-11 | Multi-template Astro toolkit for landing pages, docs, produc... |
+| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 23 | 2026-11-11 | Matomo integration for Astro |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-11 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [anatolykoptev/astro-landing-kit](https://github.com/anatolykoptev/astro-landing-kit) | 0 | 2026-11-11 | Composable landing-page primitives for Astro — independent l... |
+| [dotgibson/dotfiles-web](https://github.com/dotgibson/dotfiles-web) | 0 | 2026-11-11 | 🌐 The public showcase & docs for a cross-platform dotfiles ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-12T00:33 | 1 | 1035 | 1572 |
 | 2026-11-11T18:13 | 1 | 1035 | 1571 |
 | 2026-11-11T12:17 | 4 | 1032 | 1570 |
 | 2026-11-11T06:20 | 5 | 1027 | 1566 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-10T06:20 | 2 | 1022 | 1555 |
 | 2026-11-10T00:30 | 0 | 1024 | 1553 |
 | 2026-11-09T12:19 | 6 | 1018 | 1553 |
-| 2026-11-09T06:28 | 1 | 1017 | 1547 |
 
 ---
 
