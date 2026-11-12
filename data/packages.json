@@ -161,7 +161,7 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2022-04-20T05:59:04Z",
-    "updated_at": "2026-11-11T05:34:52Z",
+    "updated_at": "2026-11-12T06:39:22Z",
     "pushed_at": "2026-11-12T05:39:16Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -190,7 +190,7 @@
     "language": "TypeScript",
     "license": "CC0-1.0",
     "created_at": "2023-10-13T12:09:23Z",
-    "updated_at": "2026-11-11T05:30:30Z",
+    "updated_at": "2026-11-12T06:35:49Z",
     "pushed_at": "2026-11-12T05:35:45Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -284,8 +284,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-07-28T09:21:42Z",
-    "updated_at": "2026-09-15T13:30:02Z",
-    "pushed_at": "2026-09-15T13:29:59Z",
+    "updated_at": "2026-11-12T09:18:56Z",
+    "pushed_at": "2026-11-12T08:30:45Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "lekoarts/astro-loaders": {
@@ -2564,8 +2564,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
-    "updated_at": "2026-11-04T05:38:46Z",
-    "pushed_at": "2026-11-12T06:08:02Z",
+    "updated_at": "2026-11-12T11:32:31Z",
+    "pushed_at": "2026-11-12T11:32:56Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2602,7 +2602,7 @@
     "license": "MIT",
     "created_at": "2024-10-02T03:36:36Z",
     "updated_at": "2026-11-11T12:51:55Z",
-    "pushed_at": "2026-11-11T12:00:58Z",
+    "pushed_at": "2026-11-12T11:46:49Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jlarmstrongiv/astro-i18n-aut": {
@@ -2627,8 +2627,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
-    "updated_at": "2026-11-11T13:05:42Z",
-    "pushed_at": "2026-11-12T00:45:27Z",
+    "updated_at": "2026-11-12T07:22:02Z",
+    "pushed_at": "2026-11-12T06:21:59Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -4243,7 +4243,7 @@
     "license": "MIT",
     "created_at": "2023-11-08T22:37:03Z",
     "updated_at": "2026-08-11T21:33:56Z",
-    "pushed_at": "2026-11-11T21:09:40Z",
+    "pushed_at": "2026-11-12T08:59:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "theelegantcoding/astro-lang-i18n": {
@@ -5595,7 +5595,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-11-12T00:16:20Z",
-    "pushed_at": "2026-11-11T23:17:06Z",
+    "pushed_at": "2026-11-12T07:34:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5736,7 +5736,7 @@
     "license": null,
     "created_at": "2023-08-12T22:06:38Z",
     "updated_at": "2026-09-25T13:01:57Z",
-    "pushed_at": "2026-11-11T23:33:39Z",
+    "pushed_at": "2026-11-12T07:39:02Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "crrashh1542/astro-theme-rudeus": {
@@ -6180,8 +6180,8 @@
     "language": "JavaScript",
     "license": "MIT",
     "created_at": "2026-02-16T20:16:49Z",
-    "updated_at": "2026-11-11T21:39:35Z",
-    "pushed_at": "2026-11-11T21:09:45Z",
+    "updated_at": "2026-11-12T11:30:35Z",
+    "pushed_at": "2026-11-12T10:38:48Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "0xdres/astro-devosfera": {
@@ -6737,7 +6737,7 @@
     "url": "https://github.com/erlandv/virex",
     "description": "A sleek, ready-to-go Astro theme to help you launch your SaaS product without the layout headache.",
     "stars": 53,
-    "forks": 14,
+    "forks": 15,
     "topics": [
       "astro",
       "astro-template",
@@ -11030,8 +11030,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-06-23T08:52:41Z",
-    "updated_at": "2026-11-11T12:49:03Z",
-    "pushed_at": "2026-11-11T11:58:43Z",
+    "updated_at": "2026-11-12T11:35:22Z",
+    "pushed_at": "2026-11-12T10:35:19Z",
     "discovered_at": "2026-07-09T13:16:41.894Z"
   },
   "lchauvin/astrointegration": {
@@ -12053,7 +12053,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-10-11T17:02:12Z",
-    "pushed_at": "2026-11-12T03:56:53Z",
+    "pushed_at": "2026-11-12T09:03:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -13992,7 +13992,7 @@
     "license": "MIT",
     "created_at": "2025-08-31T13:41:02Z",
     "updated_at": "2026-10-30T14:08:11Z",
-    "pushed_at": "2026-10-30T14:08:06Z",
+    "pushed_at": "2026-11-12T11:43:17Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "tekcify/getskillmd-template-astro": {
@@ -15424,8 +15424,8 @@
     "language": "Astro",
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
-    "updated_at": "2026-11-12T01:56:54Z",
-    "pushed_at": "2026-11-12T01:15:41Z",
+    "updated_at": "2026-11-12T09:43:49Z",
+    "pushed_at": "2026-11-12T08:43:44Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
   "kpab/astro-kepler": {
@@ -16488,7 +16488,7 @@
     "name": "dodolalorc/astro-navfolio",
     "url": "https://github.com/dodolalorc/astro-navfolio",
     "description": "🌿 基于 Astro 的静谧个人发布主题，融合主页、博客、作品集的数字花园。✨🌿 A serene Astro theme for personal publishing—bringing your homepage, blog, portfolio, and digital garden together. ✨",
-    "stars": 118,
+    "stars": 119,
     "forks": 25,
     "topics": [
       "astro",
@@ -16497,7 +16497,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-05-11T11:29:52Z",
-    "updated_at": "2026-11-09T07:05:03Z",
+    "updated_at": "2026-11-12T07:29:41Z",
     "pushed_at": "2026-11-09T07:04:56Z",
     "discovered_at": "2026-07-19T18:25:09.650Z"
   },
@@ -16636,8 +16636,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-06-17T09:14:04Z",
-    "updated_at": "2026-07-20T13:25:15Z",
-    "pushed_at": "2026-09-11T18:28:35Z",
+    "updated_at": "2026-11-12T08:53:13Z",
+    "pushed_at": "2026-11-12T07:53:09Z",
     "discovered_at": "2026-07-20T07:18:45.129Z"
   },
   "dantehemerson/astro-bolt": {
@@ -17520,7 +17520,7 @@
     "url": "https://github.com/Astro-Craft-Theme/8-BitQuest",
     "description": " A retro pixel-art developer portfolio theme for Astro, the web framework. 20 pages, 39 UI primitives, a contact form that works with JavaScript disabled, and an SEO, motion and icon layer written in-house rather than installed. Astro 7, Tailwind v4, TypeScript strict, ten runtime dependencies.",
     "stars": 17,
-    "forks": 17,
+    "forks": 16,
     "topics": [
       "astro",
       "astro-template",
@@ -19989,7 +19989,7 @@
     "name": "Liyuk/astro-fourfold",
     "url": "https://github.com/Liyuk/astro-fourfold",
     "description": "A static-first personal publication theme for Astro: writing, columns, tags, projects, research, photo essays, search, favorites, RSS, and GitHub Pages support.",
-    "stars": 10,
+    "stars": 11,
     "forks": 3,
     "topics": [
       "astro",
@@ -20006,7 +20006,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-20T22:06:24Z",
-    "updated_at": "2026-11-06T00:11:55Z",
+    "updated_at": "2026-11-12T07:37:03Z",
     "pushed_at": "2026-10-23T19:45:32Z",
     "discovered_at": "2026-08-21T00:23:10.605Z"
   },
@@ -20880,7 +20880,7 @@
     "license": "MIT",
     "created_at": "2026-08-28T14:44:37Z",
     "updated_at": "2026-11-01T17:25:05Z",
-    "pushed_at": "2026-11-12T04:38:21Z",
+    "pushed_at": "2026-11-12T07:14:53Z",
     "discovered_at": "2026-08-28T16:18:13.716Z"
   },
   "tap6/gitpress": {
@@ -22954,7 +22954,7 @@
     "license": "MIT",
     "created_at": "2021-11-30T11:55:49Z",
     "updated_at": "2026-11-11T07:23:55Z",
-    "pushed_at": "2026-11-11T06:23:59Z",
+    "pushed_at": "2026-11-12T06:27:00Z",
     "discovered_at": "2026-09-16T11:20:40.617Z"
   },
   "mdnahianrafi/veltro": {
@@ -23220,7 +23220,7 @@
     "license": "MIT",
     "created_at": "2026-09-20T02:33:45Z",
     "updated_at": "2026-09-22T06:33:50Z",
-    "pushed_at": "2026-09-22T06:33:46Z",
+    "pushed_at": "2026-11-12T11:51:20Z",
     "discovered_at": "2026-09-20T04:39:54.911Z"
   },
   "scintillaweb/swp-freelancer-portfolio": {
@@ -23446,7 +23446,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2026-07-06T08:07:49Z",
-    "updated_at": "2026-11-12T03:26:34Z",
+    "updated_at": "2026-11-12T06:34:33Z",
     "pushed_at": "2026-11-12T06:00:18Z",
     "discovered_at": "2026-09-22T11:24:08.231Z"
   },
@@ -23597,8 +23597,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-09-24T19:47:21Z",
-    "updated_at": "2026-11-11T14:57:47Z",
-    "pushed_at": "2026-11-12T06:14:25Z",
+    "updated_at": "2026-11-12T09:27:08Z",
+    "pushed_at": "2026-11-12T08:36:23Z",
     "discovered_at": "2026-09-25T00:51:06.537Z"
   },
   "qingkong143/astro-theme-clean": {
@@ -25231,7 +25231,7 @@
     "url": "https://github.com/formgong/orrery-astro-theme",
     "description": "Free Astro theme for consultants and B2B firms: dark, light type, one lime accent, scroll effects, a contact form that never fakes success. Forms by Formgong.",
     "stars": 7,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "astro",
       "astro-theme",
@@ -25558,8 +25558,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-09-11T07:41:50Z",
-    "updated_at": "2026-10-30T01:52:42Z",
-    "pushed_at": "2026-10-30T01:54:58Z",
+    "updated_at": "2026-11-12T09:36:53Z",
+    "pushed_at": "2026-11-12T08:39:31Z",
     "discovered_at": "2026-10-10T18:23:30.848Z"
   },
   "mintfolioblog/mintfolio-theme-verdant": {
@@ -25577,8 +25577,8 @@
     "language": "Astro",
     "license": "GPL-3.0",
     "created_at": "2026-09-11T07:41:47Z",
-    "updated_at": "2026-10-30T01:52:47Z",
-    "pushed_at": "2026-10-30T01:55:19Z",
+    "updated_at": "2026-11-12T09:36:23Z",
+    "pushed_at": "2026-11-12T08:38:55Z",
     "discovered_at": "2026-10-10T18:23:30.848Z"
   },
   "codeaeffchen-gmbh/astro-split-domains": {
@@ -26254,8 +26254,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-14T14:37:02Z",
-    "updated_at": "2026-11-11T13:04:15Z",
-    "pushed_at": "2026-11-11T12:08:17Z",
+    "updated_at": "2026-11-12T08:33:58Z",
+    "pushed_at": "2026-11-12T11:46:28Z",
     "discovered_at": "2026-10-15T12:28:44.188Z"
   },
   "diferoca1978/shine-seo-core": {
@@ -26972,8 +26972,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-19T03:49:41Z",
-    "updated_at": "2026-11-10T23:37:19Z",
-    "pushed_at": "2026-11-10T22:37:22Z",
+    "updated_at": "2026-11-12T07:29:47Z",
+    "pushed_at": "2026-11-12T07:09:38Z",
     "discovered_at": "2026-10-21T00:48:08.085Z"
   },
   "ryangswe/schema-folio": {
@@ -27332,7 +27332,7 @@
     "name": "formgong-hq/quell-astro",
     "url": "https://github.com/formgong-hq/quell-astro",
     "description": "Quell — free Astro portfolio template with a working Formgong contact form",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "astro-theme",
@@ -27343,7 +27343,7 @@
     "language": "CSS",
     "license": "MIT",
     "created_at": "2026-10-22T14:57:13Z",
-    "updated_at": "2026-11-09T18:56:46Z",
+    "updated_at": "2026-11-12T11:38:30Z",
     "pushed_at": "2026-10-22T14:57:24Z",
     "discovered_at": "2026-10-22T18:22:33.795Z"
   },
@@ -28956,7 +28956,7 @@
     "license": "MIT",
     "created_at": "2026-11-02T21:57:35Z",
     "updated_at": "2026-11-09T08:20:17Z",
-    "pushed_at": "2026-11-09T10:37:21Z",
+    "pushed_at": "2026-11-12T08:10:47Z",
     "discovered_at": "2026-11-03T00:31:30.486Z"
   },
   "casoon/pages-theme": {
@@ -29315,8 +29315,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-11-05T10:24:27Z",
-    "updated_at": "2026-11-05T14:27:17Z",
-    "pushed_at": "2026-11-12T00:25:22Z",
+    "updated_at": "2026-11-12T11:04:21Z",
+    "pushed_at": "2026-11-12T10:06:42Z",
     "discovered_at": "2026-11-05T12:18:04.876Z"
   },
   "arraypress/effects-astro": {
@@ -29599,8 +29599,8 @@
     "language": "Astro",
     "license": "Apache-2.0",
     "created_at": "2026-11-07T05:13:41Z",
-    "updated_at": "2026-11-11T10:29:28Z",
-    "pushed_at": "2026-11-11T09:29:24Z",
+    "updated_at": "2026-11-12T09:10:24Z",
+    "pushed_at": "2026-11-12T08:13:02Z",
     "discovered_at": "2026-11-07T06:18:04.578Z"
   },
   "markopalski/inkyfingers": {
@@ -29942,7 +29942,7 @@
     "url": "https://github.com/fengyiqicoder/astro-ai-docs",
     "description": "Astro AI Docs: free Astro docs template (Starlight) with an Ask AI dialog that answers from your own pages. Pagefind retrieval, llms.txt, one-click deploy, MIT. Part of astro-ai-starter.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "ask-ai",
       "astro",
@@ -30115,8 +30115,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-03-02T22:01:22Z",
-    "updated_at": "2026-11-10T15:01:58Z",
-    "pushed_at": "2026-11-10T15:01:33Z",
+    "updated_at": "2026-11-12T09:39:11Z",
+    "pushed_at": "2026-11-12T08:39:04Z",
     "discovered_at": "2026-11-10T18:13:34.506Z"
   },
   "flokani-digital/erecht24-astro": {
@@ -30145,7 +30145,7 @@
     "url": "https://github.com/fengyiqicoder/starlight-onetag",
     "description": "Ask AI for Starlight docs: answers from your own pages using the Pagefind index Starlight already builds. No backend (OneTag AI, public key). Works without a key.",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "ai-chatbot",
       "ask-ai",
@@ -30516,5 +30516,19 @@
     "updated_at": "2026-11-12T05:04:23Z",
     "pushed_at": "2026-11-12T04:04:20Z",
     "discovered_at": "2026-11-12T06:21:21.035Z"
+  },
+  "kokitree/inkline": {
+    "name": "kokitree/Inkline",
+    "url": "https://github.com/kokitree/Inkline",
+    "description": "Inkline is a minimal, writer-first blog theme for Astro. It gives you a single, readable column and gets out of the way, so the only thing on the page that matters is your writing.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-10-28T14:58:01Z",
+    "updated_at": "2026-11-12T09:34:49Z",
+    "pushed_at": "2026-10-29T05:49:26Z",
+    "discovered_at": "2026-11-12T12:18:21.424Z"
   }
 }
