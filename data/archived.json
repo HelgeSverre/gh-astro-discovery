@@ -885,5 +885,32 @@
     "discovered_at": "2026-05-18T10:54:54.926Z",
     "archived_at": "2026-11-16T00:38:26.238Z",
     "archive_reason": "Stale: not seen in search results and last pushed 1455 days ago"
+  },
+  "getmarkus/astro-tailwind-mambaui-template": {
+    "name": "getmarkus/astro-tailwind-mambaui-template",
+    "url": "https://github.com/getmarkus/astro-tailwind-mambaui-template",
+    "description": "Example Astro template for the MAMBA UI (Tailwind) component library",
+    "stars": 6,
+    "forks": 1,
+    "topics": [
+      "astro",
+      "astro-",
+      "astro-build",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "builtatlightspeed",
+      "tailwind",
+      "tailwind-css",
+      "tailwindcss"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2023-11-28T18:16:04Z",
+    "updated_at": "2026-06-25T12:20:57Z",
+    "pushed_at": "2023-11-29T19:47:53Z",
+    "discovered_at": "2026-05-18T10:54:54.926Z",
+    "archived_at": "2026-11-16T06:33:23.765Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 1082 days ago"
   }
 }
