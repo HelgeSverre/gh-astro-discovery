@@ -912,5 +912,42 @@
     "discovered_at": "2026-05-18T10:54:54.926Z",
     "archived_at": "2026-11-16T06:33:23.765Z",
     "archive_reason": "Stale: not seen in search results and last pushed 1082 days ago"
+  },
+  "getmarkus/astro-vanilla-framework": {
+    "name": "getmarkus/astro-vanilla-framework",
+    "url": "https://github.com/getmarkus/astro-vanilla-framework",
+    "description": "Astro template for the Ubuntu Vanilla CSS Framework",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-build",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "astrojs",
+      "astrojs-template",
+      "builtatlightspeed",
+      "canonical",
+      "css-framework",
+      "jamstack",
+      "sass",
+      "scss-template",
+      "scss-theme",
+      "static-site-generator",
+      "template",
+      "theme",
+      "themes",
+      "ubuntu",
+      "vanilla-framework"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2023-12-02T20:57:23Z",
+    "updated_at": "2025-11-21T18:33:36Z",
+    "pushed_at": "2023-12-03T19:48:44Z",
+    "discovered_at": "2026-05-18T10:54:54.926Z",
+    "archived_at": "2026-11-16T18:15:10.055Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 1078 days ago"
   }
 }
