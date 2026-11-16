@@ -832,5 +832,58 @@
     "discovered_at": "2026-05-18T10:54:54.925Z",
     "archived_at": "2026-11-12T18:14:57.349Z",
     "archive_reason": "Stale: not seen in search results and last pushed 580 days ago"
+  },
+  "peoray/astro-starter-blog": {
+    "name": "peoray/astro-starter-blog",
+    "url": "https://github.com/peoray/astro-starter-blog",
+    "description": " A simple, hackable & minimalistic starter for Astro that uses Markdown for content. ",
+    "stars": 5,
+    "forks": 0,
+    "topics": [
+      "astro-template",
+      "astro-theme",
+      "blog-theme",
+      "buildwithastro",
+      "website-template"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2023-04-24T14:52:21Z",
+    "updated_at": "2025-09-13T15:02:44Z",
+    "pushed_at": "2023-07-05T22:25:38Z",
+    "discovered_at": "2026-05-18T10:54:54.926Z",
+    "archived_at": "2026-11-16T00:38:26.238Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 1229 days ago"
+  },
+  "ariqnrnns/zauberhaft-astro": {
+    "name": "ariqnrnns/zauberhaft-astro",
+    "url": "https://github.com/ariqnrnns/zauberhaft-astro",
+    "description": "FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro ",
+    "stars": 9,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "css",
+      "free-template",
+      "html",
+      "html-template",
+      "ravenbright-css",
+      "ssg",
+      "static",
+      "static-site",
+      "static-site-generator",
+      "website-template"
+    ],
+    "language": "CSS",
+    "license": "Apache-2.0",
+    "created_at": "2022-11-20T09:29:27Z",
+    "updated_at": "2026-04-18T05:19:40Z",
+    "pushed_at": "2022-11-21T11:35:11Z",
+    "discovered_at": "2026-05-18T10:54:54.926Z",
+    "archived_at": "2026-11-16T00:38:26.238Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 1455 days ago"
   }
 }
