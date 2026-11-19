@@ -2,17 +2,18 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1616
-**Last updated:** 2026-11-19T06:21:48.256Z
+**Total packages tracked:** 1617
+**Last updated:** 2026-11-19T12:18:05.894Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fatkhurrhn/bankod-free-source-code](https://github.com/fatkhurrhn/bankod-free-source-code) | 0 | A curated catalog of free source code for developers, students, and anyone looki... |
 | [WavespaceAgency/vaxnori-astro-theme](https://github.com/WavespaceAgency/vaxnori-astro-theme) | 0 | Free Astro theme for AI and SaaS products – 25 pages, smooth animations, MDX blo... |
 | [trylee/lone](https://github.com/trylee/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
 | [AdaptiveAgentStudio/astro-integration-tracker-updates](https://github.com/AdaptiveAgentStudio/astro-integration-tracker-updates) | 0 | Installazione e aggiornamenti di Astro Integration Tracker per Windows. |
-| [ecelustka/astro-glyphcut](https://github.com/ecelustka/astro-glyphcut) | 0 | Astro font provider that subsets fonts to the glyphs your site uses |
+| [ecelustka/astro-glyphcut](https://github.com/ecelustka/astro-glyphcut) | 1 | Astro font provider that subsets fonts to the glyphs your site uses |
 | [halo-sigs/theme-astro-starter](https://github.com/halo-sigs/theme-astro-starter) | 22 | Halo 的主题脚手架，以 Astro 作为预渲染框架 |
 | [n0ctanedev/starlight-n0ct](https://github.com/n0ctanedev/starlight-n0ct) | 0 | An Opinionated, Integrations-included Starlight-Docs (Astro) template with simpl... |
 | [Strockise/Paynexus-Astro-Theme](https://github.com/Strockise/Paynexus-Astro-Theme) | 0 |  |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [nabigha-mogharbel/portfolio](https://github.com/nabigha-mogharbel/portfolio) | 0 | Personal portfolio inspired from myscholar astro theme. |
 | [xingwangzhe/stalux](https://github.com/xingwangzhe/stalux) | 42 | Astro 博客主题，支持中文字体子集和 Pagefind 搜索。可从源码运行，也可作为 Astro 集成安装。 |
 | [Wiktorkulas51/kite-astro-template](https://github.com/Wiktorkulas51/kite-astro-template) | 0 | Free animated Astro landing page template for a fintech / money app. Astro 7, Re... |
-| [Wiktorkulas51/alder-tide-astro-template](https://github.com/Wiktorkulas51/alder-tide-astro-template) | 0 | Free animated Astro hotel booking website template for a boutique hotel. Astro 7... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-19 | Universal Analytics Engines Integration |
+| [everfu/astro-solitude](https://github.com/everfu/astro-solitude) | 18 | 2026-11-19 | Solitude theme for Astro: static blog template, MDX componen... |
+| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-11-19 | Documentation for Azion's services and features. |
+| [Rahul-aithal/portfolio](https://github.com/Rahul-aithal/portfolio) | 0 | 2026-11-19 | Blueprint-style personal portfolio — Astro + Tailwind with A... |
+| [Respectify/respectify-astro-integration](https://github.com/Respectify/respectify-astro-integration) | 0 | 2026-11-19 |  |
+| [fatkhurrhn/bankod-free-source-code](https://github.com/fatkhurrhn/bankod-free-source-code) | 0 | 2026-11-19 | A curated catalog of free source code for developers, studen... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-19 | Brand new AstroWind Theme for TLT |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-19 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [ClovertaTheTrilobita/astro-blog-template](https://github.com/ClovertaTheTrilobita/astro-blog-template) | 1 | 2026-11-19 | Blog template based on Astro |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-11-19 | Astro starter for academic sites: publications from BibTeX, ... |
+| [alessandroros/starlight-annotations](https://github.com/alessandroros/starlight-annotations) | 1 | 2026-11-19 | 🖍️ Let readers highlight text and leave notes on Starlight ... |
+| [n0ctanedev/starlight-n0ct](https://github.com/n0ctanedev/starlight-n0ct) | 0 | 2026-11-19 | An Opinionated, Integrations-included Starlight-Docs (Astro)... |
+| [Xinglan233/Xinglan233.github.io](https://github.com/Xinglan233/Xinglan233.github.io) | 1 | 2026-11-19 | 使用 Astro Theme Pure 构建的个人博客 |
+| [zureealLV/blog](https://github.com/zureealLV/blog) | 1 | 2026-11-19 | 𝓞𝓢𝓤！𝓣𝓥 ✦ Personal Blog — Firefly Astro Theme |
+| [xingcanlee/astro-wisp](https://github.com/xingcanlee/astro-wisp) | 1 | 2026-11-19 | Wisp —— 安静好读的技术博客主题（Astro 7 + Tailwind 4 + MDX + KaTeX + Pel... |
 | [yaeouk-rajab/portfolio](https://github.com/yaeouk-rajab/portfolio) | 0 | 2026-11-19 | Personal developer portfolio: Astro + Tailwind, dark termina... |
-| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-11-19 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
-| [ai-tolo/jt-portfolio](https://github.com/ai-tolo/jt-portfolio) | 0 | 2026-11-19 | Jonathan Tollefson personal portfolio site. Astro + Notion-b... |
-| [tuyuritio/astro-theme-thought-lite](https://github.com/tuyuritio/astro-theme-thought-lite) | 168 | 2026-11-19 | A modern Astro theme, focused on content creation. |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-19 | Inline 🦔 |
-| [WavespaceAgency/vaxnori-astro-theme](https://github.com/WavespaceAgency/vaxnori-astro-theme) | 0 | 2026-11-19 | Free Astro theme for AI and SaaS products – 25 pages, smooth... |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-19 | Format 🗻 |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-19 | The i18n integration for Astro 🧑‍🚀 |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-11-19 | The global variable integration for Astro 🌐 |
-| [nova1751/astro-butterfly](https://github.com/nova1751/astro-butterfly) | 1 | 2026-11-19 | A Butterfly-style blog theme for Astro — static, fast, acces... |
-| [xingwangzhe/stalux](https://github.com/xingwangzhe/stalux) | 42 | 2026-11-19 | Astro 博客主题，支持中文字体子集和 Pagefind 搜索。可从源码运行，也可作为 Astro 集成安装。 |
 | [yeskunall/astro-umami](https://github.com/yeskunall/astro-umami) | 69 | 2026-11-19 | 📈 Astro integration to add Umami Analytics to your website |
-| [khamudom/kham-token-website](https://github.com/khamudom/kham-token-website) | 0 | 2026-11-19 | Portfolio site for Kham Udom, UX engineer — built on Charm U... |
-| [ecelustka/astro-glyphcut](https://github.com/ecelustka/astro-glyphcut) | 0 | 2026-11-19 | Astro font provider that subsets fonts to the glyphs your si... |
-| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-19 | Astro components for images and video. |
-| [nhedger/astro-downgrade-heading](https://github.com/nhedger/astro-downgrade-heading) | 0 | 2026-11-19 | Downgrade Markdown Headings in Astro |
-| [antoniococan/blogcocan](https://github.com/antoniococan/blogcocan) | 0 | 2026-11-19 | Personal blog with Astro blog theme. |
-| [danny-englander/agentic-design-kits](https://github.com/danny-englander/agentic-design-kits) | 1 | 2026-11-19 | Design kits your AI agent can implement, for Astro and Tailw... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-11-19 | My astro static blog use theme Firefly. |
+| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-11-19 | Astro integration for the Carve markup language |
+| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-11-19 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-19 | Universal Analytics Engines Integration |
+| [IMMINJU/astro-theme-chapterlog](https://github.com/IMMINJU/astro-theme-chapterlog) | 9 | 2026-11-19 | An Astro theme for building your personal bookshelf — organi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-19T12:18 | 1 | 1056 | 1617 |
 | 2026-11-19T06:21 | 2 | 1055 | 1616 |
 | 2026-11-19T00:33 | 2 | 1056 | 1615 |
 | 2026-11-18T18:14 | 0 | 1056 | 1613 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-17T18:15 | 1 | 1054 | 1612 |
 | 2026-11-17T12:18 | 3 | 1052 | 1611 |
 | 2026-11-17T06:21 | 1 | 1052 | 1608 |
-| 2026-11-17T00:32 | 1 | 1052 | 1607 |
 
 ---
 
