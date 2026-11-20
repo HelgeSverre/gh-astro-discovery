@@ -218,7 +218,7 @@
     "url": "https://github.com/aziontech/docs",
     "description": "Documentation for Azion's services and features.",
     "stars": 14,
-    "forks": 18,
+    "forks": 19,
     "topics": [
       "astro",
       "azion",
@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-11-14T14:16:15Z",
-    "pushed_at": "2026-11-20T12:14:41Z",
+    "pushed_at": "2026-11-20T18:11:42Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -782,7 +782,7 @@
     "name": "tfmurad/astro-llms-md",
     "url": "https://github.com/tfmurad/astro-llms-md",
     "description": "Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site",
-    "stars": 56,
+    "stars": 57,
     "forks": 6,
     "topics": [
       "ai-tools",
@@ -796,7 +796,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-04-15T09:44:10Z",
-    "updated_at": "2026-11-17T18:34:18Z",
+    "updated_at": "2026-11-20T14:17:42Z",
     "pushed_at": "2026-11-05T13:32:59Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
@@ -2565,7 +2565,7 @@
     "license": "MIT",
     "created_at": "2024-02-27T06:53:57Z",
     "updated_at": "2026-11-12T11:32:31Z",
-    "pushed_at": "2026-11-20T10:32:51Z",
+    "pushed_at": "2026-11-20T16:01:32Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "notrab/stripe-astro-loader": {
@@ -2628,7 +2628,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-11-12T07:22:02Z",
-    "pushed_at": "2026-11-20T07:56:09Z",
+    "pushed_at": "2026-11-20T12:46:58Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -4125,7 +4125,7 @@
     "license": "MIT",
     "created_at": "2026-02-03T17:19:54Z",
     "updated_at": "2026-11-11T14:39:17Z",
-    "pushed_at": "2026-11-20T05:53:38Z",
+    "pushed_at": "2026-11-20T17:27:40Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "tomxv/astro-mermaid-renderer": {
@@ -5310,7 +5310,7 @@
     "name": "louisescher/spectre",
     "url": "https://github.com/louisescher/spectre",
     "description": "Spectre is a terminal-inspired theme for Astro, built using Astro and TypeScript. ",
-    "stars": 165,
+    "stars": 164,
     "forks": 29,
     "topics": [
       "astro",
@@ -5323,7 +5323,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-12-29T17:12:32Z",
-    "updated_at": "2026-11-16T15:47:51Z",
+    "updated_at": "2026-11-20T12:42:00Z",
     "pushed_at": "2026-06-22T18:12:59Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5595,7 +5595,7 @@
     "license": "MIT",
     "created_at": "2023-08-30T09:47:25Z",
     "updated_at": "2026-11-12T00:16:20Z",
-    "pushed_at": "2026-11-20T06:50:31Z",
+    "pushed_at": "2026-11-20T13:27:51Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "protomorph/astromorph": {
@@ -5928,7 +5928,7 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 392,
+    "stars": 393,
     "forks": 132,
     "topics": [
       "astro-build",
@@ -5948,7 +5948,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-11-19T22:49:45Z",
+    "updated_at": "2026-11-20T13:54:45Z",
     "pushed_at": "2026-06-27T06:45:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -11726,7 +11726,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-10-11T17:02:12Z",
-    "pushed_at": "2026-11-20T09:05:13Z",
+    "pushed_at": "2026-11-20T15:50:00Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -11976,7 +11976,7 @@
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
     "updated_at": "2026-11-11T17:13:39Z",
-    "pushed_at": "2026-11-19T17:25:42Z",
+    "pushed_at": "2026-11-20T17:00:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -14676,7 +14676,7 @@
     "name": "ElianCodes/brutal",
     "url": "https://github.com/ElianCodes/brutal",
     "description": "A neobrutalism Astro starter theme",
-    "stars": 475,
+    "stars": 474,
     "forks": 70,
     "topics": [
       "astro",
@@ -14687,7 +14687,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-22T06:24:36Z",
-    "updated_at": "2026-11-10T09:42:12Z",
+    "updated_at": "2026-11-19T22:50:16Z",
     "pushed_at": "2026-09-29T02:19:47Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -15538,8 +15538,8 @@
     "name": "adrian-ub/starlight-theme-black",
     "url": "https://github.com/adrian-ub/starlight-theme-black",
     "description": "Starlight theme inspired by @shadcn docs",
-    "stars": 48,
-    "forks": 8,
+    "stars": 51,
+    "forks": 10,
     "topics": [
       "astro",
       "plugin",
@@ -15551,8 +15551,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-12-26T17:43:47Z",
-    "updated_at": "2026-09-02T14:29:51Z",
-    "pushed_at": "2026-07-23T04:04:46Z",
+    "updated_at": "2026-10-24T23:57:26Z",
+    "pushed_at": "2026-11-20T14:17:52Z",
     "discovered_at": "2026-07-14T06:54:36.785Z"
   },
   "zhanyihui06/avalon": {
@@ -19687,7 +19687,7 @@
     "name": "Yuimi-chaya/Yuimi-chaya.github.io",
     "url": "https://github.com/Yuimi-chaya/Yuimi-chaya.github.io",
     "description": "一个个人博客仓库,里面有着多个主题,包含 一个我最喜爱的角色专属,一个通用的手帐清新二次元系,一个极简风格.A personal blog repository, with multiple themes, including one dedicated to my favorite character, one general fresh anime-style planner, and a minimalist style.",
-    "stars": 46,
+    "stars": 47,
     "forks": 11,
     "topics": [
       "anime",
@@ -19702,7 +19702,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-05-19T13:00:25Z",
-    "updated_at": "2026-11-17T03:00:21Z",
+    "updated_at": "2026-11-20T15:51:11Z",
     "pushed_at": "2026-11-18T08:32:04Z",
     "discovered_at": "2026-08-21T00:23:10.606Z"
   },
@@ -20555,7 +20555,7 @@
     "license": "MIT",
     "created_at": "2026-08-28T14:44:37Z",
     "updated_at": "2026-11-01T17:25:05Z",
-    "pushed_at": "2026-11-20T04:53:26Z",
+    "pushed_at": "2026-11-20T12:45:55Z",
     "discovered_at": "2026-08-28T16:18:13.716Z"
   },
   "tap6/gitpress": {
@@ -21141,7 +21141,7 @@
     "license": "MIT",
     "created_at": "2026-09-03T13:15:26Z",
     "updated_at": "2026-09-04T03:36:20Z",
-    "pushed_at": "2026-11-13T17:53:47Z",
+    "pushed_at": "2026-11-20T17:57:47Z",
     "discovered_at": "2026-09-04T06:32:17.436Z"
   },
   "ctrimm/astro-payroll-solution-theme": {
@@ -21993,7 +21993,7 @@
     "name": "Gothsec/dark-minimal",
     "url": "https://github.com/Gothsec/dark-minimal",
     "description": "Official Astro theme portfolio template built with React, TypeScript & Tailwind CSS. Handcrafted with Figma.",
-    "stars": 275,
+    "stars": 276,
     "forks": 155,
     "topics": [
       "astro",
@@ -22015,7 +22015,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-06-17T17:08:10Z",
-    "updated_at": "2026-11-19T00:56:07Z",
+    "updated_at": "2026-11-20T16:59:58Z",
     "pushed_at": "2026-11-08T13:33:15Z",
     "discovered_at": "2026-09-10T20:45:55.536Z"
   },
@@ -26480,7 +26480,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
     "updated_at": "2026-11-11T02:22:43Z",
-    "pushed_at": "2026-11-20T07:12:48Z",
+    "pushed_at": "2026-11-20T12:59:32Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -28288,7 +28288,7 @@
     "license": "MIT",
     "created_at": "2026-10-30T21:50:26Z",
     "updated_at": "2026-11-12T01:17:29Z",
-    "pushed_at": "2026-11-19T21:17:19Z",
+    "pushed_at": "2026-11-20T13:17:25Z",
     "discovered_at": "2026-10-31T18:13:19.969Z"
   },
   "martletdesign/astro": {
@@ -29021,7 +29021,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-10-15T14:20:03Z",
     "updated_at": "2026-11-06T20:08:15Z",
-    "pushed_at": "2026-11-18T12:08:00Z",
+    "pushed_at": "2026-11-20T16:59:08Z",
     "discovered_at": "2026-11-05T12:18:04.877Z"
   },
   "lumithemes/ui-astro": {
@@ -29404,7 +29404,7 @@
     "license": "MIT",
     "created_at": "2026-09-09T09:19:59Z",
     "updated_at": "2026-11-10T16:07:38Z",
-    "pushed_at": "2026-11-17T16:06:47Z",
+    "pushed_at": "2026-11-20T16:05:42Z",
     "discovered_at": "2026-11-07T18:13:11.848Z"
   },
   "anatolykoptev/astro-rabbit-kit": {
@@ -31144,7 +31144,7 @@
     "license": "MIT",
     "created_at": "2026-11-16T15:23:31Z",
     "updated_at": "2026-11-16T15:23:42Z",
-    "pushed_at": "2026-11-20T09:21:16Z",
+    "pushed_at": "2026-11-20T17:37:27Z",
     "discovered_at": "2026-11-16T18:15:10.054Z"
   },
   "jfordnet/milepost": {
@@ -31418,7 +31418,7 @@
     "license": "MIT",
     "created_at": "2026-11-19T15:46:52Z",
     "updated_at": "2026-11-19T15:47:04Z",
-    "pushed_at": "2026-11-20T08:16:25Z",
+    "pushed_at": "2026-11-20T13:10:59Z",
     "discovered_at": "2026-11-19T18:14:45.991Z"
   },
   "ollijunes/markdown-copies": {
@@ -31586,5 +31586,45 @@
     "updated_at": "2026-11-20T07:01:42Z",
     "pushed_at": "2026-11-20T07:01:53Z",
     "discovered_at": "2026-11-20T12:18:13.821Z"
+  },
+  "astronomic-dev/search": {
+    "name": "astronomic-dev/search",
+    "url": "https://github.com/astronomic-dev/search",
+    "description": "Astronomic Search: typo-tolerant site search in a dialog for Astro",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "fuzzy-search",
+      "search",
+      "site-search"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-20T17:06:36Z",
+    "updated_at": "2026-11-20T17:07:04Z",
+    "pushed_at": "2026-11-20T17:06:59Z",
+    "discovered_at": "2026-11-20T18:14:53.042Z"
+  },
+  "astronomic-dev/astronomic-ui": {
+    "name": "astronomic-dev/astronomic-ui",
+    "url": "https://github.com/astronomic-dev/astronomic-ui",
+    "description": "Astronomic UI: free, restylable Astro components",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "design-tokens",
+      "tailwindcss",
+      "ui-components"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-11-20T01:51:45Z",
+    "updated_at": "2026-11-20T17:07:04Z",
+    "pushed_at": "2026-11-20T17:14:22Z",
+    "discovered_at": "2026-11-20T18:14:53.043Z"
   }
 }
