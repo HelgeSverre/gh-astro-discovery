@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1631
-**Last updated:** 2026-11-21T00:32:20.501Z
+**Last updated:** 2026-11-21T06:18:51.673Z
 
 ## 📦 Recently Discovered
 
@@ -42,7 +42,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 322 | Zero-config PWA Integration for Astro |
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 322 | Minimal blog theme built with Astro. |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 320 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
-| [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 315 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
+| [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 316 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
 | [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | Qwik + Astro |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 287 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek) | 286 | A theme for Astro |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [n0ctanedev/starlight-n0ct](https://github.com/n0ctanedev/starlight-n0ct) | 1 | 2026-11-21 | An Opinionated, Integrations-included Starlight-Docs (Astro)... |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-11-21 | Support AsciiDoc pages in Astro |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-21 | Inline 🦔 |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-21 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-21 | Format 🗻 |
+| [phcdevworks/spectre-ui-astro](https://github.com/phcdevworks/spectre-ui-astro) | 3 | 2026-11-21 | Astro UI component library for the Spectre design system. SS... |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-21 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [dfuchss/astro-studia](https://github.com/dfuchss/astro-studia) | 1 | 2026-11-21 | Astro starter for academic sites: publications from BibTeX, ... |
+| [saltedlolly/astro-atmosphere-publishing](https://github.com/saltedlolly/astro-atmosphere-publishing) | 1 | 2026-11-21 | Publish your Astro site to the Atmosphere with Standard.site... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-11-21 | My astro static blog use theme Firefly. |
+| [jonasgeiler/astro-html-minifier-next](https://github.com/jonasgeiler/astro-html-minifier-next) | 3 | 2026-11-21 | 🔌 Minify Astro HTML assets using html-minifier-next! |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-21 | Universal Analytics Engines Integration |
+| [freelance-persona/astro-freelance-persona_theme](https://github.com/freelance-persona/astro-freelance-persona_theme) | 0 | 2026-11-21 | A modern, responsive and lightweight theme for freelancing, ... |
+| [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 124 | 2026-11-21 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-21 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) | 2 | 2026-11-21 | Astro integration that uses existing configuration to write ... |
+| [advanced-astro/rocketbase](https://github.com/advanced-astro/rocketbase) | 4 | 2026-11-21 | 🚀 This Astro template offers more than 'Just the Basics', p... |
+| [advanced-astro/split](https://github.com/advanced-astro/split) | 6 | 2026-11-21 | Port of Split template by One Page Love to Astro 👨‍🚀 |
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-21 | Showcase site for my Home Assistant custom integrations and ... |
 | [AntonyLeons/casper](https://github.com/AntonyLeons/casper) | 12 | 2026-11-21 | Casper theme for Astro with Algolia Search and Decap CMS, fu... |
-| [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | 2026-11-21 | A reels-style feed of short pieces for Astro: one per screen... |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 23 | 2026-11-21 | Matomo integration for Astro |
-| [TrueWinter/astro-delete-unused-images](https://github.com/TrueWinter/astro-delete-unused-images) | 5 | 2026-11-21 | Astro integration for use with static websites that deletes ... |
-| [cevdetch/astro-minimal-template](https://github.com/cevdetch/astro-minimal-template) | 0 | 2026-11-21 | Minimal Astro starter with strictest TypeScript, typed SEO m... |
-| [TrueWinter/astro-obfuscate](https://github.com/TrueWinter/astro-obfuscate) | 13 | 2026-11-20 | astro-obfuscate is a set of components that prevent spam bot... |
-| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-11-20 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
-| [joshruggles/astro-palette](https://github.com/joshruggles/astro-palette) | 21 | 2026-11-20 | A blog and personal site theme for Astro with a terminal loo... |
-| [DamTchorzewski/portfolio-website-template](https://github.com/DamTchorzewski/portfolio-website-template) | 0 | 2026-11-20 | A modern, accessible and fast portfolio website template bui... |
-| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-20 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-20 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [openscript/astro-theme-international](https://github.com/openscript/astro-theme-international) | 43 | 2026-11-20 | An Astro theme demonstrating internationalization. |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-20 | The i18n integration for Astro 🧑‍🚀 |
-| [devcer/astro-monetization](https://github.com/devcer/astro-monetization) | 10 | 2026-11-20 | This Astro component simplifies the process of adding moneti... |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-20 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) | 24 | 2026-11-20 | Loaders for Astro's Content Layer |
-| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-11-20 | The Astro Supabase starter demonstrates how to integrate Sup... |
-| [arraypress/waveform-sounds-astro](https://github.com/arraypress/waveform-sounds-astro) | 0 | 2026-11-20 | Astro component wrapper for @arraypress/waveform-sounds — se... |
-| [arraypress/waveform-playlist-astro](https://github.com/arraypress/waveform-playlist-astro) | 0 | 2026-11-20 | Astro component wrapper for @arraypress/waveform-playlist — ... |
-| [arraypress/waveform-player-astro](https://github.com/arraypress/waveform-player-astro) | 0 | 2026-11-20 | Astro component wrapper for @arraypress/waveform-player — ty... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-21T06:18 | 0 | 1062 | 1631 |
 | 2026-11-21T00:32 | 3 | 1059 | 1631 |
 | 2026-11-20T18:14 | 2 | 1059 | 1629 |
 | 2026-11-20T12:18 | 1 | 1058 | 1627 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-19T12:18 | 1 | 1056 | 1617 |
 | 2026-11-19T06:21 | 2 | 1055 | 1616 |
 | 2026-11-19T00:33 | 2 | 1056 | 1615 |
-| 2026-11-18T18:14 | 0 | 1056 | 1613 |
 
 ---
 
