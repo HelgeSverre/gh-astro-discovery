@@ -2500,7 +2500,7 @@
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
     "stars": 125,
-    "forks": 34,
+    "forks": 33,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2734,7 +2734,7 @@
     "license": "MIT",
     "created_at": "2026-05-06T13:09:18Z",
     "updated_at": "2026-11-11T19:11:08Z",
-    "pushed_at": "2026-11-20T10:00:56Z",
+    "pushed_at": "2026-11-21T14:39:54Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "jan-nikolov/astro-annotate": {
@@ -3056,7 +3056,7 @@
     "name": "jgabriel98/astro-compress",
     "url": "https://github.com/jgabriel98/astro-compress",
     "description": "A powerful compression integration for static assets in Astro. This package automatically optimizes and compresses various file types including images, HTML, JavaScript, CSS, and SVG files during the build process.",
-    "stars": 12,
+    "stars": 11,
     "forks": 3,
     "topics": [
       "astro-integration",
@@ -3066,7 +3066,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2025-12-10T01:22:24Z",
-    "updated_at": "2026-08-11T16:22:17Z",
+    "updated_at": "2026-11-21T15:52:39Z",
     "pushed_at": "2026-03-29T22:30:00Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
@@ -4167,7 +4167,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-05-24T12:55:44Z",
-    "updated_at": "2026-11-19T16:43:02Z",
+    "updated_at": "2026-11-21T15:26:47Z",
     "pushed_at": "2026-09-15T16:45:17Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -4325,7 +4325,7 @@
     "license": null,
     "created_at": "2026-04-28T21:55:48Z",
     "updated_at": "2026-10-26T19:43:00Z",
-    "pushed_at": "2026-11-18T23:14:58Z",
+    "pushed_at": "2026-11-21T17:24:01Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "kovymun/astro-logo-ticker": {
@@ -7301,44 +7301,6 @@
     "created_at": "2023-10-19T00:56:24Z",
     "updated_at": "2024-04-22T21:48:21Z",
     "pushed_at": "2024-04-22T21:48:18Z",
-    "discovered_at": "2026-05-18T10:54:54.925Z"
-  },
-  "aryanjha256/verve": {
-    "name": "aryanjha256/verve",
-    "url": "https://github.com/aryanjha256/verve",
-    "description": "A Great Blog Theme for Astro",
-    "stars": 17,
-    "forks": 3,
-    "topics": [
-      "astro",
-      "astro-theme",
-      "blog",
-      "react",
-      "theme",
-      "typescript"
-    ],
-    "language": "Astro",
-    "license": "MIT",
-    "created_at": "2024-01-14T10:58:23Z",
-    "updated_at": "2026-02-15T06:41:28Z",
-    "pushed_at": "2024-04-06T13:10:40Z",
-    "discovered_at": "2026-05-18T10:54:54.925Z"
-  },
-  "geeknees/astrokyo": {
-    "name": "geeknees/Astrokyo",
-    "url": "https://github.com/geeknees/Astrokyo",
-    "description": "",
-    "stars": 2,
-    "forks": 0,
-    "topics": [
-      "astro",
-      "astro-theme"
-    ],
-    "language": "Astro",
-    "license": null,
-    "created_at": "2024-02-17T10:09:25Z",
-    "updated_at": "2026-10-12T11:23:01Z",
-    "pushed_at": "2024-04-03T17:09:55Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "unfolding-io/nebulix": {
@@ -11312,13 +11274,13 @@
     "name": "hansmartensdev/Astro-Rocket",
     "url": "https://github.com/hansmartensdev/Astro-Rocket",
     "description": "Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 8 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev",
-    "stars": 124,
+    "stars": 125,
     "forks": 58,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-04-04T18:10:44Z",
-    "updated_at": "2026-11-07T11:53:32Z",
+    "updated_at": "2026-11-21T12:50:56Z",
     "pushed_at": "2026-11-21T02:10:29Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -11919,7 +11881,7 @@
     "license": "MIT",
     "created_at": "2026-03-15T12:16:54Z",
     "updated_at": "2026-11-11T17:13:39Z",
-    "pushed_at": "2026-11-20T17:00:34Z",
+    "pushed_at": "2026-11-21T16:12:08Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "msradam/adamr.io": {
@@ -15041,7 +15003,7 @@
     "license": "AGPL-3.0",
     "created_at": "2026-07-11T14:29:23Z",
     "updated_at": "2026-11-12T09:43:49Z",
-    "pushed_at": "2026-11-20T23:40:00Z",
+    "pushed_at": "2026-11-21T13:13:26Z",
     "discovered_at": "2026-07-11T18:24:26.083Z"
   },
   "kpab/astro-kepler": {
@@ -22313,7 +22275,7 @@
     "license": "MIT",
     "created_at": "2025-11-18T10:27:19Z",
     "updated_at": "2026-11-11T19:12:22Z",
-    "pushed_at": "2026-11-20T10:02:53Z",
+    "pushed_at": "2026-11-21T14:40:25Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "casoon/astro-speed-measure": {
@@ -22335,7 +22297,7 @@
     "license": "MIT",
     "created_at": "2025-12-08T22:50:26Z",
     "updated_at": "2026-11-11T19:11:59Z",
-    "pushed_at": "2026-11-20T10:01:10Z",
+    "pushed_at": "2026-11-21T14:40:17Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "casoon/astro-structured-data": {
@@ -22357,7 +22319,7 @@
     "license": "MIT",
     "created_at": "2026-06-01T01:38:45Z",
     "updated_at": "2026-11-11T19:14:46Z",
-    "pushed_at": "2026-11-20T10:03:36Z",
+    "pushed_at": "2026-11-21T14:40:51Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "casoon/astro-post-audit": {
@@ -22380,7 +22342,7 @@
     "license": "MIT",
     "created_at": "2026-02-25T12:59:57Z",
     "updated_at": "2026-11-11T19:11:05Z",
-    "pushed_at": "2026-11-20T10:00:39Z",
+    "pushed_at": "2026-11-21T14:39:51Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "ahsanrahat12/rahat_ahsan_website": {
@@ -25719,7 +25681,7 @@
     "license": "MIT",
     "created_at": "2026-10-14T13:52:56Z",
     "updated_at": "2026-11-09T10:44:18Z",
-    "pushed_at": "2026-11-21T06:51:00Z",
+    "pushed_at": "2026-11-21T13:29:38Z",
     "discovered_at": "2026-10-14T18:23:54.013Z"
   },
   "uvexz/yxlog": {
@@ -26423,7 +26385,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
     "updated_at": "2026-11-11T02:22:43Z",
-    "pushed_at": "2026-11-21T09:50:33Z",
+    "pushed_at": "2026-11-21T12:56:05Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -27855,7 +27817,7 @@
     "license": "MIT",
     "created_at": "2026-10-04T16:48:12Z",
     "updated_at": "2026-11-08T22:49:17Z",
-    "pushed_at": "2026-11-21T12:15:06Z",
+    "pushed_at": "2026-11-21T12:22:08Z",
     "discovered_at": "2026-10-28T12:21:10.021Z"
   },
   "contentrain/contentrain-starter-astro-landing": {
@@ -28231,7 +28193,7 @@
     "license": "MIT",
     "created_at": "2026-10-30T21:50:26Z",
     "updated_at": "2026-11-12T01:17:29Z",
-    "pushed_at": "2026-11-21T08:07:01Z",
+    "pushed_at": "2026-11-21T14:56:27Z",
     "discovered_at": "2026-10-31T18:13:19.969Z"
   },
   "martletdesign/astro": {
@@ -28592,7 +28554,7 @@
     "license": "MIT",
     "created_at": "2026-11-02T19:36:58Z",
     "updated_at": "2026-11-11T17:57:25Z",
-    "pushed_at": "2026-11-20T10:51:44Z",
+    "pushed_at": "2026-11-21T14:35:07Z",
     "discovered_at": "2026-11-03T00:31:30.487Z"
   },
   "j-klakus/astro-favicon-kit": {
@@ -29116,7 +29078,7 @@
     "license": null,
     "created_at": "2026-11-06T18:13:11Z",
     "updated_at": "2026-11-06T18:14:21Z",
-    "pushed_at": "2026-11-20T12:08:54Z",
+    "pushed_at": "2026-11-21T17:48:22Z",
     "discovered_at": "2026-11-06T18:16:10.574Z"
   },
   "aldinelabs/ui": {
@@ -29196,7 +29158,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-11-06T19:14:55Z",
     "updated_at": "2026-11-21T12:11:05Z",
-    "pushed_at": "2026-11-21T12:15:52Z",
+    "pushed_at": "2026-11-21T15:43:47Z",
     "discovered_at": "2026-11-07T00:30:29.197Z"
   },
   "web-stacked/caretcms": {
@@ -29219,8 +29181,8 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-02-17T11:12:44Z",
-    "updated_at": "2026-11-17T09:35:23Z",
-    "pushed_at": "2026-11-18T20:12:43Z",
+    "updated_at": "2026-11-21T17:39:46Z",
+    "pushed_at": "2026-11-21T17:34:00Z",
     "discovered_at": "2026-11-07T06:18:04.577Z"
   },
   "xinglan233/xinglan233.github.io": {
@@ -29355,7 +29317,7 @@
     "license": "MIT",
     "created_at": "2026-09-09T09:19:59Z",
     "updated_at": "2026-11-10T16:07:38Z",
-    "pushed_at": "2026-11-20T16:05:42Z",
+    "pushed_at": "2026-11-21T16:03:41Z",
     "discovered_at": "2026-11-07T18:13:11.848Z"
   },
   "anatolykoptev/astro-rabbit-kit": {
@@ -29408,7 +29370,7 @@
     "license": "MIT",
     "created_at": "2026-11-07T10:15:48Z",
     "updated_at": "2026-11-14T14:09:53Z",
-    "pushed_at": "2026-11-15T17:17:53Z",
+    "pushed_at": "2026-11-21T16:19:52Z",
     "discovered_at": "2026-11-08T12:16:03.651Z"
   },
   "ffrusdev/ffrusdev.github.io": {
@@ -30976,7 +30938,7 @@
     "license": "MIT",
     "created_at": "2025-03-21T11:31:07Z",
     "updated_at": "2026-11-16T03:27:44Z",
-    "pushed_at": "2026-11-20T06:12:37Z",
+    "pushed_at": "2026-11-21T15:19:39Z",
     "discovered_at": "2026-11-16T06:33:23.764Z"
   },
   "g96mediaa-bot/nanak-fab": {
@@ -31139,7 +31101,7 @@
     "license": null,
     "created_at": "2026-11-16T12:56:50Z",
     "updated_at": "2026-11-17T19:58:25Z",
-    "pushed_at": "2026-11-19T23:37:11Z",
+    "pushed_at": "2026-11-21T16:23:23Z",
     "discovered_at": "2026-11-17T00:32:50.851Z"
   },
   "sandikodev/sandikodev.github.io": {
@@ -31555,7 +31517,7 @@
     "license": "MIT",
     "created_at": "2026-11-20T17:06:36Z",
     "updated_at": "2026-11-20T17:07:04Z",
-    "pushed_at": "2026-11-20T17:06:59Z",
+    "pushed_at": "2026-11-21T17:31:37Z",
     "discovered_at": "2026-11-20T18:14:53.042Z"
   },
   "astronomic-dev/astronomic-ui": {
@@ -31575,7 +31537,7 @@
     "license": "MIT",
     "created_at": "2026-11-20T01:51:45Z",
     "updated_at": "2026-11-20T17:07:04Z",
-    "pushed_at": "2026-11-20T17:14:22Z",
+    "pushed_at": "2026-11-21T15:55:22Z",
     "discovered_at": "2026-11-20T18:14:53.043Z"
   },
   "cevdetch/astro-minimal-template": {
@@ -31789,5 +31751,111 @@
     "updated_at": "2026-11-21T06:47:00Z",
     "pushed_at": "2026-11-21T06:57:41Z",
     "discovered_at": "2026-11-21T12:16:21.282Z"
+  },
+  "waveformplayer/astro": {
+    "name": "WaveformPlayer/astro",
+    "url": "https://github.com/WaveformPlayer/astro",
+    "description": "Astro components for WaveformPlayer — player, bar, playlist and sounds, one sub-path each. Server-rendered, zero-JS until play.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "arraypress",
+      "astro",
+      "astro-component",
+      "audio",
+      "audio-player",
+      "typescript",
+      "waveform",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-21T13:00:47Z",
+    "updated_at": "2026-11-21T13:00:59Z",
+    "pushed_at": "2026-11-21T17:29:08Z",
+    "discovered_at": "2026-11-21T18:13:31.277Z"
+  },
+  "invmy/astro-guava": {
+    "name": "invmy/astro-Guava",
+    "url": "https://github.com/invmy/astro-Guava",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "blog-theme",
+      "github-discussions",
+      "github-discussions-blog"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2026-11-21T13:08:49Z",
+    "updated_at": "2026-11-21T14:07:33Z",
+    "pushed_at": "2026-11-21T13:53:48Z",
+    "discovered_at": "2026-11-21T18:13:31.278Z"
+  },
+  "astronomic-dev/astronomic-starter": {
+    "name": "astronomic-dev/astronomic-starter",
+    "url": "https://github.com/astronomic-dev/astronomic-starter",
+    "description": "Astronomic Starter: a free Astro + EmDash starter for a small product site",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "emdash",
+      "starter",
+      "tailwindcss"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-07T23:11:10Z",
+    "updated_at": "2026-11-21T15:37:05Z",
+    "pushed_at": "2026-11-20T00:36:12Z",
+    "discovered_at": "2026-11-21T18:13:31.278Z"
+  },
+  "astronomic-dev/vesper": {
+    "name": "astronomic-dev/vesper",
+    "url": "https://github.com/astronomic-dev/vesper",
+    "description": "Vesper: a free Astro theme for a personal blog and portfolio",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "emdash",
+      "portfolio",
+      "tailwindcss"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-07T23:11:06Z",
+    "updated_at": "2026-11-21T15:37:03Z",
+    "pushed_at": "2026-11-20T00:35:35Z",
+    "discovered_at": "2026-11-21T18:13:31.278Z"
+  },
+  "themesengine/linus-software-engineer-portfolio-astro-theme": {
+    "name": "themesengine/linus-software-engineer-portfolio-astro-theme",
+    "url": "https://github.com/themesengine/linus-software-engineer-portfolio-astro-theme",
+    "description": "A dark, technical, open source portfolio and landing-page theme by [ThemesEngine](https://themesengine.com) for independent software engineers, consultants and small dev studios. It covers case studies, services, writing and a project enquiry form that delivers to your inbox.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro-template",
+      "perosnal-website",
+      "software-engineer",
+      "software-engineering",
+      "template",
+      "template-repository"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-11-21T12:34:16Z",
+    "updated_at": "2026-11-21T12:44:35Z",
+    "pushed_at": "2026-11-21T12:42:02Z",
+    "discovered_at": "2026-11-21T18:13:31.279Z"
   }
 }
