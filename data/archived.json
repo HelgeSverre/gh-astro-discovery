@@ -949,5 +949,39 @@
     "discovered_at": "2026-11-17T18:15:14.568Z",
     "archived_at": "2026-11-19T06:21:48.247Z",
     "archive_reason": "Stale: not seen in search results and last pushed 1081 days ago"
+  },
+  "getmarkus/astro-shopify-polaris": {
+    "name": "getmarkus/astro-shopify-polaris",
+    "url": "https://github.com/getmarkus/astro-shopify-polaris",
+    "description": "Astro template for Shopify's Polaris Design System",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-build",
+      "astro-build-template",
+      "astro-template",
+      "astro-theme",
+      "astro-themes",
+      "astrojs",
+      "astrojs-template",
+      "builtatlightspeed",
+      "jamstack",
+      "shopify",
+      "shopify-app",
+      "shopify-apps",
+      "static-site-generator",
+      "template",
+      "theme",
+      "themes"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2023-12-17T18:55:40Z",
+    "updated_at": "2024-08-09T06:00:19Z",
+    "pushed_at": "2023-12-17T19:53:26Z",
+    "discovered_at": "2026-05-18T10:54:54.926Z",
+    "archived_at": "2026-11-21T00:32:20.492Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 1069 days ago"
   }
 }
