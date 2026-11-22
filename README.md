@@ -2,13 +2,15 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1642
-**Last updated:** 2026-11-22T06:19:21.078Z
+**Total packages tracked:** 1644
+**Last updated:** 2026-11-22T12:15:52.269Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | A gentle, starlit technical library theme built with Astro. |
+| [srcery-colors/srcery.sh](https://github.com/srcery-colors/srcery.sh) | 11 | Contains the source for the project website. |
 | [fabiola29298/ethBoliviaWebsite](https://github.com/fabiola29298/ethBoliviaWebsite) | 3 | Ethereum Bolivia Website  |
 | [iClew/lone](https://github.com/iClew/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
 | [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 112 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
@@ -27,8 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [DamTchorzewski/portfolio-website-template](https://github.com/DamTchorzewski/portfolio-website-template) | 0 | A modern, accessible and fast portfolio website template built with Astro. One c... |
 | [cevdetch/astro-minimal-template](https://github.com/cevdetch/astro-minimal-template) | 0 | Minimal Astro starter with strictest TypeScript, typed SEO metadata, optional so... |
 | [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | A reels-style feed of short pieces for Astro: one per screen, a page each, zero ... |
-| [astronomic-dev/astronomic-ui](https://github.com/astronomic-dev/astronomic-ui) | 0 | Astronomic UI: free, restylable Astro components |
-| [astronomic-dev/search](https://github.com/astronomic-dev/search) | 0 | Astronomic Search: typo-tolerant site search in a dialog for Astro |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,8 +39,8 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [ElianCodes/brutal](https://github.com/ElianCodes/brutal) | 474 | A neobrutalism Astro starter theme |
 | [matt765/Tailcast](https://github.com/matt765/Tailcast) | 414 | Dark-themed website template built on Astro and Tailwind CSS |
 | [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) | 393 | Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astr... |
+| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 323 | Minimal blog theme built with Astro. |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 322 | Zero-config PWA Integration for Astro |
-| [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 322 | Minimal blog theme built with Astro. |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 320 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
 | [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 316 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
 | [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | Qwik + Astro |
@@ -52,33 +52,33 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) | 276 | Official Astro theme portfolio template built with React, TypeScript & Tailwind ... |
 | [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 238 | A flexible Astro blog theme designed for Obsidian users. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 231 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
-| [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 229 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
+| [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 230 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 224 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-22 | Open-source CMS for Astro, from the Velocity Astro starter k... |
-| [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks) | 0 | 2026-11-22 | Themeable, zero-JS Astro block components for rendering Tipt... |
-| [smallbench-labs/astro-extension-kit-lite](https://github.com/smallbench-labs/astro-extension-kit-lite) | 0 | 2026-11-22 | Free MIT one-page Astro 7 + Tailwind 4 landing site starter ... |
-| [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | 2026-11-22 | A Spencer Family Original Series. A countdown to the next Hi... |
-| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-22 | Inline 🦔 |
-| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 112 | 2026-11-22 | Velocity — open-source Astro 7 starter kit with AI agent sup... |
-| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-22 | Format 🗻 |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-22 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [collection-of-things/astro-dither](https://github.com/collection-of-things/astro-dither) | 0 | 2026-11-22 | Dither for Astro, based on Leo's dithercn. Animated dither b... |
-| [bansalankit92/personalsite](https://github.com/bansalankit92/personalsite) | 1 | 2026-11-22 | My terminal-themed developer portfolio, built with Astro and... |
-| [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 62 | 2026-11-22 | Astro Starter Pro: A free, production-ready Astro starter fo... |
-| [web-stacked/caretcms](https://github.com/web-stacked/caretcms) | 9 | 2026-11-22 | Visual editor for Astro sites. CaretCMS adds click-to-edit t... |
+| [ImJingLan/astro-theme-byline](https://github.com/ImJingLan/astro-theme-byline) | 0 | 2026-11-22 |  |
+| [velezanthony/design](https://github.com/velezanthony/design) | 0 | 2026-11-22 |  Sistema de diseño e integración de Astro para la documentac... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-22 | Universal Analytics Engines Integration |
 | [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-22 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-11-22 | My astro static blog use theme Firefly. |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-22 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-22 | Brand new AstroWind Theme for TLT |
 | [Saikomantisu/sednacms](https://github.com/Saikomantisu/sednacms) | 0 | 2026-11-22 | An open-source CMS for Astro. Define fields in TypeScript, e... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 208 | 2026-11-22 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 2 | 2026-11-22 | A tiny git-backed CMS for Astro — edit your static site in p... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-22 | The i18n integration for Astro 🧑‍🚀 |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 33 | 2026-11-22 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [iClew/lone](https://github.com/iClew/lone) | 0 | 2026-11-21 | An Astro blog theme. Mincho titles, gothic body, white paper... |
+| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-11-22 | An Astro Prometheus nodejs middleware integration for Astro |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-22 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | 2026-11-22 | A reels-style feed of short pieces for Astro: one per screen... |
+| [cevdetch/astro-minimal-template](https://github.com/cevdetch/astro-minimal-template) | 0 | 2026-11-22 | Minimal Astro starter with strictest TypeScript, typed SEO m... |
+| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-11-22 | Support AsciiDoc pages in Astro |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-22 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-22 | Open-source CMS for Astro, from the Velocity Astro starter k... |
+| [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | 2026-11-22 | A gentle, starlit technical library theme built with Astro. |
+| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-11-22 | Regular integration tests of Coordinated packages with astro... |
+| [lossless-group/cilantro-site](https://github.com/lossless-group/cilantro-site) | 0 | 2026-11-22 | Cilantro, an Astro website with opinionated theming, multipl... |
+| [bgalvandev/brunogalvan.dev](https://github.com/bgalvandev/brunogalvan.dev) | 0 | 2026-11-22 | My personal site: static Astro in Spanish and English, a has... |
+| [Xinglan233/Xinglan233.github.io](https://github.com/Xinglan233/Xinglan233.github.io) | 1 | 2026-11-22 | 使用 Astro Theme Pure 构建的个人博客 |
+| [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks) | 0 | 2026-11-22 | Themeable, zero-JS Astro block components for rendering Tipt... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T12:15 | 2 | 1059 | 1644 |
 | 2026-11-22T06:19 | 1 | 1059 | 1642 |
 | 2026-11-22T00:34 | 4 | 1056 | 1641 |
 | 2026-11-21T18:13 | 5 | 1054 | 1638 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-20T18:14 | 2 | 1059 | 1629 |
 | 2026-11-20T12:18 | 1 | 1058 | 1627 |
 | 2026-11-20T06:20 | 1 | 1059 | 1626 |
-| 2026-11-20T00:30 | 3 | 1057 | 1625 |
 
 ---
 
