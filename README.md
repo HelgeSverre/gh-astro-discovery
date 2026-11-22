@@ -2,18 +2,19 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1644
-**Last updated:** 2026-11-22T12:15:52.269Z
+**Total packages tracked:** 1645
+**Last updated:** 2026-11-22T18:13:32.352Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ChrisNeff/ChrisNeff.github.io](https://github.com/ChrisNeff/ChrisNeff.github.io) | 0 | Steel & Silicon, my personal blog. Built with Astro on the AstroPaper theme, dep... |
+| [mcxiaochenn/astro-theme-anzhiyu](https://github.com/mcxiaochenn/astro-theme-anzhiyu) | 0 | Anzhiyu 博客主题的 Astro 移植版，保留上游全部特性 |
 | [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | A gentle, starlit technical library theme built with Astro. |
 | [srcery-colors/srcery.sh](https://github.com/srcery-colors/srcery.sh) | 11 | Contains the source for the project website. |
-| [fabiola29298/ethBoliviaWebsite](https://github.com/fabiola29298/ethBoliviaWebsite) | 3 | Ethereum Bolivia Website  |
 | [iClew/lone](https://github.com/iClew/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
-| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 112 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
+| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 113 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
 | [Avdebcom/astro-avdeb](https://github.com/Avdebcom/astro-avdeb) | 1 | Astro components for AVDEB products: grid, carousel, list and spotlight embeds w... |
 | [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | Open-source CMS for Astro, from the Velocity Astro starter kit. Visual page buil... |
 | [themesengine/linus-software-engineer-portfolio-astro-theme](https://github.com/themesengine/linus-software-engineer-portfolio-astro-theme) | 1 | A dark, technical, open source portfolio and landing-page theme by [ThemesEngine... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [WaveformPlayer/waveform-player-astro](https://github.com/WaveformPlayer/waveform-player-astro) | 0 | Astro component wrapper for @arraypress/waveform-player — typed props for every ... |
 | [DamTchorzewski/portfolio-website-template](https://github.com/DamTchorzewski/portfolio-website-template) | 0 | A modern, accessible and fast portfolio website template built with Astro. One c... |
 | [cevdetch/astro-minimal-template](https://github.com/cevdetch/astro-minimal-template) | 0 | Minimal Astro starter with strictest TypeScript, typed SEO metadata, optional so... |
-| [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | A reels-style feed of short pieces for Astro: one per screen, a page each, zero ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ImJingLan/astro-theme-byline](https://github.com/ImJingLan/astro-theme-byline) | 0 | 2026-11-22 |  |
-| [velezanthony/design](https://github.com/velezanthony/design) | 0 | 2026-11-22 |  Sistema de diseño e integración de Astro para la documentac... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-22 | Universal Analytics Engines Integration |
-| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-22 | Landing page for Sisques Labs, a digital product studio. Bui... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-22 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-22 | Brand new AstroWind Theme for TLT |
-| [Saikomantisu/sednacms](https://github.com/Saikomantisu/sednacms) | 0 | 2026-11-22 | An open-source CMS for Astro. Define fields in TypeScript, e... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-11-22 | An Astro Prometheus nodejs middleware integration for Astro |
-| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-22 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
-| [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | 2026-11-22 | A reels-style feed of short pieces for Astro: one per screen... |
-| [cevdetch/astro-minimal-template](https://github.com/cevdetch/astro-minimal-template) | 0 | 2026-11-22 | Minimal Astro starter with strictest TypeScript, typed SEO m... |
-| [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) | 44 | 2026-11-22 | Support AsciiDoc pages in Astro |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-22 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-11-22 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
+| [web-stacked/caretcms](https://github.com/web-stacked/caretcms) | 9 | 2026-11-22 | Visual editor for Astro sites. CaretCMS adds click-to-edit t... |
+| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-22 | Showcase site for my Home Assistant custom integrations and ... |
 | [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-22 | Open-source CMS for Astro, from the Velocity Astro starter k... |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-22 | Brand new AstroWind Theme for TLT |
+| [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | 2026-11-22 | A Spencer Family Original Series. A countdown to the next Hi... |
+| [ITZSHOAIB/astro-agent-ready-portfolio](https://github.com/ITZSHOAIB/astro-agent-ready-portfolio) | 0 | 2026-11-22 | An Astro portfolio theme you can set up with a coding agent:... |
+| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-11-22 | A personal blog built with Astro, based on the Fuwari theme ... |
+| [mcxiaochenn/astro-theme-anzhiyu](https://github.com/mcxiaochenn/astro-theme-anzhiyu) | 0 | 2026-11-22 | Anzhiyu 博客主题的 Astro 移植版，保留上游全部特性 |
+| [honeok/hlog](https://github.com/honeok/hlog) | 0 | 2026-11-22 | 🐇 about me! |
+| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 6 | 2026-11-22 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
+| [velezanthony/design](https://github.com/velezanthony/design) | 0 | 2026-11-22 |  Sistema de diseño e integración de Astro para la documentac... |
+| [TheTrueFerret/portfolio-website](https://github.com/TheTrueFerret/portfolio-website) | 2 | 2026-11-22 | Personal Portfolio/Blog, with a Nice Terminal Theme... Every... |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-22 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-22 | Universal Analytics Engines Integration |
+| [unixwin/unixwin.dev](https://github.com/unixwin/unixwin.dev) | 0 | 2026-11-22 | UNIXWIN organization portal — unixwin.dev · Astro static sit... |
+| [collection-of-things/astro-dither](https://github.com/collection-of-things/astro-dither) | 0 | 2026-11-22 | Dither for Astro, based on Leo's dithercn. Animated dither b... |
 | [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | 2026-11-22 | A gentle, starlit technical library theme built with Astro. |
-| [astropy/astropy-integration-testing](https://github.com/astropy/astropy-integration-testing) | 4 | 2026-11-22 | Regular integration tests of Coordinated packages with astro... |
-| [lossless-group/cilantro-site](https://github.com/lossless-group/cilantro-site) | 0 | 2026-11-22 | Cilantro, an Astro website with opinionated theming, multipl... |
-| [bgalvandev/brunogalvan.dev](https://github.com/bgalvandev/brunogalvan.dev) | 0 | 2026-11-22 | My personal site: static Astro in Spanish and English, a has... |
-| [Xinglan233/Xinglan233.github.io](https://github.com/Xinglan233/Xinglan233.github.io) | 1 | 2026-11-22 | 使用 Astro Theme Pure 构建的个人博客 |
-| [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks) | 0 | 2026-11-22 | Themeable, zero-JS Astro block components for rendering Tipt... |
+| [kpab/astro-haze](https://github.com/kpab/astro-haze) | 22 | 2026-11-22 | A glassmorphism Astro 7 theme with blog, portfolio & landing... |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-22 | Astro integration for a landing page, docs and OpenAPI refer... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T18:13 | 2 | 1059 | 1645 |
 | 2026-11-22T12:15 | 2 | 1059 | 1644 |
 | 2026-11-22T06:19 | 1 | 1059 | 1642 |
 | 2026-11-22T00:34 | 4 | 1056 | 1641 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-21T00:32 | 3 | 1059 | 1631 |
 | 2026-11-20T18:14 | 2 | 1059 | 1629 |
 | 2026-11-20T12:18 | 1 | 1058 | 1627 |
-| 2026-11-20T06:20 | 1 | 1059 | 1626 |
 
 ---
 
