@@ -2,13 +2,17 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1638
-**Last updated:** 2026-11-21T18:13:31.290Z
+**Total packages tracked:** 1641
+**Last updated:** 2026-11-22T00:34:33.329Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [iClew/lone](https://github.com/iClew/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
+| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 112 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
+| [Avdebcom/astro-avdeb](https://github.com/Avdebcom/astro-avdeb) | 1 | Astro components for AVDEB products: grid, carousel, list and spotlight embeds w... |
+| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | Open-source CMS for Astro, from the Velocity Astro starter kit. Visual page buil... |
 | [themesengine/linus-software-engineer-portfolio-astro-theme](https://github.com/themesengine/linus-software-engineer-portfolio-astro-theme) | 1 | A dark, technical, open source portfolio and landing-page theme by [ThemesEngine... |
 | [invmy/astro-Guava](https://github.com/invmy/astro-Guava) | 0 |  |
 | [astronomic-dev/astronomic-starter](https://github.com/astronomic-dev/astronomic-starter) | 0 | Astronomic Starter: a free Astro + EmDash starter for a small product site |
@@ -25,10 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [astronomic-dev/astronomic-ui](https://github.com/astronomic-dev/astronomic-ui) | 0 | Astronomic UI: free, restylable Astro components |
 | [astronomic-dev/search](https://github.com/astronomic-dev/search) | 0 | Astronomic Search: typo-tolerant site search in a dialog for Astro |
 | [hakuei0115/Luchi-Astro-Theme](https://github.com/hakuei0115/Luchi-Astro-Theme) | 0 | A gentle, starlit technical library theme built with Astro. |
-| [hadagalberto/brasa](https://github.com/hadagalberto/brasa) | 0 | Brasa — a premium, dark-first Astro theme for product sites: landing, blog, docs... |
-| [xiaochen004hao/Lumen-Blog](https://github.com/xiaochen004hao/Lumen-Blog) | 0 | Lumen - an Astro static blog: teal theme, Waline comments, motion system |
-| [talisraeli/talisrae.li](https://github.com/talisraeli/talisrae.li) | 0 | WinForms-themed portfolio of Tal Israeli, a software engineer. Developed with As... |
-| [arnoldwender/astro-crawler-labyrinth](https://github.com/arnoldwender/astro-crawler-labyrinth) | 0 | Local deterministic crawler tarpit integration, inert CrawlerTrap component, and... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [JunkuiZhang/astro-theme-mist](https://github.com/JunkuiZhang/astro-theme-mist) | 0 | 2026-11-21 |  |
+| [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 2 | 2026-11-22 | A tiny git-backed CMS for Astro — edit your static site in p... |
+| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 32 | 2026-11-22 | A modern, clean and bloat-free Astro starter template. Acces... |
+| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-21 | Open-source CMS for Astro, from the Velocity Astro starter k... |
+| [iClew/lone](https://github.com/iClew/lone) | 0 | 2026-11-21 | An Astro blog theme. Mincho titles, gothic body, white paper... |
+| [Avdebcom/astro-avdeb](https://github.com/Avdebcom/astro-avdeb) | 1 | 2026-11-21 | Astro components for AVDEB products: grid, carousel, list an... |
+| [velezanthony/design](https://github.com/velezanthony/design) | 0 | 2026-11-21 |  Sistema de diseño e integración de Astro para la documentac... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 208 | 2026-11-21 | Crisp, minimalistic personal blog theme built with Astro.js ... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-21 | The i18n integration for Astro 🧑‍🚀 |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-21 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-21 | Add a ripple-style theme toggle animation to your Astro proj... |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-21 | Astro integration for a landing page, docs and OpenAPI refer... |
 | [web-stacked/caretcms](https://github.com/web-stacked/caretcms) | 9 | 2026-11-21 | Visual editor for Astro sites. CaretCMS adds click-to-edit t... |
+| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 5 | 2026-11-21 | The Astro wiki you can write in — paper-and-ink typography f... |
 | [astronomic-dev/search](https://github.com/astronomic-dev/search) | 0 | 2026-11-21 | Astronomic Search: typo-tolerant site search in a dialog for... |
+| [AntonyLeons/casper](https://github.com/AntonyLeons/casper) | 12 | 2026-11-21 | Casper theme for Astro with Algolia Search and Decap CMS, fu... |
+| [JunkuiZhang/astro-theme-mist](https://github.com/JunkuiZhang/astro-theme-mist) | 0 | 2026-11-21 |  |
 | [WaveformPlayer/astro](https://github.com/WaveformPlayer/astro) | 0 | 2026-11-21 | Astro components for WaveformPlayer — player, bar, playlist ... |
 | [altner/astro-justified-gallery-layout](https://github.com/altner/astro-justified-gallery-layout) | 0 | 2026-11-21 | Justified (Flickr-style) photo gallery for Astro with EXIF/I... |
-| [velezanthony/design](https://github.com/velezanthony/design) | 0 | 2026-11-21 |  Sistema de diseño e integración de Astro para la documentac... |
 | [rkxbeta/headless-wordpress-astro-demo](https://github.com/rkxbeta/headless-wordpress-astro-demo) | 3 | 2026-11-21 | Decoupled editorial publication built with Astro, Tailwind C... |
 | [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-11-21 | A personal blog built with Astro, based on the Fuwari theme ... |
-| [honeok/hlog](https://github.com/honeok/hlog) | 0 | 2026-11-21 | 🐇 about me! |
-| [astronomic-dev/astronomic-ui](https://github.com/astronomic-dev/astronomic-ui) | 0 | 2026-11-21 | Astronomic UI: free, restylable Astro components |
-| [leefanfan1/astro-theme-onpaper](https://github.com/leefanfan1/astro-theme-onpaper) | 2 | 2026-11-21 | 纸上留白 / OnPaper — 中文个人博客的 Astro 主题：把页边当作页面的一部分。/ An Astro the... |
-| [xingwangzhe/stalux](https://github.com/xingwangzhe/stalux) | 42 | 2026-11-21 | Astro 博客主题，支持中文字体子集和 Pagefind 搜索。可从源码运行，也可作为 Astro 集成安装。 |
-| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 0 | 2026-11-21 | Showcase site for my Home Assistant custom integrations and ... |
-| [casoon/astro-structured-data](https://github.com/casoon/astro-structured-data) | 2 | 2026-11-21 | Astro integration for automatic JSON-LD structured data gene... |
-| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-11-21 | Track Core Web Vitals & accessibility issues in your Astro s... |
-| [casoon/astro-speed-measure](https://github.com/casoon/astro-speed-measure) | 3 | 2026-11-21 | Measure Astro build performance with integration and Vite ti... |
-| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 6 | 2026-11-21 | Astro integration that generates robots.txt, llms.txt, sitem... |
-| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-21 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
-| [casoon/pages-theme](https://github.com/casoon/pages-theme) | 0 | 2026-11-21 | Shared Astro theme for the GitHub Pages sites of CASOON open... |
-| [invmy/astro-Guava](https://github.com/invmy/astro-Guava) | 0 | 2026-11-21 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T00:34 | 4 | 1056 | 1641 |
 | 2026-11-21T18:13 | 5 | 1054 | 1638 |
 | 2026-11-21T12:16 | 5 | 1057 | 1635 |
 | 2026-11-21T06:18 | 0 | 1062 | 1631 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-20T06:20 | 1 | 1059 | 1626 |
 | 2026-11-20T00:30 | 3 | 1057 | 1625 |
 | 2026-11-19T18:14 | 5 | 1054 | 1622 |
-| 2026-11-19T12:18 | 1 | 1056 | 1617 |
 
 ---
 

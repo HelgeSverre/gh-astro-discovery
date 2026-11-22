@@ -2628,7 +2628,7 @@
     "license": "MIT",
     "created_at": "2023-06-08T03:40:53Z",
     "updated_at": "2026-11-12T07:22:02Z",
-    "pushed_at": "2026-11-20T22:34:45Z",
+    "pushed_at": "2026-11-21T21:46:31Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "roedwin-afk/astro-blog-kit": {
@@ -5165,7 +5165,7 @@
     "name": "netlify-templates/astro-platform-starter",
     "url": "https://github.com/netlify-templates/astro-platform-starter",
     "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
-    "stars": 158,
+    "stars": 159,
     "forks": 529,
     "topics": [
       "astro-template",
@@ -5178,7 +5178,7 @@
     "language": "Astro",
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
-    "updated_at": "2026-11-09T05:13:17Z",
+    "updated_at": "2026-11-21T22:00:46Z",
     "pushed_at": "2026-11-17T02:00:16Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6934,7 +6934,7 @@
     "name": "BryanHogan/astro-starter-template",
     "url": "https://github.com/BryanHogan/astro-starter-template",
     "description": "A modern, clean and bloat-free Astro starter template. Accessible, SEO optimised and fast.",
-    "stars": 31,
+    "stars": 32,
     "forks": 1,
     "topics": [
       "astro",
@@ -6954,8 +6954,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-01-16T21:20:46Z",
-    "updated_at": "2026-11-05T07:50:10Z",
-    "pushed_at": "2026-11-20T21:05:29Z",
+    "updated_at": "2026-11-21T20:02:38Z",
+    "pushed_at": "2026-11-22T00:03:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "izmttk/astro-mecure": {
@@ -7280,27 +7280,6 @@
     "created_at": "2024-06-22T06:18:15Z",
     "updated_at": "2025-09-13T15:02:55Z",
     "pushed_at": "2024-06-22T06:23:22Z",
-    "discovered_at": "2026-05-18T10:54:54.925Z"
-  },
-  "fabiola29298/ethboliviawebsite": {
-    "name": "fabiola29298/ethBoliviaWebsite",
-    "url": "https://github.com/fabiola29298/ethBoliviaWebsite",
-    "description": "Ethereum Bolivia Website ",
-    "stars": 3,
-    "forks": 0,
-    "topics": [
-      "astro",
-      "astro-theme",
-      "astrojs",
-      "astrowind",
-      "javascript",
-      "tailwind"
-    ],
-    "language": "JavaScript",
-    "license": "MIT",
-    "created_at": "2023-10-19T00:56:24Z",
-    "updated_at": "2024-04-22T21:48:21Z",
-    "pushed_at": "2024-04-22T21:48:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "unfolding-io/nebulix": {
@@ -11250,7 +11229,7 @@
     "license": "MIT",
     "created_at": "2024-03-02T08:54:31Z",
     "updated_at": "2026-11-20T08:38:11Z",
-    "pushed_at": "2026-11-17T05:08:07Z",
+    "pushed_at": "2026-11-21T21:54:30Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "ezzty/krya-en": {
@@ -11316,7 +11295,7 @@
     "license": "MIT",
     "created_at": "2026-06-14T00:44:28Z",
     "updated_at": "2026-10-30T19:17:38Z",
-    "pushed_at": "2026-11-21T00:24:11Z",
+    "pushed_at": "2026-11-21T18:41:51Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "michaelfarquhar/astro-linksplash": {
@@ -11631,7 +11610,7 @@
     "license": "MIT",
     "created_at": "2024-09-12T14:29:34Z",
     "updated_at": "2026-10-11T17:02:12Z",
-    "pushed_at": "2026-11-21T09:30:21Z",
+    "pushed_at": "2026-11-21T21:19:03Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "leilei332/blog2": {
@@ -11839,7 +11818,7 @@
     "name": "martinmilani/rEFInd-theme-collection",
     "url": "https://github.com/martinmilani/rEFInd-theme-collection",
     "description": "A small collection of refind themes from github's that allow you to effortlessly chose your favorite and style your linux boot manager.",
-    "stars": 198,
+    "stars": 199,
     "forks": 9,
     "topics": [
       "astro",
@@ -11852,7 +11831,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2024-03-18T16:55:51Z",
-    "updated_at": "2026-11-18T15:51:41Z",
+    "updated_at": "2026-11-21T18:38:34Z",
     "pushed_at": "2026-11-17T00:09:34Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
@@ -18578,7 +18557,7 @@
     "license": "MIT",
     "created_at": "2026-05-30T16:26:28Z",
     "updated_at": "2026-11-11T23:28:00Z",
-    "pushed_at": "2026-11-20T22:29:36Z",
+    "pushed_at": "2026-11-21T21:26:29Z",
     "discovered_at": "2026-08-12T12:24:34.892Z"
   },
   "markopalski/markoastro": {
@@ -19771,7 +19750,7 @@
     "license": "MIT",
     "created_at": "2026-08-22T07:29:51Z",
     "updated_at": "2026-11-03T21:31:10Z",
-    "pushed_at": "2026-11-17T15:06:43Z",
+    "pushed_at": "2026-11-22T00:07:03Z",
     "discovered_at": "2026-08-22T18:08:28.955Z"
   },
   "ventusff/astro-inkstone": {
@@ -19806,7 +19785,7 @@
     "license": "MIT",
     "created_at": "2026-08-22T09:43:51Z",
     "updated_at": "2026-11-16T18:27:07Z",
-    "pushed_at": "2026-11-16T18:19:34Z",
+    "pushed_at": "2026-11-21T20:06:00Z",
     "discovered_at": "2026-08-22T18:08:28.956Z"
   },
   "chunyiw8080/astro-honey-theme": {
@@ -25815,7 +25794,7 @@
     "name": "Androlax2/pageturn",
     "url": "https://github.com/Androlax2/pageturn",
     "description": "Page transitions between real page loads, in every browser: CSS-named moves, a picture that morphs into the next page, returns on Back. No router.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "animation",
@@ -25834,7 +25813,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-10-14T14:37:02Z",
-    "updated_at": "2026-11-21T10:41:06Z",
+    "updated_at": "2026-11-21T22:04:14Z",
     "pushed_at": "2026-11-12T11:46:28Z",
     "discovered_at": "2026-10-15T12:28:44.188Z"
   },
@@ -26385,7 +26364,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
     "updated_at": "2026-11-11T02:22:43Z",
-    "pushed_at": "2026-11-21T12:56:05Z",
+    "pushed_at": "2026-11-21T20:45:57Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -29182,7 +29161,7 @@
     "license": "MIT",
     "created_at": "2026-02-17T11:12:44Z",
     "updated_at": "2026-11-21T17:39:46Z",
-    "pushed_at": "2026-11-21T17:34:00Z",
+    "pushed_at": "2026-11-21T20:16:27Z",
     "discovered_at": "2026-11-07T06:18:04.577Z"
   },
   "xinglan233/xinglan233.github.io": {
@@ -31101,7 +31080,7 @@
     "license": null,
     "created_at": "2026-11-16T12:56:50Z",
     "updated_at": "2026-11-17T19:58:25Z",
-    "pushed_at": "2026-11-21T16:23:23Z",
+    "pushed_at": "2026-11-21T22:02:46Z",
     "discovered_at": "2026-11-17T00:32:50.851Z"
   },
   "sandikodev/sandikodev.github.io": {
@@ -31517,7 +31496,7 @@
     "license": "MIT",
     "created_at": "2026-11-20T17:06:36Z",
     "updated_at": "2026-11-20T17:07:04Z",
-    "pushed_at": "2026-11-21T17:31:37Z",
+    "pushed_at": "2026-11-21T18:46:39Z",
     "discovered_at": "2026-11-20T18:14:53.042Z"
   },
   "astronomic-dev/astronomic-ui": {
@@ -31857,5 +31836,98 @@
     "updated_at": "2026-11-21T12:44:35Z",
     "pushed_at": "2026-11-21T12:42:02Z",
     "discovered_at": "2026-11-21T18:13:31.279Z"
+  },
+  "avdebcom/astro-avdeb": {
+    "name": "Avdebcom/astro-avdeb",
+    "url": "https://github.com/Avdebcom/astro-avdeb",
+    "description": "Astro components for AVDEB products: grid, carousel, list and spotlight embeds with your affiliate referral link",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "affiliate",
+      "astro",
+      "astro-component",
+      "astro-integration",
+      "avdeb",
+      "ecommerce",
+      "withastro"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-21T19:41:37Z",
+    "updated_at": "2026-11-21T19:43:18Z",
+    "pushed_at": "2026-11-21T22:42:31Z",
+    "discovered_at": "2026-11-22T00:34:33.317Z"
+  },
+  "velocity-astro/velocity-cms": {
+    "name": "Velocity-Astro/velocity-cms",
+    "url": "https://github.com/Velocity-Astro/velocity-cms",
+    "description": "Open-source CMS for Astro, from the Velocity Astro starter kit. Visual page builder, content types, forms, CRM and plugins at /admin. Content lives in SQLite, and edits go live in about a second with no rebuild.",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "astro",
+      "astro-integration",
+      "astrojs",
+      "cms",
+      "crm",
+      "form-builder",
+      "headless-cms",
+      "libsql",
+      "open-source-cms",
+      "page-builder",
+      "self-hosted",
+      "sqlite",
+      "typescript",
+      "velocity",
+      "visual-editor"
+    ],
+    "language": "TypeScript",
+    "license": "MIT",
+    "created_at": "2026-11-17T19:17:47Z",
+    "updated_at": "2026-11-21T21:33:07Z",
+    "pushed_at": "2026-11-21T23:53:31Z",
+    "discovered_at": "2026-11-22T00:34:33.317Z"
+  },
+  "iclew/lone": {
+    "name": "iClew/lone",
+    "url": "https://github.com/iClew/lone",
+    "description": "An Astro blog theme. Mincho titles, gothic body, white paper.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-theme",
+      "blog",
+      "blog-theme"
+    ],
+    "language": "CSS",
+    "license": "MIT",
+    "created_at": "2026-10-11T13:11:40Z",
+    "updated_at": "2026-11-06T04:47:28Z",
+    "pushed_at": "2026-11-21T23:04:32Z",
+    "discovered_at": "2026-11-22T00:34:33.318Z"
+  },
+  "southwellmedia/velocity": {
+    "name": "southwellmedia/velocity",
+    "url": "https://github.com/southwellmedia/velocity",
+    "description": "Velocity — open-source Astro 7 starter kit with AI agent support. 70 components, Tailwind v4, i18n, strict CSP.",
+    "stars": 112,
+    "forks": 30,
+    "topics": [
+      "astro",
+      "astro-starter",
+      "astro-starter-kit",
+      "astro-template",
+      "astro-theme",
+      "starter-kit",
+      "tailwindcss"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-01-30T01:49:17Z",
+    "updated_at": "2026-11-21T21:16:39Z",
+    "pushed_at": "2026-11-17T07:14:37Z",
+    "discovered_at": "2026-11-22T00:34:33.318Z"
   }
 }
