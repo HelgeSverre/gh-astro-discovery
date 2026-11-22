@@ -2,13 +2,14 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1641
-**Last updated:** 2026-11-22T00:34:33.329Z
+**Total packages tracked:** 1642
+**Last updated:** 2026-11-22T06:19:21.078Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fabiola29298/ethBoliviaWebsite](https://github.com/fabiola29298/ethBoliviaWebsite) | 3 | Ethereum Bolivia Website  |
 | [iClew/lone](https://github.com/iClew/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
 | [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 112 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
 | [Avdebcom/astro-avdeb](https://github.com/Avdebcom/astro-avdeb) | 1 | Astro components for AVDEB products: grid, carousel, list and spotlight embeds w... |
@@ -28,7 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | A reels-style feed of short pieces for Astro: one per screen, a page each, zero ... |
 | [astronomic-dev/astronomic-ui](https://github.com/astronomic-dev/astronomic-ui) | 0 | Astronomic UI: free, restylable Astro components |
 | [astronomic-dev/search](https://github.com/astronomic-dev/search) | 0 | Astronomic Search: typo-tolerant site search in a dialog for Astro |
-| [hakuei0115/Luchi-Astro-Theme](https://github.com/hakuei0115/Luchi-Astro-Theme) | 0 | A gentle, starlit technical library theme built with Astro. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-22 | Open-source CMS for Astro, from the Velocity Astro starter k... |
+| [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks) | 0 | 2026-11-22 | Themeable, zero-JS Astro block components for rendering Tipt... |
+| [smallbench-labs/astro-extension-kit-lite](https://github.com/smallbench-labs/astro-extension-kit-lite) | 0 | 2026-11-22 | Free MIT one-page Astro 7 + Tailwind 4 landing site starter ... |
+| [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | 2026-11-22 | A Spencer Family Original Series. A countdown to the next Hi... |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-22 | Inline 🦔 |
+| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 112 | 2026-11-22 | Velocity — open-source Astro 7 starter kit with AI agent sup... |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-22 | Format 🗻 |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-22 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [collection-of-things/astro-dither](https://github.com/collection-of-things/astro-dither) | 0 | 2026-11-22 | Dither for Astro, based on Leo's dithercn. Animated dither b... |
+| [bansalankit92/personalsite](https://github.com/bansalankit92/personalsite) | 1 | 2026-11-22 | My terminal-themed developer portfolio, built with Astro and... |
+| [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro) | 62 | 2026-11-22 | Astro Starter Pro: A free, production-ready Astro starter fo... |
+| [web-stacked/caretcms](https://github.com/web-stacked/caretcms) | 9 | 2026-11-22 | Visual editor for Astro sites. CaretCMS adds click-to-edit t... |
+| [sisques-labs/sisques-labs-landing](https://github.com/sisques-labs/sisques-labs-landing) | 0 | 2026-11-22 | Landing page for Sisques Labs, a digital product studio. Bui... |
+| [chivehao/myfirefly](https://github.com/chivehao/myfirefly) | 2 | 2026-11-22 | My astro static blog use theme Firefly. |
+| [Saikomantisu/sednacms](https://github.com/Saikomantisu/sednacms) | 0 | 2026-11-22 | An open-source CMS for Astro. Define fields in TypeScript, e... |
+| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 208 | 2026-11-22 | Crisp, minimalistic personal blog theme built with Astro.js ... |
 | [ventusff/astro-inkbrush](https://github.com/ventusff/astro-inkbrush) | 2 | 2026-11-22 | A tiny git-backed CMS for Astro — edit your static site in p... |
-| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 32 | 2026-11-22 | A modern, clean and bloat-free Astro starter template. Acces... |
-| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-21 | Open-source CMS for Astro, from the Velocity Astro starter k... |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-22 | The i18n integration for Astro 🧑‍🚀 |
+| [BryanHogan/astro-starter-template](https://github.com/BryanHogan/astro-starter-template) | 33 | 2026-11-22 | A modern, clean and bloat-free Astro starter template. Acces... |
 | [iClew/lone](https://github.com/iClew/lone) | 0 | 2026-11-21 | An Astro blog theme. Mincho titles, gothic body, white paper... |
-| [Avdebcom/astro-avdeb](https://github.com/Avdebcom/astro-avdeb) | 1 | 2026-11-21 | Astro components for AVDEB products: grid, carousel, list an... |
-| [velezanthony/design](https://github.com/velezanthony/design) | 0 | 2026-11-21 |  Sistema de diseño e integración de Astro para la documentac... |
-| [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) | 208 | 2026-11-21 | Crisp, minimalistic personal blog theme built with Astro.js ... |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-21 | The i18n integration for Astro 🧑‍🚀 |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-21 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-21 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-21 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [web-stacked/caretcms](https://github.com/web-stacked/caretcms) | 9 | 2026-11-21 | Visual editor for Astro sites. CaretCMS adds click-to-edit t... |
-| [ventusff/astro-inkstone](https://github.com/ventusff/astro-inkstone) | 5 | 2026-11-21 | The Astro wiki you can write in — paper-and-ink typography f... |
-| [astronomic-dev/search](https://github.com/astronomic-dev/search) | 0 | 2026-11-21 | Astronomic Search: typo-tolerant site search in a dialog for... |
-| [AntonyLeons/casper](https://github.com/AntonyLeons/casper) | 12 | 2026-11-21 | Casper theme for Astro with Algolia Search and Decap CMS, fu... |
-| [JunkuiZhang/astro-theme-mist](https://github.com/JunkuiZhang/astro-theme-mist) | 0 | 2026-11-21 |  |
-| [WaveformPlayer/astro](https://github.com/WaveformPlayer/astro) | 0 | 2026-11-21 | Astro components for WaveformPlayer — player, bar, playlist ... |
-| [altner/astro-justified-gallery-layout](https://github.com/altner/astro-justified-gallery-layout) | 0 | 2026-11-21 | Justified (Flickr-style) photo gallery for Astro with EXIF/I... |
-| [rkxbeta/headless-wordpress-astro-demo](https://github.com/rkxbeta/headless-wordpress-astro-demo) | 3 | 2026-11-21 | Decoupled editorial publication built with Astro, Tailwind C... |
-| [yx-l147/yujok-s-blog](https://github.com/yx-l147/yujok-s-blog) | 0 | 2026-11-21 | A personal blog built with Astro, based on the Fuwari theme ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T06:19 | 1 | 1059 | 1642 |
 | 2026-11-22T00:34 | 4 | 1056 | 1641 |
 | 2026-11-21T18:13 | 5 | 1054 | 1638 |
 | 2026-11-21T12:16 | 5 | 1057 | 1635 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-20T12:18 | 1 | 1058 | 1627 |
 | 2026-11-20T06:20 | 1 | 1059 | 1626 |
 | 2026-11-20T00:30 | 3 | 1057 | 1625 |
-| 2026-11-19T18:14 | 5 | 1054 | 1622 |
 
 ---
 
