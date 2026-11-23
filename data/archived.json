@@ -1096,5 +1096,33 @@
     "discovered_at": "2026-05-18T10:54:54.925Z",
     "archived_at": "2026-11-23T12:18:57.276Z",
     "archive_reason": "Stale: not seen in search results and last pushed 884 days ago"
+  },
+  "thomas-zabalo/astro-template": {
+    "name": "Thomas-Zabalo/astro-template",
+    "url": "https://github.com/Thomas-Zabalo/astro-template",
+    "description": "An elegant portfolio template for showcasing projects and skills, designed with modern web technologies and responsive layout.",
+    "stars": 7,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "astrojs",
+      "dark-theme",
+      "javascript",
+      "light-theme",
+      "mdx",
+      "portofolio",
+      "slug",
+      "typescript"
+    ],
+    "language": "MDX",
+    "license": "MIT",
+    "created_at": "2024-07-04T20:43:29Z",
+    "updated_at": "2026-01-01T18:06:51Z",
+    "pushed_at": "2024-07-11T22:17:00Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-11-23T18:14:36.501Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 864 days ago"
   }
 }

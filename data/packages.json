@@ -210,7 +210,7 @@
     "license": "MIT",
     "created_at": "2023-07-25T17:55:52Z",
     "updated_at": "2026-10-17T05:33:11Z",
-    "pushed_at": "2026-11-22T08:59:18Z",
+    "pushed_at": "2026-11-23T18:05:53Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "aziontech/docs": {
@@ -236,7 +236,7 @@
     "license": "MIT",
     "created_at": "2021-06-07T13:16:35Z",
     "updated_at": "2026-11-12T16:23:30Z",
-    "pushed_at": "2026-11-22T21:23:17Z",
+    "pushed_at": "2026-11-23T17:52:30Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "felix-berlin/astro-breadcrumbs": {
@@ -264,7 +264,7 @@
     "license": "GPL-3.0",
     "created_at": "2022-11-25T16:23:18Z",
     "updated_at": "2026-11-14T14:16:15Z",
-    "pushed_at": "2026-11-20T18:11:42Z",
+    "pushed_at": "2026-11-23T14:13:08Z",
     "discovered_at": "2026-05-18T09:58:51.161Z"
   },
   "hideoo/starlight-package-managers": {
@@ -2500,7 +2500,7 @@
     "url": "https://github.com/dodopayments/dualmark",
     "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
     "stars": 127,
-    "forks": 33,
+    "forks": 34,
     "topics": [
       "aeo",
       "ai-bots",
@@ -2692,7 +2692,7 @@
     "license": "MIT",
     "created_at": "2025-05-09T04:03:00Z",
     "updated_at": "2026-11-12T02:16:57Z",
-    "pushed_at": "2026-11-17T16:55:08Z",
+    "pushed_at": "2026-11-23T16:57:41Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "kremalicious/astro-redirect-from": {
@@ -3355,7 +3355,7 @@
     "license": "MIT",
     "created_at": "2022-09-10T12:07:38Z",
     "updated_at": "2026-11-18T00:53:19Z",
-    "pushed_at": "2026-11-20T19:37:49Z",
+    "pushed_at": "2026-11-23T13:55:45Z",
     "discovered_at": "2026-05-18T09:58:51.162Z"
   },
   "pauchiner/astro-command-palette": {
@@ -4224,7 +4224,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T21:23:16Z",
     "updated_at": "2026-10-20T05:25:35Z",
-    "pushed_at": "2026-11-17T06:43:33Z",
+    "pushed_at": "2026-11-23T15:53:18Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "devcer/astro-monetization": {
@@ -5179,7 +5179,7 @@
     "license": null,
     "created_at": "2024-04-02T12:12:23Z",
     "updated_at": "2026-11-21T22:00:46Z",
-    "pushed_at": "2026-11-23T05:59:11Z",
+    "pushed_at": "2026-11-23T14:02:31Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "leonism/astro-batavia": {
@@ -5331,7 +5331,7 @@
     "name": "cxro/astro-whono",
     "url": "https://github.com/cxro/astro-whono",
     "description": "一个极简双栏 Astro 主题，用于个人写作与轻量内容发布。",
-    "stars": 177,
+    "stars": 178,
     "forks": 61,
     "topics": [
       "astro",
@@ -5347,7 +5347,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-01-16T16:51:58Z",
-    "updated_at": "2026-11-17T11:52:28Z",
+    "updated_at": "2026-11-23T13:26:09Z",
     "pushed_at": "2026-11-14T02:53:22Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -5439,7 +5439,7 @@
     "license": "MIT",
     "created_at": "2025-06-05T01:17:33Z",
     "updated_at": "2026-11-22T06:53:35Z",
-    "pushed_at": "2026-11-20T02:20:04Z",
+    "pushed_at": "2026-11-23T13:47:53Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
   "cub3y0nd/assembly.rip": {
@@ -5928,8 +5928,8 @@
     "name": "themefisher/bookworm-light-astro",
     "url": "https://github.com/themefisher/bookworm-light-astro",
     "description": "Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.",
-    "stars": 393,
-    "forks": 132,
+    "stars": 394,
+    "forks": 133,
     "topics": [
       "astro-build",
       "astro-template",
@@ -5948,7 +5948,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2023-02-14T04:43:43Z",
-    "updated_at": "2026-11-20T13:54:45Z",
+    "updated_at": "2026-11-23T14:08:02Z",
     "pushed_at": "2026-06-27T06:45:33Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
@@ -6342,7 +6342,7 @@
     "url": "https://github.com/themefisher/pinwheel-astro",
     "description": "Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS.",
     "stars": 230,
-    "forks": 170,
+    "forks": 172,
     "topics": [
       "astro-starter",
       "astro-theme",
@@ -7211,32 +7211,6 @@
     "pushed_at": "2026-08-06T12:23:30Z",
     "discovered_at": "2026-05-18T10:54:54.925Z"
   },
-  "thomas-zabalo/astro-template": {
-    "name": "Thomas-Zabalo/astro-template",
-    "url": "https://github.com/Thomas-Zabalo/astro-template",
-    "description": "An elegant portfolio template for showcasing projects and skills, designed with modern web technologies and responsive layout.",
-    "stars": 7,
-    "forks": 0,
-    "topics": [
-      "astro",
-      "astro-template",
-      "astro-theme",
-      "astrojs",
-      "dark-theme",
-      "javascript",
-      "light-theme",
-      "mdx",
-      "portofolio",
-      "slug",
-      "typescript"
-    ],
-    "language": "MDX",
-    "license": "MIT",
-    "created_at": "2024-07-04T20:43:29Z",
-    "updated_at": "2026-01-01T18:06:51Z",
-    "pushed_at": "2024-07-11T22:17:00Z",
-    "discovered_at": "2026-05-18T10:54:54.925Z"
-  },
   "unfolding-io/starfunnel": {
     "name": "unfolding-io/StarFunnel",
     "url": "https://github.com/unfolding-io/StarFunnel",
@@ -7865,7 +7839,7 @@
     "license": null,
     "created_at": "2025-04-24T17:35:36Z",
     "updated_at": "2026-11-12T00:01:04Z",
-    "pushed_at": "2026-11-22T10:09:06Z",
+    "pushed_at": "2026-11-23T17:00:22Z",
     "discovered_at": "2026-05-18T10:54:54.926Z"
   },
   "astropy/astropy-integration-testing": {
@@ -9253,7 +9227,7 @@
     "license": null,
     "created_at": "2025-07-18T12:24:32Z",
     "updated_at": "2026-09-08T19:23:39Z",
-    "pushed_at": "2026-11-18T05:25:28Z",
+    "pushed_at": "2026-11-23T13:35:47Z",
     "discovered_at": "2026-06-01T19:47:01.155Z"
   },
   "caret-collective/astro-snapshot": {
@@ -12787,7 +12761,7 @@
     "license": null,
     "created_at": "2026-03-29T20:18:26Z",
     "updated_at": "2026-10-16T13:16:03Z",
-    "pushed_at": "2026-11-20T07:44:46Z",
+    "pushed_at": "2026-11-23T17:15:02Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "mukti-nux/portofolio-astro-theme": {
@@ -13124,7 +13098,7 @@
     "license": "MIT",
     "created_at": "2026-05-22T14:23:25Z",
     "updated_at": "2026-06-07T12:11:59Z",
-    "pushed_at": "2026-06-07T12:11:55Z",
+    "pushed_at": "2026-11-23T17:57:55Z",
     "discovered_at": "2026-07-11T00:48:16.024Z"
   },
   "futseyi/astro-theme-shyne": {
@@ -18971,13 +18945,13 @@
     "name": "willimt/astro-theme-ink",
     "url": "https://github.com/willimt/astro-theme-ink",
     "description": "A warm, paper-feel personal blog theme built with Astro & UnoCSS. Ink on paper - one accent hue, quiet grays, generous whitespace, serif headings. Live demo: https://willimt.github.io/astro-theme-ink/",
-    "stars": 10,
+    "stars": 11,
     "forks": 0,
     "topics": [],
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-08-16T15:56:28Z",
-    "updated_at": "2026-11-22T06:10:24Z",
+    "updated_at": "2026-11-23T15:57:06Z",
     "pushed_at": "2026-11-20T06:23:04Z",
     "discovered_at": "2026-08-16T18:08:18.479Z"
   },
@@ -22235,7 +22209,7 @@
     "license": "MIT",
     "created_at": "2025-11-18T10:27:19Z",
     "updated_at": "2026-11-11T19:12:22Z",
-    "pushed_at": "2026-11-23T11:46:03Z",
+    "pushed_at": "2026-11-23T14:57:39Z",
     "discovered_at": "2026-09-14T04:37:54.156Z"
   },
   "casoon/astro-speed-measure": {
@@ -22494,7 +22468,7 @@
     "license": "MIT",
     "created_at": "2021-11-30T11:55:49Z",
     "updated_at": "2026-11-11T07:23:55Z",
-    "pushed_at": "2026-11-23T06:58:22Z",
+    "pushed_at": "2026-11-23T15:20:21Z",
     "discovered_at": "2026-09-16T11:20:40.617Z"
   },
   "mdnahianrafi/veltro": {
@@ -22534,7 +22508,7 @@
     "license": "MIT",
     "created_at": "2026-06-26T14:55:59Z",
     "updated_at": "2026-10-20T18:29:10Z",
-    "pushed_at": "2026-11-23T08:54:10Z",
+    "pushed_at": "2026-11-23T14:11:21Z",
     "discovered_at": "2026-09-16T21:12:22.556Z"
   },
   "rnt-rez/minrock": {
@@ -22711,7 +22685,7 @@
     "name": "ondelva/astro-theme-masthead",
     "url": "https://github.com/ondelva/astro-theme-masthead",
     "description": "Masthead — a newspaper-style news theme for EmDash (free, MIT)",
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "topics": [
       "astro",
@@ -22725,7 +22699,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-09-19T09:57:20Z",
-    "updated_at": "2026-11-07T07:53:16Z",
+    "updated_at": "2026-11-23T15:15:20Z",
     "pushed_at": "2026-10-29T01:07:47Z",
     "discovered_at": "2026-09-19T10:45:23.137Z"
   },
@@ -23138,7 +23112,7 @@
     "license": "MIT",
     "created_at": "2026-09-24T19:47:21Z",
     "updated_at": "2026-11-12T13:39:59Z",
-    "pushed_at": "2026-11-23T03:23:26Z",
+    "pushed_at": "2026-11-23T17:32:51Z",
     "discovered_at": "2026-09-25T00:51:06.537Z"
   },
   "qingkong143/astro-theme-clean": {
@@ -25527,7 +25501,7 @@
     "license": "MIT",
     "created_at": "2026-06-30T17:19:27Z",
     "updated_at": "2026-10-26T16:01:03Z",
-    "pushed_at": "2026-10-26T16:00:57Z",
+    "pushed_at": "2026-11-23T18:02:23Z",
     "discovered_at": "2026-10-13T12:32:14.399Z"
   },
   "qaweem321/dev-portfolio": {
@@ -26345,7 +26319,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-03-09T02:42:25Z",
     "updated_at": "2026-11-11T02:22:43Z",
-    "pushed_at": "2026-11-23T05:58:33Z",
+    "pushed_at": "2026-11-23T17:28:16Z",
     "discovered_at": "2026-10-19T18:24:35.761Z"
   },
   "amozo-es/houses-boutique": {
@@ -26358,7 +26332,7 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2025-11-22T21:35:09Z",
-    "updated_at": "2026-10-19T21:42:54Z",
+    "updated_at": "2026-11-23T12:52:51Z",
     "pushed_at": "2026-10-19T21:42:50Z",
     "discovered_at": "2026-10-20T00:48:43.085Z"
   },
@@ -27937,8 +27911,8 @@
     "language": "Astro",
     "license": "MIT",
     "created_at": "2026-10-30T08:08:15Z",
-    "updated_at": "2026-11-05T12:17:51Z",
-    "pushed_at": "2026-11-05T15:02:10Z",
+    "updated_at": "2026-11-23T16:13:12Z",
+    "pushed_at": "2026-11-23T15:12:52Z",
     "discovered_at": "2026-10-30T12:21:36.789Z"
   },
   "minimaldesign/minimal-gallery": {
@@ -28160,7 +28134,7 @@
     "license": "MIT",
     "created_at": "2026-10-30T21:50:26Z",
     "updated_at": "2026-11-22T21:24:36Z",
-    "pushed_at": "2026-11-23T12:10:39Z",
+    "pushed_at": "2026-11-23T13:31:02Z",
     "discovered_at": "2026-10-31T18:13:19.969Z"
   },
   "martletdesign/astro": {
@@ -28521,7 +28495,7 @@
     "license": "MIT",
     "created_at": "2026-11-02T19:36:58Z",
     "updated_at": "2026-11-11T17:57:25Z",
-    "pushed_at": "2026-11-23T12:06:55Z",
+    "pushed_at": "2026-11-23T14:50:56Z",
     "discovered_at": "2026-11-03T00:31:30.487Z"
   },
   "j-klakus/astro-favicon-kit": {
@@ -29284,7 +29258,7 @@
     "license": "MIT",
     "created_at": "2026-09-09T09:19:59Z",
     "updated_at": "2026-11-10T16:07:38Z",
-    "pushed_at": "2026-11-22T16:05:26Z",
+    "pushed_at": "2026-11-23T16:08:21Z",
     "discovered_at": "2026-11-07T18:13:11.848Z"
   },
   "anatolykoptev/astro-rabbit-kit": {
@@ -30469,7 +30443,7 @@
     "license": "MIT",
     "created_at": "2026-10-14T22:20:24Z",
     "updated_at": "2026-11-17T00:17:08Z",
-    "pushed_at": "2026-11-20T21:12:59Z",
+    "pushed_at": "2026-11-23T15:16:28Z",
     "discovered_at": "2026-11-13T18:13:50.063Z"
   },
   "pirateandfox/pagestack": {
@@ -30499,8 +30473,8 @@
     "name": "esafev/twoism",
     "url": "https://github.com/esafev/twoism",
     "description": "Astro template for a small personal site with notes and dithered pictures",
-    "stars": 1,
-    "forks": 0,
+    "stars": 2,
+    "forks": 1,
     "topics": [
       "astro",
       "astro-template",
@@ -30515,7 +30489,7 @@
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2026-11-13T20:35:31Z",
-    "updated_at": "2026-11-17T19:42:33Z",
+    "updated_at": "2026-11-23T14:29:51Z",
     "pushed_at": "2026-11-14T10:47:46Z",
     "discovered_at": "2026-11-14T00:30:55.875Z"
   },
@@ -30590,7 +30564,7 @@
     "name": "xocothemes/lucenta",
     "url": "https://github.com/xocothemes/lucenta",
     "description": "Lucenta is an Astro theme for design studios, creative agencies and portfolios that want the work to do the talking. ",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "topics": [
       "astro-tailwind",
@@ -30606,7 +30580,7 @@
     "language": "Astro",
     "license": "NOASSERTION",
     "created_at": "2026-11-14T14:44:45Z",
-    "updated_at": "2026-11-22T10:55:33Z",
+    "updated_at": "2026-11-23T14:07:56Z",
     "pushed_at": "2026-11-18T09:36:05Z",
     "discovered_at": "2026-11-14T18:13:11.711Z"
   },
@@ -31298,7 +31272,7 @@
     "license": "MIT",
     "created_at": "2026-11-19T15:46:52Z",
     "updated_at": "2026-11-19T15:47:04Z",
-    "pushed_at": "2026-11-20T13:10:59Z",
+    "pushed_at": "2026-11-23T16:39:27Z",
     "discovered_at": "2026-11-19T18:14:45.991Z"
   },
   "ollijunes/markdown-copies": {
@@ -31403,7 +31377,7 @@
     "license": "MIT",
     "created_at": "2026-11-19T11:53:38Z",
     "updated_at": "2026-11-19T22:18:11Z",
-    "pushed_at": "2026-11-23T11:15:33Z",
+    "pushed_at": "2026-11-23T14:57:39Z",
     "discovered_at": "2026-11-20T00:30:32.824Z"
   },
   "xiaochen004hao/lumen-blog": {
@@ -31874,7 +31848,7 @@
     "license": "MIT",
     "created_at": "2026-11-17T19:17:47Z",
     "updated_at": "2026-11-21T21:33:07Z",
-    "pushed_at": "2026-11-23T05:59:02Z",
+    "pushed_at": "2026-11-23T18:11:36Z",
     "discovered_at": "2026-11-22T00:34:33.317Z"
   },
   "iclew/lone": {
@@ -31972,7 +31946,7 @@
     "license": "GPL-3.0",
     "created_at": "2026-11-22T16:07:23Z",
     "updated_at": "2026-11-23T08:37:52Z",
-    "pushed_at": "2026-11-23T11:49:16Z",
+    "pushed_at": "2026-11-23T15:25:24Z",
     "discovered_at": "2026-11-22T18:13:32.341Z"
   },
   "chrisneff/chrisneff.github.io": {
@@ -32084,7 +32058,7 @@
     "license": null,
     "created_at": "2026-11-20T13:31:01Z",
     "updated_at": "2026-11-23T12:06:24Z",
-    "pushed_at": "2026-11-23T12:03:30Z",
+    "pushed_at": "2026-11-23T12:44:35Z",
     "discovered_at": "2026-11-23T12:18:57.276Z"
   },
   "mainkode-indonesia/mainkode": {
@@ -32104,5 +32078,69 @@
     "updated_at": "2026-11-23T11:27:36Z",
     "pushed_at": "2026-11-23T11:26:46Z",
     "discovered_at": "2026-11-23T12:18:57.276Z"
+  },
+  "trivedi-vatsal/astro-markdown-block": {
+    "name": "trivedi-vatsal/astro-markdown-block",
+    "url": "https://github.com/trivedi-vatsal/astro-markdown-block",
+    "description": "A Markdown block for Astro and React: preview, raw source, word wrap, and copy.",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-component",
+      "copy-to-clipboard",
+      "gfm",
+      "markdown",
+      "mdx",
+      "npm-package",
+      "react",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-10-23T15:36:28Z",
+    "updated_at": "2026-11-23T16:39:45Z",
+    "pushed_at": "2026-11-23T16:41:34Z",
+    "discovered_at": "2026-11-23T18:14:36.500Z"
+  },
+  "trivedi-vatsal/astro-terrazzo": {
+    "name": "trivedi-vatsal/astro-terrazzo",
+    "url": "https://github.com/trivedi-vatsal/astro-terrazzo",
+    "description": "A bento-grid portfolio and blog theme for Astro. No UI framework.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-template",
+      "astro-theme",
+      "bento-grid",
+      "blog",
+      "custom-elements",
+      "mermaid",
+      "portfolio",
+      "static-site",
+      "tailwindcss",
+      "typescript"
+    ],
+    "language": "Astro",
+    "license": "NOASSERTION",
+    "created_at": "2026-11-23T14:11:47Z",
+    "updated_at": "2026-11-23T16:39:00Z",
+    "pushed_at": "2026-11-23T16:39:05Z",
+    "discovered_at": "2026-11-23T18:14:36.500Z"
+  },
+  "freetiersdotcom/nadeystore": {
+    "name": "freetiersdotcom/nadeystore",
+    "url": "https://github.com/freetiersdotcom/nadeystore",
+    "description": "⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2026-05-26T20:30:28Z",
+    "updated_at": "2026-11-23T16:11:57Z",
+    "pushed_at": "2026-11-19T18:20:42Z",
+    "discovered_at": "2026-11-23T18:14:36.500Z"
   }
 }
