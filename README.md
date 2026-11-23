@@ -3,7 +3,7 @@
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
 **Total packages tracked:** 1647
-**Last updated:** 2026-11-23T00:35:10.686Z
+**Last updated:** 2026-11-23T06:29:40.051Z
 
 ## 📦 Recently Discovered
 
@@ -16,7 +16,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | A gentle, starlit technical library theme built with Astro. |
 | [srcery-colors/srcery.sh](https://github.com/srcery-colors/srcery.sh) | 11 | Contains the source for the project website. |
 | [iClew/lone](https://github.com/iClew/lone) | 0 | An Astro blog theme. Mincho titles, gothic body, white paper. |
-| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 113 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
+| [southwellmedia/velocity](https://github.com/southwellmedia/velocity) | 114 | Velocity — open-source Astro 7 starter kit with AI agent support. 70 components,... |
 | [Avdebcom/astro-avdeb](https://github.com/Avdebcom/astro-avdeb) | 1 | Astro components for AVDEB products: grid, carousel, list and spotlight embeds w... |
 | [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | Open-source CMS for Astro, from the Velocity Astro starter kit. Visual page buil... |
 | [themesengine/linus-software-engineer-portfolio-astro-theme](https://github.com/themesengine/linus-software-engineer-portfolio-astro-theme) | 1 | A dark, technical, open source portfolio and landing-page theme by [ThemesEngine... |
@@ -42,7 +42,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [the3ash/astro-chiri](https://github.com/the3ash/astro-chiri) | 323 | Minimal blog theme built with Astro. |
 | [vite-pwa/astro](https://github.com/vite-pwa/astro) | 322 | Zero-config PWA Integration for Astro |
 | [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) | 320 | Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart |
-| [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 316 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
+| [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | 315 | A simple and cute static blog template built with Astro and React.🥟🥟🥟 |
 | [QwikDev/astro](https://github.com/QwikDev/astro) | 288 | Qwik + Astro |
 | [oxygenna-themes/foxi-astro-theme](https://github.com/oxygenna-themes/foxi-astro-theme) | 287 | Foxi is an Astro theme crafted with Tailwind CSS, designed for blazing-fast perf... |
 | [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek) | 286 | A theme for Astro |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [GeauxWeisbeck4/weisgarden](https://github.com/GeauxWeisbeck4/weisgarden) | 0 | 2026-11-23 | Digital garden for Andrew Weisbeck. Props to the `astro-them... |
+| [ImJingLan/astro-theme-byline](https://github.com/ImJingLan/astro-theme-byline) | 0 | 2026-11-23 |  |
+| [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) | 159 | 2026-11-23 | A modern starter based on Astro.js, Tailwind CSS, and Netlif... |
+| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-23 | Open-source CMS for Astro, from the Velocity Astro starter k... |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-23 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [x1ao-yu/blog](https://github.com/x1ao-yu/blog) | 0 | 2026-11-23 | Astro blog theme template. |
+| [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | 2026-11-23 | Inline 🦔 |
+| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-23 | The i18n integration for Astro 🧑‍🚀 |
+| [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | 2026-11-23 | A Spencer Family Original Series. A countdown to the next Hi... |
+| [PlayForm/Format](https://github.com/PlayForm/Format) | 42 | 2026-11-23 | Format 🗻 |
+| [netlify-templates/astro-supabase-starter](https://github.com/netlify-templates/astro-supabase-starter) | 27 | 2026-11-23 | The Astro Supabase starter demonstrates how to integrate Sup... |
+| [crumrine/numeronym-sites](https://github.com/crumrine/numeronym-sites) | 0 | 2026-11-23 | Three AI-themed websites built entirely by Claude Code. p8s.... |
+| [IgnacioBarraza/kobo](https://github.com/IgnacioBarraza/kobo) | 0 | 2026-11-23 | Kobo is my brand new portfolio, created to reflect my identi... |
+| [ecelustka/astro-glyphcut](https://github.com/ecelustka/astro-glyphcut) | 3 | 2026-11-23 | Astro font provider that subsets fonts to the glyphs your si... |
 | [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 2 | 2026-11-23 | Showcase site for my Home Assistant custom integrations and ... |
-| [formtango/astro-blog-template](https://github.com/formtango/astro-blog-template) | 0 | 2026-11-22 | Free Astro blog template with a newsletter signup and a work... |
-| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 1 | 2026-11-22 | Open-source CMS for Astro, from the Velocity Astro starter k... |
-| [TheTrueFerret/portfolio-website](https://github.com/TheTrueFerret/portfolio-website) | 3 | 2026-11-22 | Personal Portfolio/Blog, with a Nice Terminal Theme... Every... |
-| [srcery-colors/srcery.sh](https://github.com/srcery-colors/srcery.sh) | 11 | 2026-11-22 | Contains the source for the project website. |
-| [felix-berlin/astro-matomo](https://github.com/felix-berlin/astro-matomo) | 23 | 2026-11-22 | Matomo integration for Astro |
-| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-22 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
-| [yaeouk-rajab/portfolio](https://github.com/yaeouk-rajab/portfolio) | 0 | 2026-11-22 | Personal developer portfolio: Astro + Tailwind, dark termina... |
-| [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-11-22 | Documentation for Azion's services and features. |
-| [mcxiaochenn/Dusklight](https://github.com/mcxiaochenn/Dusklight) | 6 | 2026-11-22 | 基于 Astro 与 Svelte 的玻璃质感个人博客主题，支持响应式布局、全文搜索、评论、统计与丰富 Markdown... |
-| [jessespencer/hipsterholiday](https://github.com/jessespencer/hipsterholiday) | 0 | 2026-11-22 | A Spencer Family Original Series. A countdown to the next Hi... |
-| [web-stacked/caretcms](https://github.com/web-stacked/caretcms) | 9 | 2026-11-22 | Visual editor for Astro sites. CaretCMS adds click-to-edit t... |
-| [casoon/astro-structured-data](https://github.com/casoon/astro-structured-data) | 2 | 2026-11-22 | Astro integration for automatic JSON-LD structured data gene... |
-| [casoon/astro-webvitals](https://github.com/casoon/astro-webvitals) | 16 | 2026-11-22 | Track Core Web Vitals & accessibility issues in your Astro s... |
-| [casoon/astro-speed-measure](https://github.com/casoon/astro-speed-measure) | 3 | 2026-11-22 | Measure Astro build performance with integration and Vite ti... |
-| [casoon/astro-site-files](https://github.com/casoon/astro-site-files) | 6 | 2026-11-22 | Astro integration that generates robots.txt, llms.txt, sitem... |
-| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-22 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
-| [casoon/pages-theme](https://github.com/casoon/pages-theme) | 0 | 2026-11-22 | Shared Astro theme for the GitHub Pages sites of CASOON open... |
-| [zuandabaransyahputra/astro-geo](https://github.com/zuandabaransyahputra/astro-geo) | 0 | 2026-11-22 | Astro integration for SEO/GEO: generates llms.txt and llms-f... |
+| [sec-ml/nought](https://github.com/sec-ml/nought) | 0 | 2026-11-23 | An Astro starter theme |
+| [LuvGaze/Blog](https://github.com/LuvGaze/Blog) | 1 | 2026-11-23 | ✨ Astro 个人博客 | 暗/亮双主题、双层侧栏(天气·恋爱计时器·音乐·日历·最近更新)、3D 书架、账单仪表盘、... |
+| [julien-deramond/component-anatomy](https://github.com/julien-deramond/component-anatomy) | 27 | 2026-11-23 | Framework-agnostic interactive component anatomy for design ... |
+| [antoniococan/blogcocan](https://github.com/antoniococan/blogcocan) | 0 | 2026-11-23 | Personal blog with Astro blog theme. |
+| [TencentEdgeOne/astro-adapter](https://github.com/TencentEdgeOne/astro-adapter) | 4 | 2026-11-23 | Official Astro adapter for deploying SSR, SSG, and hybrid si... |
+| [TencentEdgeOne/astro-template](https://github.com/TencentEdgeOne/astro-template) | 6 | 2026-11-23 | This is an Astro project demonstrating various Astro feature... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-23T06:29 | 0 | 1063 | 1647 |
 | 2026-11-23T00:35 | 2 | 1061 | 1647 |
 | 2026-11-22T18:13 | 2 | 1059 | 1645 |
 | 2026-11-22T12:15 | 2 | 1059 | 1644 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-21T12:16 | 5 | 1057 | 1635 |
 | 2026-11-21T06:18 | 0 | 1062 | 1631 |
 | 2026-11-21T00:32 | 3 | 1059 | 1631 |
-| 2026-11-20T18:14 | 2 | 1059 | 1629 |
 
 ---
 
