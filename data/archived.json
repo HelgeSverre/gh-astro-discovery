@@ -1075,5 +1075,26 @@
     "discovered_at": "2026-11-22T06:19:21.069Z",
     "archived_at": "2026-11-22T18:13:32.342Z",
     "archive_reason": "Stale: not seen in search results and last pushed 943 days ago"
+  },
+  "jaw52/astro-lofter-blog": {
+    "name": "jaw52/astro-lofter-blog",
+    "url": "https://github.com/jaw52/astro-lofter-blog",
+    "description": "A modern, stylish blog project built with Astro",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "astro",
+      "astro-blog",
+      "astro-theme",
+      "blog"
+    ],
+    "language": "CSS",
+    "license": null,
+    "created_at": "2024-06-22T06:18:15Z",
+    "updated_at": "2025-09-13T15:02:55Z",
+    "pushed_at": "2024-06-22T06:23:22Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-11-23T12:18:57.276Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 884 days ago"
   }
 }
