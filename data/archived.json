@@ -1124,5 +1124,27 @@
     "discovered_at": "2026-05-18T10:54:54.925Z",
     "archived_at": "2026-11-23T18:14:36.501Z",
     "archive_reason": "Stale: not seen in search results and last pushed 864 days ago"
+  },
+  "ak0r/astro-spotlight": {
+    "name": "ak0r/astro-spotlight",
+    "url": "https://github.com/ak0r/astro-spotlight",
+    "description": "",
+    "stars": 6,
+    "forks": 2,
+    "topics": [
+      "astro-template",
+      "astro-theme",
+      "astrojs",
+      "static-site-generator",
+      "tailwindcss"
+    ],
+    "language": "Astro",
+    "license": null,
+    "created_at": "2024-01-22T04:39:45Z",
+    "updated_at": "2026-04-30T06:17:14Z",
+    "pushed_at": "2024-09-03T19:45:05Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-11-24T12:19:19.211Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 811 days ago"
   }
 }
