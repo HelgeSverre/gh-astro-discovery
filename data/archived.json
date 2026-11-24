@@ -1146,5 +1146,55 @@
     "discovered_at": "2026-05-18T10:54:54.925Z",
     "archived_at": "2026-11-24T12:19:19.211Z",
     "archive_reason": "Stale: not seen in search results and last pushed 811 days ago"
+  },
+  "ekmas/minimal": {
+    "name": "ekmas/minimal",
+    "url": "https://github.com/ekmas/minimal",
+    "description": "Minimalistic astro blog theme.",
+    "stars": 45,
+    "forks": 8,
+    "topics": [
+      "astro",
+      "astro-blog",
+      "astro-theme",
+      "blog-theme",
+      "md",
+      "mdx",
+      "tailwind-theme"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2024-01-14T19:36:57Z",
+    "updated_at": "2026-09-25T03:04:37Z",
+    "pushed_at": "2024-10-27T12:20:53Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-11-24T18:14:34.129Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 758 days ago"
+  },
+  "ekmas/stellar": {
+    "name": "ekmas/stellar",
+    "url": "https://github.com/ekmas/stellar",
+    "description": "Modern type-safe documentation theme for Astro.",
+    "stars": 54,
+    "forks": 3,
+    "topics": [
+      "astro",
+      "astro-documentation",
+      "astro-tailwind",
+      "astro-template",
+      "astro-theme",
+      "documentation",
+      "documentation-theme",
+      "mdx",
+      "tailwind"
+    ],
+    "language": "MDX",
+    "license": "MIT",
+    "created_at": "2024-03-01T09:08:58Z",
+    "updated_at": "2026-11-14T23:02:48Z",
+    "pushed_at": "2024-10-27T12:15:19Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-11-24T18:14:34.129Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 758 days ago"
   }
 }
