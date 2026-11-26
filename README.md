@@ -2,17 +2,20 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1666
-**Last updated:** 2026-11-26T06:21:51.547Z
+**Total packages tracked:** 1669
+**Last updated:** 2026-11-26T12:18:44.681Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [HsukqiLee/astro-theme-kylin](https://github.com/HsukqiLee/astro-theme-kylin) | 0 | Kylin blog frontend built with Astro and Directus |
+| [khaalidrafi/kshell](https://github.com/khaalidrafi/kshell) | 0 | A terminal-inspired multilingual website theme based on Astro |
+| [shipthemes/smoketest](https://github.com/shipthemes/smoketest) | 0 | Smoketest — a free Astro 7 + Tailwind 4 landing page that measures demand for a ... |
 | [iamquadcore/astro-quanopy-theme](https://github.com/iamquadcore/astro-quanopy-theme) | 0 | An Astro blog theme |
 | [templaterocket/smoketest](https://github.com/templaterocket/smoketest) | 0 | Smoketest — a free Astro 7 + Tailwind 4 landing page that measures demand for a ... |
 | [Coder-Ivan/astro-theme-paper-notes](https://github.com/Coder-Ivan/astro-theme-paper-notes) | 0 | 山页手记 · 可直接使用的 Astro 博客主题，支持 Markdown、Joplin、全文搜索、私有日记与评论。 |
-| [moonoops/astro-phosphor](https://github.com/moonoops/astro-phosphor) | 13 | A lightweight 100% static 1990s retro pixel OS personal site template built with... |
+| [moonoops/astro-phosphor](https://github.com/moonoops/astro-phosphor) | 16 | A lightweight 100% static 1990s retro pixel OS personal site template built with... |
 | [planetarium1001/astro-versicarium](https://github.com/planetarium1001/astro-versicarium) | 0 |  |
 | [thetekbrain/astro-justified-gallery-layout](https://github.com/thetekbrain/astro-justified-gallery-layout) | 0 | Justified (Flickr-style) photo gallery for Astro with EXIF/IPTC/GPS extraction, ... |
 | [glowing-space/starglow](https://github.com/glowing-space/starglow) | 0 | A minimal, dark-first Astro theme for blogs, notes and projects, with its own pa... |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [Inkstudioagency/Quixotic-Astro-Theme](https://github.com/Inkstudioagency/Quixotic-Astro-Theme) | 0 |  |
 | [Inkstudioagency/Fertiva-Astro-Theme](https://github.com/Inkstudioagency/Fertiva-Astro-Theme) | 0 |  |
 | [jay1803/astro-reading-theme](https://github.com/jay1803/astro-reading-theme) | 0 |  |
-| [sonyadennisubno4-oss/astro-movoa](https://github.com/sonyadennisubno4-oss/astro-movoa) | 0 | Astro integration for Movoa AI video generator with sound |
-| [s8a-uk/astro-loader-asciidoc](https://github.com/s8a-uk/astro-loader-asciidoc) | 0 | AsciiDoc content loader for Astro 7, powered by Asciidoctor.js |
-| [xsynaptic/astro-comments](https://github.com/xsynaptic/astro-comments) | 0 | Static, moderated comments for Astro sites: a submission handler with pluggable ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,7 +50,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [PlayForm/Inline](https://github.com/PlayForm/Inline) | 284 | Inline 🦔 |
 | [Gothsec/dark-minimal](https://github.com/Gothsec/dark-minimal) | 277 | Official Astro theme portfolio template built with React, TypeScript & Tailwind ... |
 | [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | 275 | A flexible and feature-rich Astro theme for developers and creators. |
-| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 240 | A flexible Astro blog theme designed for Obsidian users. |
+| [davidvkimball/astro-modular](https://github.com/davidvkimball/astro-modular) | 241 | A flexible Astro blog theme designed for Obsidian users. |
 | [felix-berlin/astro-breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) | 231 | Well configurable breadcrumb component for Astro.js. Create breadcrumbs complete... |
 | [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) | 230 | Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS. |
 | [michael-andreuzza/microstore](https://github.com/michael-andreuzza/microstore) | 224 | A free and simple theme for Astro where you can embed your Gumroad or lemonsquee... |
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | 2026-11-26 | A gentle, starlit technical library theme built with Astro. |
-| [Coder-Ivan/astro-theme-paper-notes](https://github.com/Coder-Ivan/astro-theme-paper-notes) | 0 | 2026-11-26 | 山页手记 · 可直接使用的 Astro 博客主题，支持 Markdown、Joplin、全文搜索、私有日记与评论。 |
-| [jalcalaroot/jalcalaroot.github.io](https://github.com/jalcalaroot/jalcalaroot.github.io) | 0 | 2026-11-26 | Personal site and blog — Astro, matrix/terminal theme, deplo... |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-11-26 | Modern static blog theme with distinctive anime-style featur... |
-| [Xinglan233/Xinglan233.github.io](https://github.com/Xinglan233/Xinglan233.github.io) | 1 | 2026-11-26 | 使用 Astro Theme Pure 构建的个人博客 |
-| [jlarmstrongiv/astro-i18n-aut](https://github.com/jlarmstrongiv/astro-i18n-aut) | 204 | 2026-11-26 | The i18n integration for Astro 🧑‍🚀 |
-| [r-hashi01/astlide](https://github.com/r-hashi01/astlide) | 8 | 2026-11-26 | Slides that live in your Astro site: write decks in MDX or M... |
-| [roebi/astro-github-api-plugin](https://github.com/roebi/astro-github-api-plugin) | 1 | 2026-11-26 | in Astro - as a plugin - get the github api |
+| [spcaeo/markstage](https://github.com/spcaeo/markstage) | 3 | 2026-11-26 | Edit your Markdown on the real stage. A visual editor for As... |
+| [iamquadcore/astro-quanopy-theme](https://github.com/iamquadcore/astro-quanopy-theme) | 0 | 2026-11-26 | An Astro blog theme |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-26 | Brand new AstroWind Theme for TLT |
 | [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-26 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [dvelasquez/astro-prometheus-integration](https://github.com/dvelasquez/astro-prometheus-integration) | 9 | 2026-11-26 | An Astro Prometheus nodejs middleware integration for Astro |
-| [jlarmstrongiv/mr-world](https://github.com/jlarmstrongiv/mr-world) | 5 | 2026-11-26 | The global variable integration for Astro 🌐 |
-| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 6 | 2026-11-26 | Open-source CMS for Astro, from the Velocity Astro starter k... |
-| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 7 | 2026-11-26 | Live preview for Payload CMS on server-rendered and static f... |
-| [casoon/astro-post-audit](https://github.com/casoon/astro-post-audit) | 2 | 2026-11-26 | Fast post-build auditor for Astro sites: SEO, links, and lig... |
-| [gauravrathore701/Blogging_App](https://github.com/gauravrathore701/Blogging_App) | 0 | 2026-11-26 | A statically generated blog built with Astro and served from... |
-| [kitschpatrol/astro-media-kit](https://github.com/kitschpatrol/astro-media-kit) | 4 | 2026-11-26 | Astro components for images and video. |
-| [astronomic-dev/astronomic-ui](https://github.com/astronomic-dev/astronomic-ui) | 0 | 2026-11-26 | Astronomic UI: free, restylable Astro components |
-| [thetekbrain/astro-justified-gallery-layout](https://github.com/thetekbrain/astro-justified-gallery-layout) | 0 | 2026-11-26 | Justified (Flickr-style) photo gallery for Astro with EXIF/I... |
 | [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-26 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [astronomic-dev/vesper](https://github.com/astronomic-dev/vesper) | 0 | 2026-11-26 | Vesper: a free Astro theme for a personal blog and portfolio |
+| [Sky-Ultra/Firefly](https://github.com/Sky-Ultra/Firefly) | 1 | 2026-11-26 | 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, f... |
+| [jaamd/jaamd](https://github.com/jaamd/jaamd) | 3 | 2026-11-26 | Markdown, refined. JAAMD and JAAD, for Astro. |
+| [arraypress/effects-astro](https://github.com/arraypress/effects-astro) | 1 | 2026-11-26 | WebGL, Canvas and CSS effects for Astro sites: shader backgr... |
+| [preprio/astro-quick-start](https://github.com/preprio/astro-quick-start) | 2 | 2026-11-26 | The Astro Quick Start package covers the basics of connectin... |
+| [HsukqiLee/astro-theme-kylin](https://github.com/HsukqiLee/astro-theme-kylin) | 0 | 2026-11-26 | Kylin blog frontend built with Astro and Directus |
+| [shipthemes/smoketest](https://github.com/shipthemes/smoketest) | 0 | 2026-11-26 | Smoketest — a free Astro 7 + Tailwind 4 landing page that me... |
+| [hakuei0115/Starlit-Library-Theme](https://github.com/hakuei0115/Starlit-Library-Theme) | 0 | 2026-11-26 | A gentle, starlit technical library theme built with Astro. |
+| [r-hashi01/astlide](https://github.com/r-hashi01/astlide) | 8 | 2026-11-26 | Slides that live in your Astro site: write decks in MDX or M... |
+| [entro314-labs/starlight-document-converter](https://github.com/entro314-labs/starlight-document-converter) | 2 | 2026-11-26 | A document converter for Astro Starlight that transforms var... |
+| [FjellOverflow/nordlys](https://github.com/FjellOverflow/nordlys) | 68 | 2026-11-26 | A minimal Astro blog theme |
+| [GrassBlock1/mercury](https://github.com/GrassBlock1/mercury) | 4 | 2026-11-26 | Terminal-like blog theme built from Astro. |
+| [xingcanlee/astro-wisp](https://github.com/xingcanlee/astro-wisp) | 1 | 2026-11-26 | Wisp —— 技术博客主题（Astro 7 + Tailwind 4 + MDX + KaTeX + Pele + E... |
+| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-26 | Universal Analytics Engines Integration |
+| [khaalidrafi/kshell](https://github.com/khaalidrafi/kshell) | 0 | 2026-11-26 | A terminal-inspired multilingual website theme based on Astr... |
+| [Coder-Ivan/astro-theme-paper-notes](https://github.com/Coder-Ivan/astro-theme-paper-notes) | 0 | 2026-11-26 | 山页手记 · 可直接使用的 Astro 博客主题，支持 Markdown、Joplin、全文搜索、私有日记与评论。 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-26T12:18 | 3 | 1066 | 1669 |
 | 2026-11-26T06:21 | 0 | 1069 | 1666 |
 | 2026-11-26T00:31 | 0 | 1069 | 1666 |
 | 2026-11-25T18:14 | 1 | 1066 | 1666 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-24T18:14 | 2 | 1065 | 1664 |
 | 2026-11-24T12:19 | 3 | 1064 | 1664 |
 | 2026-11-24T06:21 | 11 | 1057 | 1662 |
-| 2026-11-24T00:29 | 0 | 1062 | 1651 |
 
 ---
 
