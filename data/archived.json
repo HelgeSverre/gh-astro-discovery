@@ -1304,5 +1304,25 @@
     "discovered_at": "2026-05-18T10:54:54.925Z",
     "archived_at": "2026-11-25T12:19:36.933Z",
     "archive_reason": "Stale: not seen in search results and last pushed 688 days ago"
+  },
+  "l-j-yinph/fuwari": {
+    "name": "L-J-Yinph/fuwari",
+    "url": "https://github.com/L-J-Yinph/fuwari",
+    "description": "✨A static blog template built with Astro.   This is also one of the themes of my blog. I prefer to update my blog here first.",
+    "stars": 5,
+    "forks": 1,
+    "topics": [
+      "astro-theme",
+      "blog",
+      "blog-template"
+    ],
+    "language": "Astro",
+    "license": "MIT",
+    "created_at": "2024-10-06T06:17:00Z",
+    "updated_at": "2026-05-14T10:01:59Z",
+    "pushed_at": "2025-03-23T04:58:30Z",
+    "discovered_at": "2026-05-18T10:54:54.925Z",
+    "archived_at": "2026-11-26T18:15:17.460Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 613 days ago"
   }
 }
