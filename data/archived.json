@@ -805,9 +805,9 @@
     "created_at": "2025-04-28T09:39:58Z",
     "updated_at": "2026-06-13T15:51:31Z",
     "pushed_at": "2025-04-28T09:52:33Z",
-    "discovered_at": "2026-05-18T10:54:54.925Z",
-    "archived_at": "2026-11-12T18:14:57.349Z",
-    "archive_reason": "Stale: not seen in search results and last pushed 563 days ago"
+    "discovered_at": "2026-11-13T00:32:21.437Z",
+    "archived_at": "2026-11-27T18:14:28.466Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 578 days ago"
   },
   "absurditiesmedia/astro-retro": {
     "name": "absurditiesmedia/astro-retro",
