@@ -2,13 +2,16 @@
 
 Auto-discovered Astro integrations, themes, and components from GitHub. Updated every 6 hours.
 
-**Total packages tracked:** 1670
-**Last updated:** 2026-11-26T18:15:17.468Z
+**Total packages tracked:** 1673
+**Last updated:** 2026-11-27T00:32:08.838Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hansmartensdev/Astro-Orbit](https://github.com/hansmartensdev/Astro-Orbit) | 3 | Astro Orbit is free portfolio and blog theme for Astro 7, with a 3D droplet in t... |
+| [gasparoff/permalock](https://github.com/gasparoff/permalock) | 0 | A lockfile for your URLs. Every URL your site ever published keeps working: a pa... |
+| [josuetrindade/astro-stargazer](https://github.com/josuetrindade/astro-stargazer) | 12 | Preview your Astro components in isolation. Zero-config, lightweight visual test... |
 | [shihabiiuc/therapist](https://github.com/shihabiiuc/therapist) | 0 |  A calm, SEO-ready Astro theme for therapists, counselors and coaches. Includes ... |
 | [AelyhL/astro-folio](https://github.com/AelyhL/astro-folio) | 0 | A blog theme built with Astro. |
 | [HsukqiLee/astro-theme-kylin](https://github.com/HsukqiLee/astro-theme-kylin) | 0 | Kylin blog frontend built with Astro and Directus |
@@ -26,9 +29,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | [eskopp/AstroStudium](https://github.com/eskopp/AstroStudium) | 0 | Astro theme for study notes: modules with script, exercise, homework and lab tab... |
 | [WavespaceAgency/halden-astro-theme](https://github.com/WavespaceAgency/halden-astro-theme) | 1 | Free Astro theme for healthcare and AI SaaS websites – 11 pages, smooth animatio... |
 | [Inkstudioagency/Synthora-Astro-Theme](https://github.com/Inkstudioagency/Synthora-Astro-Theme) | 0 |  |
-| [Inkstudioagency/Axiomet-Astro-Theme](https://github.com/Inkstudioagency/Axiomet-Astro-Theme) | 0 |  |
-| [Inkstudioagency/Ironova-Astro-Theme](https://github.com/Inkstudioagency/Ironova-Astro-Theme) | 0 |  |
-| [Inkstudioagency/Quixotic-Astro-Theme](https://github.com/Inkstudioagency/Quixotic-Astro-Theme) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Rahul-aithal/portfolio](https://github.com/Rahul-aithal/portfolio) | 0 | 2026-11-26 | Blueprint-style personal portfolio — Astro + Tailwind with A... |
-| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-26 | Astro integration for a landing page, docs and OpenAPI refer... |
-| [xsynaptic/astro-lab](https://github.com/xsynaptic/astro-lab) | 4 | 2026-11-26 | Astro integrations, Markdown plugins, shared configs, and we... |
-| [spcaeo/markstage](https://github.com/spcaeo/markstage) | 3 | 2026-11-26 | Edit your Markdown on the real stage. A visual editor for As... |
-| [honeok/hlog](https://github.com/honeok/hlog) | 0 | 2026-11-26 | 🐇 about me! |
+| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-27 | Brand new AstroWind Theme for TLT |
+| [hansmartensdev/Astro-Orbit](https://github.com/hansmartensdev/Astro-Orbit) | 3 | 2026-11-27 | Astro Orbit is free portfolio and blog theme for Astro 7, wi... |
+| [antoniococan/blogcocan](https://github.com/antoniococan/blogcocan) | 0 | 2026-11-27 | Personal blog with Astro blog theme. |
+| [MinCiallo/Firefly](https://github.com/MinCiallo/Firefly) | 0 | 2026-11-27 | 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro... |
+| [valentineus/popov.link](https://github.com/valentineus/popov.link) | 1 | 2026-11-27 | A fast and minimalist personal website and blog powered by A... |
+| [relative23/payload-live-preview](https://github.com/relative23/payload-live-preview) | 7 | 2026-11-27 | Live preview for Payload CMS on server-rendered and static f... |
+| [MartinSA04/StudyCompanion](https://github.com/MartinSA04/StudyCompanion) | 0 | 2026-11-27 | Framework for creating study companion webpages. |
+| [danny-englander/agentic-design-kits](https://github.com/danny-englander/agentic-design-kits) | 1 | 2026-11-26 | Design kits your AI agent can implement, for Astro and Tailw... |
 | [mcxiaochenn/astro-theme-anzhiyu](https://github.com/mcxiaochenn/astro-theme-anzhiyu) | 1 | 2026-11-26 | Anzhiyu 博客主题的 Astro 移植版，迁移完成，功能清单与验收口径见 README |
-| [juju35/homeassistant-projects](https://github.com/juju35/homeassistant-projects) | 4 | 2026-11-26 | Showcase site for my Home Assistant custom integrations and ... |
+| [markup-carve/astro-carve](https://github.com/markup-carve/astro-carve) | 0 | 2026-11-26 | Astro integration for the Carve markup language |
+| [gasparoff/permalock](https://github.com/gasparoff/permalock) | 0 | 2026-11-26 | A lockfile for your URLs. Every URL your site ever published... |
+| [AVGVSTVS96/astro-fouc-killer](https://github.com/AVGVSTVS96/astro-fouc-killer) | 1 | 2026-11-26 | Eliminate Dark Mode FOUC (Flash Of Unstyled Content) in Astr... |
+| [cevdetch/favseed](https://github.com/cevdetch/favseed) | 0 | 2026-11-26 | One SVG in, an optimised favicon set out. CLI, Astro integra... |
+| [eskopp/AstroStudium](https://github.com/eskopp/AstroStudium) | 0 | 2026-11-26 | Astro theme for study notes: modules with script, exercise, ... |
+| [MizuchiLabs/lyvo](https://github.com/MizuchiLabs/lyvo) | 1 | 2026-11-26 | Astro integration for a landing page, docs and OpenAPI refer... |
+| [cevdetch/astro-reels-template](https://github.com/cevdetch/astro-reels-template) | 0 | 2026-11-26 | A reels-style feed of short pieces for Astro: one per screen... |
 | [jaamd/jaamd](https://github.com/jaamd/jaamd) | 3 | 2026-11-26 | Markdown, refined. JAAMD and JAAD, for Astro. |
-| [shihabiiuc/therapist](https://github.com/shihabiiuc/therapist) | 0 | 2026-11-26 |  A calm, SEO-ready Astro theme for therapists, counselors an... |
-| [pascal-brand38/astro-swiper](https://github.com/pascal-brand38/astro-swiper) | 32 | 2026-11-26 | Astro component for swiper, dedicated to slider / carousel /... |
+| [cevdetch/astro-minimal-template](https://github.com/cevdetch/astro-minimal-template) | 0 | 2026-11-26 | Minimal Astro starter with strictest TypeScript, typed SEO m... |
 | [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket) | 125 | 2026-11-26 | Lightning-fast Astro 7 starter theme to build anything on: 4... |
-| [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) | 62 | 2026-11-26 | Add a ripple-style theme toggle animation to your Astro proj... |
-| [yjl9903/unplugin-analytics](https://github.com/yjl9903/unplugin-analytics) | 6 | 2026-11-26 | Universal Analytics Engines Integration |
-| [Zuoyan233/BrightMoon](https://github.com/Zuoyan233/BrightMoon) | 1 | 2026-11-26 | Modern static blog theme with distinctive anime-style featur... |
-| [nova1751/astro-butterfly](https://github.com/nova1751/astro-butterfly) | 1 | 2026-11-26 | A Butterfly-style blog theme for Astro — static, fast, acces... |
-| [Sky-Ultra/Firefly](https://github.com/Sky-Ultra/Firefly) | 1 | 2026-11-26 | 流萤，清新美观的 Astro 静态博客主题模板，Material Design 3 风格设计  | Firefly, f... |
-| [AelyhL/astro-folio](https://github.com/AelyhL/astro-folio) | 0 | 2026-11-26 | A blog theme built with Astro. |
-| [Velocity-Astro/velocity-cms](https://github.com/Velocity-Astro/velocity-cms) | 7 | 2026-11-26 | Open-source CMS for Astro, from the Velocity Astro starter k... |
 | [aziontech/docs](https://github.com/aziontech/docs) | 14 | 2026-11-26 | Documentation for Azion's services and features. |
-| [topleague/astrowindseven](https://github.com/topleague/astrowindseven) | 0 | 2026-11-26 | Brand new AstroWind Theme for TLT |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-27T00:32 | 3 | 1068 | 1673 |
 | 2026-11-26T18:15 | 2 | 1067 | 1670 |
 | 2026-11-26T12:18 | 3 | 1066 | 1669 |
 | 2026-11-26T06:21 | 0 | 1069 | 1666 |
@@ -95,7 +96,6 @@ Auto-discovered Astro integrations, themes, and components from GitHub. Updated 
 | 2026-11-25T06:21 | 0 | 1067 | 1665 |
 | 2026-11-25T00:32 | 2 | 1065 | 1665 |
 | 2026-11-24T18:14 | 2 | 1065 | 1664 |
-| 2026-11-24T12:19 | 3 | 1064 | 1664 |
 
 ---
 
